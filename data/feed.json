@@ -1,6 +1,31 @@
 {
   "uploads": [
     {
+      "id": "UP002",
+      "userId": "anon_bb150c21ac84",
+      "creator": {
+        "username": "anon_bb150c21ac84",
+        "name": "Anonim",
+        "avatar": null
+      },
+      "uploadedAt": "2026-10-14T14:37:53.208Z",
+      "totalFiles": 1,
+      "totalSize": 62643,
+      "totalSizeFormatted": "61 KB",
+      "media": [
+        {
+          "id": "M001",
+          "filename": "sticker_siesta_1_.jpeg",
+          "url": "https://raw.githubusercontent.com/whahuwnshw-dotcom/media/main/data/media/anon_bb150c21ac84/UP002/sticker_siesta_1_.jpeg",
+          "path": "data/media/anon_bb150c21ac84/UP002/sticker_siesta_1_.jpeg",
+          "size": 62643,
+          "sizeFormatted": "61 KB",
+          "mimeType": "image/jpeg",
+          "type": "image"
+        }
+      ]
+    },
+    {
       "id": "UP001",
       "userId": "anon_bb150c21ac84",
       "creator": {
@@ -26,5 +51,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-14T14:35:55.004Z"
+  "updatedAt": "2026-10-14T14:37:53.840Z"
 }
