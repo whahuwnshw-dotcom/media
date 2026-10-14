@@ -15,6 +15,12 @@
   "recent": [],
   "activityLog": [
     {
+      "id": "act_mv8cgnogg9a93",
+      "action": "comment",
+      "detail": "Apa kabar bang?",
+      "at": "2026-10-14T16:48:44.512Z"
+    },
+    {
       "id": "act_mv8cghqcyw71m",
       "action": "comment",
       "detail": "P",
@@ -52,6 +58,6 @@
     }
   ],
   "createdAt": "2026-10-14T14:23:17.106Z",
-  "updatedAt": "2026-10-14T16:48:38.306Z",
+  "updatedAt": "2026-10-14T16:48:46.766Z",
   "rulesAccepted": false
 }
