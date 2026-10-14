@@ -9,6 +9,12 @@
   "liked": [],
   "activityLog": [
     {
+      "id": "act_mv8g9u1drx3wd",
+      "action": "upload",
+      "detail": "1 file (372 KB)",
+      "at": "2026-10-14T18:35:24.625Z"
+    },
+    {
       "id": "act_mv8g9d3kfi2n0",
       "action": "delete_post",
       "detail": "UP002",
@@ -65,5 +71,5 @@
   ],
   "rulesAccepted": false,
   "createdAt": "2026-10-14T16:36:25.649Z",
-  "updatedAt": "2026-10-14T18:35:04.179Z"
+  "updatedAt": "2026-10-14T18:35:26.126Z"
 }
