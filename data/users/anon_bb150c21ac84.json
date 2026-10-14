@@ -9,6 +9,12 @@
   "liked": [],
   "activityLog": [
     {
+      "id": "act_mv8di5b43cjkd",
+      "action": "comment",
+      "detail": "Maksih bang",
+      "at": "2026-10-14T17:17:53.632Z"
+    },
+    {
       "id": "act_mv8dhrjvk9f8o",
       "action": "profile_update",
       "detail": "Profil diperbarui",
@@ -41,5 +47,5 @@
   ],
   "rulesAccepted": false,
   "createdAt": "2026-10-14T16:36:25.649Z",
-  "updatedAt": "2026-10-14T17:17:37.305Z"
+  "updatedAt": "2026-10-14T17:17:55.133Z"
 }
