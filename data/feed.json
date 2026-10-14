@@ -1,6 +1,41 @@
 {
   "uploads": [
     {
+      "id": "UP003",
+      "userId": "anon_bb150c21ac84",
+      "creator": {
+        "username": "anon_bb150c21ac84",
+        "name": "Anonim",
+        "avatar": null
+      },
+      "uploadedAt": "2026-10-14T15:29:15.367Z",
+      "totalFiles": 2,
+      "totalSize": 136910,
+      "totalSizeFormatted": "134 KB",
+      "media": [
+        {
+          "id": "M001",
+          "filename": "0afcf468-fedc-438b-9f7c-9ffa8e5b391d.jpeg",
+          "url": "https://raw.githubusercontent.com/whahuwnshw-dotcom/media/main/data/media/anon_bb150c21ac84/UP003/0afcf468-fedc-438b-9f7c-9ffa8e5b391d.jpeg",
+          "path": "data/media/anon_bb150c21ac84/UP003/0afcf468-fedc-438b-9f7c-9ffa8e5b391d.jpeg",
+          "size": 62421,
+          "sizeFormatted": "61 KB",
+          "mimeType": "image/jpeg",
+          "type": "image"
+        },
+        {
+          "id": "M002",
+          "filename": "Castorice.jpeg",
+          "url": "https://raw.githubusercontent.com/whahuwnshw-dotcom/media/main/data/media/anon_bb150c21ac84/UP003/Castorice.jpeg",
+          "path": "data/media/anon_bb150c21ac84/UP003/Castorice.jpeg",
+          "size": 74489,
+          "sizeFormatted": "73 KB",
+          "mimeType": "image/jpeg",
+          "type": "image"
+        }
+      ]
+    },
+    {
       "id": "UP002",
       "userId": "anon_bb150c21ac84",
       "creator": {
@@ -51,5 +86,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-14T15:28:20.670Z"
+  "updatedAt": "2026-10-14T15:29:17.426Z"
 }
