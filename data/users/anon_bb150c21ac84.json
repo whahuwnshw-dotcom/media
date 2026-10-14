@@ -11,7 +11,14 @@
   "packs": [],
   "liked": [],
   "recent": [],
-  "activityLog": [],
+  "activityLog": [
+    {
+      "id": "act_mv876on76ty",
+      "action": "profile_update",
+      "detail": "Profil diperbarui",
+      "at": "2026-10-14T14:21:01.123Z"
+    }
+  ],
   "createdAt": "2026-10-14T14:20:14.094Z",
-  "updatedAt": "2026-10-14T14:20:57.093Z"
+  "updatedAt": "2026-10-14T14:21:03.124Z"
 }
