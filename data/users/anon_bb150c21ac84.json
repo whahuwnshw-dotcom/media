@@ -8,10 +8,47 @@
     "avatar": null
   },
   "uploads": [],
-  "packs": [],
+  "packs": [
+    {
+      "id": "PK001",
+      "name": "bran ganteng",
+      "desc": "Hai",
+      "author": "Anonim",
+      "owned": true,
+      "createdAt": "2026-10-14T15:00:10.990Z",
+      "items": [
+        {
+          "id": "M001",
+          "filename": "bran.jpg_bran1.jpg-1.jpeg",
+          "url": "https://raw.githubusercontent.com/whahuwnshw-dotcom/media/main/data/media/anon_bb150c21ac84/packs/PK001/bran.jpg_bran1.jpg-1.jpeg",
+          "path": "data/media/anon_bb150c21ac84/packs/PK001/bran.jpg_bran1.jpg-1.jpeg",
+          "size": 93511,
+          "sizeFormatted": "91 KB",
+          "mimeType": "image/jpeg",
+          "type": "image"
+        },
+        {
+          "id": "M002",
+          "filename": "bran.jpg_bran1.jpg-2.jpeg",
+          "url": "https://raw.githubusercontent.com/whahuwnshw-dotcom/media/main/data/media/anon_bb150c21ac84/packs/PK001/bran.jpg_bran1.jpg-2.jpeg",
+          "path": "data/media/anon_bb150c21ac84/packs/PK001/bran.jpg_bran1.jpg-2.jpeg",
+          "size": 85174,
+          "sizeFormatted": "83 KB",
+          "mimeType": "image/jpeg",
+          "type": "image"
+        }
+      ]
+    }
+  ],
   "liked": [],
   "recent": [],
   "activityLog": [
+    {
+      "id": "act_mv88l1tbnad",
+      "action": "pack_create",
+      "detail": "Paket \"bran ganteng\" (2 media)",
+      "at": "2026-10-14T15:00:10.991Z"
+    },
     {
       "id": "act_mv880iz3ecf",
       "action": "upload",
@@ -38,5 +75,5 @@
     }
   ],
   "createdAt": "2026-10-14T14:25:19.584Z",
-  "updatedAt": "2026-10-14T14:44:14.957Z"
+  "updatedAt": "2026-10-14T15:00:12.507Z"
 }
