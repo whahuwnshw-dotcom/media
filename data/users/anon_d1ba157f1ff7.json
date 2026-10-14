@@ -9,9 +9,18 @@
   },
   "uploads": [],
   "packs": [],
-  "liked": [],
+  "liked": [
+    "anon_bb150c21ac84::UP001::M001"
+  ],
   "recent": [],
-  "activityLog": [],
+  "activityLog": [
+    {
+      "id": "act_mv87qohu7bm",
+      "action": "like",
+      "detail": "meme_anime_1_.jpeg",
+      "at": "2026-10-14T14:36:34.050Z"
+    }
+  ],
   "createdAt": "2026-10-14T14:23:17.106Z",
-  "updatedAt": "2026-10-14T14:23:17.106Z"
+  "updatedAt": "2026-10-14T14:36:35.558Z"
 }
