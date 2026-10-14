@@ -1,6 +1,36 @@
 {
   "uploads": [
     {
+      "id": "UP002",
+      "userId": "anon_bb150c21ac84",
+      "creator": {
+        "username": "anon_bb150c21ac84",
+        "name": "Anonim",
+        "avatar": null
+      },
+      "title": "Tes",
+      "description": "Gtw",
+      "tags": [],
+      "uploadedAt": "2026-10-14T17:10:23.440Z",
+      "totalFiles": 1,
+      "totalSize": 381196,
+      "totalSizeFormatted": "372 KB",
+      "views": 0,
+      "media": [
+        {
+          "id": "M001",
+          "filename": "tes.jpg",
+          "url": "/api/media?path=data%2Fmedia%2Fanon_bb150c21ac84%2FUP002%2Ftes.jpg",
+          "path": "data/media/anon_bb150c21ac84/UP002/tes.jpg",
+          "size": 381196,
+          "sizeFormatted": "372 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "98858fbcd9f6f1df7a405407da7705b8cc2ceda0d86dc7ab33abb2bb17f61f74"
+        }
+      ]
+    },
+    {
       "id": "UP001",
       "userId": "anon_bb150c21ac84",
       "creator": {
@@ -31,5 +61,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-14T17:09:05.223Z"
+  "updatedAt": "2026-10-14T17:10:23.894Z"
 }
