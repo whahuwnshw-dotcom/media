@@ -80,7 +80,19 @@
       "avatar": null,
       "text": "P",
       "at": "2026-10-14T17:56:35.538Z"
+    },
+    {
+      "id": "c_mv8fmctrj7toj",
+      "userId": "anon_d1ba157f1ff7",
+      "name": "Anonim",
+      "avatar": null,
+      "text": "Bang",
+      "at": "2026-10-14T18:17:09.231Z",
+      "replyTo": {
+        "commentId": "c_mv8etgj472kl8",
+        "name": "Anonim"
+      }
     }
   ],
-  "updatedAt": "2026-10-14T17:56:35.538Z"
+  "updatedAt": "2026-10-14T18:17:09.231Z"
 }
