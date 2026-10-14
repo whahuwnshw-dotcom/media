@@ -10,6 +10,36 @@
   "uploads": [],
   "packs": [
     {
+      "id": "PK002",
+      "name": "Aki",
+      "desc": "Fufufaa",
+      "author": "Anonim",
+      "owned": true,
+      "createdAt": "2026-10-14T15:34:20.513Z",
+      "items": [
+        {
+          "id": "M001",
+          "filename": "aku.jpg_aku1.jpg-1.jpeg",
+          "url": "https://raw.githubusercontent.com/whahuwnshw-dotcom/media/main/data/media/anon_bb150c21ac84/packs/PK002/aku.jpg_aku1.jpg-1.jpeg",
+          "path": "data/media/anon_bb150c21ac84/packs/PK002/aku.jpg_aku1.jpg-1.jpeg",
+          "size": 93511,
+          "sizeFormatted": "91 KB",
+          "mimeType": "image/jpeg",
+          "type": "image"
+        },
+        {
+          "id": "M002",
+          "filename": "aku.jpg_aku1.jpg-2.jpeg",
+          "url": "https://raw.githubusercontent.com/whahuwnshw-dotcom/media/main/data/media/anon_bb150c21ac84/packs/PK002/aku.jpg_aku1.jpg-2.jpeg",
+          "path": "data/media/anon_bb150c21ac84/packs/PK002/aku.jpg_aku1.jpg-2.jpeg",
+          "size": 85174,
+          "sizeFormatted": "83 KB",
+          "mimeType": "image/jpeg",
+          "type": "image"
+        }
+      ]
+    },
+    {
       "id": "PK001",
       "name": "bran ganteng",
       "desc": "Hai",
@@ -43,6 +73,12 @@
   "liked": [],
   "recent": [],
   "activityLog": [
+    {
+      "id": "act_mv89sz8hy5d",
+      "action": "pack_create",
+      "detail": "Paket \"Aki\" (2 media)",
+      "at": "2026-10-14T15:34:20.513Z"
+    },
     {
       "id": "act_mv89mi7oro3",
       "action": "upload",
@@ -81,5 +117,5 @@
     }
   ],
   "createdAt": "2026-10-14T14:25:19.584Z",
-  "updatedAt": "2026-10-14T15:29:20.017Z"
+  "updatedAt": "2026-10-14T15:34:22.019Z"
 }
