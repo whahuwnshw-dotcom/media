@@ -52,7 +52,19 @@
         "commentId": "c_mv8dyr9w19pxw",
         "name": "Anonim"
       }
+    },
+    {
+      "id": "c_mv8euj8zyjc3j",
+      "userId": "anon_d1ba157f1ff7",
+      "name": "Anonim",
+      "avatar": null,
+      "text": "P",
+      "at": "2026-10-14T17:55:31.187Z",
+      "replyTo": {
+        "commentId": "c_mv8etgj472kl8",
+        "name": "Anonim"
+      }
     }
   ],
-  "updatedAt": "2026-10-14T17:54:41.008Z"
+  "updatedAt": "2026-10-14T17:55:31.187Z"
 }
