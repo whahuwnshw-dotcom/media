@@ -1,1 +1,35 @@
-{ "uploads": [], "updatedAt": null }
+{
+  "uploads": [
+    {
+      "id": "UP001",
+      "userId": "anon_bb150c21ac84",
+      "creator": {
+        "username": "anon_bb150c21ac84",
+        "name": "Anonim",
+        "avatar": null
+      },
+      "title": "",
+      "description": "",
+      "tags": [],
+      "uploadedAt": "2026-10-14T16:34:25.369Z",
+      "totalFiles": 1,
+      "totalSize": 381196,
+      "totalSizeFormatted": "372 KB",
+      "views": 0,
+      "media": [
+        {
+          "id": "M001",
+          "filename": "Screenshot_20261014-224107.jpg",
+          "url": "/api/media/data/media/anon_bb150c21ac84/UP001/Screenshot_20261014-224107.jpg",
+          "path": "data/media/anon_bb150c21ac84/UP001/Screenshot_20261014-224107.jpg",
+          "size": 381196,
+          "sizeFormatted": "372 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "98858fbcd9f6f1df7a405407da7705b8cc2ceda0d86dc7ab33abb2bb17f61f74"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-10-14T16:34:25.826Z"
+}
