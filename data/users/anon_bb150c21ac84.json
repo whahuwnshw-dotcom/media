@@ -7,8 +7,15 @@
   },
   "packs": [],
   "liked": [],
-  "activityLog": [],
-  "rulesAccepted": true,
-  "createdAt": "2026-10-14T16:34:58.946Z",
-  "updatedAt": "2026-10-14T16:35:07.932Z"
+  "activityLog": [
+    {
+      "id": "act_mv8c14ffgkmfz",
+      "action": "upload",
+      "detail": "1 file (83 KB)",
+      "at": "2026-10-14T16:36:39.724Z"
+    }
+  ],
+  "rulesAccepted": false,
+  "createdAt": "2026-10-14T16:36:25.649Z",
+  "updatedAt": "2026-10-14T16:36:41.225Z"
 }
