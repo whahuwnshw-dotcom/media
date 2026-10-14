@@ -44,6 +44,12 @@
   "recent": [],
   "activityLog": [
     {
+      "id": "act_mv88n5ua7z2",
+      "action": "delete_upload",
+      "detail": "1 file dari UP001",
+      "at": "2026-10-14T15:01:49.522Z"
+    },
+    {
       "id": "act_mv88l1tbnad",
       "action": "pack_create",
       "detail": "Paket \"bran ganteng\" (2 media)",
@@ -75,5 +81,5 @@
     }
   ],
   "createdAt": "2026-10-14T14:25:19.584Z",
-  "updatedAt": "2026-10-14T15:00:12.507Z"
+  "updatedAt": "2026-10-14T15:01:51.023Z"
 }
