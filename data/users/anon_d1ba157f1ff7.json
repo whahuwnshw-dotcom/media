@@ -9,7 +9,9 @@
   },
   "uploads": [],
   "packs": [],
-  "liked": [],
+  "liked": [
+    "anon_bb150c21ac84::UP002::M001"
+  ],
   "recent": [],
   "activityLog": [
     {
@@ -62,6 +64,6 @@
     }
   ],
   "createdAt": "2026-10-14T14:23:17.106Z",
-  "updatedAt": "2026-10-14T17:11:17.768Z",
+  "updatedAt": "2026-10-14T17:20:10.348Z",
   "rulesAccepted": true
 }
