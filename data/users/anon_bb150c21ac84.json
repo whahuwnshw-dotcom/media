@@ -11,6 +11,12 @@
   ],
   "activityLog": [
     {
+      "id": "act_mv8hba53o60is",
+      "action": "upload",
+      "detail": "1 file (46 KB)",
+      "at": "2026-10-14T19:04:31.767Z"
+    },
+    {
       "id": "act_mv8gqvfkrin8a",
       "action": "profile_update",
       "detail": "Profil diperbarui",
@@ -103,5 +109,5 @@
   ],
   "rulesAccepted": false,
   "createdAt": "2026-10-14T16:36:25.649Z",
-  "updatedAt": "2026-10-14T18:50:10.771Z"
+  "updatedAt": "2026-10-14T19:04:33.269Z"
 }
