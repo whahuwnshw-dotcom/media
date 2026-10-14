@@ -1,37 +1,4 @@
 {
-  "uploads": [
-    {
-      "id": "UP001",
-      "userId": "anon_bb150c21ac84",
-      "creator": {
-        "username": "anon_bb150c21ac84",
-        "name": "Anonim",
-        "avatar": "/api/media?path=data%2Fmedia%2Fanon_bb150c21ac84%2Favatar.jpg&t=1791998248251"
-      },
-      "title": "Admin selalu benar",
-      "description": "",
-      "tags": [
-        "sticker"
-      ],
-      "uploadedAt": "2026-10-14T18:44:32.520Z",
-      "totalFiles": 1,
-      "totalSize": 93511,
-      "totalSizeFormatted": "91 KB",
-      "views": 5,
-      "media": [
-        {
-          "id": "M001",
-          "filename": "atmin.svg",
-          "url": "/api/media?path=data%2Fmedia%2Fanon_bb150c21ac84%2FUP001%2Fatmin.svg",
-          "path": "data/media/anon_bb150c21ac84/UP001/atmin.svg",
-          "size": 93511,
-          "sizeFormatted": "91 KB",
-          "mimeType": "image/jpeg",
-          "type": "image",
-          "hash": "82ccaaa39326115ea3998dc319d957eadab3ef22cec17fd5d2b624d1bf614812"
-        }
-      ]
-    }
-  ],
-  "updatedAt": "2026-10-14T18:45:45.766Z"
+  "uploads": [],
+  "updatedAt": "2026-10-14T18:45:50.149Z"
 }
