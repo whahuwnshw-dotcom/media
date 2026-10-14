@@ -92,7 +92,19 @@
         "commentId": "c_mv8etgj472kl8",
         "name": "Anonim"
       }
+    },
+    {
+      "id": "c_mv8fmt0z6r6fq",
+      "userId": "anon_d1ba157f1ff7",
+      "name": "Anonim",
+      "avatar": null,
+      "text": "Keren",
+      "at": "2026-10-14T18:17:30.227Z",
+      "replyTo": {
+        "commentId": "c_mv8etgj472kl8",
+        "name": "Anonim"
+      }
     }
   ],
-  "updatedAt": "2026-10-14T18:17:09.231Z"
+  "updatedAt": "2026-10-14T18:17:30.227Z"
 }
