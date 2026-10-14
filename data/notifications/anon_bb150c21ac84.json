@@ -2,17 +2,17 @@
   "userId": "anon_bb150c21ac84",
   "notifications": [
     {
-      "id": "n_mv8eulvz49b4",
-      "type": "comment",
+      "id": "n_mv8eulwld1s2",
+      "type": "reply",
       "from": {
         "userId": "anon_d1ba157f1ff7",
         "name": "Anonim",
         "avatar": null
       },
       "postId": "UP002",
-      "message": "mengomentari post kamu: \"P\"",
+      "message": "membalas komentar kamu: \"P\"",
       "read": false,
-      "at": "2026-10-14T17:55:34.607Z"
+      "at": "2026-10-14T17:55:34.629Z"
     },
     {
       "id": "n_mv8dzi6dj35q",
@@ -28,5 +28,5 @@
       "at": "2026-10-14T17:31:23.461Z"
     }
   ],
-  "updatedAt": "2026-10-14T17:55:34.607Z"
+  "updatedAt": "2026-10-14T17:55:34.629Z"
 }
