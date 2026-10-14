@@ -66,6 +66,14 @@
       }
     },
     {
+      "id": "c_mv8evwwisizot",
+      "userId": "anon_d1ba157f1ff7",
+      "name": "Anonim",
+      "avatar": null,
+      "text": "P",
+      "at": "2026-10-14T17:56:35.538Z"
+    },
+    {
       "id": "c_mv8fmctrj7toj",
       "userId": "anon_d1ba157f1ff7",
       "name": "Anonim",
@@ -88,15 +96,7 @@
         "commentId": "c_mv8etgj472kl8",
         "name": "Anonim"
       }
-    },
-    {
-      "id": "c_mv8g8h9ubuqti",
-      "userId": "anon_bb150c21ac84",
-      "name": "Anonim",
-      "avatar": "/api/media?path=data%2Fmedia%2Fanon_bb150c21ac84%2Favatar.jpg&t=1791998248251",
-      "text": "Tes",
-      "at": "2026-10-14T18:34:21.426Z"
     }
   ],
-  "updatedAt": "2026-10-14T19:06:07.169Z"
+  "updatedAt": "2026-10-14T19:06:08.044Z"
 }
