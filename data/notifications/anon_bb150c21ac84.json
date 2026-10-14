@@ -1,5 +1,18 @@
 {
   "userId": "anon_bb150c21ac84",
-  "notifications": [],
-  "updatedAt": "2026-10-14T17:58:05.747Z"
+  "notifications": [
+    {
+      "id": "n_mv8ey6vqmcwu",
+      "type": "follow",
+      "from": {
+        "userId": "anon_d1ba157f1ff7",
+        "name": "Anonim",
+        "avatar": null
+      },
+      "message": "mulai mengikuti kamu",
+      "read": false,
+      "at": "2026-10-14T17:58:21.782Z"
+    }
+  ],
+  "updatedAt": "2026-10-14T17:58:21.782Z"
 }
