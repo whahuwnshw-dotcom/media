@@ -1,5 +1,14 @@
 {
   "uploadId": "UP001",
-  "comments": [],
-  "updatedAt": "2026-10-14T18:36:09.139Z"
+  "comments": [
+    {
+      "id": "c_mv8gqj6kf6pij",
+      "userId": "anon_bb150c21ac84",
+      "name": "Anonim",
+      "avatar": "/api/media?path=data%2Fmedia%2Fanon_bb150c21ac84%2Favatar.jpg&t=1791998248251",
+      "text": "Aku keren kan kak",
+      "at": "2026-10-14T18:48:23.708Z"
+    }
+  ],
+  "updatedAt": "2026-10-14T18:48:23.708Z"
 }
