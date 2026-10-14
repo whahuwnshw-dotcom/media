@@ -7,7 +7,8 @@
       "name": "Anonim",
       "avatar": null,
       "text": "Mantap bang",
-      "at": "2026-10-14T17:11:14.263Z"
+      "at": "2026-10-14T17:11:14.263Z",
+      "pinned": false
     },
     {
       "id": "c_mv8di3yt0dws9",
@@ -15,8 +16,9 @@
       "name": "Anonim",
       "avatar": "/api/media?path=data%2Fmedia%2Fanon_bb150c21ac84%2Favatar.jpg&t=1791998248251",
       "text": "Maksih bang",
-      "at": "2026-10-14T17:17:51.893Z"
+      "at": "2026-10-14T17:17:51.893Z",
+      "pinned": true
     }
   ],
-  "updatedAt": "2026-10-14T17:17:51.893Z"
+  "updatedAt": "2026-10-14T17:30:30.799Z"
 }
