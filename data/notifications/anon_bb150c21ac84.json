@@ -2,6 +2,18 @@
   "userId": "anon_bb150c21ac84",
   "notifications": [
     {
+      "id": "n_mv8fu3iqe14c",
+      "type": "follow",
+      "from": {
+        "userId": "anon_d1ba157f1ff7",
+        "name": "Anonim",
+        "avatar": null
+      },
+      "message": "mulai mengikuti kamu",
+      "read": false,
+      "at": "2026-10-14T18:23:10.418Z"
+    },
+    {
       "id": "n_mv8fmvv1nwzo",
       "type": "reply",
       "from": {
@@ -40,5 +52,5 @@
       "at": "2026-10-14T17:58:21.782Z"
     }
   ],
-  "updatedAt": "2026-10-14T18:17:33.901Z"
+  "updatedAt": "2026-10-14T18:23:10.418Z"
 }
