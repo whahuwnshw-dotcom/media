@@ -1,55 +1,30 @@
 {
   "uploads": [
     {
-      "id": "UP003",
+      "id": "UP004",
       "userId": "anon_bb150c21ac84",
       "creator": {
         "username": "anon_bb150c21ac84",
         "name": "Anonim",
         "avatar": null
       },
-      "uploadedAt": "2026-10-14T14:40:32.143Z",
+      "uploadedAt": "2026-10-14T14:44:10.253Z",
       "totalFiles": 1,
-      "totalSize": 46592,
-      "totalSizeFormatted": "46 KB",
+      "totalSize": 93511,
+      "totalSizeFormatted": "91 KB",
       "media": [
         {
           "id": "M001",
-          "filename": "Kommy_trickcal_chibi_go.jpeg",
-          "url": "https://raw.githubusercontent.com/whahuwnshw-dotcom/media/main/data/media/anon_bb150c21ac84/UP003/Kommy_trickcal_chibi_go.jpeg",
-          "path": "data/media/anon_bb150c21ac84/UP003/Kommy_trickcal_chibi_go.jpeg",
-          "size": 46592,
-          "sizeFormatted": "46 KB",
-          "mimeType": "image/jpeg",
-          "type": "image"
-        }
-      ]
-    },
-    {
-      "id": "UP002",
-      "userId": "anon_bb150c21ac84",
-      "creator": {
-        "username": "anon_bb150c21ac84",
-        "name": "Anonim",
-        "avatar": null
-      },
-      "uploadedAt": "2026-10-14T14:37:53.208Z",
-      "totalFiles": 1,
-      "totalSize": 62643,
-      "totalSizeFormatted": "61 KB",
-      "media": [
-        {
-          "id": "M001",
-          "filename": "sticker_siesta_1_.jpeg",
-          "url": "https://raw.githubusercontent.com/whahuwnshw-dotcom/media/main/data/media/anon_bb150c21ac84/UP002/sticker_siesta_1_.jpeg",
-          "path": "data/media/anon_bb150c21ac84/UP002/sticker_siesta_1_.jpeg",
-          "size": 62643,
-          "sizeFormatted": "61 KB",
+          "filename": "meme_anime_1_.jpeg",
+          "url": "https://raw.githubusercontent.com/whahuwnshw-dotcom/media/main/data/media/anon_bb150c21ac84/UP004/meme_anime_1_.jpeg",
+          "path": "data/media/anon_bb150c21ac84/UP004/meme_anime_1_.jpeg",
+          "size": 93511,
+          "sizeFormatted": "91 KB",
           "mimeType": "image/jpeg",
           "type": "image"
         }
       ]
     }
   ],
-  "updatedAt": "2026-10-14T15:01:50.188Z"
+  "updatedAt": "2026-10-14T15:01:52.490Z"
 }
