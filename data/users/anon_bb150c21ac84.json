@@ -1,121 +1,21 @@
 {
   "userId": "anon_bb150c21ac84",
-  "username": "anon_bb150c21ac84",
-  "role": "guest",
   "profile": {
     "name": "Anonim",
     "bio": "",
     "avatar": null
   },
-  "uploads": [],
-  "packs": [
-    {
-      "id": "PK002",
-      "name": "Aki",
-      "desc": "Fufufaa",
-      "author": "Anonim",
-      "owned": true,
-      "createdAt": "2026-10-14T15:34:20.513Z",
-      "items": [
-        {
-          "id": "M001",
-          "filename": "aku.jpg_aku1.jpg-1.jpeg",
-          "url": "https://raw.githubusercontent.com/whahuwnshw-dotcom/media/main/data/media/anon_bb150c21ac84/packs/PK002/aku.jpg_aku1.jpg-1.jpeg",
-          "path": "data/media/anon_bb150c21ac84/packs/PK002/aku.jpg_aku1.jpg-1.jpeg",
-          "size": 93511,
-          "sizeFormatted": "91 KB",
-          "mimeType": "image/jpeg",
-          "type": "image"
-        },
-        {
-          "id": "M002",
-          "filename": "aku.jpg_aku1.jpg-2.jpeg",
-          "url": "https://raw.githubusercontent.com/whahuwnshw-dotcom/media/main/data/media/anon_bb150c21ac84/packs/PK002/aku.jpg_aku1.jpg-2.jpeg",
-          "path": "data/media/anon_bb150c21ac84/packs/PK002/aku.jpg_aku1.jpg-2.jpeg",
-          "size": 85174,
-          "sizeFormatted": "83 KB",
-          "mimeType": "image/jpeg",
-          "type": "image"
-        }
-      ]
-    },
-    {
-      "id": "PK001",
-      "name": "bran ganteng",
-      "desc": "Hai",
-      "author": "Anonim",
-      "owned": true,
-      "createdAt": "2026-10-14T15:00:10.990Z",
-      "items": [
-        {
-          "id": "M001",
-          "filename": "bran.jpg_bran1.jpg-1.jpeg",
-          "url": "https://raw.githubusercontent.com/whahuwnshw-dotcom/media/main/data/media/anon_bb150c21ac84/packs/PK001/bran.jpg_bran1.jpg-1.jpeg",
-          "path": "data/media/anon_bb150c21ac84/packs/PK001/bran.jpg_bran1.jpg-1.jpeg",
-          "size": 93511,
-          "sizeFormatted": "91 KB",
-          "mimeType": "image/jpeg",
-          "type": "image"
-        },
-        {
-          "id": "M002",
-          "filename": "bran.jpg_bran1.jpg-2.jpeg",
-          "url": "https://raw.githubusercontent.com/whahuwnshw-dotcom/media/main/data/media/anon_bb150c21ac84/packs/PK001/bran.jpg_bran1.jpg-2.jpeg",
-          "path": "data/media/anon_bb150c21ac84/packs/PK001/bran.jpg_bran1.jpg-2.jpeg",
-          "size": 85174,
-          "sizeFormatted": "83 KB",
-          "mimeType": "image/jpeg",
-          "type": "image"
-        }
-      ]
-    }
-  ],
+  "packs": [],
   "liked": [],
-  "recent": [],
   "activityLog": [
     {
-      "id": "act_mv89sz8hy5d",
-      "action": "pack_create",
-      "detail": "Paket \"Aki\" (2 media)",
-      "at": "2026-10-14T15:34:20.513Z"
-    },
-    {
-      "id": "act_mv89mi7oro3",
+      "id": "act_mv8bybimcaqjl",
       "action": "upload",
-      "detail": "2 file (134 KB)",
-      "at": "2026-10-14T15:29:18.516Z"
-    },
-    {
-      "id": "act_mv88l1tbnad",
-      "action": "pack_create",
-      "detail": "Paket \"bran ganteng\" (2 media)",
-      "at": "2026-10-14T15:00:10.991Z"
-    },
-    {
-      "id": "act_mv880iz3ecf",
-      "action": "upload",
-      "detail": "1 file (91 KB)",
-      "at": "2026-10-14T14:44:13.455Z"
-    },
-    {
-      "id": "act_mv87vumzbum",
-      "action": "upload",
-      "detail": "1 file (46 KB)",
-      "at": "2026-10-14T14:40:35.291Z"
-    },
-    {
-      "id": "act_mv87sg41rvj",
-      "action": "upload",
-      "detail": "1 file (61 KB)",
-      "at": "2026-10-14T14:37:56.497Z"
-    },
-    {
-      "id": "act_mv87pwrel2u",
-      "action": "upload",
-      "detail": "1 file (91 KB)",
-      "at": "2026-10-14T14:35:58.107Z"
+      "detail": "1 file (372 KB)",
+      "at": "2026-10-14T16:34:28.942Z"
     }
   ],
-  "createdAt": "2026-10-14T14:25:19.584Z",
-  "updatedAt": "2026-10-14T15:34:22.019Z"
+  "rulesAccepted": false,
+  "createdAt": "2026-10-14T16:34:04.751Z",
+  "updatedAt": "2026-10-14T16:34:30.443Z"
 }
