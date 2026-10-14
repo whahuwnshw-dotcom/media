@@ -104,7 +104,15 @@
         "commentId": "c_mv8etgj472kl8",
         "name": "Anonim"
       }
+    },
+    {
+      "id": "c_mv8g8h9ubuqti",
+      "userId": "anon_bb150c21ac84",
+      "name": "Anonim",
+      "avatar": "/api/media?path=data%2Fmedia%2Fanon_bb150c21ac84%2Favatar.jpg&t=1791998248251",
+      "text": "Tes",
+      "at": "2026-10-14T18:34:21.426Z"
     }
   ],
-  "updatedAt": "2026-10-14T18:17:30.227Z"
+  "updatedAt": "2026-10-14T18:34:21.426Z"
 }
