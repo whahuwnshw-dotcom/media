@@ -1,1 +1,30 @@
-{ "uploads": [], "updatedAt": "2026-10-14T00:00:00.000Z" }
+{
+  "uploads": [
+    {
+      "id": "UP001",
+      "userId": "anon_bb150c21ac84",
+      "creator": {
+        "username": "anon_bb150c21ac84",
+        "name": "Anonim",
+        "avatar": null
+      },
+      "uploadedAt": "2026-10-14T14:35:54.374Z",
+      "totalFiles": 1,
+      "totalSize": 93511,
+      "totalSizeFormatted": "91 KB",
+      "media": [
+        {
+          "id": "M001",
+          "filename": "meme_anime_1_.jpeg",
+          "url": "https://raw.githubusercontent.com/whahuwnshw-dotcom/media/main/data/media/anon_bb150c21ac84/UP001/meme_anime_1_.jpeg",
+          "path": "data/media/anon_bb150c21ac84/UP001/meme_anime_1_.jpeg",
+          "size": 93511,
+          "sizeFormatted": "91 KB",
+          "mimeType": "image/jpeg",
+          "type": "image"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-10-14T14:35:55.004Z"
+}
