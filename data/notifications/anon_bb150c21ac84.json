@@ -1,5 +1,20 @@
 {
   "userId": "anon_bb150c21ac84",
-  "notifications": [],
-  "updatedAt": "2026-10-14T17:11:50.480Z"
+  "notifications": [
+    {
+      "id": "n_mv8dl2yxej7j",
+      "type": "like",
+      "from": {
+        "userId": "anon_d1ba157f1ff7",
+        "name": "Anonim",
+        "avatar": null
+      },
+      "postId": "UP002",
+      "mediaId": "M001",
+      "message": "menyukai post kamu",
+      "read": false,
+      "at": "2026-10-14T17:20:10.569Z"
+    }
+  ],
+  "updatedAt": "2026-10-14T17:20:10.569Z"
 }
