@@ -6,7 +6,9 @@
     "avatar": "/api/media?path=data%2Fmedia%2Fanon_bb150c21ac84%2Favatar.jpg&t=1791998248251"
   },
   "packs": [],
-  "liked": [],
+  "liked": [
+    "anon_bb150c21ac84::UP001::M001"
+  ],
   "activityLog": [
     {
       "id": "act_mv8gqvfkrin8a",
@@ -101,5 +103,5 @@
   ],
   "rulesAccepted": false,
   "createdAt": "2026-10-14T16:36:25.649Z",
-  "updatedAt": "2026-10-14T18:48:41.085Z"
+  "updatedAt": "2026-10-14T18:50:10.771Z"
 }
