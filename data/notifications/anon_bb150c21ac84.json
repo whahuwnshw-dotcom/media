@@ -1,5 +1,19 @@
 {
   "userId": "anon_bb150c21ac84",
-  "notifications": [],
-  "updatedAt": "2026-10-14T17:30:18.871Z"
+  "notifications": [
+    {
+      "id": "n_mv8dzi6dj35q",
+      "type": "comment",
+      "from": {
+        "userId": "anon_d1ba157f1ff7",
+        "name": "Anonim",
+        "avatar": null
+      },
+      "postId": "UP002",
+      "message": "mengomentari post kamu: \"Ta\"",
+      "read": false,
+      "at": "2026-10-14T17:31:23.461Z"
+    }
+  ],
+  "updatedAt": "2026-10-14T17:31:23.461Z"
 }
