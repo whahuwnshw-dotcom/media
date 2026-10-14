@@ -15,6 +15,12 @@
   "recent": [],
   "activityLog": [
     {
+      "id": "act_mv8cbnoi6v3xw",
+      "action": "delete_post",
+      "detail": "UP001",
+      "at": "2026-10-14T16:44:51.234Z"
+    },
+    {
       "id": "act_mv87tgjmaj8",
       "action": "download",
       "detail": "sticker_siesta_1_.jpeg",
@@ -40,5 +46,6 @@
     }
   ],
   "createdAt": "2026-10-14T14:23:17.106Z",
-  "updatedAt": "2026-10-14T14:38:45.215Z"
+  "updatedAt": "2026-10-14T16:44:52.735Z",
+  "rulesAccepted": false
 }
