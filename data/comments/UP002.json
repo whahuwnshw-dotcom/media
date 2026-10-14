@@ -29,7 +29,8 @@
       "replyTo": {
         "commentId": "c_mv8d9l5j395ts",
         "name": "Anonim"
-      }
+      },
+      "pinned": false
     },
     {
       "id": "c_mv8dzfedxzrzc",
@@ -37,8 +38,9 @@
       "name": "Anonim",
       "avatar": null,
       "text": "Ta",
-      "at": "2026-10-14T17:31:19.861Z"
+      "at": "2026-10-14T17:31:19.861Z",
+      "pinned": true
     }
   ],
-  "updatedAt": "2026-10-14T17:31:19.861Z"
+  "updatedAt": "2026-10-14T17:34:47.995Z"
 }
