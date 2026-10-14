@@ -1,35 +1,4 @@
 {
-  "uploads": [
-    {
-      "id": "UP001",
-      "userId": "anon_bb150c21ac84",
-      "creator": {
-        "username": "anon_bb150c21ac84",
-        "name": "Anonim",
-        "avatar": "/api/media?path=data%2Fmedia%2Fanon_bb150c21ac84%2Favatar.jpg&t=1791998248251"
-      },
-      "title": "",
-      "description": "",
-      "tags": [],
-      "uploadedAt": "2026-10-14T18:35:22.688Z",
-      "totalFiles": 1,
-      "totalSize": 381196,
-      "totalSizeFormatted": "372 KB",
-      "views": 7,
-      "media": [
-        {
-          "id": "M001",
-          "filename": "Screenshot_20261014-224107.jpg",
-          "url": "/api/media?path=data%2Fmedia%2Fanon_bb150c21ac84%2FUP001%2FScreenshot_20261014-224107.jpg",
-          "path": "data/media/anon_bb150c21ac84/UP001/Screenshot_20261014-224107.jpg",
-          "size": 381196,
-          "sizeFormatted": "372 KB",
-          "mimeType": "image/jpeg",
-          "type": "image",
-          "hash": "98858fbcd9f6f1df7a405407da7705b8cc2ceda0d86dc7ab33abb2bb17f61f74"
-        }
-      ]
-    }
-  ],
-  "updatedAt": "2026-10-14T18:42:53.298Z"
+  "uploads": [],
+  "updatedAt": "2026-10-14T18:42:56.496Z"
 }
