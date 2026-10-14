@@ -1,4 +1,35 @@
 {
-  "uploads": [],
-  "updatedAt": "2026-10-14T16:44:48.569Z"
+  "uploads": [
+    {
+      "id": "UP001",
+      "userId": "anon_bb150c21ac84",
+      "creator": {
+        "username": "anon_bb150c21ac84",
+        "name": "Anonim",
+        "avatar": null
+      },
+      "title": "",
+      "description": "",
+      "tags": [],
+      "uploadedAt": "2026-10-14T16:47:25.115Z",
+      "totalFiles": 1,
+      "totalSize": 85174,
+      "totalSizeFormatted": "83 KB",
+      "views": 0,
+      "media": [
+        {
+          "id": "M001",
+          "filename": "3ad21dc6-1f03-46ba-8407-e00f0d9f039b.jpeg",
+          "url": "/api/media/data/media/anon_bb150c21ac84/UP001/3ad21dc6-1f03-46ba-8407-e00f0d9f039b.jpeg",
+          "path": "data/media/anon_bb150c21ac84/UP001/3ad21dc6-1f03-46ba-8407-e00f0d9f039b.jpeg",
+          "size": 85174,
+          "sizeFormatted": "83 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "4af10e37c6427e18168dba49f2fd9c8c2a4fa0bf17acbf2f998c0539d20beab2"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-10-14T16:47:25.543Z"
 }
