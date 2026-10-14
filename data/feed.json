@@ -1,6 +1,36 @@
 {
   "uploads": [
     {
+      "id": "UP002",
+      "userId": "anon_bb150c21ac84",
+      "creator": {
+        "username": "anon_bb150c21ac84",
+        "name": "Anonim",
+        "avatar": "/api/media?path=data%2Fmedia%2Fanon_bb150c21ac84%2Favatar.jpg&t=1791998248251"
+      },
+      "title": "Aku pergi",
+      "description": "Ciao",
+      "tags": [],
+      "uploadedAt": "2026-10-14T19:05:24.134Z",
+      "totalFiles": 1,
+      "totalSize": 54724,
+      "totalSizeFormatted": "53 KB",
+      "views": 0,
+      "media": [
+        {
+          "id": "M001",
+          "filename": "Gtw.jpg",
+          "url": "/api/media?path=data%2Fmedia%2Fanon_bb150c21ac84%2FUP002%2FGtw.jpg",
+          "path": "data/media/anon_bb150c21ac84/UP002/Gtw.jpg",
+          "size": 54724,
+          "sizeFormatted": "53 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "d7542853296c2b17b6b3bf05969234c77f277a85b45ae8fb2cfa30b5dfba522f"
+        }
+      ]
+    },
+    {
       "id": "UP001",
       "userId": "anon_bb150c21ac84",
       "creator": {
@@ -31,5 +61,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-14T19:04:47.621Z"
+  "updatedAt": "2026-10-14T19:05:24.582Z"
 }
