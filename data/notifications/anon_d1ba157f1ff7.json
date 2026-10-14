@@ -1,0 +1,19 @@
+{
+  "userId": "anon_d1ba157f1ff7",
+  "notifications": [
+    {
+      "id": "n_mv8dyube7ddr",
+      "type": "reply",
+      "from": {
+        "userId": "anon_bb150c21ac84",
+        "name": "Anonim",
+        "avatar": "/api/media?path=data%2Fmedia%2Fanon_bb150c21ac84%2Favatar.jpg&t=1791998248251"
+      },
+      "postId": "UP002",
+      "message": "membalas komentar kamu: \"Iya bang\"",
+      "read": false,
+      "at": "2026-10-14T17:30:52.538Z"
+    }
+  ],
+  "updatedAt": "2026-10-14T17:30:52.538Z"
+}
