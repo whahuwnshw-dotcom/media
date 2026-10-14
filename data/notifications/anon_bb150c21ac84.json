@@ -1,0 +1,19 @@
+{
+  "userId": "anon_bb150c21ac84",
+  "notifications": [
+    {
+      "id": "n_mv8d9nxhl3w0",
+      "type": "comment",
+      "from": {
+        "userId": "anon_d1ba157f1ff7",
+        "name": "Anonim",
+        "avatar": null
+      },
+      "postId": "UP002",
+      "message": "mengomentari post kamu: \"Mantap bang\"",
+      "read": false,
+      "at": "2026-10-14T17:11:17.861Z"
+    }
+  ],
+  "updatedAt": "2026-10-14T17:11:17.861Z"
+}
