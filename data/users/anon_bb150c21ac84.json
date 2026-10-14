@@ -9,6 +9,12 @@
   "liked": [],
   "activityLog": [
     {
+      "id": "act_mv8g9d3kfi2n0",
+      "action": "delete_post",
+      "detail": "UP002",
+      "at": "2026-10-14T18:35:02.672Z"
+    },
+    {
       "id": "act_mv8em2wd3peoy",
       "action": "profile_update",
       "detail": "Profil diperbarui",
@@ -59,5 +65,5 @@
   ],
   "rulesAccepted": false,
   "createdAt": "2026-10-14T16:36:25.649Z",
-  "updatedAt": "2026-10-14T17:48:58.253Z"
+  "updatedAt": "2026-10-14T18:35:04.179Z"
 }
