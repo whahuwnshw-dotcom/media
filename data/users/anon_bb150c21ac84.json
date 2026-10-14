@@ -8,51 +8,46 @@
     "avatar": null
   },
   "uploads": [],
-  "packs": [],
+  "packs": [
+    {
+      "id": "PK001",
+      "name": "bran ganteng",
+      "desc": "Hai",
+      "author": "Anonim",
+      "owned": true,
+      "createdAt": "2026-10-14T15:00:10.990Z",
+      "items": [
+        {
+          "id": "M001",
+          "filename": "bran.jpg_bran1.jpg-1.jpeg",
+          "url": "https://raw.githubusercontent.com/whahuwnshw-dotcom/media/main/data/media/anon_bb150c21ac84/packs/PK001/bran.jpg_bran1.jpg-1.jpeg",
+          "path": "data/media/anon_bb150c21ac84/packs/PK001/bran.jpg_bran1.jpg-1.jpeg",
+          "size": 93511,
+          "sizeFormatted": "91 KB",
+          "mimeType": "image/jpeg",
+          "type": "image"
+        },
+        {
+          "id": "M002",
+          "filename": "bran.jpg_bran1.jpg-2.jpeg",
+          "url": "https://raw.githubusercontent.com/whahuwnshw-dotcom/media/main/data/media/anon_bb150c21ac84/packs/PK001/bran.jpg_bran1.jpg-2.jpeg",
+          "path": "data/media/anon_bb150c21ac84/packs/PK001/bran.jpg_bran1.jpg-2.jpeg",
+          "size": 85174,
+          "sizeFormatted": "83 KB",
+          "mimeType": "image/jpeg",
+          "type": "image"
+        }
+      ]
+    }
+  ],
   "liked": [],
   "recent": [],
   "activityLog": [
     {
-      "id": "act_mv89lar977y",
+      "id": "act_mv89mi7oro3",
       "action": "upload",
-      "detail": "1 file (87 KB)",
-      "at": "2026-10-14T15:28:22.197Z"
-    },
-    {
-      "id": "act_mv88olstdr5",
-      "action": "upload",
-      "detail": "1 file (61 KB)",
-      "at": "2026-10-14T15:02:56.861Z"
-    },
-    {
-      "id": "act_mv88nhr3bsf",
-      "action": "delete_upload",
-      "detail": "1 file dari UP004",
-      "at": "2026-10-14T15:02:04.959Z"
-    },
-    {
-      "id": "act_mv88nhm9nqa",
-      "action": "pack_delete",
-      "detail": "bran ganteng",
-      "at": "2026-10-14T15:02:04.785Z"
-    },
-    {
-      "id": "act_mv88n9n5sr6",
-      "action": "delete_upload",
-      "detail": "1 file dari UP004",
-      "at": "2026-10-14T15:01:54.449Z"
-    },
-    {
-      "id": "act_mv88n87nzrv",
-      "action": "delete_upload",
-      "detail": "1 file dari UP002",
-      "at": "2026-10-14T15:01:52.595Z"
-    },
-    {
-      "id": "act_mv88n5ua7z2",
-      "action": "delete_upload",
-      "detail": "1 file dari UP001",
-      "at": "2026-10-14T15:01:49.522Z"
+      "detail": "2 file (134 KB)",
+      "at": "2026-10-14T15:29:18.516Z"
     },
     {
       "id": "act_mv88l1tbnad",
@@ -86,5 +81,5 @@
     }
   ],
   "createdAt": "2026-10-14T14:25:19.584Z",
-  "updatedAt": "2026-10-14T15:28:23.698Z"
+  "updatedAt": "2026-10-14T15:29:20.017Z"
 }
