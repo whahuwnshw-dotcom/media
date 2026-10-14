@@ -15,6 +15,12 @@
   "recent": [],
   "activityLog": [
     {
+      "id": "act_mv8cghqcyw71m",
+      "action": "comment",
+      "detail": "P",
+      "at": "2026-10-14T16:48:36.804Z"
+    },
+    {
       "id": "act_mv8cbnoi6v3xw",
       "action": "delete_post",
       "detail": "UP001",
@@ -46,6 +52,6 @@
     }
   ],
   "createdAt": "2026-10-14T14:23:17.106Z",
-  "updatedAt": "2026-10-14T16:44:52.735Z",
+  "updatedAt": "2026-10-14T16:48:38.306Z",
   "rulesAccepted": false
 }
