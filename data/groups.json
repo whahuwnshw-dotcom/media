@@ -18,11 +18,20 @@
           "role": "owner",
           "status": "active",
           "joinedAt": "2026-10-15T23:21:12.666Z"
+        },
+        {
+          "userId": "USR002",
+          "username": "branpediaid.com",
+          "name": "Owner",
+          "avatar": "/api/media?path=data%2Fmedia%2FUSR002%2Favatar-c8w4.jpg&t=1792068457060",
+          "role": "member",
+          "status": "active",
+          "joinedAt": "2026-10-15T23:21:41.353Z"
         }
       ],
       "pendingRequests": [],
       "postCount": 0
     }
   ],
-  "updatedAt": "2026-10-15T23:21:12.666Z"
+  "updatedAt": "2026-10-15T23:21:41.353Z"
 }
