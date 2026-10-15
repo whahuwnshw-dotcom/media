@@ -9,6 +9,12 @@
   "liked": [],
   "activityLog": [
     {
+      "id": "act_mv965dj7bi02x",
+      "action": "upload",
+      "detail": "20 file (1.1 MB)",
+      "at": "2026-10-15T06:39:46.627Z"
+    },
+    {
       "id": "act_mv96391lrdxnn",
       "action": "pack_delete",
       "detail": "Tes",
@@ -23,5 +29,5 @@
   ],
   "rulesAccepted": false,
   "createdAt": "2026-10-15T06:34:47.872Z",
-  "updatedAt": "2026-10-15T06:38:09.001Z"
+  "updatedAt": "2026-10-15T06:39:48.129Z"
 }
