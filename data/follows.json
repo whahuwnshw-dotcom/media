@@ -14,7 +14,12 @@
       "follower": "USR001",
       "following": "USR002",
       "at": "2026-10-15T21:50:12.898Z"
+    },
+    {
+      "follower": "USR002",
+      "following": "USR001",
+      "at": "2026-10-15T21:50:29.590Z"
     }
   ],
-  "updatedAt": "2026-10-15T21:50:12.899Z"
+  "updatedAt": "2026-10-15T21:50:29.609Z"
 }
