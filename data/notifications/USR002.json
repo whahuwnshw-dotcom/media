@@ -2,6 +2,19 @@
   "userId": "USR002",
   "notifications": [
     {
+      "id": "n_mva6fmeeyl6p",
+      "type": "mention",
+      "from": {
+        "userId": "USR001",
+        "name": "User",
+        "avatar": null
+      },
+      "postId": "UP002",
+      "message": "menyebut kamu: \"@branpediaid.com\"",
+      "read": false,
+      "at": "2026-10-15T23:35:30.854Z"
+    },
+    {
       "id": "n_mva33z9veru9",
       "type": "follow",
       "from": {
@@ -26,5 +39,5 @@
       "at": "2026-10-15T21:50:14.619Z"
     }
   ],
-  "updatedAt": "2026-10-15T22:02:28.819Z"
+  "updatedAt": "2026-10-15T23:35:30.854Z"
 }
