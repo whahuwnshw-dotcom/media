@@ -2,6 +2,19 @@
   "userId": "USR001",
   "notifications": [
     {
+      "id": "n_mv9nijno7atv",
+      "type": "comment",
+      "from": {
+        "userId": "USR002",
+        "name": "Owner",
+        "avatar": "/api/media?path=data%2Fmedia%2FUSR002%2Favatar-c8w4.jpg&t=1792068457060"
+      },
+      "postId": "UP002",
+      "message": "mengomentari post kamu: \"Admin selalu berkuasa\"",
+      "read": false,
+      "at": "2026-10-15T14:45:54.564Z"
+    },
+    {
       "id": "n_mv9ngx093d0t",
       "type": "like",
       "from": {
@@ -82,5 +95,5 @@
       "at": "2026-10-15T11:08:09.789Z"
     }
   ],
-  "updatedAt": "2026-10-15T14:44:38.553Z"
+  "updatedAt": "2026-10-15T14:45:54.564Z"
 }
