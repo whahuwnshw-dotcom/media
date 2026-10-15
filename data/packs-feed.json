@@ -1,4 +1,239 @@
 {
-  "packs": [],
-  "updatedAt": "2026-10-15T21:09:02.103Z"
+  "packs": [
+    {
+      "id": "PK001",
+      "ownerId": "USR001",
+      "ownerUsername": "tes",
+      "ownerName": "User",
+      "ownerRole": "user",
+      "ownerAvatar": null,
+      "name": "Anime",
+      "desc": "",
+      "author": "User",
+      "createdAt": "2026-10-15T21:10:48.319Z",
+      "items": [
+        {
+          "id": "M001",
+          "filename": "Anime-sfc1af.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK001%2FAnime-sfc1af.jpeg",
+          "path": "data/media/USR001/packs/PK001/Anime-sfc1af.jpeg",
+          "size": 62643,
+          "sizeFormatted": "61 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "4a0acb3a4b07708305f1f2f0dd40621f7f4df0da039a1f8f9042110ca2fd949f"
+        },
+        {
+          "id": "M002",
+          "filename": "Anime-ps1bee.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK001%2FAnime-ps1bee.jpeg",
+          "path": "data/media/USR001/packs/PK001/Anime-ps1bee.jpeg",
+          "size": 54724,
+          "sizeFormatted": "53 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "d7542853296c2b17b6b3bf05969234c77f277a85b45ae8fb2cfa30b5dfba522f"
+        },
+        {
+          "id": "M003",
+          "filename": "Anime-tkafvv.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK001%2FAnime-tkafvv.jpeg",
+          "path": "data/media/USR001/packs/PK001/Anime-tkafvv.jpeg",
+          "size": 46592,
+          "sizeFormatted": "46 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "d0a4663148ae9d828858b584e8efca8f9bcaf850948a9e5b8330d9d09a4d021b"
+        },
+        {
+          "id": "M004",
+          "filename": "Anime-o754uz.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK001%2FAnime-o754uz.jpeg",
+          "path": "data/media/USR001/packs/PK001/Anime-o754uz.jpeg",
+          "size": 88955,
+          "sizeFormatted": "87 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "2291a1e06a83ce20cf7390ac23c03f41cf2057a57212efffa171329e8849e9d1"
+        },
+        {
+          "id": "M005",
+          "filename": "Anime-bqiuec.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK001%2FAnime-bqiuec.jpeg",
+          "path": "data/media/USR001/packs/PK001/Anime-bqiuec.jpeg",
+          "size": 31317,
+          "sizeFormatted": "31 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "6f8a6d579ab12bca5baff8a6b37e8c08aa4cd6a99481495465aabde81fb9e7c2"
+        },
+        {
+          "id": "M006",
+          "filename": "Anime-z9kjns.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK001%2FAnime-z9kjns.jpeg",
+          "path": "data/media/USR001/packs/PK001/Anime-z9kjns.jpeg",
+          "size": 50518,
+          "sizeFormatted": "49 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "d0070c1dffc0dde2d9b3f293732f6b7ccc291adb096ec70083ab2d0de5984ae4"
+        },
+        {
+          "id": "M007",
+          "filename": "Anime-ugpq0f.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK001%2FAnime-ugpq0f.jpeg",
+          "path": "data/media/USR001/packs/PK001/Anime-ugpq0f.jpeg",
+          "size": 27296,
+          "sizeFormatted": "27 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "092209a49b29708f5b28a88f85e7de1722b7d4249f83570c795b9732b39d91cd"
+        },
+        {
+          "id": "M008",
+          "filename": "Anime-qycv5t.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK001%2FAnime-qycv5t.jpeg",
+          "path": "data/media/USR001/packs/PK001/Anime-qycv5t.jpeg",
+          "size": 58804,
+          "sizeFormatted": "57 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "e0abcb53d69c777da326c758c5a5c360bfaeee9d2396a3d081bbfda2848bc9fc"
+        },
+        {
+          "id": "M009",
+          "filename": "Anime-x12hqd.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK001%2FAnime-x12hqd.jpeg",
+          "path": "data/media/USR001/packs/PK001/Anime-x12hqd.jpeg",
+          "size": 65683,
+          "sizeFormatted": "64 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "2eb1097651f751a41cc53745f7ebdd1c34d90810d3d6990e2df21d5cfed2b907"
+        },
+        {
+          "id": "M010",
+          "filename": "Anime-avnq3w.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK001%2FAnime-avnq3w.jpeg",
+          "path": "data/media/USR001/packs/PK001/Anime-avnq3w.jpeg",
+          "size": 53783,
+          "sizeFormatted": "53 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "093563a9ec1aa3b87d608e051a504410af0b9d52a03fe97a7a23e1d48d05c98c"
+        },
+        {
+          "id": "M011",
+          "filename": "Anime-ufutmu.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK001%2FAnime-ufutmu.jpeg",
+          "path": "data/media/USR001/packs/PK001/Anime-ufutmu.jpeg",
+          "size": 62421,
+          "sizeFormatted": "61 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "a299dda872bf0f4d234dd654b040e810d1903abb8d8005c0be0ea6a42f3f41d4"
+        },
+        {
+          "id": "M012",
+          "filename": "Anime-0ng8dr.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK001%2FAnime-0ng8dr.jpeg",
+          "path": "data/media/USR001/packs/PK001/Anime-0ng8dr.jpeg",
+          "size": 46064,
+          "sizeFormatted": "45 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "b423da8624845ff6dfe05ea7c603b11fd3297fe2c41b77ddfc30f471c58a5d57"
+        },
+        {
+          "id": "M013",
+          "filename": "Anime-9zbukl.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK001%2FAnime-9zbukl.jpeg",
+          "path": "data/media/USR001/packs/PK001/Anime-9zbukl.jpeg",
+          "size": 74489,
+          "sizeFormatted": "73 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "e2dc36525574e5c4726c1bb30bc3d047b2f63e4491a79d6b2412141ce28dc264"
+        },
+        {
+          "id": "M014",
+          "filename": "Anime-vw6enr.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK001%2FAnime-vw6enr.jpeg",
+          "path": "data/media/USR001/packs/PK001/Anime-vw6enr.jpeg",
+          "size": 70833,
+          "sizeFormatted": "69 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "29d60930c1ae158004a66c349095dc6c709d052d80df15b3f0b280e6581bbbf6"
+        },
+        {
+          "id": "M015",
+          "filename": "Anime-i5kuw0.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK001%2FAnime-i5kuw0.jpeg",
+          "path": "data/media/USR001/packs/PK001/Anime-i5kuw0.jpeg",
+          "size": 65281,
+          "sizeFormatted": "64 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "ef477343106e18f233bc3a3de98e80c7ee9c55caf673d629049574a0e9257947"
+        },
+        {
+          "id": "M016",
+          "filename": "Anime-3tca9a.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK001%2FAnime-3tca9a.jpeg",
+          "path": "data/media/USR001/packs/PK001/Anime-3tca9a.jpeg",
+          "size": 55235,
+          "sizeFormatted": "54 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "d78dcb2efb296931ac20d1131588cc264190fad89843db1f693057b8d710ac6b"
+        },
+        {
+          "id": "M017",
+          "filename": "Anime-p2vh10.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK001%2FAnime-p2vh10.jpeg",
+          "path": "data/media/USR001/packs/PK001/Anime-p2vh10.jpeg",
+          "size": 56841,
+          "sizeFormatted": "56 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "bd4f449faa2349fa41f7fadc622c973efafe833da4e64658654e03a37771a962"
+        },
+        {
+          "id": "M018",
+          "filename": "Anime-9k7zu0.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK001%2FAnime-9k7zu0.jpeg",
+          "path": "data/media/USR001/packs/PK001/Anime-9k7zu0.jpeg",
+          "size": 71718,
+          "sizeFormatted": "70 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "b5569dea0e666ba5abbd6c63b12f81df9bbcbe678cae956c69bf4f3236442e0f"
+        },
+        {
+          "id": "M019",
+          "filename": "Anime-j9ew45.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK001%2FAnime-j9ew45.jpeg",
+          "path": "data/media/USR001/packs/PK001/Anime-j9ew45.jpeg",
+          "size": 61359,
+          "sizeFormatted": "60 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "a060297937014468c4137e7da1df820b7ff93cb4809d1f91c18c7999f1e5d9cf"
+        },
+        {
+          "id": "M020",
+          "filename": "Anime-iwo9pc.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK001%2FAnime-iwo9pc.jpeg",
+          "path": "data/media/USR001/packs/PK001/Anime-iwo9pc.jpeg",
+          "size": 42211,
+          "sizeFormatted": "41 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "dc8cd854201047f11b58d89bca60c6f8986bc3f0aa21f12074ded68dc96938c5"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-10-15T21:10:48.862Z"
 }
