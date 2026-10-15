@@ -93,9 +93,7 @@
       ]
     }
   ],
-  "liked": [
-    "USR001::UP002::M001"
-  ],
+  "liked": [],
   "activityLog": [
     {
       "id": "act_mv9eszuye2wip",
@@ -130,5 +128,5 @@
   ],
   "rulesAccepted": false,
   "createdAt": "2026-10-15T10:31:13.987Z",
-  "updatedAt": "2026-10-15T11:05:43.390Z"
+  "updatedAt": "2026-10-15T12:46:53.694Z"
 }
