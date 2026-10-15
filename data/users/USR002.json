@@ -2,7 +2,7 @@
   "userId": "USR002",
   "profile": {
     "name": "Owner",
-    "bio": "",
+    "bio": "Owner yang Baik Hati Dan Tidak Kikir",
     "avatar": "/api/media?path=data%2Fmedia%2FUSR002%2Favatar-c8w4.jpg&t=1792068457060"
   },
   "packs": [],
@@ -10,6 +10,12 @@
     "USR001::UP002::M001"
   ],
   "activityLog": [
+    {
+      "id": "act_mv9my58c7kfik",
+      "action": "profile_update",
+      "detail": "Profil diperbarui",
+      "at": "2026-10-15T14:30:02.748Z"
+    },
     {
       "id": "act_mv9jahs0vnrz7",
       "action": "profile_update",
@@ -19,5 +25,5 @@
   ],
   "rulesAccepted": false,
   "createdAt": "2026-10-15T12:43:12.436Z",
-  "updatedAt": "2026-10-15T12:57:23.675Z"
+  "updatedAt": "2026-10-15T14:30:02.750Z"
 }
