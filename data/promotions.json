@@ -1,4 +1,16 @@
 {
-  "promotions": [],
-  "updatedAt": null
+  "promotions": [
+    {
+      "id": "promo_mv9xwe7et28uq",
+      "action": "promote",
+      "targetUsername": "tes",
+      "targetId": "USR002",
+      "fromRole": null,
+      "toRole": "mod",
+      "byUsername": "branpediaid.com",
+      "byUserId": "USR002",
+      "at": "2026-10-15T19:36:36.842Z"
+    }
+  ],
+  "updatedAt": "2026-10-15T19:36:36.842Z"
 }
