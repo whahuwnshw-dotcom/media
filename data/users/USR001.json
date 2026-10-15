@@ -94,8 +94,7 @@
     }
   ],
   "liked": [
-    "USR001::UP002::M001",
-    "pack::PK002"
+    "USR001::UP002::M001"
   ],
   "activityLog": [
     {
@@ -131,5 +130,5 @@
   ],
   "rulesAccepted": false,
   "createdAt": "2026-10-15T10:31:13.987Z",
-  "updatedAt": "2026-10-15T11:05:39.948Z"
+  "updatedAt": "2026-10-15T11:05:43.390Z"
 }
