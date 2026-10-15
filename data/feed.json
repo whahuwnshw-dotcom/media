@@ -28,6 +28,9 @@
           "type": "image",
           "hash": "82ccaaa39326115ea3998dc319d957eadab3ef22cec17fd5d2b624d1bf614812"
         }
+      ],
+      "likes": [
+        "USR001"
       ]
     },
     {
@@ -61,5 +64,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-15T14:43:49.884Z"
+  "updatedAt": "2026-10-15T14:43:58.791Z"
 }
