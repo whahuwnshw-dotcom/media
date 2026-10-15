@@ -1,6 +1,36 @@
 {
   "uploads": [
     {
+      "id": "UP002",
+      "userId": "USR001",
+      "creator": {
+        "username": "tes",
+        "name": "User",
+        "avatar": null
+      },
+      "title": "",
+      "description": "",
+      "tags": [],
+      "uploadedAt": "2026-10-15T10:31:52.312Z",
+      "totalFiles": 1,
+      "totalSize": 93511,
+      "totalSizeFormatted": "91 KB",
+      "views": 0,
+      "media": [
+        {
+          "id": "M001",
+          "filename": "meme_anime_1_-20b9dv.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP002%2Fmeme_anime_1_-20b9dv.jpeg",
+          "path": "data/media/USR001/UP002/meme_anime_1_-20b9dv.jpeg",
+          "size": 93511,
+          "sizeFormatted": "91 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "82ccaaa39326115ea3998dc319d957eadab3ef22cec17fd5d2b624d1bf614812"
+        }
+      ]
+    },
+    {
       "id": "UP001",
       "userId": "USR001",
       "creator": {
@@ -31,5 +61,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-15T10:31:32.701Z"
+  "updatedAt": "2026-10-15T10:31:52.795Z"
 }
