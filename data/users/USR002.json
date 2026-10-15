@@ -6,7 +6,9 @@
     "avatar": "/api/media?path=data%2Fmedia%2FUSR002%2Favatar-c8w4.jpg&t=1792068457060"
   },
   "packs": [],
-  "liked": [],
+  "liked": [
+    "USR001::UP002::M001"
+  ],
   "activityLog": [
     {
       "id": "act_mv9jahs0vnrz7",
@@ -17,5 +19,5 @@
   ],
   "rulesAccepted": false,
   "createdAt": "2026-10-15T12:43:12.436Z",
-  "updatedAt": "2026-10-15T12:47:40.417Z"
+  "updatedAt": "2026-10-15T12:57:23.675Z"
 }
