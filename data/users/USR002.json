@@ -7,8 +7,15 @@
   },
   "packs": [],
   "liked": [],
-  "activityLog": [],
+  "activityLog": [
+    {
+      "id": "act_mv9jahs0vnrz7",
+      "action": "profile_update",
+      "detail": "Profil diperbarui",
+      "at": "2026-10-15T12:47:40.416Z"
+    }
+  ],
   "rulesAccepted": false,
   "createdAt": "2026-10-15T12:43:12.436Z",
-  "updatedAt": "2026-10-15T12:47:37.075Z"
+  "updatedAt": "2026-10-15T12:47:40.417Z"
 }
