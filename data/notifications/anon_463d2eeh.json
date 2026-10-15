@@ -1,0 +1,19 @@
+{
+  "userId": "anon_463d2eeh",
+  "notifications": [
+    {
+      "id": "n_mv9nijnych1x",
+      "type": "reply",
+      "from": {
+        "userId": "USR002",
+        "name": "Owner",
+        "avatar": "/api/media?path=data%2Fmedia%2FUSR002%2Favatar-c8w4.jpg&t=1792068457060"
+      },
+      "postId": "UP002",
+      "message": "membalas komentar kamu: \"Admin selalu berkuasa\"",
+      "read": false,
+      "at": "2026-10-15T14:45:54.574Z"
+    }
+  ],
+  "updatedAt": "2026-10-15T14:45:54.574Z"
+}
