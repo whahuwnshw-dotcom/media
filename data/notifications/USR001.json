@@ -2,6 +2,19 @@
   "userId": "USR001",
   "notifications": [
     {
+      "id": "n_mv9j3im1e473",
+      "type": "comment",
+      "from": {
+        "userId": "anon_463d2eeh",
+        "name": "Anonim",
+        "avatar": null
+      },
+      "postId": "UP002",
+      "message": "mengomentari post kamu: \"Keren\"",
+      "read": false,
+      "at": "2026-10-15T12:42:14.905Z"
+    },
+    {
       "id": "n_mv9fqit996us",
       "type": "reply",
       "from": {
@@ -15,5 +28,5 @@
       "at": "2026-10-15T11:08:09.789Z"
     }
   ],
-  "updatedAt": "2026-10-15T11:08:09.789Z"
+  "updatedAt": "2026-10-15T12:42:14.905Z"
 }
