@@ -15,7 +15,7 @@
       "totalFiles": 20,
       "totalSize": 1200624,
       "totalSizeFormatted": "1.1 MB",
-      "views": 0,
+      "views": 1,
       "media": [
         {
           "id": "M001",
@@ -300,5 +300,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-15T06:05:21.348Z"
+  "updatedAt": "2026-10-15T06:05:38.139Z"
 }
