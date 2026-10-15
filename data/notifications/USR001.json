@@ -2,6 +2,19 @@
   "userId": "USR001",
   "notifications": [
     {
+      "id": "n_mv9ngx093d0t",
+      "type": "like",
+      "from": {
+        "userId": "anon_463d2eeh",
+        "name": "Anonim",
+        "avatar": null
+      },
+      "postId": "UP002",
+      "message": "menyukai post kamu",
+      "read": false,
+      "at": "2026-10-15T14:44:38.553Z"
+    },
+    {
       "id": "n_mv9mxfzvigde",
       "type": "like",
       "from": {
@@ -69,5 +82,5 @@
       "at": "2026-10-15T11:08:09.789Z"
     }
   ],
-  "updatedAt": "2026-10-15T14:29:30.043Z"
+  "updatedAt": "2026-10-15T14:44:38.553Z"
 }
