@@ -1,0 +1,21 @@
+{
+  "userId": "USR001",
+  "profile": {
+    "name": "User",
+    "bio": "",
+    "avatar": null
+  },
+  "packs": [],
+  "liked": [],
+  "activityLog": [
+    {
+      "id": "act_mv9efgr1m45vn",
+      "action": "upload",
+      "detail": "1 file (83 KB)",
+      "at": "2026-10-15T10:31:34.285Z"
+    }
+  ],
+  "rulesAccepted": false,
+  "createdAt": "2026-10-15T10:31:13.987Z",
+  "updatedAt": "2026-10-15T10:31:35.787Z"
+}
