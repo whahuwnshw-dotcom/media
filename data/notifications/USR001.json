@@ -1,0 +1,19 @@
+{
+  "userId": "USR001",
+  "notifications": [
+    {
+      "id": "n_mv9fqisr1mlr",
+      "type": "comment",
+      "from": {
+        "userId": "USR002",
+        "name": "Owner",
+        "avatar": null
+      },
+      "postId": "UP003",
+      "message": "mengomentari post kamu: \"Keren\"",
+      "read": false,
+      "at": "2026-10-15T11:08:09.771Z"
+    }
+  ],
+  "updatedAt": "2026-10-15T11:08:09.771Z"
+}
