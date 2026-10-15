@@ -23,8 +23,20 @@
       "status": "active",
       "passwordHash": "cf9095d8e4d86060a06441b315f8a3b33262397d08ef027b51e59e2ad52a5181",
       "createdAt": "2026-10-15T09:12:15.145Z"
+    },
+    {
+      "id": "anon_kf6rfwfj",
+      "username": "anon_kf6rfwfj",
+      "name": "Anonim",
+      "email": "",
+      "profilePicture": null,
+      "bio": "",
+      "role": "guest",
+      "status": "active",
+      "tokenHash": "5ac81dbaac1dbbc62c9d8384445557f4e0374355c869942ad43e6a29b0981a72",
+      "createdAt": "2026-10-15T09:27:31.136Z"
     }
   ],
   "lastId": 0,
-  "updatedAt": "2026-10-15T09:12:15.145Z"
+  "updatedAt": "2026-10-15T09:27:31.140Z"
 }
