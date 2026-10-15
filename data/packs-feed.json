@@ -1,54 +1,6 @@
 {
   "packs": [
     {
-      "id": "PK002",
-      "ownerId": "USR001",
-      "ownerUsername": "tes",
-      "ownerName": "User",
-      "ownerRole": "user",
-      "ownerAvatar": null,
-      "name": "Tes",
-      "desc": "",
-      "author": "User",
-      "visibility": "friends",
-      "createdAt": "2026-10-15T21:51:28.062Z",
-      "items": [
-        {
-          "id": "M001",
-          "filename": "Tes-mq5m00.jpeg",
-          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK002%2FTes-mq5m00.jpeg",
-          "path": "data/media/USR001/packs/PK002/Tes-mq5m00.jpeg",
-          "size": 93511,
-          "sizeFormatted": "91 KB",
-          "mimeType": "image/jpeg",
-          "type": "image",
-          "hash": "82ccaaa39326115ea3998dc319d957eadab3ef22cec17fd5d2b624d1bf614812"
-        },
-        {
-          "id": "M002",
-          "filename": "Tes-m5v2f2.jpeg",
-          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK002%2FTes-m5v2f2.jpeg",
-          "path": "data/media/USR001/packs/PK002/Tes-m5v2f2.jpeg",
-          "size": 62643,
-          "sizeFormatted": "61 KB",
-          "mimeType": "image/jpeg",
-          "type": "image",
-          "hash": "4a0acb3a4b07708305f1f2f0dd40621f7f4df0da039a1f8f9042110ca2fd949f"
-        },
-        {
-          "id": "M003",
-          "filename": "Tes-62aidb.jpeg",
-          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK002%2FTes-62aidb.jpeg",
-          "path": "data/media/USR001/packs/PK002/Tes-62aidb.jpeg",
-          "size": 85174,
-          "sizeFormatted": "83 KB",
-          "mimeType": "image/jpeg",
-          "type": "image",
-          "hash": "4af10e37c6427e18168dba49f2fd9c8c2a4fa0bf17acbf2f998c0539d20beab2"
-        }
-      ]
-    },
-    {
       "id": "PK001",
       "ownerId": "USR001",
       "ownerUsername": "tes",
@@ -283,5 +235,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-15T21:51:28.636Z"
+  "updatedAt": "2026-10-15T22:05:02.725Z"
 }
