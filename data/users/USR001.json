@@ -7,6 +7,49 @@
   },
   "packs": [
     {
+      "id": "PK002",
+      "name": "Tes",
+      "desc": "Towewe",
+      "author": "User",
+      "owned": true,
+      "createdAt": "2026-10-15T10:42:05.571Z",
+      "items": [
+        {
+          "id": "M001",
+          "filename": "Tes-ok3xjm.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK002%2FTes-ok3xjm.jpeg",
+          "path": "data/media/USR001/packs/PK002/Tes-ok3xjm.jpeg",
+          "size": 93511,
+          "sizeFormatted": "91 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "82ccaaa39326115ea3998dc319d957eadab3ef22cec17fd5d2b624d1bf614812"
+        },
+        {
+          "id": "M002",
+          "filename": "Tes-ctrz4u.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK002%2FTes-ctrz4u.jpeg",
+          "path": "data/media/USR001/packs/PK002/Tes-ctrz4u.jpeg",
+          "size": 62643,
+          "sizeFormatted": "61 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "4a0acb3a4b07708305f1f2f0dd40621f7f4df0da039a1f8f9042110ca2fd949f"
+        },
+        {
+          "id": "M003",
+          "filename": "Tes-mcdqgq.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK002%2FTes-mcdqgq.jpeg",
+          "path": "data/media/USR001/packs/PK002/Tes-mcdqgq.jpeg",
+          "size": 85174,
+          "sizeFormatted": "83 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "4af10e37c6427e18168dba49f2fd9c8c2a4fa0bf17acbf2f998c0539d20beab2"
+        }
+      ]
+    },
+    {
       "id": "PK001",
       "name": "Tes",
       "desc": "",
@@ -53,6 +96,12 @@
   "liked": [],
   "activityLog": [
     {
+      "id": "act_mv9eszuye2wip",
+      "action": "pack_create",
+      "detail": "Paket \"Tes\" (3 media)",
+      "at": "2026-10-15T10:42:05.578Z"
+    },
+    {
       "id": "act_mv9eqxn209w8g",
       "action": "pack_create",
       "detail": "Paket \"Tes\" (3 media)",
@@ -79,5 +128,5 @@
   ],
   "rulesAccepted": false,
   "createdAt": "2026-10-15T10:31:13.987Z",
-  "updatedAt": "2026-10-15T10:40:29.398Z"
+  "updatedAt": "2026-10-15T10:42:05.583Z"
 }
