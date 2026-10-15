@@ -1,1 +1,14 @@
-{ "reports": [], "updatedAt": null }
+{
+  "reports": [
+    {
+      "id": "r_mv9fsa3mqguar",
+      "postId": "UP003",
+      "reporterId": "anon_463d2eeh",
+      "reason": "other",
+      "detail": "",
+      "status": "pending",
+      "at": "2026-10-15T11:09:31.810Z"
+    }
+  ],
+  "updatedAt": "2026-10-15T11:09:31.810Z"
+}
