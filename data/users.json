@@ -47,6 +47,18 @@
       "status": "active",
       "tokenHash": "c8e029db40ebca972d3e00a598b72e40c06625719f6e10a1eb9bb13c8aa1016e",
       "createdAt": "2026-10-15T09:31:27.672Z"
+    },
+    {
+      "id": "USR002",
+      "username": "branpediaid.com",
+      "name": "Owner",
+      "email": "",
+      "profilePicture": null,
+      "bio": "Owner StickerVault",
+      "role": "owner",
+      "status": "active",
+      "passwordHash": "fb94c684d3aefe67bb5d0acd7731ab18e6fad91edcfd2c4dd6df99be0c09275d",
+      "createdAt": "2026-10-15T11:07:38.200Z"
     }
   ],
   "lastId": 0,
