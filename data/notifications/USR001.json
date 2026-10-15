@@ -2,6 +2,18 @@
   "userId": "USR001",
   "notifications": [
     {
+      "id": "n_mva34b0609ch",
+      "type": "follow",
+      "from": {
+        "userId": "USR002",
+        "name": "Owner",
+        "avatar": "/api/media?path=data%2Fmedia%2FUSR002%2Favatar-c8w4.jpg&t=1792068457060"
+      },
+      "message": "mulai mengikuti kamu",
+      "read": false,
+      "at": "2026-10-15T22:02:44.022Z"
+    },
+    {
       "id": "n_mva2oqe8z07k",
       "type": "follow",
       "from": {
@@ -26,5 +38,5 @@
       "at": "2026-10-15T21:50:31.407Z"
     }
   ],
-  "updatedAt": "2026-10-15T21:50:37.472Z"
+  "updatedAt": "2026-10-15T22:02:44.022Z"
 }
