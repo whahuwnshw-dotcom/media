@@ -1,0 +1,18 @@
+{
+  "userId": "USR002",
+  "notifications": [
+    {
+      "id": "n_mva2o8rfoesv",
+      "type": "follow",
+      "from": {
+        "userId": "USR001",
+        "name": "User",
+        "avatar": null
+      },
+      "message": "mulai mengikuti kamu",
+      "read": false,
+      "at": "2026-10-15T21:50:14.619Z"
+    }
+  ],
+  "updatedAt": "2026-10-15T21:50:14.619Z"
+}
