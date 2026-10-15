@@ -8,7 +8,20 @@
       "avatar": "/api/media?path=data%2Fmedia%2Fanon_bb150c21ac84%2Favatar.jpg&t=1791998248251",
       "text": "Aku keren kan kak",
       "at": "2026-10-14T18:48:23.708Z"
+    },
+    {
+      "id": "c_mv9jbgh69jian",
+      "userId": "USR002",
+      "username": "branpediaid.com",
+      "name": "Owner",
+      "avatar": "/api/media?path=data%2Fmedia%2FUSR002%2Favatar-c8w4.jpg&t=1792068457060",
+      "text": "Keren",
+      "at": "2026-10-15T12:48:25.387Z",
+      "replyTo": {
+        "commentId": "c_mv8gqj6kf6pij",
+        "name": "Anonim"
+      }
     }
   ],
-  "updatedAt": "2026-10-14T18:48:23.708Z"
+  "updatedAt": "2026-10-15T12:48:25.387Z"
 }
