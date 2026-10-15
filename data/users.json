@@ -1,1 +1,18 @@
-{ "users": [], "lastId": 0, "updatedAt": null }
+{
+  "users": [
+    {
+      "id": "anon_8fwo559d",
+      "username": "anon_8fwo559d",
+      "name": "Anonim",
+      "email": "",
+      "profilePicture": null,
+      "bio": "",
+      "role": "guest",
+      "status": "active",
+      "tokenHash": "333d58d6ab616661f941af9c94bc2a6f411c4e9bc9b39131320261d51b12957a",
+      "createdAt": "2026-10-15T08:43:31.290Z"
+    }
+  ],
+  "lastId": 0,
+  "updatedAt": "2026-10-15T08:43:31.291Z"
+}
