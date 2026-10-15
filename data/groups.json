@@ -1,1 +1,28 @@
-{ "groups": [], "updatedAt": null }
+{
+  "groups": [
+    {
+      "id": "GRP001",
+      "joinCode": "wvy1si9z",
+      "name": "Tes",
+      "desc": "",
+      "mode": "public",
+      "avatar": null,
+      "ownerId": "USR001",
+      "createdAt": "2026-10-15T23:21:12.666Z",
+      "members": [
+        {
+          "userId": "USR001",
+          "username": "tes",
+          "name": "User",
+          "avatar": null,
+          "role": "owner",
+          "status": "active",
+          "joinedAt": "2026-10-15T23:21:12.666Z"
+        }
+      ],
+      "pendingRequests": [],
+      "postCount": 0
+    }
+  ],
+  "updatedAt": "2026-10-15T23:21:12.666Z"
+}
