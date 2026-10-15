@@ -11,8 +11,20 @@
       "status": "active",
       "tokenHash": "333d58d6ab616661f941af9c94bc2a6f411c4e9bc9b39131320261d51b12957a",
       "createdAt": "2026-10-15T08:43:31.290Z"
+    },
+    {
+      "id": "USR001",
+      "username": "tes",
+      "name": "User",
+      "email": "",
+      "profilePicture": null,
+      "bio": "",
+      "role": "user",
+      "status": "active",
+      "passwordHash": "cf9095d8e4d86060a06441b315f8a3b33262397d08ef027b51e59e2ad52a5181",
+      "createdAt": "2026-10-15T09:12:15.145Z"
     }
   ],
   "lastId": 0,
-  "updatedAt": "2026-10-15T08:43:31.291Z"
+  "updatedAt": "2026-10-15T09:12:15.145Z"
 }
