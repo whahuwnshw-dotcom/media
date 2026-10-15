@@ -1,6 +1,10 @@
 {
-  "owner": [],
+  "owner": [
+    "branpediaid.com"
+  ],
   "admin": [],
-  "mod": [],
-  "updatedAt": null
+  "mod": [
+    "tes"
+  ],
+  "updatedAt": "2026-10-15T19:36:35.318Z"
 }
