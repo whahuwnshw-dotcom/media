@@ -1,1 +1,35 @@
-{ "uploads": [], "updatedAt": null }
+{
+  "uploads": [
+    {
+      "id": "UP001",
+      "userId": "USR001",
+      "creator": {
+        "username": "tes",
+        "name": "User",
+        "avatar": null
+      },
+      "title": "",
+      "description": "",
+      "tags": [],
+      "uploadedAt": "2026-10-15T10:31:32.237Z",
+      "totalFiles": 1,
+      "totalSize": 85174,
+      "totalSizeFormatted": "83 KB",
+      "views": 0,
+      "media": [
+        {
+          "id": "M001",
+          "filename": "3ad21dc6-1f03-46ba-8407-e00f0d9f039b-lsotk6.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP001%2F3ad21dc6-1f03-46ba-8407-e00f0d9f039b-lsotk6.jpeg",
+          "path": "data/media/USR001/UP001/3ad21dc6-1f03-46ba-8407-e00f0d9f039b-lsotk6.jpeg",
+          "size": 85174,
+          "sizeFormatted": "83 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "4af10e37c6427e18168dba49f2fd9c8c2a4fa0bf17acbf2f998c0539d20beab2"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-10-15T10:31:32.701Z"
+}
