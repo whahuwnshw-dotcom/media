@@ -24,15 +24,6 @@
       }
     },
     {
-      "id": "c_mva6f20qds2ha",
-      "userId": "USR001",
-      "username": "tes",
-      "name": "User",
-      "avatar": null,
-      "text": "Hi",
-      "at": "2026-10-15T23:35:04.442Z"
-    },
-    {
       "id": "c_mva6fjyafbvli",
       "userId": "USR001",
       "username": "tes",
@@ -42,5 +33,5 @@
       "at": "2026-10-15T23:35:27.682Z"
     }
   ],
-  "updatedAt": "2026-10-15T23:35:27.682Z"
+  "updatedAt": "2026-10-16T00:05:42.606Z"
 }
