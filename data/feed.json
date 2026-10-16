@@ -15,7 +15,7 @@
       "totalFiles": 1,
       "totalSize": 93511,
       "totalSizeFormatted": "91 KB",
-      "views": 54,
+      "views": 53,
       "media": [
         {
           "id": "M001",
@@ -32,7 +32,8 @@
       "likes": [
         "USR001",
         "anon_463d2eeh",
-        "USR002"
+        "USR002",
+        "anon_izkh3kvg"
       ]
     },
     {
@@ -70,5 +71,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-16T07:14:07.012Z"
+  "updatedAt": "2026-10-16T07:14:08.353Z"
 }
