@@ -35,7 +35,20 @@
         "commentId": "c_mv9nihujkqs5e",
         "name": "Owner"
       }
+    },
+    {
+      "id": "c_mvanenychz24y",
+      "userId": "USR002",
+      "username": "branpediaid.com",
+      "name": "Owner",
+      "avatar": "/api/media?path=data%2Fmedia%2FUSR002%2Favatar-c8w4.jpg&t=1792068457060",
+      "text": "Iya",
+      "at": "2026-10-16T07:30:39.684Z",
+      "replyTo": {
+        "commentId": "c_mvamtk973jw09",
+        "name": "Anonim"
+      }
     }
   ],
-  "updatedAt": "2026-10-16T07:14:15.115Z"
+  "updatedAt": "2026-10-16T07:30:39.684Z"
 }
