@@ -2,6 +2,18 @@
   "userId": "USR002",
   "notifications": [
     {
+      "id": "n_mvamuh88118d",
+      "type": "follow",
+      "from": {
+        "userId": "anon_izkh3kvg",
+        "name": "Anonim",
+        "avatar": null
+      },
+      "message": "mulai mengikuti kamu",
+      "read": false,
+      "at": "2026-10-16T07:14:57.848Z"
+    },
+    {
       "id": "n_mvamtlyac6yv",
       "type": "reply",
       "from": {
@@ -52,5 +64,5 @@
       "at": "2026-10-15T21:50:14.619Z"
     }
   ],
-  "updatedAt": "2026-10-16T07:14:17.314Z"
+  "updatedAt": "2026-10-16T07:14:57.848Z"
 }
