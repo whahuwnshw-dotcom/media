@@ -22,7 +22,20 @@
         "commentId": "c_mv9j3gsm9buit",
         "name": "Anonim"
       }
+    },
+    {
+      "id": "c_mvamtk973jw09",
+      "userId": "anon_izkh3kvg",
+      "username": "anon_izkh3kvg",
+      "name": "Anonim",
+      "avatar": null,
+      "text": "Atmin",
+      "at": "2026-10-16T07:14:15.115Z",
+      "replyTo": {
+        "commentId": "c_mv9nihujkqs5e",
+        "name": "Owner"
+      }
     }
   ],
-  "updatedAt": "2026-10-16T00:05:46.017Z"
+  "updatedAt": "2026-10-16T07:14:15.115Z"
 }
