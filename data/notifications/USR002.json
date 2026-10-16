@@ -2,6 +2,19 @@
   "userId": "USR002",
   "notifications": [
     {
+      "id": "n_mvanfejfqe5i",
+      "type": "reply",
+      "from": {
+        "userId": "USR001",
+        "name": "User",
+        "avatar": null
+      },
+      "postId": "UP002",
+      "message": "membalas komentar kamu: \"🙂‍↔️\"",
+      "read": false,
+      "at": "2026-10-16T07:31:14.139Z"
+    },
+    {
       "id": "n_mvamv7cnkdbg",
       "type": "follow",
       "from": {
@@ -88,5 +101,5 @@
       "at": "2026-10-15T21:50:14.619Z"
     }
   ],
-  "updatedAt": "2026-10-16T07:15:31.703Z"
+  "updatedAt": "2026-10-16T07:31:14.139Z"
 }
