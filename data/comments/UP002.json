@@ -61,7 +61,20 @@
         "commentId": "c_mvanenychz24y",
         "name": "Owner"
       }
+    },
+    {
+      "id": "c_mvanjss8cg8dr",
+      "userId": "USR001",
+      "username": "tes",
+      "name": "User",
+      "avatar": null,
+      "text": "Stecu stecu",
+      "at": "2026-10-16T07:34:39.224Z",
+      "replyTo": {
+        "commentId": "c_mvanfcqnbf642",
+        "name": "User"
+      }
     }
   ],
-  "updatedAt": "2026-10-16T07:31:11.807Z"
+  "updatedAt": "2026-10-16T07:34:39.224Z"
 }
