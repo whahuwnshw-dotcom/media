@@ -87,7 +87,20 @@
         "commentId": "c_mvanjss8cg8dr",
         "name": "User"
       }
+    },
+    {
+      "id": "c_mvanl0j359h9t",
+      "userId": "USR002",
+      "username": "branpediaid.com",
+      "name": "Owner",
+      "avatar": "/api/media?path=data%2Fmedia%2FUSR002%2Favatar-c8w4.jpg&t=1792068457060",
+      "text": "Acumulaka",
+      "at": "2026-10-16T07:35:35.919Z",
+      "replyTo": {
+        "commentId": "c_mvanjss8cg8dr",
+        "name": "User"
+      }
     }
   ],
-  "updatedAt": "2026-10-16T07:35:01.392Z"
+  "updatedAt": "2026-10-16T07:35:35.919Z"
 }
