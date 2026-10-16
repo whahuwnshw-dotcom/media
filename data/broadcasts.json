@@ -1,0 +1,23 @@
+{
+  "broadcasts": [
+    {
+      "id": "bc_mvando9lo9q2",
+      "title": "📢 Pengumuman Penting",
+      "message": "Tes",
+      "category": "Informasi",
+      "icon": "📢",
+      "priority": "normal",
+      "targetRole": "all",
+      "targetUserIds": [],
+      "createdBy": {
+        "userId": "USR002",
+        "username": "branpediaid.com",
+        "name": "Owner",
+        "role": "owner"
+      },
+      "at": "2026-10-16T07:29:53.433Z",
+      "expiresAt": null
+    }
+  ],
+  "updatedAt": "2026-10-16T07:29:53.433Z"
+}
