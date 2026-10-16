@@ -1,0 +1,19 @@
+{
+  "userId": "anon_izkh3kvg",
+  "notifications": [
+    {
+      "id": "n_mvaneps1jgmb",
+      "type": "reply",
+      "from": {
+        "userId": "USR002",
+        "name": "Owner",
+        "avatar": "/api/media?path=data%2Fmedia%2FUSR002%2Favatar-c8w4.jpg&t=1792068457060"
+      },
+      "postId": "UP002",
+      "message": "membalas komentar kamu: \"Iya\"",
+      "read": false,
+      "at": "2026-10-16T07:30:42.049Z"
+    }
+  ],
+  "updatedAt": "2026-10-16T07:30:42.049Z"
+}
