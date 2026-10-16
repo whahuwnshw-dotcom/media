@@ -74,7 +74,20 @@
         "commentId": "c_mvanfcqnbf642",
         "name": "User"
       }
+    },
+    {
+      "id": "c_mvank9w0wm85y",
+      "userId": "anon_izkh3kvg",
+      "username": "anon_izkh3kvg",
+      "name": "Anonim",
+      "avatar": null,
+      "text": "Apa coba",
+      "at": "2026-10-16T07:35:01.392Z",
+      "replyTo": {
+        "commentId": "c_mvanjss8cg8dr",
+        "name": "User"
+      }
     }
   ],
-  "updatedAt": "2026-10-16T07:34:39.224Z"
+  "updatedAt": "2026-10-16T07:35:01.392Z"
 }
