@@ -2,6 +2,19 @@
   "userId": "USR001",
   "notifications": [
     {
+      "id": "n_mvanepucl6b2",
+      "type": "comment",
+      "from": {
+        "userId": "USR002",
+        "name": "Owner",
+        "avatar": "/api/media?path=data%2Fmedia%2FUSR002%2Favatar-c8w4.jpg&t=1792068457060"
+      },
+      "postId": "UP002",
+      "message": "mengomentari post kamu: \"Iya\"",
+      "read": false,
+      "at": "2026-10-16T07:30:42.132Z"
+    },
+    {
       "id": "n_mvamtmjr96qd",
       "type": "comment",
       "from": {
@@ -88,5 +101,5 @@
       "at": "2026-10-15T21:50:31.407Z"
     }
   ],
-  "updatedAt": "2026-10-16T07:14:18.087Z"
+  "updatedAt": "2026-10-16T07:30:42.132Z"
 }
