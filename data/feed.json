@@ -33,38 +33,6 @@
       ]
     },
     {
-      "id": "UP005",
-      "userId": "USR001",
-      "creator": {
-        "username": "tes",
-        "name": "User",
-        "avatar": null
-      },
-      "title": "Meme_Twitter-8erzfl",
-      "description": "",
-      "tags": [],
-      "visibility": "public",
-      "uploadedAt": "2026-10-17T11:15:29.094Z",
-      "totalFiles": 1,
-      "totalSize": 18282,
-      "totalSizeFormatted": "18 KB",
-      "views": 2,
-      "likes": [],
-      "media": [
-        {
-          "id": "M001",
-          "filename": "Meme_Twitter-8erzfl.jpeg",
-          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP005%2FMeme_Twitter-8erzfl.jpeg",
-          "path": "data/media/USR001/UP005/Meme_Twitter-8erzfl.jpeg",
-          "size": 18282,
-          "sizeFormatted": "18 KB",
-          "mimeType": "image/jpeg",
-          "type": "image",
-          "hash": "389c1e0e3de3fdbf812d896a054292bd60650b06bdb0b16aa5d33ddb5da7d7a1"
-        }
-      ]
-    },
-    {
       "id": "UP002",
       "userId": "USR001",
       "creator": {
@@ -134,5 +102,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-17T11:17:58.862Z"
+  "updatedAt": "2026-10-17T11:18:00.072Z"
 }
