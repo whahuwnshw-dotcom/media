@@ -1,38 +1,6 @@
 {
   "uploads": [
     {
-      "id": "UP006",
-      "userId": "USR001",
-      "creator": {
-        "username": "tes",
-        "name": "User",
-        "avatar": null
-      },
-      "title": "Sameko_Saba_Icon_Pfp-sbezn6",
-      "description": "",
-      "tags": [],
-      "visibility": "public",
-      "uploadedAt": "2026-10-17T11:15:29.094Z",
-      "totalFiles": 1,
-      "totalSize": 46114,
-      "totalSizeFormatted": "45 KB",
-      "views": 3,
-      "likes": [],
-      "media": [
-        {
-          "id": "M001",
-          "filename": "Sameko_Saba_Icon_Pfp-sbezn6.jpeg",
-          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP006%2FSameko_Saba_Icon_Pfp-sbezn6.jpeg",
-          "path": "data/media/USR001/UP006/Sameko_Saba_Icon_Pfp-sbezn6.jpeg",
-          "size": 46114,
-          "sizeFormatted": "45 KB",
-          "mimeType": "image/jpeg",
-          "type": "image",
-          "hash": "fd8e31efb349d1aead40b62a0df9e2ba475aed10bda7f6f57d1eaa2e64059238"
-        }
-      ]
-    },
-    {
       "id": "UP002",
       "userId": "USR001",
       "creator": {
@@ -102,5 +70,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-17T11:18:00.072Z"
+  "updatedAt": "2026-10-17T11:18:05.012Z"
 }
