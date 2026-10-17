@@ -667,6 +667,12 @@
   ],
   "activityLog": [
     {
+      "id": "act_mvca5oi0zh2u2",
+      "action": "upload",
+      "detail": "34 file (1.7 MB)",
+      "at": "2026-10-17T10:55:17.832Z"
+    },
+    {
       "id": "act_mvaii8udkizx3",
       "action": "pack_create",
       "detail": "Paket \"Anime\" (20 media)",
@@ -729,5 +735,5 @@
   ],
   "rulesAccepted": false,
   "createdAt": "2026-10-15T10:31:13.987Z",
-  "updatedAt": "2026-10-16T05:13:28.645Z"
+  "updatedAt": "2026-10-17T10:55:19.352Z"
 }
