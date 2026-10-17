@@ -1,6 +1,241 @@
 {
   "packs": [
     {
+      "id": "PK005",
+      "ownerId": "USR001",
+      "ownerUsername": "tes",
+      "ownerName": "User",
+      "ownerRole": "user",
+      "ownerAvatar": null,
+      "name": "Anime Sticker",
+      "desc": "",
+      "author": "User",
+      "visibility": "public",
+      "createdAt": "2026-10-17T17:44:49.932Z",
+      "items": [
+        {
+          "id": "M001",
+          "filename": "Anime_Sticker-pvirem.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK005%2FAnime_Sticker-pvirem.jpeg",
+          "path": "data/media/USR001/packs/PK005/Anime_Sticker-pvirem.jpeg",
+          "size": 45119,
+          "sizeFormatted": "44 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "0d3f83803ef2510f73acc13ccb6de05e8b0c85e364dd6f6b3e6d0e15fee0f0a2"
+        },
+        {
+          "id": "M002",
+          "filename": "Anime_Sticker-w45tjs.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK005%2FAnime_Sticker-w45tjs.jpeg",
+          "path": "data/media/USR001/packs/PK005/Anime_Sticker-w45tjs.jpeg",
+          "size": 63172,
+          "sizeFormatted": "62 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "390c52aac9ff4d1875caefc3dcba920761d579f742e3b85ed8461ad3210e442c"
+        },
+        {
+          "id": "M003",
+          "filename": "Anime_Sticker-5f6nco.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK005%2FAnime_Sticker-5f6nco.jpeg",
+          "path": "data/media/USR001/packs/PK005/Anime_Sticker-5f6nco.jpeg",
+          "size": 71834,
+          "sizeFormatted": "70 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "7471cda018cd74dc3318bd9b0d4dc6aab4480f57e6e80458fa8d3519347e5eb4"
+        },
+        {
+          "id": "M004",
+          "filename": "Anime_Sticker-itwi4n.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK005%2FAnime_Sticker-itwi4n.jpeg",
+          "path": "data/media/USR001/packs/PK005/Anime_Sticker-itwi4n.jpeg",
+          "size": 51142,
+          "sizeFormatted": "50 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "da0e6d849f3e7928a71484e21e498bc4a2e08de4c7538218a42513776060ba47"
+        },
+        {
+          "id": "M005",
+          "filename": "Anime_Sticker-o5n4d0.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK005%2FAnime_Sticker-o5n4d0.jpeg",
+          "path": "data/media/USR001/packs/PK005/Anime_Sticker-o5n4d0.jpeg",
+          "size": 65884,
+          "sizeFormatted": "64 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "7a992f4bdc863da55f25cdfa36bf9ce483da3af8088d67c64c138abef95f224d"
+        },
+        {
+          "id": "M006",
+          "filename": "Anime_Sticker-i45p2w.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK005%2FAnime_Sticker-i45p2w.jpeg",
+          "path": "data/media/USR001/packs/PK005/Anime_Sticker-i45p2w.jpeg",
+          "size": 55049,
+          "sizeFormatted": "54 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "7735b641005e70f5ab5d4556f86dbb89da0e4a5fb144369ca4d162397e34f7e5"
+        },
+        {
+          "id": "M007",
+          "filename": "Anime_Sticker-mxqj0h.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK005%2FAnime_Sticker-mxqj0h.jpeg",
+          "path": "data/media/USR001/packs/PK005/Anime_Sticker-mxqj0h.jpeg",
+          "size": 63800,
+          "sizeFormatted": "62 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "c65c29adfcbb5606ae7705de4f739824df8ee989c23e9a483681f9f6cbeeed74"
+        },
+        {
+          "id": "M008",
+          "filename": "Anime_Sticker-k330xu.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK005%2FAnime_Sticker-k330xu.jpeg",
+          "path": "data/media/USR001/packs/PK005/Anime_Sticker-k330xu.jpeg",
+          "size": 72346,
+          "sizeFormatted": "71 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "2b8b5c574afb8f0e5a8e19ad71cb31dae6e8463880f6e51c482ccc78842d08b6"
+        },
+        {
+          "id": "M009",
+          "filename": "Anime_Sticker-uqh8jg.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK005%2FAnime_Sticker-uqh8jg.jpeg",
+          "path": "data/media/USR001/packs/PK005/Anime_Sticker-uqh8jg.jpeg",
+          "size": 56372,
+          "sizeFormatted": "55 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "2481f0bee67c8438dec202dd6cb033930e244fa3e743a6dcbf5e6e80fdfe9082"
+        },
+        {
+          "id": "M010",
+          "filename": "Anime_Sticker-j9mguj.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK005%2FAnime_Sticker-j9mguj.jpeg",
+          "path": "data/media/USR001/packs/PK005/Anime_Sticker-j9mguj.jpeg",
+          "size": 50069,
+          "sizeFormatted": "49 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "5423b50860eb2d56a8307f3a26d46974d0f42168015eaf6b0e9d9586556f07d5"
+        },
+        {
+          "id": "M011",
+          "filename": "Anime_Sticker-gq1ytx.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK005%2FAnime_Sticker-gq1ytx.jpeg",
+          "path": "data/media/USR001/packs/PK005/Anime_Sticker-gq1ytx.jpeg",
+          "size": 36689,
+          "sizeFormatted": "36 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "d7581ad7921aecc22fd3c0a3b07a1ff31fa41c26322e10848dd20f48de1bc84c"
+        },
+        {
+          "id": "M012",
+          "filename": "Anime_Sticker-1fpdov.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK005%2FAnime_Sticker-1fpdov.jpeg",
+          "path": "data/media/USR001/packs/PK005/Anime_Sticker-1fpdov.jpeg",
+          "size": 64923,
+          "sizeFormatted": "63 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "5831ac040f7db1b4dbe5f9052059d502b6a448cca743069783fc3b7945ca1e39"
+        },
+        {
+          "id": "M013",
+          "filename": "Anime_Sticker-k4hw92.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK005%2FAnime_Sticker-k4hw92.jpeg",
+          "path": "data/media/USR001/packs/PK005/Anime_Sticker-k4hw92.jpeg",
+          "size": 52897,
+          "sizeFormatted": "52 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "204cde06bb2fcb2fbc1c301e94c6c64e1bbd469ce1a46ab30d3ffc8ca9cbe07a"
+        },
+        {
+          "id": "M014",
+          "filename": "Anime_Sticker-fod1hg.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK005%2FAnime_Sticker-fod1hg.jpeg",
+          "path": "data/media/USR001/packs/PK005/Anime_Sticker-fod1hg.jpeg",
+          "size": 55569,
+          "sizeFormatted": "54 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "6d70f732e38a494dac8367ae61ba2dc4cc160f9fa4869140ad562f27121001f7"
+        },
+        {
+          "id": "M015",
+          "filename": "Anime_Sticker-y0ppdf.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK005%2FAnime_Sticker-y0ppdf.jpeg",
+          "path": "data/media/USR001/packs/PK005/Anime_Sticker-y0ppdf.jpeg",
+          "size": 73535,
+          "sizeFormatted": "72 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "8654b6cb2eaa1aea9749186ebfa2d6fbd342ba2c048f6432c85f0f71998fe8ed"
+        },
+        {
+          "id": "M016",
+          "filename": "Anime_Sticker-nrk7up.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK005%2FAnime_Sticker-nrk7up.jpeg",
+          "path": "data/media/USR001/packs/PK005/Anime_Sticker-nrk7up.jpeg",
+          "size": 60929,
+          "sizeFormatted": "60 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "f07c93b7be361d165c19b2841100ab38ed431be13ce17f52605ff213b2e32281"
+        },
+        {
+          "id": "M017",
+          "filename": "Anime_Sticker-gsz1j0.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK005%2FAnime_Sticker-gsz1j0.jpeg",
+          "path": "data/media/USR001/packs/PK005/Anime_Sticker-gsz1j0.jpeg",
+          "size": 38545,
+          "sizeFormatted": "38 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "c52f8b21f4d42447eccbff37b2838a999166abfc9a73f2efe4ca363bec8369c8"
+        },
+        {
+          "id": "M018",
+          "filename": "Anime_Sticker-33ziyx.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK005%2FAnime_Sticker-33ziyx.jpeg",
+          "path": "data/media/USR001/packs/PK005/Anime_Sticker-33ziyx.jpeg",
+          "size": 21944,
+          "sizeFormatted": "21 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "ace6111519d0902ea6f952af005ac3a47cc9f8734a77aa4c6cf2425e6507c863"
+        },
+        {
+          "id": "M019",
+          "filename": "Anime_Sticker-scvvl4.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK005%2FAnime_Sticker-scvvl4.jpeg",
+          "path": "data/media/USR001/packs/PK005/Anime_Sticker-scvvl4.jpeg",
+          "size": 56907,
+          "sizeFormatted": "56 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "d4fa402b2543a870a269890fd0014bd658e20a893e003b0c1f499c5cf4410def"
+        },
+        {
+          "id": "M020",
+          "filename": "Anime_Sticker-0mts0n.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK005%2FAnime_Sticker-0mts0n.jpeg",
+          "path": "data/media/USR001/packs/PK005/Anime_Sticker-0mts0n.jpeg",
+          "size": 28874,
+          "sizeFormatted": "28 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "326a9be50178d7a3a230e363a83f54c7cb9cb9289a2a65de8b1cbebc9dbfee80"
+        }
+      ]
+    },
+    {
       "id": "PK004",
       "ownerId": "USR001",
       "ownerUsername": "tes",
@@ -907,5 +1142,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-17T17:19:59.675Z"
+  "updatedAt": "2026-10-17T17:44:50.917Z"
 }
