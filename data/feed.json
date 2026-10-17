@@ -65,38 +65,6 @@
       ]
     },
     {
-      "id": "UP004",
-      "userId": "USR001",
-      "creator": {
-        "username": "tes",
-        "name": "User",
-        "avatar": null
-      },
-      "title": "Meme_Twitter-aevhiw-t62zpj",
-      "description": "",
-      "tags": [],
-      "visibility": "public",
-      "uploadedAt": "2026-10-17T11:15:29.094Z",
-      "totalFiles": 1,
-      "totalSize": 21434,
-      "totalSizeFormatted": "21 KB",
-      "views": 3,
-      "likes": [],
-      "media": [
-        {
-          "id": "M001",
-          "filename": "Meme_Twitter-aevhiw-t62zpj.jpeg",
-          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP004%2FMeme_Twitter-aevhiw-t62zpj.jpeg",
-          "path": "data/media/USR001/UP004/Meme_Twitter-aevhiw-t62zpj.jpeg",
-          "size": 21434,
-          "sizeFormatted": "21 KB",
-          "mimeType": "image/jpeg",
-          "type": "image",
-          "hash": "6a4d818d5e0dc270e288a4ddca65d6395a133bfeef80bef84f3ff087a04d1b1d"
-        }
-      ]
-    },
-    {
       "id": "UP002",
       "userId": "USR001",
       "creator": {
@@ -166,5 +134,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-17T11:17:52.864Z"
+  "updatedAt": "2026-10-17T11:17:54.278Z"
 }
