@@ -1558,6 +1558,12 @@
   ],
   "activityLog": [
     {
+      "id": "act_mvcotmtdbeh0x",
+      "action": "upload",
+      "detail": "20 media (single)",
+      "at": "2026-10-17T17:45:50.017Z"
+    },
+    {
       "id": "act_mvcose4o22lrw",
       "action": "pack_create",
       "detail": "Paket \"Anime Sticker\" (20 media)",
@@ -1680,5 +1686,5 @@
   ],
   "rulesAccepted": false,
   "createdAt": "2026-10-15T10:31:13.987Z",
-  "updatedAt": "2026-10-17T17:44:52.104Z"
+  "updatedAt": "2026-10-17T17:45:51.518Z"
 }
