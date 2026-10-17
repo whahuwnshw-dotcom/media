@@ -18,7 +18,20 @@
       "avatar": "/api/media?path=data%2Fmedia%2FUSR002%2Favatar-c8w4.jpg&t=1792068457060",
       "text": "Hi",
       "at": "2026-10-17T11:17:04.064Z"
+    },
+    {
+      "id": "c_mvcaxsmma7b9m",
+      "userId": "USR002",
+      "username": "branpediaid.com",
+      "name": "Owner",
+      "avatar": "/api/media?path=data%2Fmedia%2FUSR002%2Favatar-c8w4.jpg&t=1792068457060",
+      "text": "Hi",
+      "at": "2026-10-17T11:17:09.550Z",
+      "replyTo": {
+        "commentId": "c_mvcawy9opj5d2",
+        "name": "User"
+      }
     }
   ],
-  "updatedAt": "2026-10-17T11:17:04.064Z"
+  "updatedAt": "2026-10-17T11:17:09.550Z"
 }
