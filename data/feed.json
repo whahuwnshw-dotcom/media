@@ -1,6 +1,401 @@
 {
   "uploads": [
     {
+      "id": "UP003",
+      "userId": "USR001",
+      "creator": {
+        "username": "tes",
+        "name": "User",
+        "avatar": null
+      },
+      "title": "",
+      "description": "",
+      "tags": [],
+      "visibility": "public",
+      "uploadedAt": "2026-10-17T10:55:15.956Z",
+      "totalFiles": 34,
+      "totalSize": 1761260,
+      "totalSizeFormatted": "1.7 MB",
+      "views": 0,
+      "likes": [],
+      "media": [
+        {
+          "id": "M001",
+          "filename": "Meme_Twitter-aevhiw.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP003%2FMeme_Twitter-aevhiw.jpeg",
+          "path": "data/media/USR001/UP003/Meme_Twitter-aevhiw.jpeg",
+          "size": 18282,
+          "sizeFormatted": "18 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "389c1e0e3de3fdbf812d896a054292bd60650b06bdb0b16aa5d33ddb5da7d7a1"
+        },
+        {
+          "id": "M002",
+          "filename": "file-48qa7e.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP003%2Ffile-48qa7e.jpeg",
+          "path": "data/media/USR001/UP003/file-48qa7e.jpeg",
+          "size": 60204,
+          "sizeFormatted": "59 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "67e9e71dedd3325890c191b44349355be2e72bb0199462efbe5ad27228c42988"
+        },
+        {
+          "id": "M003",
+          "filename": "Sameko_Saba_Icon_Pfp-zcuj1u.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP003%2FSameko_Saba_Icon_Pfp-zcuj1u.jpeg",
+          "path": "data/media/USR001/UP003/Sameko_Saba_Icon_Pfp-zcuj1u.jpeg",
+          "size": 46114,
+          "sizeFormatted": "45 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "fd8e31efb349d1aead40b62a0df9e2ba475aed10bda7f6f57d1eaa2e64059238"
+        },
+        {
+          "id": "M004",
+          "filename": "sdm_rendah-trhpii.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP003%2Fsdm_rendah-trhpii.jpeg",
+          "path": "data/media/USR001/UP003/sdm_rendah-trhpii.jpeg",
+          "size": 42190,
+          "sizeFormatted": "41 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "0fc851773470a9967b5e930268e18c49aced14d592c635e998b8e2d7141bca47"
+        },
+        {
+          "id": "M005",
+          "filename": "ibuki-rmragq.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP003%2Fibuki-rmragq.jpeg",
+          "path": "data/media/USR001/UP003/ibuki-rmragq.jpeg",
+          "size": 88355,
+          "sizeFormatted": "86 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "b19caafed7002484cbd9887b9559f81fbba16a9b785af9c6fa7a1d09ad7d4dc7"
+        },
+        {
+          "id": "M006",
+          "filename": "blue_archive_meme_18-eqyofp.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP003%2Fblue_archive_meme_18-eqyofp.jpeg",
+          "path": "data/media/USR001/UP003/blue_archive_meme_18-eqyofp.jpeg",
+          "size": 43520,
+          "sizeFormatted": "43 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "1626d6b0470666acdd080dbed771e4cb14a774c162328a0f2632883a41a7ddd2"
+        },
+        {
+          "id": "M007",
+          "filename": "1697b9f9-b285-456c-91b9-79c8a0918320-88f3ca.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP003%2F1697b9f9-b285-456c-91b9-79c8a0918320-88f3ca.jpeg",
+          "path": "data/media/USR001/UP003/1697b9f9-b285-456c-91b9-79c8a0918320-88f3ca.jpeg",
+          "size": 16030,
+          "sizeFormatted": "16 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "92fd9154356bf3750e87d67442e718f637b18cf8b3695c3954da85939742bb2d"
+        },
+        {
+          "id": "M008",
+          "filename": "6b307dee-3d9d-4a60-9454-4cc90c9bda80-6b95he.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP003%2F6b307dee-3d9d-4a60-9454-4cc90c9bda80-6b95he.jpeg",
+          "path": "data/media/USR001/UP003/6b307dee-3d9d-4a60-9454-4cc90c9bda80-6b95he.jpeg",
+          "size": 49203,
+          "sizeFormatted": "48 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "46c043665ea8e3f256f7718f8c51500289d2b008a78fe12c47d1719fc66f6edb"
+        },
+        {
+          "id": "M009",
+          "filename": "3f35b606-459d-49f6-947b-809c18198624-l1espc.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP003%2F3f35b606-459d-49f6-947b-809c18198624-l1espc.jpeg",
+          "path": "data/media/USR001/UP003/3f35b606-459d-49f6-947b-809c18198624-l1espc.jpeg",
+          "size": 54362,
+          "sizeFormatted": "53 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "cbd32008ee045943568efce795674891ad7aa1ee524af757d64322fb0dc320a7"
+        },
+        {
+          "id": "M010",
+          "filename": "20441289-e68c-49cf-bc9b-3e4e6a093e7e-dez2vo.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP003%2F20441289-e68c-49cf-bc9b-3e4e6a093e7e-dez2vo.jpeg",
+          "path": "data/media/USR001/UP003/20441289-e68c-49cf-bc9b-3e4e6a093e7e-dez2vo.jpeg",
+          "size": 59213,
+          "sizeFormatted": "58 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "a1b44db39e24b19e5d367e435bbbd2b7bb83d5469baa47e7d10fd464a310f3d4"
+        },
+        {
+          "id": "M011",
+          "filename": "ee0a8a95-fb52-4dcc-8879-19f49f49e9e2-3r76ql.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP003%2Fee0a8a95-fb52-4dcc-8879-19f49f49e9e2-3r76ql.jpeg",
+          "path": "data/media/USR001/UP003/ee0a8a95-fb52-4dcc-8879-19f49f49e9e2-3r76ql.jpeg",
+          "size": 9146,
+          "sizeFormatted": "9 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "85f9ca7473077ee3c918a050c137c8b5cb55caa840137727065bea18fa5fffc7"
+        },
+        {
+          "id": "M012",
+          "filename": "Dia_duluan_bukan_saya-6shnfd.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP003%2FDia_duluan_bukan_saya-6shnfd.jpeg",
+          "path": "data/media/USR001/UP003/Dia_duluan_bukan_saya-6shnfd.jpeg",
+          "size": 47164,
+          "sizeFormatted": "46 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "465451848e4b58554dac3614696b39738e22586a6f1ee0c2ab0a4119a9046ea2"
+        },
+        {
+          "id": "M013",
+          "filename": "596236a9-a26c-443f-b8d1-82269885ba35-2n1kjr.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP003%2F596236a9-a26c-443f-b8d1-82269885ba35-2n1kjr.jpeg",
+          "path": "data/media/USR001/UP003/596236a9-a26c-443f-b8d1-82269885ba35-2n1kjr.jpeg",
+          "size": 56612,
+          "sizeFormatted": "55 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "71f909c04da3e1294d494f5c2cd4dc1c6c4efaf5e95a455e09fd752b82acdc44"
+        },
+        {
+          "id": "M014",
+          "filename": "7ee08add-70ac-4459-b48e-2a09f62612a1-8oztk6.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP003%2F7ee08add-70ac-4459-b48e-2a09f62612a1-8oztk6.jpeg",
+          "path": "data/media/USR001/UP003/7ee08add-70ac-4459-b48e-2a09f62612a1-8oztk6.jpeg",
+          "size": 43002,
+          "sizeFormatted": "42 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "391cbf4859b32513b58f4e69d4253cb7ce206fc9491859d54462e3199023e63b"
+        },
+        {
+          "id": "M015",
+          "filename": "blue_archive_meme_17-vcug0p.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP003%2Fblue_archive_meme_17-vcug0p.jpeg",
+          "path": "data/media/USR001/UP003/blue_archive_meme_17-vcug0p.jpeg",
+          "size": 58281,
+          "sizeFormatted": "57 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "0303af5eb049e4e78803b905d1fb26b84513e6e79ac703cf097f353c4b2ab1a1"
+        },
+        {
+          "id": "M016",
+          "filename": "56686b02-d2bd-47df-8060-976ac487d6ae-90t60c.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP003%2F56686b02-d2bd-47df-8060-976ac487d6ae-90t60c.jpeg",
+          "path": "data/media/USR001/UP003/56686b02-d2bd-47df-8060-976ac487d6ae-90t60c.jpeg",
+          "size": 82463,
+          "sizeFormatted": "81 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "33ea0eeefb3ba358cf5b2534687d5479c1ebf08ac340b51085a9fde25f0c955b"
+        },
+        {
+          "id": "M017",
+          "filename": "contoh_manusia_karbit-rlad27.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP003%2Fcontoh_manusia_karbit-rlad27.jpeg",
+          "path": "data/media/USR001/UP003/contoh_manusia_karbit-rlad27.jpeg",
+          "size": 91929,
+          "sizeFormatted": "90 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "e2902d985952eb3e98ae677d609080db3d65ba29e614e968712beb176c155bd1"
+        },
+        {
+          "id": "M018",
+          "filename": "e4fe4919-8fe4-40c5-bb23-e4539e3f670e-bl8aq5.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP003%2Fe4fe4919-8fe4-40c5-bb23-e4539e3f670e-bl8aq5.jpeg",
+          "path": "data/media/USR001/UP003/e4fe4919-8fe4-40c5-bb23-e4539e3f670e-bl8aq5.jpeg",
+          "size": 88931,
+          "sizeFormatted": "87 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "d7c55096bd65a8fb2d68bc587aaa5cdca265e91e61f7c07121de0c82d756ecd7"
+        },
+        {
+          "id": "M019",
+          "filename": "6b7f72bb-f933-48a2-9203-74b5a64b752c-24jxt8.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP003%2F6b7f72bb-f933-48a2-9203-74b5a64b752c-24jxt8.jpeg",
+          "path": "data/media/USR001/UP003/6b7f72bb-f933-48a2-9203-74b5a64b752c-24jxt8.jpeg",
+          "size": 50385,
+          "sizeFormatted": "49 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "3f5c4ba63284cd1996eabef426630746d87e1b5965c7c32238834369b3ddb9ca"
+        },
+        {
+          "id": "M020",
+          "filename": "anime_stickers_whatsapp_4_Pin_oleh_Pandu_Dewanata_di_fto_di_2025_Seni_Seni_pop_G-uj4ufu.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP003%2Fanime_stickers_whatsapp_4_Pin_oleh_Pandu_Dewanata_di_fto_di_2025_Seni_Seni_pop_G-uj4ufu.jpeg",
+          "path": "data/media/USR001/UP003/anime_stickers_whatsapp_4_Pin_oleh_Pandu_Dewanata_di_fto_di_2025_Seni_Seni_pop_G-uj4ufu.jpeg",
+          "size": 38129,
+          "sizeFormatted": "37 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "50681a95ecc254190f2d141e4fa029c1a2f873cd994128abd7e6977d1944dcbb"
+        },
+        {
+          "id": "M021",
+          "filename": "blue_archive_meme_16-i84z9c.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP003%2Fblue_archive_meme_16-i84z9c.jpeg",
+          "path": "data/media/USR001/UP003/blue_archive_meme_16-i84z9c.jpeg",
+          "size": 35849,
+          "sizeFormatted": "35 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "6d15ecd1da48e36e9ab0a716ee7923fa6e5fd50d4e8a4682ed764f5511c7d907"
+        },
+        {
+          "id": "M022",
+          "filename": "blue_archive_meme_15-51wvvb.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP003%2Fblue_archive_meme_15-51wvvb.jpeg",
+          "path": "data/media/USR001/UP003/blue_archive_meme_15-51wvvb.jpeg",
+          "size": 63453,
+          "sizeFormatted": "62 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "e4d99e01d52f2acd5ce7a46ce5e07406becea9897886b9c6718cfd392f6c853e"
+        },
+        {
+          "id": "M023",
+          "filename": "blue_archive_meme_14-qd1ccb.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP003%2Fblue_archive_meme_14-qd1ccb.jpeg",
+          "path": "data/media/USR001/UP003/blue_archive_meme_14-qd1ccb.jpeg",
+          "size": 49402,
+          "sizeFormatted": "48 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "af467c49d56eb4fabaf34351e59b1711cc2e57a0ee3053440425fd9f33b84319"
+        },
+        {
+          "id": "M024",
+          "filename": "23bc0eb0-5c68-4a1d-8d66-47c86ad54b71-kvpvpg.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP003%2F23bc0eb0-5c68-4a1d-8d66-47c86ad54b71-kvpvpg.jpeg",
+          "path": "data/media/USR001/UP003/23bc0eb0-5c68-4a1d-8d66-47c86ad54b71-kvpvpg.jpeg",
+          "size": 40734,
+          "sizeFormatted": "40 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "04fae8a4c46be494872f0d5845f21f45ac55d4cafdd4f05bb2a10c8042178a04"
+        },
+        {
+          "id": "M025",
+          "filename": "539a1714-a04c-4a3b-a788-28f9ac15a8eb-ikt23w.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP003%2F539a1714-a04c-4a3b-a788-28f9ac15a8eb-ikt23w.jpeg",
+          "path": "data/media/USR001/UP003/539a1714-a04c-4a3b-a788-28f9ac15a8eb-ikt23w.jpeg",
+          "size": 45125,
+          "sizeFormatted": "44 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "c7a8ef1ae3edcaecd037073a434929c9bc23621064b8e4981937b2675fe23bf2"
+        },
+        {
+          "id": "M026",
+          "filename": "mentahan_stiker_anime_by_lisa_1-vsd3lf.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP003%2Fmentahan_stiker_anime_by_lisa_1-vsd3lf.jpeg",
+          "path": "data/media/USR001/UP003/mentahan_stiker_anime_by_lisa_1-vsd3lf.jpeg",
+          "size": 74245,
+          "sizeFormatted": "73 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "80b0df932075961c467b1a69cfdbe9a9f4536a982858090d421bec73352bb31d"
+        },
+        {
+          "id": "M027",
+          "filename": "88b0c382-c3c1-44eb-ba1b-442a76b7d1f5-l2qj9f.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP003%2F88b0c382-c3c1-44eb-ba1b-442a76b7d1f5-l2qj9f.jpeg",
+          "path": "data/media/USR001/UP003/88b0c382-c3c1-44eb-ba1b-442a76b7d1f5-l2qj9f.jpeg",
+          "size": 21345,
+          "sizeFormatted": "21 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "613a4140acf178a06866d3b2d369077594b3d82fa626fad71d26c692e1d71fe6"
+        },
+        {
+          "id": "M028",
+          "filename": "3e7e9bfc-2716-4fb5-8ce8-603d88c6a88d-02abqy.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP003%2F3e7e9bfc-2716-4fb5-8ce8-603d88c6a88d-02abqy.jpeg",
+          "path": "data/media/USR001/UP003/3e7e9bfc-2716-4fb5-8ce8-603d88c6a88d-02abqy.jpeg",
+          "size": 55005,
+          "sizeFormatted": "54 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "fe6b2b5f1406a934641cbe635863c6e0500bf332a44549c8281c44371f65a305"
+        },
+        {
+          "id": "M029",
+          "filename": "blue_archive_meme_13-aqgyex.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP003%2Fblue_archive_meme_13-aqgyex.jpeg",
+          "path": "data/media/USR001/UP003/blue_archive_meme_13-aqgyex.jpeg",
+          "size": 67603,
+          "sizeFormatted": "66 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "398481ccc41a5378c0c94abe78112011383c4f9907bce0269125c83ed30e3c1a"
+        },
+        {
+          "id": "M030",
+          "filename": "Mengapa_pesan_tersebut_dihapus-4nhtqq.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP003%2FMengapa_pesan_tersebut_dihapus-4nhtqq.jpeg",
+          "path": "data/media/USR001/UP003/Mengapa_pesan_tersebut_dihapus-4nhtqq.jpeg",
+          "size": 58032,
+          "sizeFormatted": "57 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "27fe877f8a5387e9dd19ee10525bba7720cc66d89c16e491abf17cd6b801fcaa"
+        },
+        {
+          "id": "M031",
+          "filename": "I_m_back-k0wqjy.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP003%2FI_m_back-k0wqjy.jpeg",
+          "path": "data/media/USR001/UP003/I_m_back-k0wqjy.jpeg",
+          "size": 42845,
+          "sizeFormatted": "42 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "9e539bf99efb44cf7c0c92c71f58998d91ea6787f7e0c5195585c9ad31b4c756"
+        },
+        {
+          "id": "M032",
+          "filename": "blue_archive_meme_12-o7fz8a.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP003%2Fblue_archive_meme_12-o7fz8a.jpeg",
+          "path": "data/media/USR001/UP003/blue_archive_meme_12-o7fz8a.jpeg",
+          "size": 55781,
+          "sizeFormatted": "54 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "65cea4ed198d1b7fe3758a7f892471d501c978799957cf0a97e8cd6e73baaeb3"
+        },
+        {
+          "id": "M033",
+          "filename": "dipikir_pikir_boleh_juga-qqcob7.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP003%2Fdipikir_pikir_boleh_juga-qqcob7.jpeg",
+          "path": "data/media/USR001/UP003/dipikir_pikir_boleh_juga-qqcob7.jpeg",
+          "size": 72526,
+          "sizeFormatted": "71 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "4d6d2f1f4bd1840a6ee308fc94d77444970965a4adfa59f32ef020ef9be326cd"
+        },
+        {
+          "id": "M034",
+          "filename": "meme_anime_2-ss34i4.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP003%2Fmeme_anime_2-ss34i4.jpeg",
+          "path": "data/media/USR001/UP003/meme_anime_2-ss34i4.jpeg",
+          "size": 35800,
+          "sizeFormatted": "35 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "13003cb72eaf15f91e009b4bf315b4968c1acf1c2ed5e234431a5e142dc4e9ff"
+        }
+      ]
+    },
+    {
       "id": "UP002",
       "userId": "USR001",
       "creator": {
@@ -70,5 +465,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-17T02:10:04.255Z"
+  "updatedAt": "2026-10-17T10:55:16.373Z"
 }
