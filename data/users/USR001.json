@@ -667,6 +667,12 @@
   ],
   "activityLog": [
     {
+      "id": "act_mvcaz1h557nwi",
+      "action": "delete_post",
+      "detail": "UP006",
+      "at": "2026-10-17T11:18:07.673Z"
+    },
+    {
       "id": "act_mvcayxaexbq6r",
       "action": "delete_post",
       "detail": "UP005",
@@ -753,5 +759,5 @@
   ],
   "rulesAccepted": false,
   "createdAt": "2026-10-15T10:31:13.987Z",
-  "updatedAt": "2026-10-17T11:18:03.747Z"
+  "updatedAt": "2026-10-17T11:18:09.174Z"
 }
