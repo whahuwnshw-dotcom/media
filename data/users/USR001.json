@@ -7,6 +7,237 @@
   },
   "packs": [
     {
+      "id": "PK004",
+      "name": "Ngawi",
+      "desc": "",
+      "author": "User",
+      "visibility": "public",
+      "owned": true,
+      "createdAt": "2026-10-17T17:19:58.686Z",
+      "items": [
+        {
+          "id": "M001",
+          "filename": "Ngawi-xf6iyk.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK004%2FNgawi-xf6iyk.jpeg",
+          "path": "data/media/USR001/packs/PK004/Ngawi-xf6iyk.jpeg",
+          "size": 53716,
+          "sizeFormatted": "52 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "6379850a89c1036cf89fef9f072e41a0ae290ab4596b012cc7f39c481113bb54"
+        },
+        {
+          "id": "M002",
+          "filename": "Ngawi-d1vupe.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK004%2FNgawi-d1vupe.jpeg",
+          "path": "data/media/USR001/packs/PK004/Ngawi-d1vupe.jpeg",
+          "size": 10463,
+          "sizeFormatted": "10 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "d7ef4eedf6aea04048aaf2242ce0d3046d7b909fdf436819a9ef48dea5525893"
+        },
+        {
+          "id": "M003",
+          "filename": "Ngawi-a5q9mo.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK004%2FNgawi-a5q9mo.jpeg",
+          "path": "data/media/USR001/packs/PK004/Ngawi-a5q9mo.jpeg",
+          "size": 40261,
+          "sizeFormatted": "39 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "53f1f2b30ea202e39fd564e8b31dfbc6ea2b624fd114b123b6582d3e409d31ed"
+        },
+        {
+          "id": "M004",
+          "filename": "Ngawi-3ys5no.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK004%2FNgawi-3ys5no.jpeg",
+          "path": "data/media/USR001/packs/PK004/Ngawi-3ys5no.jpeg",
+          "size": 11078,
+          "sizeFormatted": "11 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "946b7824ffbd54f61fdbe9438d5ddc0125ed35bc4aab2ef85d21b13600681eeb"
+        },
+        {
+          "id": "M005",
+          "filename": "Ngawi-veyxdc.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK004%2FNgawi-veyxdc.jpeg",
+          "path": "data/media/USR001/packs/PK004/Ngawi-veyxdc.jpeg",
+          "size": 7459,
+          "sizeFormatted": "7 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "e479fd3f853e0ff17d94f1c1bca158225b75c9eed7d105c99b75c9748c125984"
+        },
+        {
+          "id": "M006",
+          "filename": "Ngawi-9n5ond.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK004%2FNgawi-9n5ond.jpeg",
+          "path": "data/media/USR001/packs/PK004/Ngawi-9n5ond.jpeg",
+          "size": 34740,
+          "sizeFormatted": "34 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "e3c2b824f5fb7aa971b6e9f1f65ef3f7e54e3c597dcac00ebcc38a4821335448"
+        },
+        {
+          "id": "M007",
+          "filename": "Ngawi-mn2gct.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK004%2FNgawi-mn2gct.jpeg",
+          "path": "data/media/USR001/packs/PK004/Ngawi-mn2gct.jpeg",
+          "size": 10885,
+          "sizeFormatted": "11 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "72c98aa473d17e81f3089517e153c9e74835803560af993d973bc718d3150bf6"
+        },
+        {
+          "id": "M008",
+          "filename": "Ngawi-3ibgwu.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK004%2FNgawi-3ibgwu.jpeg",
+          "path": "data/media/USR001/packs/PK004/Ngawi-3ibgwu.jpeg",
+          "size": 74874,
+          "sizeFormatted": "73 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "3cf282bcea98a3b992b1327029482a0f56bcc92a74058043c64ccfc5b7b34ea2"
+        },
+        {
+          "id": "M009",
+          "filename": "Ngawi-qykn4a.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK004%2FNgawi-qykn4a.jpeg",
+          "path": "data/media/USR001/packs/PK004/Ngawi-qykn4a.jpeg",
+          "size": 8978,
+          "sizeFormatted": "9 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "3b3855835b04c8684b7a5697934db14ed38e964dbc759279e33b6f8d65909655"
+        },
+        {
+          "id": "M010",
+          "filename": "Ngawi-k07gfn.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK004%2FNgawi-k07gfn.jpeg",
+          "path": "data/media/USR001/packs/PK004/Ngawi-k07gfn.jpeg",
+          "size": 48293,
+          "sizeFormatted": "47 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "a06b572df2bfeb749740f8b1b5d639332a77535810747517991b623a0ebce080"
+        },
+        {
+          "id": "M011",
+          "filename": "Ngawi-lcgdlv.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK004%2FNgawi-lcgdlv.jpeg",
+          "path": "data/media/USR001/packs/PK004/Ngawi-lcgdlv.jpeg",
+          "size": 10773,
+          "sizeFormatted": "11 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "39d1273da721b9a1e4a11558c6e0d15f9398207f6faeabf13e188c3d7e4f6157"
+        },
+        {
+          "id": "M012",
+          "filename": "Ngawi-3h1dzt.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK004%2FNgawi-3h1dzt.jpeg",
+          "path": "data/media/USR001/packs/PK004/Ngawi-3h1dzt.jpeg",
+          "size": 60424,
+          "sizeFormatted": "59 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "54f5ad52a6966cb51ad834d2f43a10c8c2cd411ada5f10f98b0fd06d19754291"
+        },
+        {
+          "id": "M013",
+          "filename": "Ngawi-wqid0h.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK004%2FNgawi-wqid0h.jpeg",
+          "path": "data/media/USR001/packs/PK004/Ngawi-wqid0h.jpeg",
+          "size": 40014,
+          "sizeFormatted": "39 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "d2bc8533cba0581a1f0347775b7a07fc178118cc0766cd3018479a5f6af1ee1e"
+        },
+        {
+          "id": "M014",
+          "filename": "Ngawi-x3hi70.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK004%2FNgawi-x3hi70.jpeg",
+          "path": "data/media/USR001/packs/PK004/Ngawi-x3hi70.jpeg",
+          "size": 62196,
+          "sizeFormatted": "61 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "adda3560d2b532a2aec4a177f7d4e9c75f601ef258faee30dc0d656c5532a9f6"
+        },
+        {
+          "id": "M015",
+          "filename": "Ngawi-gyyrau.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK004%2FNgawi-gyyrau.jpeg",
+          "path": "data/media/USR001/packs/PK004/Ngawi-gyyrau.jpeg",
+          "size": 36199,
+          "sizeFormatted": "35 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "8aa8f2ca2bca32a68ccdb515880a7f5ab100a8d027d288eedb4da2f4eb699bb4"
+        },
+        {
+          "id": "M016",
+          "filename": "Ngawi-9argxx.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK004%2FNgawi-9argxx.jpeg",
+          "path": "data/media/USR001/packs/PK004/Ngawi-9argxx.jpeg",
+          "size": 15278,
+          "sizeFormatted": "15 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "49803a2591ba0a8ba22889e52e5aeb963fdd49af387e5306c467b9b592ac7a70"
+        },
+        {
+          "id": "M017",
+          "filename": "Ngawi-c0gpu7.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK004%2FNgawi-c0gpu7.jpeg",
+          "path": "data/media/USR001/packs/PK004/Ngawi-c0gpu7.jpeg",
+          "size": 21938,
+          "sizeFormatted": "21 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "3f0063d5ae1e5916ef76d40fb11fbd51fddae1aaa5f8f949b8a623e1cb588d77"
+        },
+        {
+          "id": "M018",
+          "filename": "Ngawi-iqlnd2.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK004%2FNgawi-iqlnd2.jpeg",
+          "path": "data/media/USR001/packs/PK004/Ngawi-iqlnd2.jpeg",
+          "size": 36926,
+          "sizeFormatted": "36 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "6c0a07583c546314fae0cfab01c5de19eacc0a0fd2be77bd30c2c242812de530"
+        },
+        {
+          "id": "M019",
+          "filename": "Ngawi-fcxdl5.gif",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK004%2FNgawi-fcxdl5.gif",
+          "path": "data/media/USR001/packs/PK004/Ngawi-fcxdl5.gif",
+          "size": 622103,
+          "sizeFormatted": "608 KB",
+          "mimeType": "image/gif",
+          "type": "image",
+          "hash": "20810357b1ce568db7a20f3d37cacf49e21742dc8807c35871f574f76da1ec11"
+        },
+        {
+          "id": "M020",
+          "filename": "Ngawi-bbgmkd.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK004%2FNgawi-bbgmkd.jpeg",
+          "path": "data/media/USR001/packs/PK004/Ngawi-bbgmkd.jpeg",
+          "size": 16649,
+          "sizeFormatted": "16 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "222bc7f8e6bafb969afea3cf71cd3c0bc5d50fb6b7fbcdae36f6582028c4382d"
+        }
+      ]
+    },
+    {
       "id": "PK003",
       "name": "Ngawi Stickers 2",
       "desc": "",
@@ -1096,6 +1327,12 @@
   ],
   "activityLog": [
     {
+      "id": "act_mvcnwfes0h2t2",
+      "action": "pack_create",
+      "detail": "Paket \"Ngawi\" (20 media)",
+      "at": "2026-10-17T17:20:00.772Z"
+    },
+    {
       "id": "act_mvcnebot288ne",
       "action": "pack_create",
       "detail": "Paket \"Ngawi Stickers 2\" (17 media)",
@@ -1206,5 +1443,5 @@
   ],
   "rulesAccepted": false,
   "createdAt": "2026-10-15T10:31:13.987Z",
-  "updatedAt": "2026-10-17T17:05:56.142Z"
+  "updatedAt": "2026-10-17T17:20:00.773Z"
 }
