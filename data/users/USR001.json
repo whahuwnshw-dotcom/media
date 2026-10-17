@@ -8,6 +8,237 @@
   "packs": [
     {
       "id": "PK002",
+      "name": "Ngawi Stickers",
+      "desc": "",
+      "author": "User",
+      "visibility": "public",
+      "owned": true,
+      "createdAt": "2026-10-17T17:03:35.468Z",
+      "items": [
+        {
+          "id": "M001",
+          "filename": "Ngawi_Stickers-0j27qg.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK002%2FNgawi_Stickers-0j27qg.jpeg",
+          "path": "data/media/USR001/packs/PK002/Ngawi_Stickers-0j27qg.jpeg",
+          "size": 45650,
+          "sizeFormatted": "45 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "27032ca11dac0f3453a2193f142a0abe2dcbe65f8d18202e6c36bddae5677574"
+        },
+        {
+          "id": "M002",
+          "filename": "Ngawi_Stickers-iu0zrr.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK002%2FNgawi_Stickers-iu0zrr.jpeg",
+          "path": "data/media/USR001/packs/PK002/Ngawi_Stickers-iu0zrr.jpeg",
+          "size": 35562,
+          "sizeFormatted": "35 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "e38315dd9897b9e428992a682a7734e8835dc5f1b1961f66098f757839ce4295"
+        },
+        {
+          "id": "M003",
+          "filename": "Ngawi_Stickers-5zauxl.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK002%2FNgawi_Stickers-5zauxl.jpeg",
+          "path": "data/media/USR001/packs/PK002/Ngawi_Stickers-5zauxl.jpeg",
+          "size": 37730,
+          "sizeFormatted": "37 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "784adf0d86c9e193faa30ae79db9c19fc9880078b830f2eec46ecb67a7cfb030"
+        },
+        {
+          "id": "M004",
+          "filename": "Ngawi_Stickers-80qf5r.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK002%2FNgawi_Stickers-80qf5r.jpeg",
+          "path": "data/media/USR001/packs/PK002/Ngawi_Stickers-80qf5r.jpeg",
+          "size": 52425,
+          "sizeFormatted": "51 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "654386191814625bff9836d880246f830d261ff3b443ca225fea5f3d724a02d9"
+        },
+        {
+          "id": "M005",
+          "filename": "Ngawi_Stickers-t7cliu.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK002%2FNgawi_Stickers-t7cliu.jpeg",
+          "path": "data/media/USR001/packs/PK002/Ngawi_Stickers-t7cliu.jpeg",
+          "size": 23278,
+          "sizeFormatted": "23 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "050b798dfb0e8ef89932c11a93ac7c1dd4b6052410df95e3da41fa1552752d90"
+        },
+        {
+          "id": "M006",
+          "filename": "Ngawi_Stickers-33v80p.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK002%2FNgawi_Stickers-33v80p.jpeg",
+          "path": "data/media/USR001/packs/PK002/Ngawi_Stickers-33v80p.jpeg",
+          "size": 32901,
+          "sizeFormatted": "32 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "dcc5c8068a8b673831b412ee0403773dda6ff80aa378a2e604a72285cf2538d2"
+        },
+        {
+          "id": "M007",
+          "filename": "Ngawi_Stickers-f8cp28.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK002%2FNgawi_Stickers-f8cp28.jpeg",
+          "path": "data/media/USR001/packs/PK002/Ngawi_Stickers-f8cp28.jpeg",
+          "size": 35869,
+          "sizeFormatted": "35 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "beec7a61e15bb77d1c6e604a727fbd2fd4e6715540d51b03c11d54e02cb82242"
+        },
+        {
+          "id": "M008",
+          "filename": "Ngawi_Stickers-kez0px.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK002%2FNgawi_Stickers-kez0px.jpeg",
+          "path": "data/media/USR001/packs/PK002/Ngawi_Stickers-kez0px.jpeg",
+          "size": 34967,
+          "sizeFormatted": "34 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "a75b9cf3d8d2c37dae0ab0d75ed93f0cb26cad04a8c0ac3bb90c6d15bd024a10"
+        },
+        {
+          "id": "M009",
+          "filename": "Ngawi_Stickers-i2iwhg.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK002%2FNgawi_Stickers-i2iwhg.jpeg",
+          "path": "data/media/USR001/packs/PK002/Ngawi_Stickers-i2iwhg.jpeg",
+          "size": 52225,
+          "sizeFormatted": "51 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "0e88f975a2518a50e2cf722bdaadd8d9036e4170dcec6844e94c5617d005028d"
+        },
+        {
+          "id": "M010",
+          "filename": "Ngawi_Stickers-ixfn9r.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK002%2FNgawi_Stickers-ixfn9r.jpeg",
+          "path": "data/media/USR001/packs/PK002/Ngawi_Stickers-ixfn9r.jpeg",
+          "size": 11448,
+          "sizeFormatted": "11 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "00a56c4050f25a3b16368c71e800cafcf7671cea2ff56dbe89bcb00a45f61332"
+        },
+        {
+          "id": "M011",
+          "filename": "Ngawi_Stickers-zxz820.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK002%2FNgawi_Stickers-zxz820.jpeg",
+          "path": "data/media/USR001/packs/PK002/Ngawi_Stickers-zxz820.jpeg",
+          "size": 40203,
+          "sizeFormatted": "39 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "639d368322ad3b21470fc55d095966f0b3f9e99e418b21d9685a1fa028d0e0f3"
+        },
+        {
+          "id": "M012",
+          "filename": "Ngawi_Stickers-kzjp0o.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK002%2FNgawi_Stickers-kzjp0o.jpeg",
+          "path": "data/media/USR001/packs/PK002/Ngawi_Stickers-kzjp0o.jpeg",
+          "size": 10231,
+          "sizeFormatted": "10 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "ab53970459e8d3df74d83a5b63f03aa954404ab4a2152c8f79fc0137b4b09114"
+        },
+        {
+          "id": "M013",
+          "filename": "Ngawi_Stickers-q60b7e.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK002%2FNgawi_Stickers-q60b7e.jpeg",
+          "path": "data/media/USR001/packs/PK002/Ngawi_Stickers-q60b7e.jpeg",
+          "size": 38761,
+          "sizeFormatted": "38 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "fc052333248503a46b69de5f3f90e47f5c02fe75bb9d6cca7f49d63a6308f103"
+        },
+        {
+          "id": "M014",
+          "filename": "Ngawi_Stickers-fvw2e5.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK002%2FNgawi_Stickers-fvw2e5.jpeg",
+          "path": "data/media/USR001/packs/PK002/Ngawi_Stickers-fvw2e5.jpeg",
+          "size": 38066,
+          "sizeFormatted": "37 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "8ccdca05dfbe73480c7a91671509a4d3ea928367e62c050e129b96f50deaf404"
+        },
+        {
+          "id": "M015",
+          "filename": "Ngawi_Stickers-1ro8dq.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK002%2FNgawi_Stickers-1ro8dq.jpeg",
+          "path": "data/media/USR001/packs/PK002/Ngawi_Stickers-1ro8dq.jpeg",
+          "size": 27154,
+          "sizeFormatted": "27 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "2638c155ab406f9e666be583a1ebcf40c1f889ea5a80b4825c68d76b657c48e0"
+        },
+        {
+          "id": "M016",
+          "filename": "Ngawi_Stickers-c7mnuu.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK002%2FNgawi_Stickers-c7mnuu.jpeg",
+          "path": "data/media/USR001/packs/PK002/Ngawi_Stickers-c7mnuu.jpeg",
+          "size": 15134,
+          "sizeFormatted": "15 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "7d392119c4e9be38984db405afd0a85c1e2dab65ffd5d10ebac188612d41b3e8"
+        },
+        {
+          "id": "M017",
+          "filename": "Ngawi_Stickers-blnsai.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK002%2FNgawi_Stickers-blnsai.jpeg",
+          "path": "data/media/USR001/packs/PK002/Ngawi_Stickers-blnsai.jpeg",
+          "size": 44055,
+          "sizeFormatted": "43 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "633ebcb35bb5a398d49b978b201925ca38d6e0d8cfbfcccf073eac6c53cb5f09"
+        },
+        {
+          "id": "M018",
+          "filename": "Ngawi_Stickers-sjvcps.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK002%2FNgawi_Stickers-sjvcps.jpeg",
+          "path": "data/media/USR001/packs/PK002/Ngawi_Stickers-sjvcps.jpeg",
+          "size": 25845,
+          "sizeFormatted": "25 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "0ee370aa90f5e0586647cab147e5fc0e00e0a944de7919f40f580ebf05f11178"
+        },
+        {
+          "id": "M019",
+          "filename": "Ngawi_Stickers-babtd7.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK002%2FNgawi_Stickers-babtd7.jpeg",
+          "path": "data/media/USR001/packs/PK002/Ngawi_Stickers-babtd7.jpeg",
+          "size": 9609,
+          "sizeFormatted": "9 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "f50900c31d12065f064562489b97c6d7da2d94f22f93a6e40c4cad8553cd9c3e"
+        },
+        {
+          "id": "M020",
+          "filename": "Ngawi_Stickers-etroum.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2Fpacks%2FPK002%2FNgawi_Stickers-etroum.jpeg",
+          "path": "data/media/USR001/packs/PK002/Ngawi_Stickers-etroum.jpeg",
+          "size": 27329,
+          "sizeFormatted": "27 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "b40d1aae6692d3ff031446ef834f0aa3a7fd3d02b1978b62386e7596e6e1520f"
+        }
+      ]
+    },
+    {
+      "id": "PK002",
       "name": "Anime",
       "desc": "",
       "author": "User",
@@ -667,6 +898,12 @@
   ],
   "activityLog": [
     {
+      "id": "act_mvcnbcmgyasas",
+      "action": "pack_create",
+      "detail": "Paket \"Ngawi Stickers\" (20 media)",
+      "at": "2026-10-17T17:03:37.384Z"
+    },
+    {
       "id": "act_mvcb1ruq2txhf",
       "action": "upload",
       "detail": "34 media (single)",
@@ -765,5 +1002,5 @@
   ],
   "rulesAccepted": false,
   "createdAt": "2026-10-15T10:31:13.987Z",
-  "updatedAt": "2026-10-17T11:20:16.671Z"
+  "updatedAt": "2026-10-17T17:03:37.384Z"
 }
