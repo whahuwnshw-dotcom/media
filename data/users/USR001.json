@@ -667,6 +667,12 @@
   ],
   "activityLog": [
     {
+      "id": "act_mvcayspwa3bh2",
+      "action": "delete_post",
+      "detail": "UP004",
+      "at": "2026-10-17T11:17:56.324Z"
+    },
+    {
       "id": "act_mvcavogpzuxp2",
       "action": "upload",
       "detail": "3 media (single)",
@@ -741,5 +747,5 @@
   ],
   "rulesAccepted": false,
   "createdAt": "2026-10-15T10:31:13.987Z",
-  "updatedAt": "2026-10-17T11:15:32.344Z"
+  "updatedAt": "2026-10-17T11:17:57.826Z"
 }
