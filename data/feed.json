@@ -1,6 +1,102 @@
 {
   "uploads": [
     {
+      "id": "UP006",
+      "userId": "USR001",
+      "creator": {
+        "username": "tes",
+        "name": "User",
+        "avatar": null
+      },
+      "title": "Sameko_Saba_Icon_Pfp-sbezn6",
+      "description": "",
+      "tags": [],
+      "visibility": "public",
+      "uploadedAt": "2026-10-17T11:15:29.094Z",
+      "totalFiles": 1,
+      "totalSize": 46114,
+      "totalSizeFormatted": "45 KB",
+      "views": 0,
+      "likes": [],
+      "media": [
+        {
+          "id": "M001",
+          "filename": "Sameko_Saba_Icon_Pfp-sbezn6.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP006%2FSameko_Saba_Icon_Pfp-sbezn6.jpeg",
+          "path": "data/media/USR001/UP006/Sameko_Saba_Icon_Pfp-sbezn6.jpeg",
+          "size": 46114,
+          "sizeFormatted": "45 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "fd8e31efb349d1aead40b62a0df9e2ba475aed10bda7f6f57d1eaa2e64059238"
+        }
+      ]
+    },
+    {
+      "id": "UP005",
+      "userId": "USR001",
+      "creator": {
+        "username": "tes",
+        "name": "User",
+        "avatar": null
+      },
+      "title": "Meme_Twitter-8erzfl",
+      "description": "",
+      "tags": [],
+      "visibility": "public",
+      "uploadedAt": "2026-10-17T11:15:29.094Z",
+      "totalFiles": 1,
+      "totalSize": 18282,
+      "totalSizeFormatted": "18 KB",
+      "views": 0,
+      "likes": [],
+      "media": [
+        {
+          "id": "M001",
+          "filename": "Meme_Twitter-8erzfl.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP005%2FMeme_Twitter-8erzfl.jpeg",
+          "path": "data/media/USR001/UP005/Meme_Twitter-8erzfl.jpeg",
+          "size": 18282,
+          "sizeFormatted": "18 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "389c1e0e3de3fdbf812d896a054292bd60650b06bdb0b16aa5d33ddb5da7d7a1"
+        }
+      ]
+    },
+    {
+      "id": "UP004",
+      "userId": "USR001",
+      "creator": {
+        "username": "tes",
+        "name": "User",
+        "avatar": null
+      },
+      "title": "Meme_Twitter-aevhiw-t62zpj",
+      "description": "",
+      "tags": [],
+      "visibility": "public",
+      "uploadedAt": "2026-10-17T11:15:29.094Z",
+      "totalFiles": 1,
+      "totalSize": 21434,
+      "totalSizeFormatted": "21 KB",
+      "views": 0,
+      "likes": [],
+      "media": [
+        {
+          "id": "M001",
+          "filename": "Meme_Twitter-aevhiw-t62zpj.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP004%2FMeme_Twitter-aevhiw-t62zpj.jpeg",
+          "path": "data/media/USR001/UP004/Meme_Twitter-aevhiw-t62zpj.jpeg",
+          "size": 21434,
+          "sizeFormatted": "21 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "6a4d818d5e0dc270e288a4ddca65d6395a133bfeef80bef84f3ff087a04d1b1d"
+        }
+      ]
+    },
+    {
       "id": "UP003",
       "userId": "USR001",
       "creator": {
@@ -465,5 +561,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-17T11:15:12.734Z"
+  "updatedAt": "2026-10-17T11:15:29.527Z"
 }
