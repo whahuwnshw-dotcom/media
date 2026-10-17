@@ -667,6 +667,12 @@
   ],
   "activityLog": [
     {
+      "id": "act_mvcavogpzuxp2",
+      "action": "upload",
+      "detail": "3 media (single)",
+      "at": "2026-10-17T11:15:30.841Z"
+    },
+    {
       "id": "act_mvca5oi0zh2u2",
       "action": "upload",
       "detail": "34 file (1.7 MB)",
@@ -735,5 +741,5 @@
   ],
   "rulesAccepted": false,
   "createdAt": "2026-10-15T10:31:13.987Z",
-  "updatedAt": "2026-10-17T10:55:19.352Z"
+  "updatedAt": "2026-10-17T11:15:32.344Z"
 }
