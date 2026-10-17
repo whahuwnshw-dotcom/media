@@ -1,6 +1,1094 @@
 {
   "uploads": [
     {
+      "id": "UP036",
+      "userId": "USR001",
+      "creator": {
+        "username": "tes",
+        "name": "User",
+        "avatar": null
+      },
+      "title": "meme_anime_2-qt4xec",
+      "description": "",
+      "tags": [],
+      "visibility": "public",
+      "uploadedAt": "2026-10-17T11:20:13.259Z",
+      "totalFiles": 1,
+      "totalSize": 35800,
+      "totalSizeFormatted": "35 KB",
+      "views": 0,
+      "likes": [],
+      "media": [
+        {
+          "id": "M001",
+          "filename": "meme_anime_2-qt4xec.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP036%2Fmeme_anime_2-qt4xec.jpeg",
+          "path": "data/media/USR001/UP036/meme_anime_2-qt4xec.jpeg",
+          "size": 35800,
+          "sizeFormatted": "35 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "13003cb72eaf15f91e009b4bf315b4968c1acf1c2ed5e234431a5e142dc4e9ff"
+        }
+      ]
+    },
+    {
+      "id": "UP035",
+      "userId": "USR001",
+      "creator": {
+        "username": "tes",
+        "name": "User",
+        "avatar": null
+      },
+      "title": "dipikir_pikir_boleh_juga-u29g4r",
+      "description": "",
+      "tags": [],
+      "visibility": "public",
+      "uploadedAt": "2026-10-17T11:20:13.259Z",
+      "totalFiles": 1,
+      "totalSize": 72526,
+      "totalSizeFormatted": "71 KB",
+      "views": 0,
+      "likes": [],
+      "media": [
+        {
+          "id": "M001",
+          "filename": "dipikir_pikir_boleh_juga-u29g4r.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP035%2Fdipikir_pikir_boleh_juga-u29g4r.jpeg",
+          "path": "data/media/USR001/UP035/dipikir_pikir_boleh_juga-u29g4r.jpeg",
+          "size": 72526,
+          "sizeFormatted": "71 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "4d6d2f1f4bd1840a6ee308fc94d77444970965a4adfa59f32ef020ef9be326cd"
+        }
+      ]
+    },
+    {
+      "id": "UP034",
+      "userId": "USR001",
+      "creator": {
+        "username": "tes",
+        "name": "User",
+        "avatar": null
+      },
+      "title": "blue_archive_meme_12-w0iqxj",
+      "description": "",
+      "tags": [],
+      "visibility": "public",
+      "uploadedAt": "2026-10-17T11:20:13.259Z",
+      "totalFiles": 1,
+      "totalSize": 55781,
+      "totalSizeFormatted": "54 KB",
+      "views": 0,
+      "likes": [],
+      "media": [
+        {
+          "id": "M001",
+          "filename": "blue_archive_meme_12-w0iqxj.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP034%2Fblue_archive_meme_12-w0iqxj.jpeg",
+          "path": "data/media/USR001/UP034/blue_archive_meme_12-w0iqxj.jpeg",
+          "size": 55781,
+          "sizeFormatted": "54 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "65cea4ed198d1b7fe3758a7f892471d501c978799957cf0a97e8cd6e73baaeb3"
+        }
+      ]
+    },
+    {
+      "id": "UP033",
+      "userId": "USR001",
+      "creator": {
+        "username": "tes",
+        "name": "User",
+        "avatar": null
+      },
+      "title": "I_m_back-y2vr1r",
+      "description": "",
+      "tags": [],
+      "visibility": "public",
+      "uploadedAt": "2026-10-17T11:20:13.259Z",
+      "totalFiles": 1,
+      "totalSize": 42845,
+      "totalSizeFormatted": "42 KB",
+      "views": 0,
+      "likes": [],
+      "media": [
+        {
+          "id": "M001",
+          "filename": "I_m_back-y2vr1r.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP033%2FI_m_back-y2vr1r.jpeg",
+          "path": "data/media/USR001/UP033/I_m_back-y2vr1r.jpeg",
+          "size": 42845,
+          "sizeFormatted": "42 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "9e539bf99efb44cf7c0c92c71f58998d91ea6787f7e0c5195585c9ad31b4c756"
+        }
+      ]
+    },
+    {
+      "id": "UP032",
+      "userId": "USR001",
+      "creator": {
+        "username": "tes",
+        "name": "User",
+        "avatar": null
+      },
+      "title": "Mengapa_pesan_tersebut_dihapus-llg14d",
+      "description": "",
+      "tags": [],
+      "visibility": "public",
+      "uploadedAt": "2026-10-17T11:20:13.259Z",
+      "totalFiles": 1,
+      "totalSize": 58032,
+      "totalSizeFormatted": "57 KB",
+      "views": 0,
+      "likes": [],
+      "media": [
+        {
+          "id": "M001",
+          "filename": "Mengapa_pesan_tersebut_dihapus-llg14d.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP032%2FMengapa_pesan_tersebut_dihapus-llg14d.jpeg",
+          "path": "data/media/USR001/UP032/Mengapa_pesan_tersebut_dihapus-llg14d.jpeg",
+          "size": 58032,
+          "sizeFormatted": "57 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "27fe877f8a5387e9dd19ee10525bba7720cc66d89c16e491abf17cd6b801fcaa"
+        }
+      ]
+    },
+    {
+      "id": "UP031",
+      "userId": "USR001",
+      "creator": {
+        "username": "tes",
+        "name": "User",
+        "avatar": null
+      },
+      "title": "blue_archive_meme_13-hgq129",
+      "description": "",
+      "tags": [],
+      "visibility": "public",
+      "uploadedAt": "2026-10-17T11:20:13.259Z",
+      "totalFiles": 1,
+      "totalSize": 67603,
+      "totalSizeFormatted": "66 KB",
+      "views": 0,
+      "likes": [],
+      "media": [
+        {
+          "id": "M001",
+          "filename": "blue_archive_meme_13-hgq129.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP031%2Fblue_archive_meme_13-hgq129.jpeg",
+          "path": "data/media/USR001/UP031/blue_archive_meme_13-hgq129.jpeg",
+          "size": 67603,
+          "sizeFormatted": "66 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "398481ccc41a5378c0c94abe78112011383c4f9907bce0269125c83ed30e3c1a"
+        }
+      ]
+    },
+    {
+      "id": "UP030",
+      "userId": "USR001",
+      "creator": {
+        "username": "tes",
+        "name": "User",
+        "avatar": null
+      },
+      "title": "3e7e9bfc-2716-4fb5-8ce8-603d88c6a88d-uuvnai",
+      "description": "",
+      "tags": [],
+      "visibility": "public",
+      "uploadedAt": "2026-10-17T11:20:13.259Z",
+      "totalFiles": 1,
+      "totalSize": 55005,
+      "totalSizeFormatted": "54 KB",
+      "views": 0,
+      "likes": [],
+      "media": [
+        {
+          "id": "M001",
+          "filename": "3e7e9bfc-2716-4fb5-8ce8-603d88c6a88d-uuvnai.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP030%2F3e7e9bfc-2716-4fb5-8ce8-603d88c6a88d-uuvnai.jpeg",
+          "path": "data/media/USR001/UP030/3e7e9bfc-2716-4fb5-8ce8-603d88c6a88d-uuvnai.jpeg",
+          "size": 55005,
+          "sizeFormatted": "54 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "fe6b2b5f1406a934641cbe635863c6e0500bf332a44549c8281c44371f65a305"
+        }
+      ]
+    },
+    {
+      "id": "UP029",
+      "userId": "USR001",
+      "creator": {
+        "username": "tes",
+        "name": "User",
+        "avatar": null
+      },
+      "title": "88b0c382-c3c1-44eb-ba1b-442a76b7d1f5-m8b3zl",
+      "description": "",
+      "tags": [],
+      "visibility": "public",
+      "uploadedAt": "2026-10-17T11:20:13.259Z",
+      "totalFiles": 1,
+      "totalSize": 21345,
+      "totalSizeFormatted": "21 KB",
+      "views": 0,
+      "likes": [],
+      "media": [
+        {
+          "id": "M001",
+          "filename": "88b0c382-c3c1-44eb-ba1b-442a76b7d1f5-m8b3zl.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP029%2F88b0c382-c3c1-44eb-ba1b-442a76b7d1f5-m8b3zl.jpeg",
+          "path": "data/media/USR001/UP029/88b0c382-c3c1-44eb-ba1b-442a76b7d1f5-m8b3zl.jpeg",
+          "size": 21345,
+          "sizeFormatted": "21 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "613a4140acf178a06866d3b2d369077594b3d82fa626fad71d26c692e1d71fe6"
+        }
+      ]
+    },
+    {
+      "id": "UP028",
+      "userId": "USR001",
+      "creator": {
+        "username": "tes",
+        "name": "User",
+        "avatar": null
+      },
+      "title": "mentahan_stiker_anime_by_lisa_1-4idcr9",
+      "description": "",
+      "tags": [],
+      "visibility": "public",
+      "uploadedAt": "2026-10-17T11:20:13.259Z",
+      "totalFiles": 1,
+      "totalSize": 74245,
+      "totalSizeFormatted": "73 KB",
+      "views": 0,
+      "likes": [],
+      "media": [
+        {
+          "id": "M001",
+          "filename": "mentahan_stiker_anime_by_lisa_1-4idcr9.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP028%2Fmentahan_stiker_anime_by_lisa_1-4idcr9.jpeg",
+          "path": "data/media/USR001/UP028/mentahan_stiker_anime_by_lisa_1-4idcr9.jpeg",
+          "size": 74245,
+          "sizeFormatted": "73 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "80b0df932075961c467b1a69cfdbe9a9f4536a982858090d421bec73352bb31d"
+        }
+      ]
+    },
+    {
+      "id": "UP027",
+      "userId": "USR001",
+      "creator": {
+        "username": "tes",
+        "name": "User",
+        "avatar": null
+      },
+      "title": "539a1714-a04c-4a3b-a788-28f9ac15a8eb-lgqoim",
+      "description": "",
+      "tags": [],
+      "visibility": "public",
+      "uploadedAt": "2026-10-17T11:20:13.259Z",
+      "totalFiles": 1,
+      "totalSize": 45125,
+      "totalSizeFormatted": "44 KB",
+      "views": 0,
+      "likes": [],
+      "media": [
+        {
+          "id": "M001",
+          "filename": "539a1714-a04c-4a3b-a788-28f9ac15a8eb-lgqoim.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP027%2F539a1714-a04c-4a3b-a788-28f9ac15a8eb-lgqoim.jpeg",
+          "path": "data/media/USR001/UP027/539a1714-a04c-4a3b-a788-28f9ac15a8eb-lgqoim.jpeg",
+          "size": 45125,
+          "sizeFormatted": "44 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "c7a8ef1ae3edcaecd037073a434929c9bc23621064b8e4981937b2675fe23bf2"
+        }
+      ]
+    },
+    {
+      "id": "UP026",
+      "userId": "USR001",
+      "creator": {
+        "username": "tes",
+        "name": "User",
+        "avatar": null
+      },
+      "title": "23bc0eb0-5c68-4a1d-8d66-47c86ad54b71-slj5el",
+      "description": "",
+      "tags": [],
+      "visibility": "public",
+      "uploadedAt": "2026-10-17T11:20:13.259Z",
+      "totalFiles": 1,
+      "totalSize": 40734,
+      "totalSizeFormatted": "40 KB",
+      "views": 0,
+      "likes": [],
+      "media": [
+        {
+          "id": "M001",
+          "filename": "23bc0eb0-5c68-4a1d-8d66-47c86ad54b71-slj5el.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP026%2F23bc0eb0-5c68-4a1d-8d66-47c86ad54b71-slj5el.jpeg",
+          "path": "data/media/USR001/UP026/23bc0eb0-5c68-4a1d-8d66-47c86ad54b71-slj5el.jpeg",
+          "size": 40734,
+          "sizeFormatted": "40 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "04fae8a4c46be494872f0d5845f21f45ac55d4cafdd4f05bb2a10c8042178a04"
+        }
+      ]
+    },
+    {
+      "id": "UP025",
+      "userId": "USR001",
+      "creator": {
+        "username": "tes",
+        "name": "User",
+        "avatar": null
+      },
+      "title": "blue_archive_meme_14-9uvqp4",
+      "description": "",
+      "tags": [],
+      "visibility": "public",
+      "uploadedAt": "2026-10-17T11:20:13.259Z",
+      "totalFiles": 1,
+      "totalSize": 49402,
+      "totalSizeFormatted": "48 KB",
+      "views": 0,
+      "likes": [],
+      "media": [
+        {
+          "id": "M001",
+          "filename": "blue_archive_meme_14-9uvqp4.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP025%2Fblue_archive_meme_14-9uvqp4.jpeg",
+          "path": "data/media/USR001/UP025/blue_archive_meme_14-9uvqp4.jpeg",
+          "size": 49402,
+          "sizeFormatted": "48 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "af467c49d56eb4fabaf34351e59b1711cc2e57a0ee3053440425fd9f33b84319"
+        }
+      ]
+    },
+    {
+      "id": "UP024",
+      "userId": "USR001",
+      "creator": {
+        "username": "tes",
+        "name": "User",
+        "avatar": null
+      },
+      "title": "blue_archive_meme_15-0o3hl4",
+      "description": "",
+      "tags": [],
+      "visibility": "public",
+      "uploadedAt": "2026-10-17T11:20:13.259Z",
+      "totalFiles": 1,
+      "totalSize": 63453,
+      "totalSizeFormatted": "62 KB",
+      "views": 0,
+      "likes": [],
+      "media": [
+        {
+          "id": "M001",
+          "filename": "blue_archive_meme_15-0o3hl4.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP024%2Fblue_archive_meme_15-0o3hl4.jpeg",
+          "path": "data/media/USR001/UP024/blue_archive_meme_15-0o3hl4.jpeg",
+          "size": 63453,
+          "sizeFormatted": "62 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "e4d99e01d52f2acd5ce7a46ce5e07406becea9897886b9c6718cfd392f6c853e"
+        }
+      ]
+    },
+    {
+      "id": "UP023",
+      "userId": "USR001",
+      "creator": {
+        "username": "tes",
+        "name": "User",
+        "avatar": null
+      },
+      "title": "blue_archive_meme_16-obh8jn",
+      "description": "",
+      "tags": [],
+      "visibility": "public",
+      "uploadedAt": "2026-10-17T11:20:13.259Z",
+      "totalFiles": 1,
+      "totalSize": 35849,
+      "totalSizeFormatted": "35 KB",
+      "views": 0,
+      "likes": [],
+      "media": [
+        {
+          "id": "M001",
+          "filename": "blue_archive_meme_16-obh8jn.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP023%2Fblue_archive_meme_16-obh8jn.jpeg",
+          "path": "data/media/USR001/UP023/blue_archive_meme_16-obh8jn.jpeg",
+          "size": 35849,
+          "sizeFormatted": "35 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "6d15ecd1da48e36e9ab0a716ee7923fa6e5fd50d4e8a4682ed764f5511c7d907"
+        }
+      ]
+    },
+    {
+      "id": "UP022",
+      "userId": "USR001",
+      "creator": {
+        "username": "tes",
+        "name": "User",
+        "avatar": null
+      },
+      "title": "anime_stickers_whatsapp_4_Pin_oleh_Pandu_Dewanata_di_fto_di_2025_Seni_Seni_pop_G-2gfpch",
+      "description": "",
+      "tags": [],
+      "visibility": "public",
+      "uploadedAt": "2026-10-17T11:20:13.259Z",
+      "totalFiles": 1,
+      "totalSize": 38129,
+      "totalSizeFormatted": "37 KB",
+      "views": 0,
+      "likes": [],
+      "media": [
+        {
+          "id": "M001",
+          "filename": "anime_stickers_whatsapp_4_Pin_oleh_Pandu_Dewanata_di_fto_di_2025_Seni_Seni_pop_G-2gfpch.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP022%2Fanime_stickers_whatsapp_4_Pin_oleh_Pandu_Dewanata_di_fto_di_2025_Seni_Seni_pop_G-2gfpch.jpeg",
+          "path": "data/media/USR001/UP022/anime_stickers_whatsapp_4_Pin_oleh_Pandu_Dewanata_di_fto_di_2025_Seni_Seni_pop_G-2gfpch.jpeg",
+          "size": 38129,
+          "sizeFormatted": "37 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "50681a95ecc254190f2d141e4fa029c1a2f873cd994128abd7e6977d1944dcbb"
+        }
+      ]
+    },
+    {
+      "id": "UP021",
+      "userId": "USR001",
+      "creator": {
+        "username": "tes",
+        "name": "User",
+        "avatar": null
+      },
+      "title": "6b7f72bb-f933-48a2-9203-74b5a64b752c-bnoob8",
+      "description": "",
+      "tags": [],
+      "visibility": "public",
+      "uploadedAt": "2026-10-17T11:20:13.259Z",
+      "totalFiles": 1,
+      "totalSize": 50385,
+      "totalSizeFormatted": "49 KB",
+      "views": 0,
+      "likes": [],
+      "media": [
+        {
+          "id": "M001",
+          "filename": "6b7f72bb-f933-48a2-9203-74b5a64b752c-bnoob8.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP021%2F6b7f72bb-f933-48a2-9203-74b5a64b752c-bnoob8.jpeg",
+          "path": "data/media/USR001/UP021/6b7f72bb-f933-48a2-9203-74b5a64b752c-bnoob8.jpeg",
+          "size": 50385,
+          "sizeFormatted": "49 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "3f5c4ba63284cd1996eabef426630746d87e1b5965c7c32238834369b3ddb9ca"
+        }
+      ]
+    },
+    {
+      "id": "UP020",
+      "userId": "USR001",
+      "creator": {
+        "username": "tes",
+        "name": "User",
+        "avatar": null
+      },
+      "title": "e4fe4919-8fe4-40c5-bb23-e4539e3f670e-rwz92a",
+      "description": "",
+      "tags": [],
+      "visibility": "public",
+      "uploadedAt": "2026-10-17T11:20:13.259Z",
+      "totalFiles": 1,
+      "totalSize": 88931,
+      "totalSizeFormatted": "87 KB",
+      "views": 0,
+      "likes": [],
+      "media": [
+        {
+          "id": "M001",
+          "filename": "e4fe4919-8fe4-40c5-bb23-e4539e3f670e-rwz92a.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP020%2Fe4fe4919-8fe4-40c5-bb23-e4539e3f670e-rwz92a.jpeg",
+          "path": "data/media/USR001/UP020/e4fe4919-8fe4-40c5-bb23-e4539e3f670e-rwz92a.jpeg",
+          "size": 88931,
+          "sizeFormatted": "87 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "d7c55096bd65a8fb2d68bc587aaa5cdca265e91e61f7c07121de0c82d756ecd7"
+        }
+      ]
+    },
+    {
+      "id": "UP019",
+      "userId": "USR001",
+      "creator": {
+        "username": "tes",
+        "name": "User",
+        "avatar": null
+      },
+      "title": "contoh_manusia_karbit-zezxfw",
+      "description": "",
+      "tags": [],
+      "visibility": "public",
+      "uploadedAt": "2026-10-17T11:20:13.259Z",
+      "totalFiles": 1,
+      "totalSize": 91929,
+      "totalSizeFormatted": "90 KB",
+      "views": 0,
+      "likes": [],
+      "media": [
+        {
+          "id": "M001",
+          "filename": "contoh_manusia_karbit-zezxfw.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP019%2Fcontoh_manusia_karbit-zezxfw.jpeg",
+          "path": "data/media/USR001/UP019/contoh_manusia_karbit-zezxfw.jpeg",
+          "size": 91929,
+          "sizeFormatted": "90 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "e2902d985952eb3e98ae677d609080db3d65ba29e614e968712beb176c155bd1"
+        }
+      ]
+    },
+    {
+      "id": "UP018",
+      "userId": "USR001",
+      "creator": {
+        "username": "tes",
+        "name": "User",
+        "avatar": null
+      },
+      "title": "56686b02-d2bd-47df-8060-976ac487d6ae-sbzl7s",
+      "description": "",
+      "tags": [],
+      "visibility": "public",
+      "uploadedAt": "2026-10-17T11:20:13.259Z",
+      "totalFiles": 1,
+      "totalSize": 82463,
+      "totalSizeFormatted": "81 KB",
+      "views": 0,
+      "likes": [],
+      "media": [
+        {
+          "id": "M001",
+          "filename": "56686b02-d2bd-47df-8060-976ac487d6ae-sbzl7s.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP018%2F56686b02-d2bd-47df-8060-976ac487d6ae-sbzl7s.jpeg",
+          "path": "data/media/USR001/UP018/56686b02-d2bd-47df-8060-976ac487d6ae-sbzl7s.jpeg",
+          "size": 82463,
+          "sizeFormatted": "81 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "33ea0eeefb3ba358cf5b2534687d5479c1ebf08ac340b51085a9fde25f0c955b"
+        }
+      ]
+    },
+    {
+      "id": "UP017",
+      "userId": "USR001",
+      "creator": {
+        "username": "tes",
+        "name": "User",
+        "avatar": null
+      },
+      "title": "blue_archive_meme_17-awtujp",
+      "description": "",
+      "tags": [],
+      "visibility": "public",
+      "uploadedAt": "2026-10-17T11:20:13.259Z",
+      "totalFiles": 1,
+      "totalSize": 58281,
+      "totalSizeFormatted": "57 KB",
+      "views": 0,
+      "likes": [],
+      "media": [
+        {
+          "id": "M001",
+          "filename": "blue_archive_meme_17-awtujp.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP017%2Fblue_archive_meme_17-awtujp.jpeg",
+          "path": "data/media/USR001/UP017/blue_archive_meme_17-awtujp.jpeg",
+          "size": 58281,
+          "sizeFormatted": "57 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "0303af5eb049e4e78803b905d1fb26b84513e6e79ac703cf097f353c4b2ab1a1"
+        }
+      ]
+    },
+    {
+      "id": "UP016",
+      "userId": "USR001",
+      "creator": {
+        "username": "tes",
+        "name": "User",
+        "avatar": null
+      },
+      "title": "7ee08add-70ac-4459-b48e-2a09f62612a1-ma08ih",
+      "description": "",
+      "tags": [],
+      "visibility": "public",
+      "uploadedAt": "2026-10-17T11:20:13.259Z",
+      "totalFiles": 1,
+      "totalSize": 43002,
+      "totalSizeFormatted": "42 KB",
+      "views": 0,
+      "likes": [],
+      "media": [
+        {
+          "id": "M001",
+          "filename": "7ee08add-70ac-4459-b48e-2a09f62612a1-ma08ih.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP016%2F7ee08add-70ac-4459-b48e-2a09f62612a1-ma08ih.jpeg",
+          "path": "data/media/USR001/UP016/7ee08add-70ac-4459-b48e-2a09f62612a1-ma08ih.jpeg",
+          "size": 43002,
+          "sizeFormatted": "42 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "391cbf4859b32513b58f4e69d4253cb7ce206fc9491859d54462e3199023e63b"
+        }
+      ]
+    },
+    {
+      "id": "UP015",
+      "userId": "USR001",
+      "creator": {
+        "username": "tes",
+        "name": "User",
+        "avatar": null
+      },
+      "title": "596236a9-a26c-443f-b8d1-82269885ba35-tuoctg",
+      "description": "",
+      "tags": [],
+      "visibility": "public",
+      "uploadedAt": "2026-10-17T11:20:13.259Z",
+      "totalFiles": 1,
+      "totalSize": 56612,
+      "totalSizeFormatted": "55 KB",
+      "views": 0,
+      "likes": [],
+      "media": [
+        {
+          "id": "M001",
+          "filename": "596236a9-a26c-443f-b8d1-82269885ba35-tuoctg.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP015%2F596236a9-a26c-443f-b8d1-82269885ba35-tuoctg.jpeg",
+          "path": "data/media/USR001/UP015/596236a9-a26c-443f-b8d1-82269885ba35-tuoctg.jpeg",
+          "size": 56612,
+          "sizeFormatted": "55 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "71f909c04da3e1294d494f5c2cd4dc1c6c4efaf5e95a455e09fd752b82acdc44"
+        }
+      ]
+    },
+    {
+      "id": "UP014",
+      "userId": "USR001",
+      "creator": {
+        "username": "tes",
+        "name": "User",
+        "avatar": null
+      },
+      "title": "Dia_duluan_bukan_saya-xbjw3z",
+      "description": "",
+      "tags": [],
+      "visibility": "public",
+      "uploadedAt": "2026-10-17T11:20:13.259Z",
+      "totalFiles": 1,
+      "totalSize": 47164,
+      "totalSizeFormatted": "46 KB",
+      "views": 0,
+      "likes": [],
+      "media": [
+        {
+          "id": "M001",
+          "filename": "Dia_duluan_bukan_saya-xbjw3z.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP014%2FDia_duluan_bukan_saya-xbjw3z.jpeg",
+          "path": "data/media/USR001/UP014/Dia_duluan_bukan_saya-xbjw3z.jpeg",
+          "size": 47164,
+          "sizeFormatted": "46 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "465451848e4b58554dac3614696b39738e22586a6f1ee0c2ab0a4119a9046ea2"
+        }
+      ]
+    },
+    {
+      "id": "UP013",
+      "userId": "USR001",
+      "creator": {
+        "username": "tes",
+        "name": "User",
+        "avatar": null
+      },
+      "title": "ee0a8a95-fb52-4dcc-8879-19f49f49e9e2-2r8wk8",
+      "description": "",
+      "tags": [],
+      "visibility": "public",
+      "uploadedAt": "2026-10-17T11:20:13.259Z",
+      "totalFiles": 1,
+      "totalSize": 9146,
+      "totalSizeFormatted": "9 KB",
+      "views": 0,
+      "likes": [],
+      "media": [
+        {
+          "id": "M001",
+          "filename": "ee0a8a95-fb52-4dcc-8879-19f49f49e9e2-2r8wk8.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP013%2Fee0a8a95-fb52-4dcc-8879-19f49f49e9e2-2r8wk8.jpeg",
+          "path": "data/media/USR001/UP013/ee0a8a95-fb52-4dcc-8879-19f49f49e9e2-2r8wk8.jpeg",
+          "size": 9146,
+          "sizeFormatted": "9 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "85f9ca7473077ee3c918a050c137c8b5cb55caa840137727065bea18fa5fffc7"
+        }
+      ]
+    },
+    {
+      "id": "UP012",
+      "userId": "USR001",
+      "creator": {
+        "username": "tes",
+        "name": "User",
+        "avatar": null
+      },
+      "title": "20441289-e68c-49cf-bc9b-3e4e6a093e7e-vxu9ex",
+      "description": "",
+      "tags": [],
+      "visibility": "public",
+      "uploadedAt": "2026-10-17T11:20:13.259Z",
+      "totalFiles": 1,
+      "totalSize": 59213,
+      "totalSizeFormatted": "58 KB",
+      "views": 0,
+      "likes": [],
+      "media": [
+        {
+          "id": "M001",
+          "filename": "20441289-e68c-49cf-bc9b-3e4e6a093e7e-vxu9ex.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP012%2F20441289-e68c-49cf-bc9b-3e4e6a093e7e-vxu9ex.jpeg",
+          "path": "data/media/USR001/UP012/20441289-e68c-49cf-bc9b-3e4e6a093e7e-vxu9ex.jpeg",
+          "size": 59213,
+          "sizeFormatted": "58 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "a1b44db39e24b19e5d367e435bbbd2b7bb83d5469baa47e7d10fd464a310f3d4"
+        }
+      ]
+    },
+    {
+      "id": "UP011",
+      "userId": "USR001",
+      "creator": {
+        "username": "tes",
+        "name": "User",
+        "avatar": null
+      },
+      "title": "3f35b606-459d-49f6-947b-809c18198624-02d5mr",
+      "description": "",
+      "tags": [],
+      "visibility": "public",
+      "uploadedAt": "2026-10-17T11:20:13.258Z",
+      "totalFiles": 1,
+      "totalSize": 54362,
+      "totalSizeFormatted": "53 KB",
+      "views": 0,
+      "likes": [],
+      "media": [
+        {
+          "id": "M001",
+          "filename": "3f35b606-459d-49f6-947b-809c18198624-02d5mr.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP011%2F3f35b606-459d-49f6-947b-809c18198624-02d5mr.jpeg",
+          "path": "data/media/USR001/UP011/3f35b606-459d-49f6-947b-809c18198624-02d5mr.jpeg",
+          "size": 54362,
+          "sizeFormatted": "53 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "cbd32008ee045943568efce795674891ad7aa1ee524af757d64322fb0dc320a7"
+        }
+      ]
+    },
+    {
+      "id": "UP010",
+      "userId": "USR001",
+      "creator": {
+        "username": "tes",
+        "name": "User",
+        "avatar": null
+      },
+      "title": "6b307dee-3d9d-4a60-9454-4cc90c9bda80-egjv6n",
+      "description": "",
+      "tags": [],
+      "visibility": "public",
+      "uploadedAt": "2026-10-17T11:20:13.258Z",
+      "totalFiles": 1,
+      "totalSize": 49203,
+      "totalSizeFormatted": "48 KB",
+      "views": 0,
+      "likes": [],
+      "media": [
+        {
+          "id": "M001",
+          "filename": "6b307dee-3d9d-4a60-9454-4cc90c9bda80-egjv6n.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP010%2F6b307dee-3d9d-4a60-9454-4cc90c9bda80-egjv6n.jpeg",
+          "path": "data/media/USR001/UP010/6b307dee-3d9d-4a60-9454-4cc90c9bda80-egjv6n.jpeg",
+          "size": 49203,
+          "sizeFormatted": "48 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "46c043665ea8e3f256f7718f8c51500289d2b008a78fe12c47d1719fc66f6edb"
+        }
+      ]
+    },
+    {
+      "id": "UP009",
+      "userId": "USR001",
+      "creator": {
+        "username": "tes",
+        "name": "User",
+        "avatar": null
+      },
+      "title": "1697b9f9-b285-456c-91b9-79c8a0918320-su4suc",
+      "description": "",
+      "tags": [],
+      "visibility": "public",
+      "uploadedAt": "2026-10-17T11:20:13.258Z",
+      "totalFiles": 1,
+      "totalSize": 16030,
+      "totalSizeFormatted": "16 KB",
+      "views": 0,
+      "likes": [],
+      "media": [
+        {
+          "id": "M001",
+          "filename": "1697b9f9-b285-456c-91b9-79c8a0918320-su4suc.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP009%2F1697b9f9-b285-456c-91b9-79c8a0918320-su4suc.jpeg",
+          "path": "data/media/USR001/UP009/1697b9f9-b285-456c-91b9-79c8a0918320-su4suc.jpeg",
+          "size": 16030,
+          "sizeFormatted": "16 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "92fd9154356bf3750e87d67442e718f637b18cf8b3695c3954da85939742bb2d"
+        }
+      ]
+    },
+    {
+      "id": "UP008",
+      "userId": "USR001",
+      "creator": {
+        "username": "tes",
+        "name": "User",
+        "avatar": null
+      },
+      "title": "blue_archive_meme_18-gxi6l2",
+      "description": "",
+      "tags": [],
+      "visibility": "public",
+      "uploadedAt": "2026-10-17T11:20:13.258Z",
+      "totalFiles": 1,
+      "totalSize": 43520,
+      "totalSizeFormatted": "43 KB",
+      "views": 0,
+      "likes": [],
+      "media": [
+        {
+          "id": "M001",
+          "filename": "blue_archive_meme_18-gxi6l2.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP008%2Fblue_archive_meme_18-gxi6l2.jpeg",
+          "path": "data/media/USR001/UP008/blue_archive_meme_18-gxi6l2.jpeg",
+          "size": 43520,
+          "sizeFormatted": "43 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "1626d6b0470666acdd080dbed771e4cb14a774c162328a0f2632883a41a7ddd2"
+        }
+      ]
+    },
+    {
+      "id": "UP007",
+      "userId": "USR001",
+      "creator": {
+        "username": "tes",
+        "name": "User",
+        "avatar": null
+      },
+      "title": "ibuki-xkx3c8",
+      "description": "",
+      "tags": [],
+      "visibility": "public",
+      "uploadedAt": "2026-10-17T11:20:13.258Z",
+      "totalFiles": 1,
+      "totalSize": 88355,
+      "totalSizeFormatted": "86 KB",
+      "views": 0,
+      "likes": [],
+      "media": [
+        {
+          "id": "M001",
+          "filename": "ibuki-xkx3c8.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP007%2Fibuki-xkx3c8.jpeg",
+          "path": "data/media/USR001/UP007/ibuki-xkx3c8.jpeg",
+          "size": 88355,
+          "sizeFormatted": "86 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "b19caafed7002484cbd9887b9559f81fbba16a9b785af9c6fa7a1d09ad7d4dc7"
+        }
+      ]
+    },
+    {
+      "id": "UP006",
+      "userId": "USR001",
+      "creator": {
+        "username": "tes",
+        "name": "User",
+        "avatar": null
+      },
+      "title": "sdm_rendah-e22uqu",
+      "description": "",
+      "tags": [],
+      "visibility": "public",
+      "uploadedAt": "2026-10-17T11:20:13.258Z",
+      "totalFiles": 1,
+      "totalSize": 42190,
+      "totalSizeFormatted": "41 KB",
+      "views": 0,
+      "likes": [],
+      "media": [
+        {
+          "id": "M001",
+          "filename": "sdm_rendah-e22uqu.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP006%2Fsdm_rendah-e22uqu.jpeg",
+          "path": "data/media/USR001/UP006/sdm_rendah-e22uqu.jpeg",
+          "size": 42190,
+          "sizeFormatted": "41 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "0fc851773470a9967b5e930268e18c49aced14d592c635e998b8e2d7141bca47"
+        }
+      ]
+    },
+    {
+      "id": "UP005",
+      "userId": "USR001",
+      "creator": {
+        "username": "tes",
+        "name": "User",
+        "avatar": null
+      },
+      "title": "Sameko_Saba_Icon_Pfp-lmqylw",
+      "description": "",
+      "tags": [],
+      "visibility": "public",
+      "uploadedAt": "2026-10-17T11:20:13.258Z",
+      "totalFiles": 1,
+      "totalSize": 46114,
+      "totalSizeFormatted": "45 KB",
+      "views": 0,
+      "likes": [],
+      "media": [
+        {
+          "id": "M001",
+          "filename": "Sameko_Saba_Icon_Pfp-lmqylw.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP005%2FSameko_Saba_Icon_Pfp-lmqylw.jpeg",
+          "path": "data/media/USR001/UP005/Sameko_Saba_Icon_Pfp-lmqylw.jpeg",
+          "size": 46114,
+          "sizeFormatted": "45 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "fd8e31efb349d1aead40b62a0df9e2ba475aed10bda7f6f57d1eaa2e64059238"
+        }
+      ]
+    },
+    {
+      "id": "UP004",
+      "userId": "USR001",
+      "creator": {
+        "username": "tes",
+        "name": "User",
+        "avatar": null
+      },
+      "title": "file-eqomjz",
+      "description": "",
+      "tags": [],
+      "visibility": "public",
+      "uploadedAt": "2026-10-17T11:20:13.258Z",
+      "totalFiles": 1,
+      "totalSize": 60204,
+      "totalSizeFormatted": "59 KB",
+      "views": 0,
+      "likes": [],
+      "media": [
+        {
+          "id": "M001",
+          "filename": "file-eqomjz.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP004%2Ffile-eqomjz.jpeg",
+          "path": "data/media/USR001/UP004/file-eqomjz.jpeg",
+          "size": 60204,
+          "sizeFormatted": "59 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "67e9e71dedd3325890c191b44349355be2e72bb0199462efbe5ad27228c42988"
+        }
+      ]
+    },
+    {
+      "id": "UP003",
+      "userId": "USR001",
+      "creator": {
+        "username": "tes",
+        "name": "User",
+        "avatar": null
+      },
+      "title": "Meme_Twitter-t4b03y",
+      "description": "",
+      "tags": [],
+      "visibility": "public",
+      "uploadedAt": "2026-10-17T11:20:13.258Z",
+      "totalFiles": 1,
+      "totalSize": 18282,
+      "totalSizeFormatted": "18 KB",
+      "views": 0,
+      "likes": [],
+      "media": [
+        {
+          "id": "M001",
+          "filename": "Meme_Twitter-t4b03y.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP003%2FMeme_Twitter-t4b03y.jpeg",
+          "path": "data/media/USR001/UP003/Meme_Twitter-t4b03y.jpeg",
+          "size": 18282,
+          "sizeFormatted": "18 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "389c1e0e3de3fdbf812d896a054292bd60650b06bdb0b16aa5d33ddb5da7d7a1"
+        }
+      ]
+    },
+    {
       "id": "UP002",
       "userId": "USR001",
       "creator": {
@@ -70,5 +1158,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-17T11:18:05.012Z"
+  "updatedAt": "2026-10-17T11:20:13.709Z"
 }
