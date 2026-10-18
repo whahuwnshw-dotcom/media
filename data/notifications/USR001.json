@@ -2,17 +2,17 @@
   "userId": "USR001",
   "notifications": [
     {
-      "id": "n_mvdkg8b0gz7j",
-      "type": "reply",
+      "id": "n_mvdkg8b8cr78",
+      "type": "comment",
       "from": {
         "userId": "USR003",
         "name": "Bran si pertukangan 🗿",
         "avatar": null
       },
       "postId": "UP055",
-      "message": "membalas komentar kamu: \"😝😛🥵\"",
+      "message": "mengomentari post kamu: \"😝😛🥵\"",
       "read": false,
-      "at": "2026-10-18T08:31:12.396Z"
+      "at": "2026-10-18T08:31:12.404Z"
     },
     {
       "id": "n_mvdkf4xifquf",
@@ -257,5 +257,5 @@
       "at": "2026-10-15T21:50:31.407Z"
     }
   ],
-  "updatedAt": "2026-10-18T08:31:12.396Z"
+  "updatedAt": "2026-10-18T08:31:12.404Z"
 }
