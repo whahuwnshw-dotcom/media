@@ -3,7 +3,7 @@
   "profile": {
     "name": "User",
     "bio": "",
-    "avatar": null
+    "avatar": "/api/media?path=data%2Fmedia%2FUSR001%2Favatar-d752.jpg&t=1792327005859"
   },
   "packs": [
     {
@@ -1698,5 +1698,5 @@
   ],
   "rulesAccepted": false,
   "createdAt": "2026-10-15T10:31:13.987Z",
-  "updatedAt": "2026-10-18T08:32:51.220Z"
+  "updatedAt": "2026-10-18T12:36:45.859Z"
 }
