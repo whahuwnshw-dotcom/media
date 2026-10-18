@@ -1,6 +1,38 @@
 {
   "uploads": [
     {
+      "id": "UP057",
+      "userId": "USR001",
+      "creator": {
+        "username": "tes",
+        "name": "User",
+        "avatar": null
+      },
+      "title": "Sebel",
+      "description": "",
+      "tags": [],
+      "visibility": "private",
+      "uploadedAt": "2026-10-18T08:32:17.282Z",
+      "totalFiles": 1,
+      "totalSize": 56907,
+      "totalSizeFormatted": "56 KB",
+      "views": 0,
+      "likes": [],
+      "media": [
+        {
+          "id": "M001",
+          "filename": "Sebel-64v8pi.jpeg",
+          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP057%2FSebel-64v8pi.jpeg",
+          "path": "data/media/USR001/UP057/Sebel-64v8pi.jpeg",
+          "size": 56907,
+          "sizeFormatted": "56 KB",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "hash": "d4fa402b2543a870a269890fd0014bd658e20a893e003b0c1f499c5cf4410def"
+        }
+      ]
+    },
+    {
       "id": "UP056",
       "userId": "USR001",
       "creator": {
@@ -1803,5 +1835,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-18T08:30:40.455Z"
+  "updatedAt": "2026-10-18T08:32:17.754Z"
 }
