@@ -2,6 +2,19 @@
   "userId": "USR001",
   "notifications": [
     {
+      "id": "n_mvdjebnjp9ee",
+      "type": "like",
+      "from": {
+        "userId": "USR002",
+        "name": "Owner",
+        "avatar": "/api/media?path=data%2Fmedia%2FUSR002%2Favatar-xpx7.jpg&t=1792257796820"
+      },
+      "postId": "UP054",
+      "message": "menyukai post kamu",
+      "read": false,
+      "at": "2026-10-18T08:01:43.807Z"
+    },
+    {
       "id": "n_mvco12snvn9q",
       "type": "comment",
       "from": {
@@ -179,5 +192,5 @@
       "at": "2026-10-15T21:50:31.407Z"
     }
   ],
-  "updatedAt": "2026-10-17T17:23:37.703Z"
+  "updatedAt": "2026-10-18T08:01:43.807Z"
 }
