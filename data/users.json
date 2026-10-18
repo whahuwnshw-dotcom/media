@@ -119,8 +119,20 @@
       "status": "active",
       "tokenHash": "5f940ecd543f1be415a180801e116c98fb46d424364453c301c54c07b1a94702",
       "createdAt": "2026-10-18T08:27:28.002Z"
+    },
+    {
+      "id": "USR003",
+      "username": "akunbran",
+      "name": "Bran si pertukangan 🗿",
+      "email": "branpedia.id@next.com",
+      "profilePicture": null,
+      "bio": "",
+      "role": "user",
+      "status": "active",
+      "passwordHash": "daf9ca627050a8cfc2107d2eb64f419c21741e50d4a63f80685490437b3ed73c",
+      "createdAt": "2026-10-18T08:30:08.264Z"
     }
   ],
   "lastId": 0,
-  "updatedAt": "2026-10-18T08:27:28.002Z"
+  "updatedAt": "2026-10-18T08:30:08.264Z"
 }
