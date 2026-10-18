@@ -2,6 +2,19 @@
   "userId": "USR001",
   "notifications": [
     {
+      "id": "n_mvdkisaczkwu",
+      "type": "comment",
+      "from": {
+        "userId": "USR003",
+        "name": "Bran si pertukangan 🗿",
+        "avatar": null
+      },
+      "postId": "UP057",
+      "message": "mengomentari post kamu: \"Sebel 🥺\"",
+      "read": false,
+      "at": "2026-10-18T08:33:11.604Z"
+    },
+    {
       "id": "n_mvdkg8b8cr78",
       "type": "comment",
       "from": {
@@ -257,5 +270,5 @@
       "at": "2026-10-15T21:50:31.407Z"
     }
   ],
-  "updatedAt": "2026-10-18T08:31:12.404Z"
+  "updatedAt": "2026-10-18T08:33:11.604Z"
 }
