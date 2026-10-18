@@ -102,41 +102,6 @@
       ]
     },
     {
-      "id": "UP054",
-      "userId": "USR001",
-      "creator": {
-        "username": "tes",
-        "name": "User",
-        "avatar": null
-      },
-      "title": "Anime Sticker 2 18",
-      "description": "",
-      "tags": [],
-      "visibility": "public",
-      "uploadedAt": "2026-10-17T17:45:47.915Z",
-      "totalFiles": 1,
-      "totalSize": 94867,
-      "totalSizeFormatted": "93 KB",
-      "views": 5,
-      "likes": [
-        "USR002",
-        "USR001"
-      ],
-      "media": [
-        {
-          "id": "M001",
-          "filename": "Anime_Sticker_2-owrmdq.jpeg",
-          "url": "/api/media?path=data%2Fmedia%2FUSR001%2FUP054%2FAnime_Sticker_2-owrmdq.jpeg",
-          "path": "data/media/USR001/UP054/Anime_Sticker_2-owrmdq.jpeg",
-          "size": 94867,
-          "sizeFormatted": "93 KB",
-          "mimeType": "image/jpeg",
-          "type": "image",
-          "hash": "142044084dd9ffb55132154f427ba9dc1dfa7205cc47c27c6d2cd76cada85483"
-        }
-      ]
-    },
-    {
       "id": "UP053",
       "userId": "USR001",
       "creator": {
@@ -1838,5 +1803,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-18T12:10:31.671Z"
+  "updatedAt": "2026-10-18T12:10:36.234Z"
 }
