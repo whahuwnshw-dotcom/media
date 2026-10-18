@@ -2,6 +2,19 @@
   "userId": "USR001",
   "notifications": [
     {
+      "id": "n_mvdkf4xifquf",
+      "type": "comment",
+      "from": {
+        "userId": "USR003",
+        "name": "Bran si pertukangan 🗿",
+        "avatar": null
+      },
+      "postId": "UP055",
+      "message": "mengomentari post kamu: \"..gugaga\"",
+      "read": false,
+      "at": "2026-10-18T08:30:21.366Z"
+    },
+    {
       "id": "n_mvdk8o1z4gds",
       "type": "like",
       "from": {
@@ -231,5 +244,5 @@
       "at": "2026-10-15T21:50:31.407Z"
     }
   ],
-  "updatedAt": "2026-10-18T08:25:19.559Z"
+  "updatedAt": "2026-10-18T08:30:21.366Z"
 }
