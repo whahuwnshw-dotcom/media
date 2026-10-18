@@ -107,8 +107,20 @@
       "status": "active",
       "tokenHash": "c38bc4667bc38453f47890430e4a96c3e31407515cd98796ee0f04fbbe4d3ed9",
       "createdAt": "2026-10-17T17:07:25.396Z"
+    },
+    {
+      "id": "anon_49wxazdm",
+      "username": "anon_49wxazdm",
+      "name": "Anonim",
+      "email": "",
+      "profilePicture": null,
+      "bio": "",
+      "role": "guest",
+      "status": "active",
+      "tokenHash": "5f940ecd543f1be415a180801e116c98fb46d424364453c301c54c07b1a94702",
+      "createdAt": "2026-10-18T08:27:28.002Z"
     }
   ],
   "lastId": 0,
-  "updatedAt": "2026-10-17T17:07:25.397Z"
+  "updatedAt": "2026-10-18T08:27:28.002Z"
 }
