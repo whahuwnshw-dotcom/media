@@ -11,7 +11,7 @@
       "title": "Sebel",
       "description": "",
       "tags": [],
-      "visibility": "private",
+      "visibility": "public",
       "uploadedAt": "2026-10-18T08:32:17.282Z",
       "totalFiles": 1,
       "totalSize": 56907,
@@ -30,7 +30,8 @@
           "type": "image",
           "hash": "d4fa402b2543a870a269890fd0014bd658e20a893e003b0c1f499c5cf4410def"
         }
-      ]
+      ],
+      "editedAt": "2026-10-18T08:32:47.702Z"
     },
     {
       "id": "UP056",
@@ -1835,5 +1836,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-18T08:32:45.382Z"
+  "updatedAt": "2026-10-18T08:32:48.142Z"
 }
