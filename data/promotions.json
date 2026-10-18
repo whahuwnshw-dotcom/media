@@ -1,6 +1,16 @@
 {
   "promotions": [
     {
+      "id": "promo_mvdka0tgs5azd",
+      "action": "promote",
+      "targetUsername": "tes",
+      "fromRole": null,
+      "toRole": "mod",
+      "byUsername": "branpediaid.com",
+      "byUserId": "USR002",
+      "at": "2026-10-18T08:26:22.756Z"
+    },
+    {
       "id": "promo_mv9xxj55dwwxd",
       "action": "demote",
       "targetUsername": "tes",
@@ -23,5 +33,5 @@
       "at": "2026-10-15T19:36:36.842Z"
     }
   ],
-  "updatedAt": "2026-10-15T19:37:29.897Z"
+  "updatedAt": "2026-10-18T08:26:22.756Z"
 }
