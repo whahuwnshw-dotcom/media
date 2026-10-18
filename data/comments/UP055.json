@@ -9,7 +9,20 @@
       "avatar": null,
       "text": "..gugaga",
       "at": "2026-10-18T08:30:18.683Z"
+    },
+    {
+      "id": "c_mvdkfnmcjir1y",
+      "userId": "USR001",
+      "username": "tes",
+      "name": "User",
+      "avatar": null,
+      "text": "Apacoba",
+      "at": "2026-10-18T08:30:45.588Z",
+      "replyTo": {
+        "commentId": "c_mvdkf2uzas89m",
+        "name": "Bran si pertukangan 🗿"
+      }
     }
   ],
-  "updatedAt": "2026-10-18T08:30:18.683Z"
+  "updatedAt": "2026-10-18T08:30:45.588Z"
 }
