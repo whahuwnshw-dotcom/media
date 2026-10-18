@@ -82,7 +82,8 @@
       "totalSizeFormatted": "93 KB",
       "views": 3,
       "likes": [
-        "USR002"
+        "USR002",
+        "USR001"
       ],
       "media": [
         {
@@ -1800,5 +1801,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-18T08:02:16.307Z"
+  "updatedAt": "2026-10-18T08:04:07.388Z"
 }
