@@ -131,8 +131,20 @@
       "status": "active",
       "passwordHash": "daf9ca627050a8cfc2107d2eb64f419c21741e50d4a63f80685490437b3ed73c",
       "createdAt": "2026-10-18T08:30:08.264Z"
+    },
+    {
+      "id": "anon_ka2b5x06",
+      "username": "anon_ka2b5x06",
+      "name": "Anonim",
+      "email": "",
+      "profilePicture": null,
+      "bio": "",
+      "role": "guest",
+      "status": "active",
+      "tokenHash": "6886f0a81a0b29f20f54a4f423e3a3b79a018bfee8da7d1c3a970e961bb8b301",
+      "createdAt": "2026-10-18T11:19:59.847Z"
     }
   ],
   "lastId": 0,
-  "updatedAt": "2026-10-18T08:30:08.264Z"
+  "updatedAt": "2026-10-18T11:19:59.847Z"
 }
