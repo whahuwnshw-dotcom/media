@@ -81,7 +81,9 @@
       "totalSize": 94867,
       "totalSizeFormatted": "93 KB",
       "views": 2,
-      "likes": [],
+      "likes": [
+        "USR002"
+      ],
       "media": [
         {
           "id": "M001",
@@ -1798,5 +1800,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-18T08:01:36.913Z"
+  "updatedAt": "2026-10-18T08:01:41.276Z"
 }
