@@ -2,6 +2,19 @@
   "userId": "USR001",
   "notifications": [
     {
+      "id": "n_mvdkths3uvcc",
+      "type": "comment",
+      "from": {
+        "userId": "USR003",
+        "name": "Bran si pertukangan 🗿",
+        "avatar": null
+      },
+      "postId": "UP057",
+      "message": "mengomentari post kamu: \"Atut\"",
+      "read": false,
+      "at": "2026-10-18T08:41:31.203Z"
+    },
+    {
       "id": "n_mvdkt6ca7j1e",
       "type": "like",
       "from": {
@@ -283,5 +296,5 @@
       "at": "2026-10-15T21:50:31.407Z"
     }
   ],
-  "updatedAt": "2026-10-18T08:41:16.378Z"
+  "updatedAt": "2026-10-18T08:41:31.203Z"
 }
