@@ -143,8 +143,20 @@
       "status": "active",
       "tokenHash": "6886f0a81a0b29f20f54a4f423e3a3b79a018bfee8da7d1c3a970e961bb8b301",
       "createdAt": "2026-10-18T11:19:59.847Z"
+    },
+    {
+      "id": "anon_py7xey7p",
+      "username": "anon_py7xey7p",
+      "name": "Anonim",
+      "email": "",
+      "profilePicture": null,
+      "bio": "",
+      "role": "guest",
+      "status": "active",
+      "tokenHash": "d24810116593c6f061612e7012561ab6e27cd1c5466c99f2689fd8c57b2c0373",
+      "createdAt": "2026-10-22T10:56:55.529Z"
     }
   ],
   "lastId": 0,
-  "updatedAt": "2026-10-18T11:19:59.847Z"
+  "updatedAt": "2026-10-22T10:56:55.533Z"
 }
