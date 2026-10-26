@@ -155,8 +155,20 @@
       "status": "active",
       "tokenHash": "d24810116593c6f061612e7012561ab6e27cd1c5466c99f2689fd8c57b2c0373",
       "createdAt": "2026-10-22T10:56:55.529Z"
+    },
+    {
+      "id": "USR004",
+      "username": "radityarahman055gmail.com",
+      "name": "tya",
+      "email": "radityarahman055@gmail.com",
+      "profilePicture": null,
+      "bio": "",
+      "role": "user",
+      "status": "active",
+      "passwordHash": "688647c5ac6c92bb711aeb8a8cd750d924fbff5260981602bfc5e0957d47008f",
+      "createdAt": "2026-10-26T04:26:50.755Z"
     }
   ],
   "lastId": 0,
-  "updatedAt": "2026-10-22T10:56:55.533Z"
+  "updatedAt": "2026-10-26T04:26:50.760Z"
 }
