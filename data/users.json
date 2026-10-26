@@ -167,8 +167,20 @@
       "status": "active",
       "passwordHash": "688647c5ac6c92bb711aeb8a8cd750d924fbff5260981602bfc5e0957d47008f",
       "createdAt": "2026-10-26T04:26:50.755Z"
+    },
+    {
+      "id": "USR005",
+      "username": "leo",
+      "name": "Leoo",
+      "email": "",
+      "profilePicture": null,
+      "bio": "",
+      "role": "user",
+      "status": "active",
+      "passwordHash": "a762ab257fee4d1713b3d7c9edcefe4510676ee1f314d1d5fc9a761812dd249c",
+      "createdAt": "2026-10-26T11:12:32.925Z"
     }
   ],
   "lastId": 0,
-  "updatedAt": "2026-10-26T04:26:50.760Z"
+  "updatedAt": "2026-10-26T11:12:32.925Z"
 }
