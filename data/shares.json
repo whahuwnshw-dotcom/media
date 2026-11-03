@@ -2202,6 +2202,31 @@
       "createdAt": "2026-11-03T20:39:02.767Z",
       "expiresAt": 1796330342767,
       "ownerId": "admin"
+    },
+    "smw15p0h5lqug": {
+      "id": "smw15p0h5lqug",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=photo-editing/66b814d1ee6198d1a6b7f361.jpg",
+      "server": "server1",
+      "tags": [
+        "photo-editing",
+        "cute",
+        "young-girl",
+        "1girl",
+        "ahoge"
+      ],
+      "size": "197.01 KB",
+      "artist": "かなめなか",
+      "source": "https://www.pixiv.net/en/artworks/116670987",
+      "uploaded": "2026-11-03T20:44:36.137Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-03T20:44:36.137Z",
+      "expiresAt": 1796330676137,
+      "ownerId": null
     }
   }
 }
