@@ -1587,6 +1587,31 @@
       "createdAt": "2026-11-03T20:19:09.598Z",
       "expiresAt": 1796329149598,
       "ownerId": null
+    },
+    "smw14sarpricy": {
+      "id": "smw14sarpricy",
+      "url": "https://waifu2-6phafxnz7-branpedias-projects.vercel.app/api/image-proxy?filename=catgirl/66aa2e1c6cf9768f6ccf8c4e.png",
+      "server": "server1",
+      "tags": [
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "cute",
+        "cake"
+      ],
+      "size": "993.14 KB",
+      "artist": "5ma.(ごま)",
+      "source": "https://www.pixiv.net/en/artworks/114198017",
+      "uploaded": "2026-11-03T20:19:09.829Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-03T20:19:09.829Z",
+      "expiresAt": 1796329149829,
+      "ownerId": null
     }
   }
 }
