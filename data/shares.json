@@ -1975,6 +1975,31 @@
       "createdAt": "2026-11-03T20:26:17.427Z",
       "expiresAt": 1796329577427,
       "ownerId": "admin"
+    },
+    "smw1525aotzdt": {
+      "id": "smw1525aotzdt",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=maid/6759e049560c542605b086fa.jpg",
+      "server": "server1",
+      "tags": [
+        "maid",
+        "maid-uniform",
+        "catgirl",
+        "cat-ears",
+        "animal-ears"
+      ],
+      "size": "467.69 KB",
+      "artist": "桃稚ちあ🎀",
+      "source": "https://www.pixiv.net/en/artworks/103809722",
+      "uploaded": "2026-11-03T20:26:49.296Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-03T20:26:49.296Z",
+      "expiresAt": 1796329609296,
+      "ownerId": null
     }
   }
 }
