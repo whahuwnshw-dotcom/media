@@ -132,6 +132,25 @@
       "createdAt": "2026-11-03T16:40:09.390Z",
       "expiresAt": 1796316009390,
       "ownerId": "admin"
+    },
+    "smw0x1n92nupt": {
+      "id": "smw0x1n92nupt",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=waifu/4f4c6849-1212-46fd-94f5-a3aef6102dd0.png",
+      "server": "server2",
+      "tags": [
+        "waifu"
+      ],
+      "size": "Unknown",
+      "artist": "뚜부",
+      "source": "https://twitter.com/dubudubu200/status/2106990745077088688",
+      "uploaded": "2026-11-03T16:42:28.982Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "uploadedByName": "branpediaid.com",
+      "createdAt": "2026-11-03T16:42:28.982Z",
+      "expiresAt": 1796316148982,
+      "ownerId": "admin"
     }
   }
 }
