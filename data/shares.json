@@ -2181,6 +2181,27 @@
       "createdAt": "2026-11-03T20:37:41.742Z",
       "expiresAt": 1796330261742,
       "ownerId": "2c50f5a8dcafd16e"
+    },
+    "smw15hv8v84p0": {
+      "id": "smw15hv8v84p0",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=neko/2c6036a2-8d9f-44a2-801f-8f18a83d9aa2.png",
+      "server": "server2",
+      "tags": [
+        "neko"
+      ],
+      "size": "Unknown",
+      "artist": "Nannung",
+      "source": "https://www.pixiv.net/en/artworks/92388600",
+      "uploaded": "2026-11-03T20:39:02.767Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "branpediaid.com",
+      "createdAt": "2026-11-03T20:39:02.767Z",
+      "expiresAt": 1796330342767,
+      "ownerId": "admin"
     }
   }
 }
