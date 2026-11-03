@@ -1,6 +1,16 @@
 {
   "waifus": [],
   "blockedUrls": [],
-  "externalReports": [],
-  "sha": "0391f38f2375dba9db2d60e35cda49a9aa446207"
+  "externalReports": [
+    {
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=animal-ears/692cd6b40ffa08e55f2d058d.png",
+      "server": "server1",
+      "reason": "inappropriate",
+      "note": "",
+      "at": "2026-11-03T21:37:56.718Z",
+      "by": "user1",
+      "byId": "e6fdb7b6abfa22a8"
+    }
+  ],
+  "sha": "c1b97b72897ced87eb711a9c6e63de12386bf124"
 }
