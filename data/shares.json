@@ -1787,6 +1787,31 @@
       "createdAt": "2026-11-03T20:21:27.060Z",
       "expiresAt": 1796329287060,
       "ownerId": null
+    },
+    "smw14vaqjtp8f": {
+      "id": "smw14vaqjtp8f",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=catgirl/6abf0c0a1658d36a8e5d1244.png",
+      "server": "server1",
+      "tags": [
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "tail",
+        "cute"
+      ],
+      "size": "2.73 MB",
+      "artist": "AyomiCat",
+      "source": "https://www.deviantart.com/ayomicat/art/Catgirl-by-the-Seaside-Railway-at-Sunset-1384675229",
+      "uploaded": "2026-11-03T20:21:29.755Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-03T20:21:29.755Z",
+      "expiresAt": 1796329289755,
+      "ownerId": null
     }
   }
 }
