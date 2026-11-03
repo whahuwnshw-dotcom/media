@@ -3729,6 +3729,31 @@
       "createdAt": "2026-11-03T23:43:48.598Z",
       "expiresAt": 1796341428598,
       "ownerId": null
+    },
+    "smw1c3ijgsupg": {
+      "id": "smw1c3ijgsupg",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=catgirl/6aea37ae5895b7171af9564f.png",
+      "server": "server1",
+      "tags": [
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "1girl",
+        "ahoge"
+      ],
+      "size": "3.04 MB",
+      "artist": "三色しりある",
+      "source": "https://www.pixiv.net/en/artworks/144876157",
+      "uploaded": "2026-11-03T23:43:50.428Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-03T23:43:50.428Z",
+      "expiresAt": 1796341430428,
+      "ownerId": null
     }
   }
 }
