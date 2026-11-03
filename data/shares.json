@@ -75,6 +75,25 @@
       "createdAt": "2026-11-03T16:17:46.205Z",
       "expiresAt": 1796314666205,
       "ownerId": "admin"
+    },
+    "smw0wi48jrk90": {
+      "id": "smw0wi48jrk90",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=waifu/d47f1571-544a-4ef4-aac2-5fd0990ac1ae.png",
+      "server": "server2",
+      "tags": [
+        "waifu"
+      ],
+      "size": "Unknown",
+      "artist": "Leafpie zaurus",
+      "source": "https://www.pixiv.net/en/artworks/134533958",
+      "uploaded": "2026-11-03T16:27:17.875Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "uploadedByName": "branpediaid.com",
+      "createdAt": "2026-11-03T16:27:17.877Z",
+      "expiresAt": 1796315237877,
+      "ownerId": "admin"
     }
   }
 }
