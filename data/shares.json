@@ -441,6 +441,26 @@
       "createdAt": "2026-11-03T18:01:58.193Z",
       "expiresAt": 1796320918193,
       "ownerId": "admin"
+    },
+    "smw0zvzek9i1n": {
+      "id": "smw0zvzek9i1n",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=waifu/5997ac5c-e877-4613-83df-341bd3a1ba1a.png",
+      "server": "server2",
+      "tags": [
+        "waifu"
+      ],
+      "size": "Unknown",
+      "artist": "イコモチ",
+      "source": "https://www.pixiv.net/en/artworks/96855289",
+      "uploaded": "2026-11-03T18:02:03.644Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "uploadedByName": "branpediaid.com",
+      "createdAt": "2026-11-03T18:02:03.644Z",
+      "expiresAt": 1796320923644,
+      "ownerId": "admin"
     }
   }
 }
