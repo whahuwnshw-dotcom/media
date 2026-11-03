@@ -1537,6 +1537,31 @@
       "createdAt": "2026-11-03T20:18:23.142Z",
       "expiresAt": 1796329103142,
       "ownerId": null
+    },
+    "smw14razuwjf3": {
+      "id": "smw14razuwjf3",
+      "url": "https://waifu2-fzxahinv5-branpedias-projects.vercel.app/api/image-proxy?filename=catgirl/66aa9cc777b3be2b9e5c79e7.jpg",
+      "server": "server1",
+      "tags": [
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "vtuber",
+        "tail"
+      ],
+      "size": "1.97 MB",
+      "artist": "高尾おーちゃん",
+      "source": "https://www.pixiv.net/en/artworks/111980950",
+      "uploaded": "2026-11-03T20:18:23.466Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-03T20:18:23.466Z",
+      "expiresAt": 1796329103466,
+      "ownerId": null
     }
   }
 }
