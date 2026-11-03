@@ -1154,6 +1154,31 @@
       "createdAt": "2026-11-03T19:52:04.258Z",
       "expiresAt": 1796327524258,
       "ownerId": null
+    },
+    "smw13tgrlp5b9": {
+      "id": "smw13tgrlp5b9",
+      "url": "https://waifu2-ercjxna80-branpedias-projects.vercel.app/api/image-proxy?filename=vtuber/66b54250c0f45167b3de4e20.png",
+      "server": "server1",
+      "tags": [
+        "vtuber",
+        "young-girl",
+        "1girl",
+        "aria-tsukushi",
+        "purple-eyes"
+      ],
+      "size": "1.18 MB",
+      "artist": "ほし",
+      "source": "https://www.pixiv.net/en/artworks/89566734",
+      "uploaded": "2026-11-03T19:52:04.641Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-03T19:52:04.644Z",
+      "expiresAt": 1796327524644,
+      "ownerId": null
     }
   }
 }
