@@ -2561,6 +2561,31 @@
       "createdAt": "2026-11-03T21:07:46.184Z",
       "expiresAt": 1796332066184,
       "ownerId": "admin"
+    },
+    "smw16lkuw251o": {
+      "id": "smw16lkuw251o",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=catgirl/66aa223fea36c0705fff8b49.png",
+      "server": "server1",
+      "tags": [
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "thighs",
+        "red-eyes"
+      ],
+      "size": "4.48 MB",
+      "artist": "猫月みらい",
+      "source": "https://www.pixiv.net/en/artworks/94071736",
+      "uploaded": "2026-11-03T21:09:55.544Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-03T21:09:55.544Z",
+      "expiresAt": 1796332195544,
+      "ownerId": null
     }
   }
 }
