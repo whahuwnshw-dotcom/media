@@ -1250,6 +1250,31 @@
       "createdAt": "2026-11-03T19:56:06.372Z",
       "expiresAt": 1796327766372,
       "ownerId": "admin"
+    },
+    "smw13yu2e2cug": {
+      "id": "smw13yu2e2cug",
+      "url": "https://waifu2-ahwfkivny-branpedias-projects.vercel.app/api/image-proxy?filename=catgirl/6785bc24316ff3cc43983cc5.png",
+      "server": "server1",
+      "tags": [
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "tail",
+        "cute"
+      ],
+      "size": "3.07 MB",
+      "artist": "もきゅこ",
+      "source": "https://www.pixiv.net/en/artworks/97050674",
+      "uploaded": "2026-11-03T19:56:15.158Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-03T19:56:15.160Z",
+      "expiresAt": 1796327775160,
+      "ownerId": null
     }
   }
 }
