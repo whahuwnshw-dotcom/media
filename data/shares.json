@@ -265,6 +265,25 @@
       "createdAt": "2026-11-03T17:04:56.476Z",
       "expiresAt": 1796317496476,
       "ownerId": "admin"
+    },
+    "smw0ybi5o5s0x": {
+      "id": "smw0ybi5o5s0x",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=waifu/f91aa189-42d0-4ddc-ba7b-e7182377e71f.png",
+      "server": "server2",
+      "tags": [
+        "waifu"
+      ],
+      "size": "Unknown",
+      "artist": "shiina_18410",
+      "source": "https://twitter.com/shiina_18410/status/2008499302096871450",
+      "uploaded": "2026-11-03T17:18:08.556Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-03T17:18:08.556Z",
+      "expiresAt": 1796318288556,
+      "ownerId": null
     }
   }
 }
