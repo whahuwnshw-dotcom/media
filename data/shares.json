@@ -3529,6 +3529,31 @@
       "createdAt": "2026-11-03T23:39:17.412Z",
       "expiresAt": 1796341157412,
       "ownerId": null
+    },
+    "smw1bxow8hepx": {
+      "id": "smw1bxow8hepx",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=catgirl/684ca61eaef36b41c66f0055.png",
+      "server": "server1",
+      "tags": [
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "cute",
+        "young-girl"
+      ],
+      "size": "863.23 KB",
+      "artist": "5ma.(ごま)",
+      "source": "https://www.pixiv.net/en/artworks/90759117",
+      "uploaded": "2026-11-03T23:39:18.728Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-03T23:39:18.728Z",
+      "expiresAt": 1796341158728,
+      "ownerId": null
     }
   }
 }
