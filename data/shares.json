@@ -1029,6 +1029,31 @@
       "createdAt": "2026-11-03T19:50:22.654Z",
       "expiresAt": 1796327422654,
       "ownerId": null
+    },
+    "smw13rq896i9f": {
+      "id": "smw13rq896i9f",
+      "url": "https://waifu2-jb47b6a1v-branpedias-projects.vercel.app/api/image-proxy?filename=tail-with-ribbon/66a7bd8bacaffc4c1ad4ad19.png",
+      "server": "server1",
+      "tags": [
+        "tail-with-ribbon",
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "tail"
+      ],
+      "size": "3.57 MB",
+      "artist": "古茉こまり@お仕事募集中",
+      "source": "https://www.pixiv.net/en/artworks/97125874",
+      "uploaded": "2026-11-03T19:50:43.593Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-03T19:50:43.595Z",
+      "expiresAt": 1796327443595,
+      "ownerId": null
     }
   }
 }
