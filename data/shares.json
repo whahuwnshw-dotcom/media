@@ -650,6 +650,31 @@
       "createdAt": "2026-11-03T19:28:51.915Z",
       "expiresAt": 1796326131915,
       "ownerId": "admin"
+    },
+    "smw12zvlcc1ev": {
+      "id": "smw12zvlcc1ev",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=catgirl/66a951ce77291c597968ac0f.png",
+      "server": "server1",
+      "tags": [
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "tail",
+        "cute"
+      ],
+      "size": "4.32 MB",
+      "artist": "AutoINS",
+      "source": "https://www.pixiv.net/en/artworks/111548585",
+      "uploaded": "2026-11-03T19:29:04.176Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "branpediaid.com",
+      "createdAt": "2026-11-03T19:29:04.176Z",
+      "expiresAt": 1796326144176,
+      "ownerId": "admin"
     }
   }
 }
