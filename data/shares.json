@@ -3554,6 +3554,31 @@
       "createdAt": "2026-11-03T23:39:18.728Z",
       "expiresAt": 1796341158728,
       "ownerId": null
+    },
+    "smw1by79jeroz": {
+      "id": "smw1by79jeroz",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=arknights/67f1b8bb0d94aa59fbc98176.png",
+      "server": "server1",
+      "tags": [
+        "arknights",
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "cute"
+      ],
+      "size": "3.25 MB",
+      "artist": "くのかや(kunokaya)",
+      "source": "https://www.pixiv.net/en/artworks/99606052",
+      "uploaded": "2026-11-03T23:39:42.535Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-03T23:39:42.535Z",
+      "expiresAt": 1796341182535,
+      "ownerId": null
     }
   }
 }
