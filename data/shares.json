@@ -1104,6 +1104,31 @@
       "createdAt": "2026-11-03T19:51:25.964Z",
       "expiresAt": 1796327485964,
       "ownerId": null
+    },
+    "smw13snlwj68v": {
+      "id": "smw13snlwj68v",
+      "url": "https://waifu2-bxhdwinuv-branpedias-projects.vercel.app/api/image-proxy?filename=catgirl/66b0287c56b9dd371df0023e.png",
+      "server": "server1",
+      "tags": [
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "cute",
+        "young-girl"
+      ],
+      "size": "1.76 MB",
+      "artist": "しきと✦お仕事募集中",
+      "source": "https://www.pixiv.net/en/artworks/97694227",
+      "uploaded": "2026-11-03T19:51:26.852Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-03T19:51:26.852Z",
+      "expiresAt": 1796327486852,
+      "ownerId": null
     }
   }
 }
