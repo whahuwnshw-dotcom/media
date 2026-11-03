@@ -1,22 +1,6 @@
 {
   "waifus": [
     {
-      "id": "mw1bmmd3j3z2wg",
-      "url": "https://raw.githubusercontent.com/whahuwnshw-dotcom/media/main/public/uploads/mw1bmmd3j3z2wg.png",
-      "uploaded": "2026-11-03T23:30:42.626Z",
-      "size": "2.06 MB",
-      "sizeBytes": 2164382,
-      "source": "",
-      "artist": "",
-      "tags": [],
-      "isNsfw": false,
-      "views": 1,
-      "likes": 0,
-      "reports": [],
-      "uploadedBy": "e6fdb7b6abfa22a8",
-      "uploadedByName": "user1"
-    },
-    {
       "id": "mw1c4d3dlrgn48",
       "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=uploads/mw1c4d3dlrgn48.png",
       "rawUrl": "https://raw.githubusercontent.com/whahuwnshw-dotcom/media/main/public/uploads/mw1c4d3dlrgn48.png",
@@ -42,5 +26,5 @@
     "https://waifu2-eta.vercel.app/api/image-proxy?filename=animal-ears/692cd6b40ffa08e55f2d058d.png"
   ],
   "externalReports": [],
-  "sha": "e1bc33468c2ea8469318c26dce9decacc96f70b6"
+  "sha": "370c7e2ab36287f767ded77c3248d5f869deb053"
 }
