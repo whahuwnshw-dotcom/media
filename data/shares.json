@@ -3253,9 +3253,11 @@
       "uploaded": "2026-11-03T21:39:25.327Z",
       "isNsfw": false,
       "views": 1,
-      "likes": 0,
+      "likes": 1,
       "downloads": 0,
-      "likedBy": [],
+      "likedBy": [
+        "e6fdb7b6abfa22a8"
+      ],
       "uploadedByName": "user1",
       "createdAt": "2026-11-03T21:39:25.327Z",
       "expiresAt": 1796333965327,
