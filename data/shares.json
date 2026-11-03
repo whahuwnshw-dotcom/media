@@ -94,6 +94,25 @@
       "createdAt": "2026-11-03T16:27:17.877Z",
       "expiresAt": 1796315237877,
       "ownerId": "admin"
+    },
+    "smw0wuwru7pwd": {
+      "id": "smw0wuwru7pwd",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=waifu/432feaad-00bd-45f0-87ca-bfc62c9d78bd.png",
+      "server": "server2",
+      "tags": [
+        "waifu"
+      ],
+      "size": "Unknown",
+      "artist": "rityulate",
+      "source": "https://twitter.com/rityulate/status/1689976053341810688",
+      "uploaded": "2026-11-03T16:37:14.730Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "uploadedByName": "branpediaid.com",
+      "createdAt": "2026-11-03T16:37:14.732Z",
+      "expiresAt": 1796315834732,
+      "ownerId": "admin"
     }
   }
 }
