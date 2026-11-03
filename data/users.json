@@ -185,6 +185,12 @@
       "username": "user",
       "passwordHash": "5d5f4e4cf26e477073c1c5ec0937e27a:c0de507c6c808dd0022a9055fd1d629ebcd41437939396a976c3cf8c4c73c92d50a7246d0e663fcb60b89b67aacc659f21e39ea2e2f6cb2dc3399a847c124a03",
       "createdAt": "2026-11-03T08:40:22.371Z"
+    },
+    {
+      "id": "e6fdb7b6abfa22a8",
+      "username": "user1",
+      "passwordHash": "5043d3fc1f6a2b59d9b9d0efd036f96a:0c5a52718dfea113b7866e60e8501d29729a3b6a83aaab4536c2cca08203c2b61d160bfef7700377d50953064c1bc99e8c4352264b6361c5e366635ff8d378b0",
+      "createdAt": "2026-11-03T20:27:21.702Z"
     }
   ]
 }
