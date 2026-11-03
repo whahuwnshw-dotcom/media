@@ -1512,6 +1512,31 @@
       "createdAt": "2026-11-03T20:17:04.448Z",
       "expiresAt": 1796329024448,
       "ownerId": null
+    },
+    "smw14raqspyjg": {
+      "id": "smw14raqspyjg",
+      "url": "https://waifu2-fzxahinv5-branpedias-projects.vercel.app/api/image-proxy?filename=maid-uniform/66aa3abc874534190404796d.jpg",
+      "server": "server1",
+      "tags": [
+        "maid-uniform",
+        "tail-with-ribbon",
+        "catgirl",
+        "cat-ears",
+        "animal-ears"
+      ],
+      "size": "600.26 KB",
+      "artist": "Mauve",
+      "source": "https://www.pixiv.net/en/artworks/87005842",
+      "uploaded": "2026-11-03T20:18:23.140Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-03T20:18:23.142Z",
+      "expiresAt": 1796329103142,
+      "ownerId": null
     }
   }
 }
