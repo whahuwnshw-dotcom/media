@@ -1,30 +1,10 @@
 {
-  "waifus": [
-    {
-      "id": "mw1c4d3dlrgn48",
-      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=uploads/mw1c4d3dlrgn48.png",
-      "rawUrl": "https://raw.githubusercontent.com/whahuwnshw-dotcom/media/main/public/uploads/mw1c4d3dlrgn48.png",
-      "uploaded": "2026-11-03T23:44:30.416Z",
-      "size": "2.06 MB",
-      "sizeBytes": 2164382,
-      "source": "",
-      "artist": "",
-      "tags": [],
-      "isNsfw": false,
-      "views": 1,
-      "likes": 0,
-      "downloads": 0,
-      "likedBy": [],
-      "reports": [],
-      "uploadedBy": "admin",
-      "uploadedByName": "branpediaid.com"
-    }
-  ],
+  "waifus": [],
   "blockedUrls": [
     "https://waifu2-eta.vercel.app/api/image-proxy?filename=catgirl/6737e765d5d7318c3b694222.png",
     "https://waifu2-eta.vercel.app/api/image-proxy?filename=catgirl/66a96ec6e2ddda267f0fd65d.jpg",
     "https://waifu2-eta.vercel.app/api/image-proxy?filename=animal-ears/692cd6b40ffa08e55f2d058d.png"
   ],
   "externalReports": [],
-  "sha": "370c7e2ab36287f767ded77c3248d5f869deb053"
+  "sha": "58ca376c8eb0cf19a244972799828aaaea0b02a0"
 }
