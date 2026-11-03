@@ -3283,6 +3283,31 @@
       "createdAt": "2026-11-03T23:25:47.696Z",
       "expiresAt": 1796340347696,
       "ownerId": "admin"
+    },
+    "smw1bgkvq41zr": {
+      "id": "smw1bgkvq41zr",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=catgirl/66ad759c06b56bf9e6688770.jpg",
+      "server": "server1",
+      "tags": [
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "tail",
+        "cute"
+      ],
+      "size": "1.12 MB",
+      "artist": "夜ノみつき",
+      "source": "https://www.pixiv.net/en/artworks/29310735",
+      "uploaded": "2026-11-03T23:26:00.374Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "branpediaid.com",
+      "createdAt": "2026-11-03T23:26:00.374Z",
+      "expiresAt": 1796340360374,
+      "ownerId": "admin"
     }
   }
 }
