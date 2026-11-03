@@ -151,6 +151,25 @@
       "createdAt": "2026-11-03T16:42:28.982Z",
       "expiresAt": 1796316148982,
       "ownerId": "admin"
+    },
+    "smw0x44r8v50t": {
+      "id": "smw0x44r8v50t",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=waifu/88da8b14-6d23-4be6-9cd4-d7b3fa31a359.png",
+      "server": "server2",
+      "tags": [
+        "waifu"
+      ],
+      "size": "Unknown",
+      "artist": "ｴﾘｱﾙ",
+      "source": "https://twitter.com/ARIEL23795/status/2044032927550582790",
+      "uploaded": "2026-11-03T16:44:24.980Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "uploadedByName": "branpediaid.com",
+      "createdAt": "2026-11-03T16:44:24.980Z",
+      "expiresAt": 1796316264980,
+      "ownerId": "admin"
     }
   }
 }
