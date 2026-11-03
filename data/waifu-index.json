@@ -2,18 +2,9 @@
   "waifus": [],
   "blockedUrls": [
     "https://waifu2-eta.vercel.app/api/image-proxy?filename=catgirl/6737e765d5d7318c3b694222.png",
-    "https://waifu2-eta.vercel.app/api/image-proxy?filename=catgirl/66a96ec6e2ddda267f0fd65d.jpg"
+    "https://waifu2-eta.vercel.app/api/image-proxy?filename=catgirl/66a96ec6e2ddda267f0fd65d.jpg",
+    "https://waifu2-eta.vercel.app/api/image-proxy?filename=animal-ears/692cd6b40ffa08e55f2d058d.png"
   ],
-  "externalReports": [
-    {
-      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=animal-ears/692cd6b40ffa08e55f2d058d.png",
-      "server": "server1",
-      "reason": "inappropriate",
-      "note": "",
-      "at": "2026-11-03T21:37:56.718Z",
-      "by": "user1",
-      "byId": "e6fdb7b6abfa22a8"
-    }
-  ],
-  "sha": "3857ce42138a0f9ced3e394e1bc5b773f30bcc0a"
+  "externalReports": [],
+  "sha": "d3deb89150bc5af84d287657d01453626d7394c0"
 }
