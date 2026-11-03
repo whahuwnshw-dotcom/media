@@ -2000,6 +2000,31 @@
       "createdAt": "2026-11-03T20:26:49.296Z",
       "expiresAt": 1796329609296,
       "ownerId": null
+    },
+    "smw154108jkll": {
+      "id": "smw154108jkll",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=vtuber/6739537894775e4d8e4c0b31.png",
+      "server": "server1",
+      "tags": [
+        "vtuber",
+        "young-girl",
+        "1girl",
+        "azki",
+        "casual-wear"
+      ],
+      "size": "2.32 MB",
+      "artist": "久舞とこ@お仕事募集中",
+      "source": "https://www.pixiv.net/en/artworks/121545941",
+      "uploaded": "2026-11-03T20:28:17.048Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "user1",
+      "createdAt": "2026-11-03T20:28:17.048Z",
+      "expiresAt": 1796329697048,
+      "ownerId": "e6fdb7b6abfa22a8"
     }
   }
 }
