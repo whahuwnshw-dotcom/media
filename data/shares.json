@@ -2661,6 +2661,31 @@
       "createdAt": "2026-11-03T21:11:28.034Z",
       "expiresAt": 1796332288034,
       "ownerId": null
+    },
+    "smw16umjcmo3m": {
+      "id": "smw16umjcmo3m",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=catgirl/66e3ac118358c411f61b0ab3.png",
+      "server": "server1",
+      "tags": [
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "tail",
+        "cute"
+      ],
+      "size": "12.22 MB",
+      "artist": "MapleZero",
+      "source": "https://www.pixiv.net/en/artworks/121428829",
+      "uploaded": "2026-11-03T21:16:57.624Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-03T21:16:57.624Z",
+      "expiresAt": 1796332617624,
+      "ownerId": null
     }
   }
 }
