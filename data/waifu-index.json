@@ -1,6 +1,16 @@
 {
   "waifus": [],
   "blockedUrls": [],
-  "externalReports": [],
-  "sha": "3d3a94a6dce524689aed778043a35eb0f8b8d32b"
+  "externalReports": [
+    {
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=maid/6759e049560c542605b086fa.jpg",
+      "server": "server1",
+      "reason": "inappropriate",
+      "note": "",
+      "at": "2026-11-03T20:27:31.463Z",
+      "by": "user1",
+      "byId": "e6fdb7b6abfa22a8"
+    }
+  ],
+  "sha": "58e4c25b4324d799c2f48cde8ee0dc8d7cc225b7"
 }
