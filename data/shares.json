@@ -1395,6 +1395,27 @@
       "createdAt": "2026-11-03T19:59:30.799Z",
       "expiresAt": 1796327970799,
       "ownerId": "admin"
+    },
+    "smw143b689ar0": {
+      "id": "smw143b689ar0",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=kitsune/80d7889c-1147-41c9-810e-26d38957fc5d.png",
+      "server": "server2",
+      "tags": [
+        "kitsune"
+      ],
+      "size": "Unknown",
+      "artist": "夢苺Alice",
+      "source": "https://www.pixiv.net/en/artworks/69200844",
+      "uploaded": "2026-11-03T19:59:43.952Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "branpediaid.com",
+      "createdAt": "2026-11-03T19:59:43.952Z",
+      "expiresAt": 1796327983952,
+      "ownerId": "admin"
     }
   }
 }
