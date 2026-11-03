@@ -3308,6 +3308,31 @@
       "createdAt": "2026-11-03T23:26:00.374Z",
       "expiresAt": 1796340360374,
       "ownerId": "admin"
+    },
+    "smw1bhat7kayg": {
+      "id": "smw1bhat7kayg",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=blue-archive/66dcdbd56cff4e1d399125ed.png",
+      "server": "server1",
+      "tags": [
+        "blue-archive",
+        "cat-ears",
+        "animal-ears",
+        "cute",
+        "young-girl"
+      ],
+      "size": "7.19 MB",
+      "artist": "Kurone",
+      "source": "https://www.pixiv.net/en/artworks/120953252",
+      "uploaded": "2026-11-03T23:26:33.979Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "branpediaid.com",
+      "createdAt": "2026-11-03T23:26:33.979Z",
+      "expiresAt": 1796340393979,
+      "ownerId": "admin"
     }
   }
 }
