@@ -1662,6 +1662,31 @@
       "createdAt": "2026-11-03T20:19:46.822Z",
       "expiresAt": 1796329186822,
       "ownerId": null
+    },
+    "smw14twzsmc6t": {
+      "id": "smw14twzsmc6t",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=catgirl/67cc6ea578727e694b0c0ba5.jpg",
+      "server": "server1",
+      "tags": [
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "tail",
+        "cute"
+      ],
+      "size": "2.86 MB",
+      "artist": "-AKOvO-",
+      "source": "https://www.pixiv.net/en/artworks/126215847",
+      "uploaded": "2026-11-03T20:20:25.288Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-03T20:20:25.290Z",
+      "expiresAt": 1796329225290,
+      "ownerId": null
     }
   }
 }
