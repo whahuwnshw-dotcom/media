@@ -2515,6 +2515,31 @@
       "createdAt": "2026-11-03T21:05:35.417Z",
       "expiresAt": 1796331935417,
       "ownerId": null
+    },
+    "smw16g1gjzm18": {
+      "id": "smw16g1gjzm18",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=vtuber/679570b7c2253354c9b4c029.png",
+      "server": "server1",
+      "tags": [
+        "vtuber",
+        "cat-ears",
+        "animal-ears",
+        "cute",
+        "young-girl"
+      ],
+      "size": "3.17 MB",
+      "artist": "Aria",
+      "source": "https://www.pixiv.net/en/artworks/124879981",
+      "uploaded": "2026-11-03T21:05:37.123Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-03T21:05:37.123Z",
+      "expiresAt": 1796331937123,
+      "ownerId": null
     }
   }
 }
