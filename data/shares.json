@@ -3888,6 +3888,27 @@
       "createdAt": "2026-11-03T23:47:13.813Z",
       "expiresAt": 1796341633814,
       "ownerId": "2c50f5a8dcafd16e"
+    },
+    "smw1cdmgj7oay": {
+      "id": "smw1cdmgj7oay",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=neko/713bb95d-324b-4a12-9725-ae3c99fe6895.png",
+      "server": "server2",
+      "tags": [
+        "neko"
+      ],
+      "size": "Unknown",
+      "artist": "廣田玲",
+      "source": "https://twitter.com/hrtx0/status/1759190884820865415",
+      "uploaded": "2026-11-03T23:51:42.067Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "branpediaid.com",
+      "createdAt": "2026-11-03T23:51:42.067Z",
+      "expiresAt": 1796341902067,
+      "ownerId": "admin"
     }
   }
 }
