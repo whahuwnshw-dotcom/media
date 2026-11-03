@@ -3654,6 +3654,31 @@
       "createdAt": "2026-11-03T23:42:19.195Z",
       "expiresAt": 1796341339195,
       "ownerId": null
+    },
+    "smw1c2ez96m3j": {
+      "id": "smw1c2ez96m3j",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=tail-with-ribbon/66afb97eb2e41081c00f5a57.png",
+      "server": "server1",
+      "tags": [
+        "tail-with-ribbon",
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "tail"
+      ],
+      "size": "3.07 MB",
+      "artist": "clonekoｰit",
+      "source": "https://www.pixiv.net/en/artworks/112165558",
+      "uploaded": "2026-11-03T23:42:59.157Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-03T23:42:59.157Z",
+      "expiresAt": 1796341379157,
+      "ownerId": null
     }
   }
 }
