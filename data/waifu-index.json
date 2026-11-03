@@ -19,7 +19,16 @@
       "at": "2026-11-03T21:38:04.564Z",
       "by": "user1",
       "byId": "e6fdb7b6abfa22a8"
+    },
+    {
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=catgirl/6737e765d5d7318c3b694222.png",
+      "server": "server1",
+      "reason": "inappropriate",
+      "note": "",
+      "at": "2026-11-03T21:38:14.341Z",
+      "by": "user1",
+      "byId": "e6fdb7b6abfa22a8"
     }
   ],
-  "sha": "6726df1d75b8ed44d0ba14cc19a28e2a7d57c4db"
+  "sha": "5e50d05b39bd40667c5dd5c9011c267129986fb3"
 }
