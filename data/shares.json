@@ -3796,6 +3796,27 @@
       "createdAt": "2026-11-03T23:44:40.664Z",
       "expiresAt": 1796341480664,
       "ownerId": "admin"
+    },
+    "smw1c60fegqv4": {
+      "id": "smw1c60fegqv4",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=neko/733a0d6f-bba5-499d-b736-6f77487b8d5c.png",
+      "server": "server2",
+      "tags": [
+        "neko"
+      ],
+      "size": "Unknown",
+      "artist": "Auiy",
+      "source": "https://www.pixiv.net/en/artworks/87721952",
+      "uploaded": "2026-11-03T23:45:46.922Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "branpediaid.com",
+      "createdAt": "2026-11-03T23:45:46.922Z",
+      "expiresAt": 1796341546922,
+      "ownerId": "admin"
     }
   }
 }
