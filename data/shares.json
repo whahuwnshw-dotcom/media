@@ -284,6 +284,25 @@
       "createdAt": "2026-11-03T17:18:08.556Z",
       "expiresAt": 1796318288556,
       "ownerId": null
+    },
+    "smw0yhylaccrp": {
+      "id": "smw0yhylaccrp",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=waifu/0330f7c9-db3d-40c7-97f9-088a79ad7934.png",
+      "server": "server2",
+      "tags": [
+        "waifu"
+      ],
+      "size": "Unknown",
+      "artist": "ラテིྀ落書き垢",
+      "source": "https://twitter.com/sateralate723/status/2091080432737546313",
+      "uploaded": "2026-11-03T17:23:09.790Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-03T17:23:09.793Z",
+      "expiresAt": 1796318589793,
+      "ownerId": null
     }
   }
 }
