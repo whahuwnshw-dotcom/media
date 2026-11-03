@@ -1,6 +1,16 @@
 {
   "waifus": [],
   "blockedUrls": [],
-  "externalReports": [],
-  "sha": "1248284a424db96372dd9ad45183a1f89255cc4f"
+  "externalReports": [
+    {
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=waifu/d47f1571-544a-4ef4-aac2-5fd0990ac1ae.png",
+      "server": "server2",
+      "reason": "other",
+      "note": "Hai",
+      "at": "2026-11-03T16:05:05.695Z",
+      "by": "branpediaid.com",
+      "byId": "admin"
+    }
+  ],
+  "sha": "c05946f343d51c68b6681b437bf5df106474676e"
 }
