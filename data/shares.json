@@ -3262,6 +3262,27 @@
       "createdAt": "2026-11-03T21:39:25.327Z",
       "expiresAt": 1796333965327,
       "ownerId": "e6fdb7b6abfa22a8"
+    },
+    "smw1bgb3k3ogg": {
+      "id": "smw1bgb3k3ogg",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=neko/2a6d37c6-8c65-4ea9-a8a3-958cb08cb3ac.png",
+      "server": "server2",
+      "tags": [
+        "neko"
+      ],
+      "size": "Unknown",
+      "artist": "羽霜ゆき",
+      "source": "https://www.pixiv.net/en/artworks/103341548",
+      "uploaded": "2026-11-03T23:25:47.696Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "branpediaid.com",
+      "createdAt": "2026-11-03T23:25:47.696Z",
+      "expiresAt": 1796340347696,
+      "ownerId": "admin"
     }
   }
 }
