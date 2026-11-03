@@ -1079,6 +1079,31 @@
       "createdAt": "2026-11-03T19:50:44.210Z",
       "expiresAt": 1796327444210,
       "ownerId": null
+    },
+    "smw13smx5btga": {
+      "id": "smw13smx5btga",
+      "url": "https://waifu2-bxhdwinuv-branpedias-projects.vercel.app/api/image-proxy?filename=arknights/681fc51186b8e7cf157f5355.jpg",
+      "server": "server1",
+      "tags": [
+        "arknights",
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "cute"
+      ],
+      "size": "456.44 KB",
+      "artist": "たんたんめん",
+      "source": "https://www.pixiv.net/en/artworks/95796963",
+      "uploaded": "2026-11-03T19:51:25.961Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-03T19:51:25.964Z",
+      "expiresAt": 1796327485964,
+      "ownerId": null
     }
   }
 }
