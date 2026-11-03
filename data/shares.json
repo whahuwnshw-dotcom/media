@@ -675,6 +675,31 @@
       "createdAt": "2026-11-03T19:29:04.176Z",
       "expiresAt": 1796326144176,
       "ownerId": "admin"
+    },
+    "smw1306k4pv2x": {
+      "id": "smw1306k4pv2x",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=tail-with-ribbon/6728921e687f1c26ec8252d4.jpg",
+      "server": "server1",
+      "tags": [
+        "tail-with-ribbon",
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "tail"
+      ],
+      "size": "1.76 MB",
+      "artist": "いかり",
+      "source": "https://www.pixiv.net/en/artworks/123913657",
+      "uploaded": "2026-11-03T19:29:18.388Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "branpediaid.com",
+      "createdAt": "2026-11-03T19:29:18.388Z",
+      "expiresAt": 1796326158388,
+      "ownerId": "admin"
     }
   }
 }
