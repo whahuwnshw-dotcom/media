@@ -12,7 +12,13 @@
       ],
       "views": 1,
       "likes": 0,
-      "reports": [],
+      "reports": [
+        {
+          "reason": "inappropriate",
+          "at": "2026-11-03T08:42:50.778Z",
+          "by": "user"
+        }
+      ],
       "uploadedBy": "2c50f5a8dcafd16e",
       "uploadedByName": "user"
     }
