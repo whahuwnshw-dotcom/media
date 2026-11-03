@@ -2837,6 +2837,27 @@
       "createdAt": "2026-11-03T21:26:13.510Z",
       "expiresAt": 1796333173510,
       "ownerId": "admin"
+    },
+    "smw176m3jwhre": {
+      "id": "smw176m3jwhre",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=waifu/3efff0a1-f496-4a87-bc1a-d14b2507a15b.jpg",
+      "server": "server3",
+      "tags": [
+        "waifu"
+      ],
+      "size": "Unknown",
+      "artist": "",
+      "source": "",
+      "uploaded": "2026-11-03T21:26:16.927Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "branpediaid.com",
+      "createdAt": "2026-11-03T21:26:16.927Z",
+      "expiresAt": 1796333176927,
+      "ownerId": "admin"
     }
   }
 }
