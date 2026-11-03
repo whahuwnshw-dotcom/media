@@ -725,6 +725,27 @@
       "createdAt": "2026-11-03T19:29:34.961Z",
       "expiresAt": 1796326174961,
       "ownerId": "admin"
+    },
+    "smw130wvau219": {
+      "id": "smw130wvau219",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=neko/7d56a269-8665-49f8-8354-4b36a575f67b.png",
+      "server": "server2",
+      "tags": [
+        "neko"
+      ],
+      "size": "Unknown",
+      "artist": "ふゆのら",
+      "source": "https://www.pixiv.net/en/artworks/86663594",
+      "uploaded": "2026-11-03T19:29:52.486Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "user",
+      "createdAt": "2026-11-03T19:29:52.486Z",
+      "expiresAt": 1796326192486,
+      "ownerId": "2c50f5a8dcafd16e"
     }
   }
 }
