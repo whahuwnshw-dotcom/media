@@ -1,10 +1,26 @@
 {
-  "waifus": [],
+  "waifus": [
+    {
+      "id": "mw1bkw61wpel6d",
+      "url": "https://raw.githubusercontent.com/whahuwnshw-dotcom/media/main/public/uploads/mw1bkw61wpel6d.jpg",
+      "uploaded": "2026-11-03T23:29:22.007Z",
+      "size": "13.03 MB",
+      "sizeBytes": 13664483,
+      "source": "",
+      "artist": "",
+      "tags": [],
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "reports": [],
+      "uploadedBy": "e6fdb7b6abfa22a8",
+      "uploadedByName": "user1"
+    }
+  ],
   "blockedUrls": [
     "https://waifu2-eta.vercel.app/api/image-proxy?filename=catgirl/6737e765d5d7318c3b694222.png",
     "https://waifu2-eta.vercel.app/api/image-proxy?filename=catgirl/66a96ec6e2ddda267f0fd65d.jpg",
     "https://waifu2-eta.vercel.app/api/image-proxy?filename=animal-ears/692cd6b40ffa08e55f2d058d.png"
   ],
-  "externalReports": [],
-  "sha": "d3deb89150bc5af84d287657d01453626d7394c0"
+  "externalReports": []
 }
