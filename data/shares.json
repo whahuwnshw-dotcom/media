@@ -1364,9 +1364,11 @@
       "uploaded": "2026-11-03T19:57:12.472Z",
       "isNsfw": false,
       "views": 3,
-      "likes": 0,
+      "likes": 1,
       "downloads": 0,
-      "likedBy": [],
+      "likedBy": [
+        "admin"
+      ],
       "uploadedByName": "branpediaid.com",
       "createdAt": "2026-11-03T19:57:12.472Z",
       "expiresAt": 1796327832472,
