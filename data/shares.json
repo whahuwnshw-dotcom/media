@@ -1687,6 +1687,31 @@
       "createdAt": "2026-11-03T20:20:25.290Z",
       "expiresAt": 1796329225290,
       "ownerId": null
+    },
+    "smw14txgh12zl": {
+      "id": "smw14txgh12zl",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=tail-with-ribbon/66aa3c6d87453419040479b3.png",
+      "server": "server1",
+      "tags": [
+        "tail-with-ribbon",
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "tail"
+      ],
+      "size": "2.22 MB",
+      "artist": "セニフ",
+      "source": "https://www.pixiv.net/en/artworks/92117539",
+      "uploaded": "2026-11-03T20:20:25.889Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-03T20:20:25.891Z",
+      "expiresAt": 1796329225891,
+      "ownerId": null
     }
   }
 }
