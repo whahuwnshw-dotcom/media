@@ -170,6 +170,25 @@
       "createdAt": "2026-11-03T16:44:24.980Z",
       "expiresAt": 1796316264980,
       "ownerId": "admin"
+    },
+    "smw0xhhkuoj1b": {
+      "id": "smw0xhhkuoj1b",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=waifu/f91aa189-42d0-4ddc-ba7b-e7182377e71f.png",
+      "server": "server2",
+      "tags": [
+        "waifu"
+      ],
+      "size": "Unknown",
+      "artist": "shiina_18410",
+      "source": "https://twitter.com/shiina_18410/status/2008499302096871450",
+      "uploaded": "2026-11-03T16:54:48.126Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "uploadedByName": "branpediaid.com",
+      "createdAt": "2026-11-03T16:54:48.128Z",
+      "expiresAt": 1796316888128,
+      "ownerId": "admin"
     }
   }
 }
