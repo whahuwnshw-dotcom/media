@@ -3048,6 +3048,27 @@
       "createdAt": "2026-11-03T21:28:38.244Z",
       "expiresAt": 1796333318244,
       "ownerId": "admin"
+    },
+    "smw179tujz73d": {
+      "id": "smw179tujz73d",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=neko/e8dd8ee3-a0ce-427b-aa84-c497ac247590.png",
+      "server": "server2",
+      "tags": [
+        "neko"
+      ],
+      "size": "Unknown",
+      "artist": "舞冬",
+      "source": "https://www.pixiv.net/en/artworks/106654151",
+      "uploaded": "2026-11-03T21:28:46.939Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "branpediaid.com",
+      "createdAt": "2026-11-03T21:28:46.939Z",
+      "expiresAt": 1796333326939,
+      "ownerId": "admin"
     }
   }
 }
