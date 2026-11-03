@@ -1,8 +1,6 @@
 {
   "waifus": [],
-  "blockedUrls": [
-    "https://waifu2-eta.vercel.app/api/image-proxy?filename=waifu/f91aa189-42d0-4ddc-ba7b-e7182377e71f.png"
-  ],
+  "blockedUrls": [],
   "externalReports": [
     {
       "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=waifu/f91aa189-42d0-4ddc-ba7b-e7182377e71f.png",
@@ -14,5 +12,5 @@
       "byId": "2c50f5a8dcafd16e"
     }
   ],
-  "sha": "db3e0e86f9155a35112029e7a9625c03f96d2110"
+  "sha": "ab7902a6abe3c144be256c9f340b3b7464ad6d29"
 }
