@@ -113,6 +113,25 @@
       "createdAt": "2026-11-03T16:37:14.732Z",
       "expiresAt": 1796315834732,
       "ownerId": "admin"
+    },
+    "smw0wynjfi0yn": {
+      "id": "smw0wynjfi0yn",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=waifu/81bd4812-6ba9-4275-8921-78321737dc38.png",
+      "server": "server2",
+      "tags": [
+        "waifu"
+      ],
+      "size": "Unknown",
+      "artist": "あめの素揚げ",
+      "source": "https://twitter.com/ameno_vt/status/2105302838918492463",
+      "uploaded": "2026-11-03T16:40:09.387Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "uploadedByName": "branpediaid.com",
+      "createdAt": "2026-11-03T16:40:09.390Z",
+      "expiresAt": 1796316009390,
+      "ownerId": "admin"
     }
   }
 }
