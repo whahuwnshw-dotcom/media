@@ -1346,6 +1346,31 @@
       "createdAt": "2026-11-03T19:56:34.001Z",
       "expiresAt": 1796327794001,
       "ownerId": "admin"
+    },
+    "smw1402agi1f4": {
+      "id": "smw1402agi1f4",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=foxgirl/66aec2599f2d99c60d0c58a9.jpg",
+      "server": "server1",
+      "tags": [
+        "foxgirl",
+        "fox-ears",
+        "animal-ears",
+        "vtuber",
+        "tail"
+      ],
+      "size": "3.45 MB",
+      "artist": "Syu",
+      "source": "https://www.pixiv.net/en/artworks/93387095",
+      "uploaded": "2026-11-03T19:57:12.472Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "branpediaid.com",
+      "createdAt": "2026-11-03T19:57:12.472Z",
+      "expiresAt": 1796327832472,
+      "ownerId": "admin"
     }
   }
 }
