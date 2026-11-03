@@ -189,6 +189,25 @@
       "createdAt": "2026-11-03T16:54:48.128Z",
       "expiresAt": 1796316888128,
       "ownerId": "admin"
+    },
+    "smw0xi564oh32": {
+      "id": "smw0xi564oh32",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=waifu/79a05a92-6bac-4677-bf3a-3eeaa4fac7f4.png",
+      "server": "server2",
+      "tags": [
+        "waifu"
+      ],
+      "size": "Unknown",
+      "artist": "Hioyami",
+      "source": "https://www.pixiv.net/en/artworks/96240051",
+      "uploaded": "2026-11-03T16:55:18.700Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "uploadedByName": "branpediaid.com",
+      "createdAt": "2026-11-03T16:55:18.700Z",
+      "expiresAt": 1796316918700,
+      "ownerId": "admin"
     }
   }
 }
