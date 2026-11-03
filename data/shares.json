@@ -3235,6 +3235,31 @@
       "createdAt": "2026-11-03T21:39:14.206Z",
       "expiresAt": 1796333954206,
       "ownerId": "e6fdb7b6abfa22a8"
+    },
+    "smw17nifjymif": {
+      "id": "smw17nifjymif",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=schoolgirl/6aea37795895b7171af95647.jpg",
+      "server": "server1",
+      "tags": [
+        "schoolgirl",
+        "blue-archive",
+        "catgirl",
+        "cat-ears",
+        "animal-ears"
+      ],
+      "size": "13.03 MB",
+      "artist": "냥나링",
+      "source": "https://www.pixiv.net/en/artworks/137046665",
+      "uploaded": "2026-11-03T21:39:25.327Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "user1",
+      "createdAt": "2026-11-03T21:39:25.327Z",
+      "expiresAt": 1796333965327,
+      "ownerId": "e6fdb7b6abfa22a8"
     }
   }
 }
