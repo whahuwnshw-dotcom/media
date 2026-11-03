@@ -179,8 +179,12 @@
       "status": "active",
       "passwordHash": "a762ab257fee4d1713b3d7c9edcefe4510676ee1f314d1d5fc9a761812dd249c",
       "createdAt": "2026-10-26T11:12:32.925Z"
+    },
+    {
+      "id": "2c50f5a8dcafd16e",
+      "username": "user",
+      "passwordHash": "5d5f4e4cf26e477073c1c5ec0937e27a:c0de507c6c808dd0022a9055fd1d629ebcd41437939396a976c3cf8c4c73c92d50a7246d0e663fcb60b89b67aacc659f21e39ea2e2f6cb2dc3399a847c124a03",
+      "createdAt": "2026-11-03T08:40:22.371Z"
     }
-  ],
-  "lastId": 0,
-  "updatedAt": "2026-10-26T11:12:32.925Z"
+  ]
 }
