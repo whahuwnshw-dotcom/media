@@ -746,6 +746,31 @@
       "createdAt": "2026-11-03T19:29:52.486Z",
       "expiresAt": 1796326192486,
       "ownerId": "2c50f5a8dcafd16e"
+    },
+    "smw1313qsrs1q": {
+      "id": "smw1313qsrs1q",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=catgirl/66b81273ee6198d1a6b7f295.jpg",
+      "server": "server1",
+      "tags": [
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "tail-with-ribbon",
+        "tail"
+      ],
+      "size": "1.09 MB",
+      "artist": "ちょみます",
+      "source": "https://www.pixiv.net/en/artworks/114381230",
+      "uploaded": "2026-11-03T19:30:01.396Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "user",
+      "createdAt": "2026-11-03T19:30:01.396Z",
+      "expiresAt": 1796326201396,
+      "ownerId": "2c50f5a8dcafd16e"
     }
   }
 }
