@@ -579,6 +579,31 @@
       "createdAt": "2026-11-03T19:26:43.962Z",
       "expiresAt": 1796326003962,
       "ownerId": null
+    },
+    "smw12z5wlftbo": {
+      "id": "smw12z5wlftbo",
+      "url": "https://waifu2-cit6azd5d-branpedias-projects.vercel.app/api/image-proxy?filename=catgirl/66aa622bc75a065cfeb6789f.jpg",
+      "server": "server1",
+      "tags": [
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "blue-eyes",
+        "casual-wear"
+      ],
+      "size": "579.35 KB",
+      "artist": "白月いと",
+      "source": "https://www.pixiv.net/en/artworks/86763039",
+      "uploaded": "2026-11-03T19:28:30.885Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-03T19:28:30.887Z",
+      "expiresAt": 1796326110887,
+      "ownerId": null
     }
   }
 }
