@@ -2323,6 +2323,31 @@
       "createdAt": "2026-11-03T20:46:52.998Z",
       "expiresAt": 1796330812998,
       "ownerId": "admin"
+    },
+    "smw15wlch4uwf": {
+      "id": "smw15wlch4uwf",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=tail-with-ribbon/6846c7f81f9a895a60b53399.png",
+      "server": "server1",
+      "tags": [
+        "tail-with-ribbon",
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "tail"
+      ],
+      "size": "6.45 MB",
+      "artist": "はみこ@お仕事募集中",
+      "source": "https://www.pixiv.net/en/artworks/131234333",
+      "uploaded": "2026-11-03T20:50:29.777Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-03T20:50:29.777Z",
+      "expiresAt": 1796331029777,
+      "ownerId": null
     }
   }
 }
