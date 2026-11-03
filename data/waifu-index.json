@@ -10,7 +10,7 @@
       "artist": "",
       "tags": [],
       "isNsfw": false,
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "reports": [],
       "uploadedBy": "e6fdb7b6abfa22a8",
@@ -74,5 +74,5 @@
     "https://waifu2-eta.vercel.app/api/image-proxy?filename=animal-ears/692cd6b40ffa08e55f2d058d.png"
   ],
   "externalReports": [],
-  "sha": "39d8216fac7efbe4b3db1511124dfa25077215e4"
+  "sha": "46e32211f00b298687564126c51c97f3048243fc"
 }
