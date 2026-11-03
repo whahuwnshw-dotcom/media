@@ -1321,6 +1321,31 @@
       "createdAt": "2026-11-03T19:56:24.193Z",
       "expiresAt": 1796327784193,
       "ownerId": "admin"
+    },
+    "smw13z8lt3bnh": {
+      "id": "smw13z8lt3bnh",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=catgirl/66ae6aae93eec9552f9978e7.png",
+      "server": "server1",
+      "tags": [
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "tail",
+        "cute"
+      ],
+      "size": "1.87 MB",
+      "artist": "はみこ@お仕事募集中",
+      "source": "https://www.pixiv.net/en/artworks/99750526",
+      "uploaded": "2026-11-03T19:56:34.001Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "branpediaid.com",
+      "createdAt": "2026-11-03T19:56:34.001Z",
+      "expiresAt": 1796327794001,
+      "ownerId": "admin"
     }
   }
 }
