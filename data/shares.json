@@ -322,6 +322,25 @@
       "createdAt": "2026-11-03T17:32:37.989Z",
       "expiresAt": 1796319157989,
       "ownerId": null
+    },
+    "smw0yvu15b1g6": {
+      "id": "smw0yvu15b1g6",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=waifu/f2f708de-cdae-409e-a2c3-052aaad7f76b.png",
+      "server": "server2",
+      "tags": [
+        "waifu"
+      ],
+      "size": "Unknown",
+      "artist": "amaxa58700",
+      "source": "https://twitter.com/amaxa58700/status/1965395395183608294",
+      "uploaded": "2026-11-03T17:33:57.065Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-03T17:33:57.065Z",
+      "expiresAt": 1796319237065,
+      "ownerId": null
     }
   }
 }
