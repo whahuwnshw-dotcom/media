@@ -26,7 +26,9 @@
       "uploadedByName": "user1"
     }
   ],
-  "blockedUrls": [],
+  "blockedUrls": [
+    "https://waifu2-eta.vercel.app/api/image-proxy?filename=neko/2a8cc3a6-5151-4c1b-8b0a-88023218447b.png"
+  ],
   "externalReports": [
     {
       "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=neko/0f2c873c-7af5-4849-b7cd-809319202b98.png",
@@ -45,16 +47,7 @@
       "at": "2026-11-04T00:37:25.640Z",
       "by": "user1",
       "byId": "e6fdb7b6abfa22a8"
-    },
-    {
-      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=neko/2a8cc3a6-5151-4c1b-8b0a-88023218447b.png",
-      "server": "server2",
-      "reason": "inappropriate",
-      "note": "",
-      "at": "2026-11-04T01:10:21.235Z",
-      "by": "branpediaid.com",
-      "byId": "admin"
     }
   ],
-  "sha": "4d420f8e3935a8b19081a459918dee8e2f22726f"
+  "sha": "395b9af21df8437e10094702429b48babd5d1517"
 }
