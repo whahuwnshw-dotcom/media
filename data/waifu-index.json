@@ -26,9 +26,7 @@
       "uploadedByName": "user1"
     }
   ],
-  "blockedUrls": [
-    "https://waifu2-eta.vercel.app/api/image-proxy?filename=neko/2a8cc3a6-5151-4c1b-8b0a-88023218447b.png"
-  ],
+  "blockedUrls": [],
   "externalReports": [
     {
       "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=neko/0f2c873c-7af5-4849-b7cd-809319202b98.png",
@@ -49,5 +47,5 @@
       "byId": "e6fdb7b6abfa22a8"
     }
   ],
-  "sha": "ef8e9985e795def4ac6f0f77116912f7c806e046"
+  "sha": "d6c723114cff190f054218a066b024d162dea1c2"
 }
