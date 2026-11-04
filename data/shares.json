@@ -5176,9 +5176,11 @@
       "uploaded": "2026-11-04T07:12:13.189Z",
       "isNsfw": false,
       "views": 1,
-      "likes": 0,
+      "likes": 1,
       "downloads": 0,
-      "likedBy": [],
+      "likedBy": [
+        "admin"
+      ],
       "uploadedByName": "branpediaid.com",
       "createdAt": "2026-11-04T07:12:13.189Z",
       "expiresAt": 1796368333189,
