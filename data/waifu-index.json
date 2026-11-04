@@ -1,39 +1,5 @@
 {
-  "waifus": [
-    {
-      "id": "mw1e3jjoeg557g",
-      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=uploads/mw1e3jjoeg557g.jpg",
-      "rawUrl": "https://raw.githubusercontent.com/whahuwnshw-dotcom/media/main/public/uploads/mw1e3jjoeg557g.jpg",
-      "originalName": "6aea37795895b7171af95647_mw17nq1zb442.jpg",
-      "uploaded": "2026-11-04T00:39:51.329Z",
-      "size": "13.03 MB",
-      "sizeBytes": 13664483,
-      "source": "",
-      "artist": "",
-      "tags": [
-        "waifu",
-        "vtuber"
-      ],
-      "isNsfw": false,
-      "views": 3,
-      "likes": 1,
-      "downloads": 0,
-      "likedBy": [
-        "5bafcb2716f87a3b"
-      ],
-      "reports": [
-        {
-          "reason": "inappropriate",
-          "note": "",
-          "at": "2026-11-04T06:42:22.491Z",
-          "by": "branpediaid.com",
-          "byId": "admin"
-        }
-      ],
-      "uploadedBy": "e6fdb7b6abfa22a8",
-      "uploadedByName": "user1"
-    }
-  ],
+  "waifus": [],
   "blockedUrls": [],
   "externalReports": [
     {
@@ -46,5 +12,5 @@
       "byId": "e6fdb7b6abfa22a8"
     }
   ],
-  "sha": "8576fb7ebdc53958e5045fd3bdd3cad65e02f51c"
+  "sha": "f3156e3de68d68b40a7f3274a77e26c8ff390cf5"
 }
