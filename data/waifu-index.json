@@ -1,8 +1,6 @@
 {
   "waifus": [],
-  "blockedUrls": [
-    "https://waifu2-eta.vercel.app/api/image-proxy?filename=neko/neko_086.jpg"
-  ],
+  "blockedUrls": [],
   "externalReports": [
     {
       "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=neko/0f2c873c-7af5-4849-b7cd-809319202b98.png",
@@ -14,5 +12,5 @@
       "byId": "e6fdb7b6abfa22a8"
     }
   ],
-  "sha": "46b76f9b2fe5a2f8bbdaf1de2fc59c099ec48545"
+  "sha": "4f86db2ca9b5a90fd76148eba4e3220dbc942d08"
 }
