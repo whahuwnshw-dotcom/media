@@ -1,9 +1,8 @@
 {
   "waifus": [],
   "blockedUrls": [
-    "https://waifu2-eta.vercel.app/api/image-proxy?filename=catgirl/66a96ec6e2ddda267f0fd65d.jpg",
     "https://waifu2-eta.vercel.app/api/image-proxy?filename=animal-ears/692cd6b40ffa08e55f2d058d.png"
   ],
   "externalReports": [],
-  "sha": "a76f2dece5d665dee8ac47c2ef6187e075c5e16a"
+  "sha": "cd2e1973258fb9e5dd62c21c50715cdf5b0ca7e9"
 }
