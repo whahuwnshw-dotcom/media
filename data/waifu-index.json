@@ -26,9 +26,7 @@
       "uploadedByName": "user1"
     }
   ],
-  "blockedUrls": [
-    "https://waifu2-eta.vercel.app/api/image-proxy?filename=cat-ears/6726e67c4c21918f5c0a0f19.jpg"
-  ],
+  "blockedUrls": [],
   "externalReports": [
     {
       "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=neko/0f2c873c-7af5-4849-b7cd-809319202b98.png",
@@ -40,5 +38,5 @@
       "byId": "e6fdb7b6abfa22a8"
     }
   ],
-  "sha": "b0bd280d04ab3364c863b626b61127e76db2a4a0"
+  "sha": "1df26c780158b81cfa15bc86f6ea40a102e13afe"
 }
