@@ -15,7 +15,7 @@
         "vtuber"
       ],
       "isNsfw": false,
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "downloads": 0,
       "likedBy": [],
@@ -44,5 +44,6 @@
       "by": "user1",
       "byId": "e6fdb7b6abfa22a8"
     }
-  ]
+  ],
+  "sha": "bb6c757b7e62ac947c02b866a8fee12614b4d64b"
 }
