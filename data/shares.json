@@ -4625,6 +4625,31 @@
       "createdAt": "2026-11-04T01:02:10.598Z",
       "expiresAt": 1796346130598,
       "ownerId": "admin"
+    },
+    "smw1f4ohch98c": {
+      "id": "smw1f4ohch98c",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=wolfgirl/692cd66a0ffa08e55f2d04ce.jpg",
+      "server": "server1",
+      "tags": [
+        "wolfgirl",
+        "wolf-ears",
+        "animal-ears",
+        "tail",
+        "cute"
+      ],
+      "size": "530.70 KB",
+      "artist": "らで",
+      "source": "https://www.pixiv.net/en/artworks/137662528",
+      "uploaded": "2026-11-04T01:08:43.632Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-04T01:08:43.632Z",
+      "expiresAt": 1796346523632,
+      "ownerId": null
     }
   }
 }
