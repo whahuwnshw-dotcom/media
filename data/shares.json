@@ -3930,6 +3930,27 @@
       "createdAt": "2026-11-03T23:51:59.335Z",
       "expiresAt": 1796341919335,
       "ownerId": "admin"
+    },
+    "smw1cymtvr5nw": {
+      "id": "smw1cymtvr5nw",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=neko/4f0a2604-5016-46e2-a3e3-6c926e700562.png",
+      "server": "server2",
+      "tags": [
+        "neko"
+      ],
+      "size": "Unknown",
+      "artist": "ほし",
+      "source": "https://twitter.com/hoshi_u3/status/1496043743425994752",
+      "uploaded": "2026-11-04T00:08:02.323Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-04T00:08:02.323Z",
+      "expiresAt": 1796342882323,
+      "ownerId": null
     }
   }
 }
