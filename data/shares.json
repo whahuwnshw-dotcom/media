@@ -4337,6 +4337,27 @@
       "createdAt": "2026-11-04T00:37:18.821Z",
       "expiresAt": 1796344638821,
       "ownerId": "e6fdb7b6abfa22a8"
+    },
+    "smw1e4yqsp2nt": {
+      "id": "smw1e4yqsp2nt",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=neko/56d6163b-ac0b-4d66-9bde-9f108a3f3947.png",
+      "server": "server2",
+      "tags": [
+        "neko"
+      ],
+      "size": "Unknown",
+      "artist": "Mauve",
+      "source": "https://www.pixiv.net/en/artworks/94484742",
+      "uploaded": "2026-11-04T00:40:57.316Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-04T00:40:57.316Z",
+      "expiresAt": 1796344857316,
+      "ownerId": null
     }
   }
 }
