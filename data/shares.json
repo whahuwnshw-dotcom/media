@@ -3993,6 +3993,31 @@
       "createdAt": "2026-11-04T00:14:11.187Z",
       "expiresAt": 1796343251187,
       "ownerId": "admin"
+    },
+    "smw1de9j7f3dj": {
+      "id": "smw1de9j7f3dj",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=catgirl/680f87605ba6fdcd54eb9959.png",
+      "server": "server1",
+      "tags": [
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "tail",
+        "cute"
+      ],
+      "size": "1.24 MB",
+      "artist": "5ma.(ごま)",
+      "source": "https://www.pixiv.net/en/artworks/105247587",
+      "uploaded": "2026-11-04T00:20:11.587Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "branpediaid.com",
+      "createdAt": "2026-11-04T00:20:11.587Z",
+      "expiresAt": 1796343611587,
+      "ownerId": "admin"
     }
   }
 }
