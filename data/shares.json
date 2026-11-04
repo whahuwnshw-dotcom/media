@@ -4310,6 +4310,31 @@
       "createdAt": "2026-11-04T00:36:01.392Z",
       "expiresAt": 1796344561392,
       "ownerId": "admin"
+    },
+    "smw1e0a5h3yf9": {
+      "id": "smw1e0a5h3yf9",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=cat-ears/6726e67c4c21918f5c0a0f19.jpg",
+      "server": "server1",
+      "tags": [
+        "cat-ears",
+        "animal-ears",
+        "vtuber",
+        "cute",
+        "young-girl"
+      ],
+      "size": "2.75 MB",
+      "artist": "逢坂ちさと",
+      "source": "https://www.pixiv.net/en/artworks/116905918",
+      "uploaded": "2026-11-04T00:37:18.821Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "user1",
+      "createdAt": "2026-11-04T00:37:18.821Z",
+      "expiresAt": 1796344638821,
+      "ownerId": "e6fdb7b6abfa22a8"
     }
   }
 }
