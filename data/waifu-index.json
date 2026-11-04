@@ -10,7 +10,16 @@
       "at": "2026-11-04T00:37:07.093Z",
       "by": "user1",
       "byId": "e6fdb7b6abfa22a8"
+    },
+    {
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=cat-ears/6726e67c4c21918f5c0a0f19.jpg",
+      "server": "server1",
+      "reason": "inappropriate",
+      "note": "",
+      "at": "2026-11-04T00:37:25.640Z",
+      "by": "user1",
+      "byId": "e6fdb7b6abfa22a8"
     }
   ],
-  "sha": "755b6fd398378a96ced21752f92b14681e3e4cef"
+  "sha": "8faaec32a47625c66ab707a8a9ace4c0e2ddcf0b"
 }
