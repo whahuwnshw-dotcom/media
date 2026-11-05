@@ -5910,6 +5910,31 @@
       "createdAt": "2026-11-05T06:41:00.754Z",
       "expiresAt": 1796452860754,
       "ownerId": "admin"
+    },
+    "smw36mnulsmia": {
+      "id": "smw36mnulsmia",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=blue-archive/66afb70dca007082e8c1ba87.jpg",
+      "server": "server1",
+      "tags": [
+        "blue-archive",
+        "cute",
+        "young-girl",
+        "1girl",
+        "ahoge"
+      ],
+      "size": "755.05 KB",
+      "artist": "ここな ひづる",
+      "source": "https://www.pixiv.net/en/artworks/118576722",
+      "uploaded": "2026-11-05T06:46:18.430Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-05T06:46:18.430Z",
+      "expiresAt": 1796453178430,
+      "ownerId": null
     }
   }
 }
