@@ -5768,6 +5768,31 @@
       "createdAt": "2026-11-05T06:16:20.179Z",
       "expiresAt": 1796451380179,
       "ownerId": "2c50f5a8dcafd16e"
+    },
+    "smw35kn8p8cs0": {
+      "id": "smw35kn8p8cs0",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=blue-archive/692cd6b80ffa08e55f2d0596.png",
+      "server": "server1",
+      "tags": [
+        "blue-archive",
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "cute"
+      ],
+      "size": "1.96 MB",
+      "artist": "くのかや(kunokaya)",
+      "source": "https://www.pixiv.net/en/artworks/115135822",
+      "uploaded": "2026-11-05T06:16:44.713Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "user",
+      "createdAt": "2026-11-05T06:16:44.713Z",
+      "expiresAt": 1796451404713,
+      "ownerId": "2c50f5a8dcafd16e"
     }
   }
 }
