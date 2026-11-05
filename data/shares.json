@@ -5553,6 +5553,31 @@
       "createdAt": "2026-11-05T05:23:49.037Z",
       "expiresAt": 1796448229037,
       "ownerId": null
+    },
+    "smw33ooz23smr": {
+      "id": "smw33ooz23smr",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=blue-archive/66afd12e39e49e10f908ce58.png",
+      "server": "server1",
+      "tags": [
+        "blue-archive",
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "cute"
+      ],
+      "size": "5.30 MB",
+      "artist": "AutoINS",
+      "source": "https://www.pixiv.net/en/artworks/116177018",
+      "uploaded": "2026-11-05T05:23:54.350Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-05T05:23:54.350Z",
+      "expiresAt": 1796448234350,
+      "ownerId": null
     }
   }
 }
