@@ -1,6 +1,24 @@
 {
   "broadcasts": [
     {
+      "id": "bc_mw36v45bofez",
+      "title": "📢 Pengumuman Penting",
+      "message": "Hi",
+      "category": "Informasi",
+      "icon": "📢",
+      "priority": "normal",
+      "targetRole": "all",
+      "targetUserIds": [],
+      "createdBy": {
+        "userId": "USR002",
+        "username": "branpediaid.com",
+        "name": "Owner",
+        "role": "owner"
+      },
+      "at": "2026-11-05T06:52:52.799Z",
+      "expiresAt": null
+    },
+    {
       "id": "bc_mw36uqvlbae2",
       "title": "📢 Pengumuman Penting",
       "message": "Ui",
@@ -127,5 +145,5 @@
       "expiresAt": null
     }
   ],
-  "updatedAt": "2026-11-05T06:52:35.601Z"
+  "updatedAt": "2026-11-05T06:52:52.799Z"
 }
