@@ -5741,6 +5741,31 @@
       "createdAt": "2026-11-05T06:16:17.936Z",
       "expiresAt": 1796451377936,
       "ownerId": "2c50f5a8dcafd16e"
+    },
+    "smw35k4b7l05w": {
+      "id": "smw35k4b7l05w",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=foxgirl/66a7c164ec7bfdf68b94202b.png",
+      "server": "server1",
+      "tags": [
+        "foxgirl",
+        "fox-ears",
+        "animal-ears",
+        "tail",
+        "cute"
+      ],
+      "size": "2.51 MB",
+      "artist": "ひなた",
+      "source": "https://www.pixiv.net/en/artworks/118874419",
+      "uploaded": "2026-11-05T06:16:20.179Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "user",
+      "createdAt": "2026-11-05T06:16:20.179Z",
+      "expiresAt": 1796451380179,
+      "ownerId": "2c50f5a8dcafd16e"
     }
   }
 }
