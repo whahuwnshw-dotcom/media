@@ -1,6 +1,24 @@
 {
   "broadcasts": [
     {
+      "id": "bc_mw36u6rk90x5",
+      "title": "📢 Pengumuman Penting",
+      "message": "Hai",
+      "category": "Informasi",
+      "icon": "📢",
+      "priority": "normal",
+      "targetRole": "all",
+      "targetUserIds": [],
+      "createdBy": {
+        "userId": "USR002",
+        "username": "branpediaid.com",
+        "name": "Owner",
+        "role": "owner"
+      },
+      "at": "2026-11-05T06:52:09.536Z",
+      "expiresAt": null
+    },
+    {
       "id": "bc_mw36te2a7p8d",
       "title": "📢 Pengumuman Penting",
       "message": "Hai hai bandung momsss",
@@ -91,5 +109,5 @@
       "expiresAt": null
     }
   ],
-  "updatedAt": "2026-11-05T06:51:32.338Z"
+  "updatedAt": "2026-11-05T06:52:09.536Z"
 }
