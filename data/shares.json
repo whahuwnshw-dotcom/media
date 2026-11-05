@@ -5956,6 +5956,31 @@
       "createdAt": "2026-11-05T06:52:46.052Z",
       "expiresAt": 1796453566052,
       "ownerId": "admin"
+    },
+    "smw4463suz71y": {
+      "id": "smw4463suz71y",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=blue-archive/66aecfb9cc2583e774be2720.jpg",
+      "server": "server1",
+      "tags": [
+        "blue-archive",
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "cute"
+      ],
+      "size": "13.11 MB",
+      "artist": "Muo",
+      "source": "https://www.pixiv.net/en/artworks/112815385",
+      "uploaded": "2026-11-05T22:25:12.894Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-05T22:25:12.894Z",
+      "expiresAt": 1796509512894,
+      "ownerId": null
     }
   }
 }
