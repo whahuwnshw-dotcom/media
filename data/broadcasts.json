@@ -1,6 +1,24 @@
 {
   "broadcasts": [
     {
+      "id": "bc_mw36pqophwll",
+      "title": "📢 Pengumuman Penting",
+      "message": "Tes manual",
+      "category": "Informasi",
+      "icon": "📢",
+      "priority": "normal",
+      "targetRole": "all",
+      "targetUserIds": [],
+      "createdBy": {
+        "userId": "USR002",
+        "username": "branpediaid.com",
+        "name": "Owner",
+        "role": "owner"
+      },
+      "at": "2026-11-05T06:48:42.073Z",
+      "expiresAt": null
+    },
+    {
       "id": "bc_mvando9lo9q2",
       "title": "📢 Pengumuman Penting",
       "message": "Tes",
@@ -19,5 +37,5 @@
       "expiresAt": null
     }
   ],
-  "updatedAt": "2026-10-16T07:29:53.433Z"
+  "updatedAt": "2026-11-05T06:48:42.073Z"
 }
