@@ -197,6 +197,19 @@
       "username": "user3",
       "passwordHash": "28b0d74855b6aad50e2ecffc7eef5a34:d635595883eaabab020dd6d64e6dbdd0386b4aab6e4ffdd670beb782d1e3a64cb3ad064348c4dbebc26f87a46f286cd390affd90279a106d6673348f42611c5c",
       "createdAt": "2026-11-04T00:42:26.073Z"
+    },
+    {
+      "id": "anon_jtpmv7ix",
+      "username": "anon_jtpmv7ix",
+      "name": "Anonim",
+      "email": "",
+      "profilePicture": null,
+      "bio": "",
+      "role": "guest",
+      "status": "active",
+      "tokenHash": "ae2baffa6160507c31003a06d96d87e91bcf890a2770fc7d61c3d9d73bb13e21",
+      "createdAt": "2026-11-05T06:45:45.440Z"
     }
-  ]
+  ],
+  "updatedAt": "2026-11-05T06:45:45.445Z"
 }
