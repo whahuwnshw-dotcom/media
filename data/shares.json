@@ -5818,6 +5818,31 @@
       "createdAt": "2026-11-05T06:17:49.269Z",
       "expiresAt": 1796451469269,
       "ownerId": null
+    },
+    "smw35m84yqpm6": {
+      "id": "smw35m84yqpm6",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=singer/66b5454dc0f45167b3de4f7c.png",
+      "server": "server1",
+      "tags": [
+        "singer",
+        "cute",
+        "1girl",
+        "blushing",
+        "bokeh"
+      ],
+      "size": "1.40 MB",
+      "artist": "るみぴゃん＠お仕事募集中",
+      "source": "https://www.pixiv.net/en/artworks/107610350",
+      "uploaded": "2026-11-05T06:17:58.450Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-05T06:17:58.450Z",
+      "expiresAt": 1796451478450,
+      "ownerId": null
     }
   }
 }
