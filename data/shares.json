@@ -6098,6 +6098,27 @@
       "createdAt": "2026-11-07T21:54:06.552Z",
       "expiresAt": 1796680446552,
       "ownerId": null
+    },
+    "smw6xyg62q6mx": {
+      "id": "smw6xyg62q6mx",
+      "url": "https://waifu2-bran.vercel.app/api/image-proxy?filename=waifu/8ec39358-17ab-4ad5-8441-499c1879f79d.png",
+      "server": "server2",
+      "tags": [
+        "waifu"
+      ],
+      "size": "Unknown",
+      "artist": "shiratagi",
+      "source": "https://twitter.com/shiratagi/status/1947242650219716974",
+      "uploaded": "2026-11-07T21:54:36.506Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-07T21:54:36.506Z",
+      "expiresAt": 1796680476506,
+      "ownerId": null
     }
   }
 }
