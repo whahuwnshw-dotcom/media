@@ -6077,6 +6077,27 @@
       "createdAt": "2026-11-07T09:59:08.916Z",
       "expiresAt": 1796637548916,
       "ownerId": null
+    },
+    "smw6xxt20wigh": {
+      "id": "smw6xxt20wigh",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=neko/2339e42b-90ca-4611-aded-6824cdb9b63a.png",
+      "server": "server2",
+      "tags": [
+        "neko"
+      ],
+      "size": "Unknown",
+      "artist": "結まにも",
+      "source": "https://www.pixiv.net/en/artworks/148271367",
+      "uploaded": "2026-11-07T21:54:06.552Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-07T21:54:06.552Z",
+      "expiresAt": 1796680446552,
+      "ownerId": null
     }
   }
 }
