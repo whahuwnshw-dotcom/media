@@ -6186,6 +6186,31 @@
       "createdAt": "2026-11-08T08:34:55.720Z",
       "expiresAt": 1796718895720,
       "ownerId": null
+    },
+    "smw7ktxujb7yv": {
+      "id": "smw7ktxujb7yv",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=vtuber/66d258d0b795cead1a904327.jpg",
+      "server": "server1",
+      "tags": [
+        "vtuber",
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "cute"
+      ],
+      "size": "787.51 KB",
+      "artist": "",
+      "source": "https://twitter.com/hazakurachikori/status/1566607283584659456",
+      "uploaded": "2026-11-08T08:34:57.307Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-08T08:34:57.307Z",
+      "expiresAt": 1796718897307,
+      "ownerId": null
     }
   }
 }
