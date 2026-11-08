@@ -6386,6 +6386,31 @@
       "createdAt": "2026-11-08T08:37:37.885Z",
       "expiresAt": 1796719057885,
       "ownerId": null
+    },
+    "smw7ky51jzbta": {
+      "id": "smw7ky51jzbta",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=catgirl/66aed2684808a4defe8c1de5.jpg",
+      "server": "server1",
+      "tags": [
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "vtuber",
+        "cute"
+      ],
+      "size": "538.75 KB",
+      "artist": "Noyu",
+      "source": "https://www.pixiv.net/en/artworks/92830475",
+      "uploaded": "2026-11-08T08:38:13.255Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-08T08:38:13.255Z",
+      "expiresAt": 1796719093255,
+      "ownerId": null
     }
   }
 }
