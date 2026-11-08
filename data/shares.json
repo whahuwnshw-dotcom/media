@@ -6286,6 +6286,31 @@
       "createdAt": "2026-11-08T08:36:28.164Z",
       "expiresAt": 1796718988164,
       "ownerId": null
+    },
+    "smw7kvx8zit7o": {
+      "id": "smw7kvx8zit7o",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=vtuber/66e5c8062d4c48edae2f581c.png",
+      "server": "server1",
+      "tags": [
+        "vtuber",
+        "1girl",
+        "hololive",
+        "hololive-en",
+        "lying-down"
+      ],
+      "size": "5.81 MB",
+      "artist": "Fineria",
+      "source": "https://www.pixiv.net/en/artworks/121463749",
+      "uploaded": "2026-11-08T08:36:29.843Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-08T08:36:29.843Z",
+      "expiresAt": 1796718989843,
+      "ownerId": null
     }
   }
 }
