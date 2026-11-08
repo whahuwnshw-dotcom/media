@@ -6261,6 +6261,31 @@
       "createdAt": "2026-11-08T08:35:45.447Z",
       "expiresAt": 1796718945447,
       "ownerId": null
+    },
+    "smw7kvvyc50rv": {
+      "id": "smw7kvvyc50rv",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=tail-with-ribbon/66b0dc8c94e5ed8f9208af17.png",
+      "server": "server1",
+      "tags": [
+        "tail-with-ribbon",
+        "vtuber",
+        "catgirl",
+        "cat-ears",
+        "animal-ears"
+      ],
+      "size": "950.70 KB",
+      "artist": "Xamblei",
+      "source": "https://www.pixiv.net/en/artworks/97954127",
+      "uploaded": "2026-11-08T08:36:28.164Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-08T08:36:28.164Z",
+      "expiresAt": 1796718988164,
+      "ownerId": null
     }
   }
 }
