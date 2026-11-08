@@ -6536,6 +6536,31 @@
       "createdAt": "2026-11-08T08:40:01.322Z",
       "expiresAt": 1796719201322,
       "ownerId": null
+    },
+    "smw7l0hsql9jz": {
+      "id": "smw7l0hsql9jz",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=foxgirl/6ad5f20667dd7ed9b3f123b6.png",
+      "server": "server1",
+      "tags": [
+        "foxgirl",
+        "fox-ears",
+        "animal-ears",
+        "cute",
+        "knee-high-socks"
+      ],
+      "size": "2.13 MB",
+      "artist": "AyomiCat",
+      "source": "https://www.deviantart.com/ayomicat/art/Pink-Haired-Foxgirl-Folding-Laundry-at-Sunset-in-a-Cozy-Laundromat-1387637147",
+      "uploaded": "2026-11-08T08:40:03.098Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-08T08:40:03.098Z",
+      "expiresAt": 1796719203098,
+      "ownerId": null
     }
   }
 }
