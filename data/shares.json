@@ -6119,6 +6119,27 @@
       "createdAt": "2026-11-07T21:54:36.506Z",
       "expiresAt": 1796680476506,
       "ownerId": null
+    },
+    "smw7jqcnk62om": {
+      "id": "smw7jqcnk62om",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=neko/cefdd762-d484-4650-a202-b00a5b02f668.png",
+      "server": "server2",
+      "tags": [
+        "neko"
+      ],
+      "size": "Unknown",
+      "artist": "神楽なぎ",
+      "source": "https://www.pixiv.net/en/artworks/130098895",
+      "uploaded": "2026-11-08T08:04:10.256Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-08T08:04:10.256Z",
+      "expiresAt": 1796717050256,
+      "ownerId": null
     }
   }
 }
