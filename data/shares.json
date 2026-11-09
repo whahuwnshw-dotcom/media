@@ -8615,6 +8615,27 @@
       "createdAt": "2026-11-09T15:19:34.564Z",
       "expiresAt": 1796829574564,
       "ownerId": null
+    },
+    "smw9eq8hyrjf7": {
+      "id": "smw9eq8hyrjf7",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=neko/db015183-558b-4987-821a-d7b578cd069b.png",
+      "server": "server2",
+      "tags": [
+        "neko"
+      ],
+      "size": "Unknown",
+      "artist": "ゆゅ",
+      "source": "https://twitter.com/shitake110/status/1772589582149943384",
+      "uploaded": "2026-11-09T15:19:39.142Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-09T15:19:39.142Z",
+      "expiresAt": 1796829579142,
+      "ownerId": null
     }
   }
 }
