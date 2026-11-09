@@ -8398,6 +8398,31 @@
       "createdAt": "2026-11-09T15:13:18.115Z",
       "expiresAt": 1796829198115,
       "ownerId": null
+    },
+    "smw9ei3yhcrrd": {
+      "id": "smw9ei3yhcrrd",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=vtuber/66b5424ec0f45167b3de4e10.png",
+      "server": "server1",
+      "tags": [
+        "vtuber",
+        "young-girl",
+        "1girl",
+        "blue-eyes",
+        "red-ribbon"
+      ],
+      "size": "1.06 MB",
+      "artist": "ほし",
+      "source": "https://www.pixiv.net/en/artworks/98615398",
+      "uploaded": "2026-11-09T15:13:20.009Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-09T15:13:20.009Z",
+      "expiresAt": 1796829200009,
+      "ownerId": null
     }
   }
 }
