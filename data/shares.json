@@ -7142,6 +7142,31 @@
       "createdAt": "2026-11-09T13:17:46.723Z",
       "expiresAt": 1796822266723,
       "ownerId": null
+    },
+    "smw9adjk7zjhr": {
+      "id": "smw9adjk7zjhr",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=catgirl/66b58542b285b91fd6574482.png",
+      "server": "server1",
+      "tags": [
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "cute",
+        "young-girl"
+      ],
+      "size": "2.04 MB",
+      "artist": "Amashiro Natsuki",
+      "source": "https://fantia.jp/posts/61459",
+      "uploaded": "2026-11-09T13:17:48.487Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-09T13:17:48.487Z",
+      "expiresAt": 1796822268487,
+      "ownerId": null
     }
   }
 }
