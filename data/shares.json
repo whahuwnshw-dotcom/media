@@ -6695,6 +6695,27 @@
       "createdAt": "2026-11-09T07:46:52.071Z",
       "expiresAt": 1796802412071,
       "ownerId": null
+    },
+    "smw8yk7odetmz": {
+      "id": "smw8yk7odetmz",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=neko/3a79f9db-cd5d-4d3f-b273-6d173e3f5dcb.png",
+      "server": "server2",
+      "tags": [
+        "neko"
+      ],
+      "size": "Unknown",
+      "artist": "izure",
+      "source": "https://www.pixiv.net/en/artworks/111814631",
+      "uploaded": "2026-11-09T07:47:04.285Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-09T07:47:04.285Z",
+      "expiresAt": 1796802424285,
+      "ownerId": null
     }
   }
 }
