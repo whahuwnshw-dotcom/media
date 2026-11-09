@@ -8035,6 +8035,31 @@
       "createdAt": "2026-11-09T14:51:27.865Z",
       "expiresAt": 1796827887865,
       "ownerId": null
+    },
+    "smw9drauun5w3": {
+      "id": "smw9drauun5w3",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=catgirl/66a6ceefff9f3e777e97b28b.jpg",
+      "server": "server1",
+      "tags": [
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "cute",
+        "1girl"
+      ],
+      "size": "7.01 MB",
+      "artist": "fusuma",
+      "source": "https://www.pixiv.net/en/artworks/92591270",
+      "uploaded": "2026-11-09T14:52:29.238Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-09T14:52:29.238Z",
+      "expiresAt": 1796827949238,
+      "ownerId": null
     }
   }
 }
