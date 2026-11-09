@@ -7267,6 +7267,31 @@
       "createdAt": "2026-11-09T13:19:16.076Z",
       "expiresAt": 1796822356076,
       "ownerId": null
+    },
+    "smw9afhdqjy8s": {
+      "id": "smw9afhdqjy8s",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=catgirl/685abadbf35be958b5507276.jpg",
+      "server": "server1",
+      "tags": [
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "cute",
+        "young-girl"
+      ],
+      "size": "3.39 MB",
+      "artist": "三NyaNya三",
+      "source": "https://www.pixiv.net/en/artworks/128768658",
+      "uploaded": "2026-11-09T13:19:18.974Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-09T13:19:18.974Z",
+      "expiresAt": 1796822358974,
+      "ownerId": null
     }
   }
 }
