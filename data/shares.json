@@ -6674,6 +6674,27 @@
       "createdAt": "2026-11-09T07:46:38.732Z",
       "expiresAt": 1796802398732,
       "ownerId": null
+    },
+    "smw8yjy933xg1": {
+      "id": "smw8yjy933xg1",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=neko/7cd3f884-c1cb-4462-919b-f5f565411d18.png",
+      "server": "server2",
+      "tags": [
+        "neko"
+      ],
+      "size": "Unknown",
+      "artist": "とぅー",
+      "source": "https://twitter.com/tooo88/status/1802355872687067373",
+      "uploaded": "2026-11-09T07:46:52.071Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-09T07:46:52.071Z",
+      "expiresAt": 1796802412071,
+      "ownerId": null
     }
   }
 }
