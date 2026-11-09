@@ -6716,6 +6716,27 @@
       "createdAt": "2026-11-09T07:47:04.285Z",
       "expiresAt": 1796802424285,
       "ownerId": null
+    },
+    "smw8ykdzumtm4": {
+      "id": "smw8ykdzumtm4",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=neko/490198ff-a2b2-423d-b853-5d2f5bd61eb0.png",
+      "server": "server2",
+      "tags": [
+        "neko"
+      ],
+      "size": "Unknown",
+      "artist": "がぼ",
+      "source": "https://twitter.com/gabogabo0414/status/1630170702728011776",
+      "uploaded": "2026-11-09T07:47:12.474Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-09T07:47:12.474Z",
+      "expiresAt": 1796802432474,
+      "ownerId": null
     }
   }
 }
