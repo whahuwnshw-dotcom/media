@@ -7580,6 +7580,31 @@
       "createdAt": "2026-11-09T13:48:55.859Z",
       "expiresAt": 1796824135859,
       "ownerId": null
+    },
+    "smw9ble205cct": {
+      "id": "smw9ble205cct",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=catgirl/66b0287c56b9dd371df0023e.png",
+      "server": "server1",
+      "tags": [
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "cute",
+        "young-girl"
+      ],
+      "size": "1.76 MB",
+      "artist": "しきと✦お仕事募集中",
+      "source": "https://www.pixiv.net/en/artworks/97694227",
+      "uploaded": "2026-11-09T13:51:54.216Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-09T13:51:54.216Z",
+      "expiresAt": 1796824314216,
+      "ownerId": null
     }
   }
 }
