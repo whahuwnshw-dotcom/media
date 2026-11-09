@@ -7067,6 +7067,31 @@
       "createdAt": "2026-11-09T13:16:31.756Z",
       "expiresAt": 1796822191756,
       "ownerId": null
+    },
+    "smw9acgmayt16": {
+      "id": "smw9acgmayt16",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=catgirl/66b581c5c28d7550ecff360f.png",
+      "server": "server1",
+      "tags": [
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "tail",
+        "cute"
+      ],
+      "size": "1.75 MB",
+      "artist": "Amashiro Natsuki",
+      "source": "https://yande.re/post/show/618274",
+      "uploaded": "2026-11-09T13:16:58.018Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-09T13:16:58.018Z",
+      "expiresAt": 1796822218018,
+      "ownerId": null
     }
   }
 }
