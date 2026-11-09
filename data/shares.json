@@ -7839,6 +7839,31 @@
       "createdAt": "2026-11-09T14:25:20.071Z",
       "expiresAt": 1796826320071,
       "ownerId": null
+    },
+    "smw9cu6d14j2a": {
+      "id": "smw9cu6d14j2a",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=animal-ears/66ad78d906b56bf9e668884f.png",
+      "server": "server1",
+      "tags": [
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "maid",
+        "maid-uniform"
+      ],
+      "size": "3.85 MB",
+      "artist": "アメハル",
+      "source": "https://www.pixiv.net/en/artworks/82663959",
+      "uploaded": "2026-11-09T14:26:43.765Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-09T14:26:43.765Z",
+      "expiresAt": 1796826403765,
+      "ownerId": null
     }
   }
 }
