@@ -7242,6 +7242,31 @@
       "createdAt": "2026-11-09T13:18:49.042Z",
       "expiresAt": 1796822329042,
       "ownerId": null
+    },
+    "smw9aff58b9tq": {
+      "id": "smw9aff58b9tq",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=1girl/66c2c07f356ed9f8be4163ef.jpg",
+      "server": "server1",
+      "tags": [
+        "1girl",
+        "cute",
+        "young-girl",
+        "long-hair",
+        "pink-eyes"
+      ],
+      "size": "1.85 MB",
+      "artist": "鬼针草",
+      "source": "https://www.pixiv.net/en/artworks/112488501",
+      "uploaded": "2026-11-09T13:19:16.076Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-09T13:19:16.076Z",
+      "expiresAt": 1796822356076,
+      "ownerId": null
     }
   }
 }
