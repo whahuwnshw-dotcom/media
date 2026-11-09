@@ -7989,6 +7989,31 @@
       "createdAt": "2026-11-09T14:45:19.266Z",
       "expiresAt": 1796827519266,
       "ownerId": null
+    },
+    "smw9di4eedudz": {
+      "id": "smw9di4eedudz",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=catgirl/6ad5edb76f22317920cd9e15.png",
+      "server": "server1",
+      "tags": [
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "tail",
+        "cute"
+      ],
+      "size": "2.41 MB",
+      "artist": "AyomiCat",
+      "source": "https://www.deviantart.com/ayomicat/art/Silver-Haired-Catgirl-Enjoying-Coffee-on-a-Moonlit-City-Street-1398720895",
+      "uploaded": "2026-11-09T14:45:20.966Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-09T14:45:20.966Z",
+      "expiresAt": 1796827520966,
+      "ownerId": null
     }
   }
 }
