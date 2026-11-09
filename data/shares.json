@@ -8014,6 +8014,27 @@
       "createdAt": "2026-11-09T14:45:20.966Z",
       "expiresAt": 1796827520966,
       "ownerId": null
+    },
+    "smw9dpzi1g6gw": {
+      "id": "smw9dpzi1g6gw",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=neko/c6175d18-c4da-4f81-8ac9-7d26eabd42a1.png",
+      "server": "server2",
+      "tags": [
+        "neko"
+      ],
+      "size": "Unknown",
+      "artist": "狐巳夜",
+      "source": "https://www.pixiv.net/en/artworks/93437658",
+      "uploaded": "2026-11-09T14:51:27.865Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-09T14:51:27.865Z",
+      "expiresAt": 1796827887865,
+      "ownerId": null
     }
   }
 }
