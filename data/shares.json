@@ -6582,6 +6582,31 @@
       "createdAt": "2026-11-08T08:43:28.671Z",
       "expiresAt": 1796719408671,
       "ownerId": null
+    },
+    "smw8yimxi3rox": {
+      "id": "smw8yimxi3rox",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=1girl/66b5469fc0f45167b3de500f.png",
+      "server": "server1",
+      "tags": [
+        "1girl",
+        "blonde",
+        "books",
+        "dress",
+        "elf"
+      ],
+      "size": "2.78 MB",
+      "artist": "ぴろ瀬",
+      "source": "https://www.pixiv.net/en/artworks/121218335",
+      "uploaded": "2026-11-09T07:45:50.742Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-09T07:45:50.742Z",
+      "expiresAt": 1796802350742,
+      "ownerId": null
     }
   }
 }
