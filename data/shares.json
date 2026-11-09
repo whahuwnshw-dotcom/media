@@ -8085,6 +8085,31 @@
       "createdAt": "2026-11-09T14:53:06.187Z",
       "expiresAt": 1796827986187,
       "ownerId": null
+    },
+    "smw9dvhn8gz6r": {
+      "id": "smw9dvhn8gz6r",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=blue-archive/66afcbb59945943d67650c9b.png",
+      "server": "server1",
+      "tags": [
+        "blue-archive",
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "cute"
+      ],
+      "size": "1.80 MB",
+      "artist": "長友かぼちゃ",
+      "source": "https://www.pixiv.net/en/artworks/120667272",
+      "uploaded": "2026-11-09T14:55:44.660Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-09T14:55:44.660Z",
+      "expiresAt": 1796828144660,
+      "ownerId": null
     }
   }
 }
