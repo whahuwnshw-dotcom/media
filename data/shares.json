@@ -8223,6 +8223,31 @@
       "createdAt": "2026-11-09T15:05:09.876Z",
       "expiresAt": 1796828709876,
       "ownerId": null
+    },
+    "smw9e8bbyi1tw": {
+      "id": "smw9e8bbyi1tw",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=catgirl/66a6db2592d00e4a798a51e7.png",
+      "server": "server1",
+      "tags": [
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "cute",
+        "coffee"
+      ],
+      "size": "5.82 MB",
+      "artist": "ころんびぁ",
+      "source": "https://www.pixiv.net/en/artworks/108606965",
+      "uploaded": "2026-11-09T15:05:43.006Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-09T15:05:43.006Z",
+      "expiresAt": 1796828743006,
+      "ownerId": null
     }
   }
 }
