@@ -6800,6 +6800,27 @@
       "createdAt": "2026-11-09T07:47:50.690Z",
       "expiresAt": 1796802470690,
       "ownerId": null
+    },
+    "smw8ylbqornem": {
+      "id": "smw8ylbqornem",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=neko/cbfb7d9d-9597-4185-99e3-3cc99762e831.png",
+      "server": "server2",
+      "tags": [
+        "neko"
+      ],
+      "size": "Unknown",
+      "artist": "結城さくな",
+      "source": "https://twitter.com/yuki_sakuna/status/1981284395484090679",
+      "uploaded": "2026-11-09T07:47:56.208Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-09T07:47:56.208Z",
+      "expiresAt": 1796802476208,
+      "ownerId": null
     }
   }
 }
