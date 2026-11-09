@@ -7463,6 +7463,31 @@
       "createdAt": "2026-11-09T13:39:48.470Z",
       "expiresAt": 1796823588470,
       "ownerId": null
+    },
+    "smw9b5vfzd709": {
+      "id": "smw9b5vfzd709",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=arknights/681fc51186b8e7cf157f5355.jpg",
+      "server": "server1",
+      "tags": [
+        "arknights",
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "cute"
+      ],
+      "size": "456.44 KB",
+      "artist": "たんたんめん",
+      "source": "https://www.pixiv.net/en/artworks/95796963",
+      "uploaded": "2026-11-09T13:39:50.255Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-09T13:39:50.255Z",
+      "expiresAt": 1796823590255,
+      "ownerId": null
     }
   }
 }
