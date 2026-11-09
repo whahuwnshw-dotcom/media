@@ -7864,6 +7864,31 @@
       "createdAt": "2026-11-09T14:26:43.765Z",
       "expiresAt": 1796826403765,
       "ownerId": null
+    },
+    "smw9d2vg68pdi": {
+      "id": "smw9d2vg68pdi",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=catgirl/66ae238d50b62a4dae813178.png",
+      "server": "server1",
+      "tags": [
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "young-girl",
+        "braids"
+      ],
+      "size": "1.18 MB",
+      "artist": "ほし",
+      "source": "https://www.pixiv.net/en/artworks/115252054",
+      "uploaded": "2026-11-09T14:33:29.526Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-09T14:33:29.526Z",
+      "expiresAt": 1796826809526,
+      "ownerId": null
     }
   }
 }
