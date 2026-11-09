@@ -8198,6 +8198,31 @@
       "createdAt": "2026-11-09T15:03:41.535Z",
       "expiresAt": 1796828621535,
       "ownerId": null
+    },
+    "smw9e7lroewrs": {
+      "id": "smw9e7lroewrs",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=tail-with-ribbon/66aa2351ea36c0705fff8b77.jpg",
+      "server": "server1",
+      "tags": [
+        "tail-with-ribbon",
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "tail"
+      ],
+      "size": "1.29 MB",
+      "artist": "あるか＠1日目 東 B-21b",
+      "source": "https://www.pixiv.net/en/artworks/90602526",
+      "uploaded": "2026-11-09T15:05:09.876Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-09T15:05:09.876Z",
+      "expiresAt": 1796828709876,
+      "ownerId": null
     }
   }
 }
