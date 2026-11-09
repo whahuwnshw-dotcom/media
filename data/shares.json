@@ -8820,6 +8820,31 @@
       "createdAt": "2026-11-09T15:34:26.967Z",
       "expiresAt": 1796830466967,
       "ownerId": null
+    },
+    "smw9h9j0nvru5": {
+      "id": "smw9h9j0nvru5",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=catgirl/66abfb14973afa5de3851122.png",
+      "server": "server1",
+      "tags": [
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "vtuber",
+        "cute"
+      ],
+      "size": "1.22 MB",
+      "artist": "鰆@更新停止",
+      "source": "https://www.pixiv.net/en/artworks/93353314",
+      "uploaded": "2026-11-09T16:30:38.471Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-09T16:30:38.471Z",
+      "expiresAt": 1796833838471,
+      "ownerId": null
     }
   }
 }
