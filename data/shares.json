@@ -7889,6 +7889,31 @@
       "createdAt": "2026-11-09T14:33:29.526Z",
       "expiresAt": 1796826809526,
       "ownerId": null
+    },
+    "smw9d83213ehy": {
+      "id": "smw9d83213ehy",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=1girl/66aa605bc75a065cfeb677e3.png",
+      "server": "server1",
+      "tags": [
+        "1girl",
+        "blue-archive",
+        "young-girl",
+        "bed",
+        "bedroom"
+      ],
+      "size": "1.24 MB",
+      "artist": "もつ煮",
+      "source": "https://www.pixiv.net/en/artworks/93222487",
+      "uploaded": "2026-11-09T14:37:32.665Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-09T14:37:32.665Z",
+      "expiresAt": 1796827052665,
+      "ownerId": null
     }
   }
 }
