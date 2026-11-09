@@ -7697,6 +7697,31 @@
       "createdAt": "2026-11-09T14:03:41.783Z",
       "expiresAt": 1796825021783,
       "ownerId": null
+    },
+    "smw9c0n721779": {
+      "id": "smw9c0n721779",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=catgirl/66a6da1344cc2f8f27e40fce.png",
+      "server": "server1",
+      "tags": [
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "cute",
+        "young-girl"
+      ],
+      "size": "4.11 MB",
+      "artist": "ココシラ",
+      "source": "https://www.pixiv.net/en/artworks/116180583",
+      "uploaded": "2026-11-09T14:03:45.902Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-09T14:03:45.902Z",
+      "expiresAt": 1796825025902,
+      "ownerId": null
     }
   }
 }
