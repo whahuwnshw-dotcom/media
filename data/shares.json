@@ -8590,6 +8590,31 @@
       "createdAt": "2026-11-09T15:19:32.874Z",
       "expiresAt": 1796829572874,
       "ownerId": null
+    },
+    "smw9eq4ysik4d": {
+      "id": "smw9eq4ysik4d",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=maid/6728919f44c4bb6461937f3b.png",
+      "server": "server1",
+      "tags": [
+        "maid",
+        "maid-uniform",
+        "tail-with-ribbon",
+        "catgirl",
+        "cat-ears"
+      ],
+      "size": "2.05 MB",
+      "artist": "悠tacC",
+      "source": "https://www.pixiv.net/en/artworks/122046795",
+      "uploaded": "2026-11-09T15:19:34.564Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-09T15:19:34.564Z",
+      "expiresAt": 1796829574564,
+      "ownerId": null
     }
   }
 }
