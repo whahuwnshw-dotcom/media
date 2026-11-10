@@ -8866,6 +8866,27 @@
       "createdAt": "2026-11-10T00:18:03.549Z",
       "expiresAt": 1796861883549,
       "ownerId": "admin"
+    },
+    "smw9y2zqzx7cy": {
+      "id": "smw9y2zqzx7cy",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=neko/9a8f63ae-5513-4bbf-a473-bb0ea02b9f70.png",
+      "server": "server2",
+      "tags": [
+        "neko"
+      ],
+      "size": "Unknown",
+      "artist": "あまぐり。",
+      "source": "https://twitter.com/guri_0330/status/1911902404737712494",
+      "uploaded": "2026-11-10T00:21:27.035Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "branpediaid.com",
+      "createdAt": "2026-11-10T00:21:27.035Z",
+      "expiresAt": 1796862087035,
+      "ownerId": "admin"
     }
   }
 }
