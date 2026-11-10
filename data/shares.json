@@ -9515,6 +9515,31 @@
       "createdAt": "2026-11-10T13:01:53.506Z",
       "expiresAt": 1796907713506,
       "ownerId": null
+    },
+    "smwap8ztwf9es": {
+      "id": "smwap8ztwf9es",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=catgirl/66b15c86c889405760550ad0.png",
+      "server": "server1",
+      "tags": [
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "tail",
+        "cute"
+      ],
+      "size": "5.22 MB",
+      "artist": "",
+      "source": "https://yande.re/post/show/998223",
+      "uploaded": "2026-11-10T13:01:56.708Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-10T13:01:56.708Z",
+      "expiresAt": 1796907716708,
+      "ownerId": null
     }
   }
 }
