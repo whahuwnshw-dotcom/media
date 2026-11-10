@@ -9753,6 +9753,31 @@
       "createdAt": "2026-11-10T13:23:24.893Z",
       "expiresAt": 1796909004893,
       "ownerId": null
+    },
+    "smwaq0n63hdfi": {
+      "id": "smwaq0n63hdfi",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=blue-archive/673b5da76d4aff4ffcdba30f.jpg",
+      "server": "server1",
+      "tags": [
+        "blue-archive",
+        "animal-ears",
+        "young-girl",
+        "1girl",
+        "casual-wear"
+      ],
+      "size": "1.37 MB",
+      "artist": "鈍色玄",
+      "source": "https://www.pixiv.net/en/artworks/116363454",
+      "uploaded": "2026-11-10T13:23:26.667Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-10T13:23:26.667Z",
+      "expiresAt": 1796909006667,
+      "ownerId": null
     }
   }
 }
