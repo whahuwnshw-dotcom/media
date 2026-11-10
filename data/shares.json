@@ -8931,6 +8931,31 @@
       "createdAt": "2026-11-10T00:24:23.382Z",
       "expiresAt": 1796862263382,
       "ownerId": "admin"
+    },
+    "smw9y8jnj8czh": {
+      "id": "smw9y8jnj8czh",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=blue-archive/66afd898b718a49ae70c8a80.jpg",
+      "server": "server1",
+      "tags": [
+        "blue-archive",
+        "animal-ears",
+        "cute",
+        "young-girl",
+        "blue-eyes"
+      ],
+      "size": "780.74 KB",
+      "artist": "warabi餅",
+      "source": "https://www.pixiv.net/en/artworks/118181887",
+      "uploaded": "2026-11-10T00:25:46.111Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "branpediaid.com",
+      "createdAt": "2026-11-10T00:25:46.111Z",
+      "expiresAt": 1796862346111,
+      "ownerId": "admin"
     }
   }
 }
