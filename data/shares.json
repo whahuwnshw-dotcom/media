@@ -8956,6 +8956,31 @@
       "createdAt": "2026-11-10T00:25:46.111Z",
       "expiresAt": 1796862346111,
       "ownerId": "admin"
+    },
+    "smw9y926mbukc": {
+      "id": "smw9y926mbukc",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=blue-archive/672ed2acbc799e8db7c0aa0e.jpg",
+      "server": "server1",
+      "tags": [
+        "blue-archive",
+        "foxgirl",
+        "fox-ears",
+        "animal-ears",
+        "cute"
+      ],
+      "size": "3.03 MB",
+      "artist": "ロロコ",
+      "source": "https://www.pixiv.net/en/artworks/113511024",
+      "uploaded": "2026-11-10T00:26:10.126Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "branpediaid.com",
+      "createdAt": "2026-11-10T00:26:10.126Z",
+      "expiresAt": 1796862370126,
+      "ownerId": "admin"
     }
   }
 }
