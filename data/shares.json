@@ -9440,6 +9440,31 @@
       "createdAt": "2026-11-10T12:56:21.386Z",
       "expiresAt": 1796907381386,
       "ownerId": null
+    },
+    "smwap2dh4q5u5": {
+      "id": "smwap2dh4q5u5",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=catgirl/69cdc112f107d4d9f6585b64.jpg",
+      "server": "server1",
+      "tags": [
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "thigh-high-socks",
+        "white-thigh-high-socks"
+      ],
+      "size": "2.28 MB",
+      "artist": "七咲みや",
+      "source": "https://www.pixiv.net/en/artworks/141494098",
+      "uploaded": "2026-11-10T12:56:47.800Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-10T12:56:47.800Z",
+      "expiresAt": 1796907407800,
+      "ownerId": null
     }
   }
 }
