@@ -9215,6 +9215,31 @@
       "createdAt": "2026-11-10T12:42:32.899Z",
       "expiresAt": 1796906552899,
       "ownerId": null
+    },
+    "smwaok3bold59": {
+      "id": "smwaok3bold59",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=catgirl/66aa45a3b8e5833875b6b16f.jpg",
+      "server": "server1",
+      "tags": [
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "cute",
+        "young-girl"
+      ],
+      "size": "1.82 MB",
+      "artist": "fufumi",
+      "source": "https://www.pixiv.net/en/artworks/69101776",
+      "uploaded": "2026-11-10T12:42:34.836Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-10T12:42:34.836Z",
+      "expiresAt": 1796906554836,
+      "ownerId": null
     }
   }
 }
