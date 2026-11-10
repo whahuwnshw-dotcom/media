@@ -8981,6 +8981,31 @@
       "createdAt": "2026-11-10T00:26:10.126Z",
       "expiresAt": 1796862370126,
       "ownerId": "admin"
+    },
+    "smw9y97sxpvo1": {
+      "id": "smw9y97sxpvo1",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=blue-archive/66b01b7923f9ac02520e4261.jpg",
+      "server": "server1",
+      "tags": [
+        "blue-archive",
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "cute"
+      ],
+      "size": "3.05 MB",
+      "artist": "かるぱ",
+      "source": "https://www.pixiv.net/en/artworks/114122838",
+      "uploaded": "2026-11-10T00:26:17.409Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "branpediaid.com",
+      "createdAt": "2026-11-10T00:26:17.409Z",
+      "expiresAt": 1796862377409,
+      "ownerId": "admin"
     }
   }
 }
