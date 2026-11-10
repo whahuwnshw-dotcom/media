@@ -9707,6 +9707,27 @@
       "createdAt": "2026-11-10T13:11:28.436Z",
       "expiresAt": 1796908288436,
       "ownerId": "admin"
+    },
+    "smwapodofaxwu": {
+      "id": "smwapodofaxwu",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=neko/f47ec074-ba04-4215-be17-a5b7ee4f2c15.png",
+      "server": "server2",
+      "tags": [
+        "neko"
+      ],
+      "size": "Unknown",
+      "artist": "ameto_y",
+      "source": "https://twitter.com/i/web/status/943392983172263936",
+      "uploaded": "2026-11-10T13:13:54.495Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "branpediaid.com",
+      "createdAt": "2026-11-10T13:13:54.495Z",
+      "expiresAt": 1796908434495,
+      "ownerId": "admin"
     }
   }
 }
