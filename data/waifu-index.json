@@ -1,28 +1,5 @@
 {
-  "waifus": [
-    {
-      "id": "mw9y5g8u59lwrj",
-      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=uploads/mw9y5g8u59lwrj.jpg",
-      "rawUrl": "https://raw.githubusercontent.com/whahuwnshw-dotcom/media/main/public/uploads/mw9y5g8u59lwrj.jpg",
-      "originalName": "Screenshot_20261108-150042.jpg",
-      "uploaded": "2026-11-10T00:23:22.121Z",
-      "size": "459.91 KB",
-      "sizeBytes": 470951,
-      "source": "",
-      "artist": "Tes",
-      "tags": [
-        "waifu"
-      ],
-      "isNsfw": false,
-      "views": 1,
-      "likes": 0,
-      "downloads": 0,
-      "likedBy": [],
-      "reports": [],
-      "uploadedBy": "admin",
-      "uploadedByName": "branpediaid.com"
-    }
-  ],
+  "waifus": [],
   "blockedUrls": [],
   "externalReports": [
     {
@@ -35,5 +12,5 @@
       "byId": "e6fdb7b6abfa22a8"
     }
   ],
-  "sha": "bf120b87c70150c4779b795c29d28df172dcb092"
+  "sha": "6c55d8bbbce3b31a399f86a036127db7551214dc"
 }
