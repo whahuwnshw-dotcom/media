@@ -8880,9 +8880,11 @@
       "uploaded": "2026-11-10T00:21:27.035Z",
       "isNsfw": false,
       "views": 1,
-      "likes": 0,
+      "likes": 1,
       "downloads": 0,
-      "likedBy": [],
+      "likedBy": [
+        "admin"
+      ],
       "uploadedByName": "branpediaid.com",
       "createdAt": "2026-11-10T00:21:27.035Z",
       "expiresAt": 1796862087035,
