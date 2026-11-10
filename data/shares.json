@@ -9190,6 +9190,31 @@
       "createdAt": "2026-11-10T12:39:23.303Z",
       "expiresAt": 1796906363303,
       "ownerId": "admin"
+    },
+    "smwaok1tvzpti": {
+      "id": "smwaok1tvzpti",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=doggirl/66aa9a4cd70ef18bc88abaec.png",
+      "server": "server1",
+      "tags": [
+        "catgirl",
+        "doggirl",
+        "cat-ears",
+        "dog-ears",
+        "animal-ears"
+      ],
+      "size": "794.99 KB",
+      "artist": "三村ざじゃ",
+      "source": "https://www.pixiv.net/en/artworks/68360102",
+      "uploaded": "2026-11-10T12:42:32.899Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-10T12:42:32.899Z",
+      "expiresAt": 1796906552899,
+      "ownerId": null
     }
   }
 }
