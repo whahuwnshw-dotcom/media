@@ -9390,6 +9390,31 @@
       "createdAt": "2026-11-10T12:54:20.066Z",
       "expiresAt": 1796907260066,
       "ownerId": null
+    },
+    "smwap1ruvk84b": {
+      "id": "smwap1ruvk84b",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=maid/692cd6c40ffa08e55f2d05a8.png",
+      "server": "server1",
+      "tags": [
+        "maid",
+        "maid-uniform",
+        "catgirl",
+        "cat-ears",
+        "animal-ears"
+      ],
+      "size": "1.76 MB",
+      "artist": "くのかや(kunokaya)",
+      "source": "https://www.pixiv.net/en/artworks/122847530",
+      "uploaded": "2026-11-10T12:56:19.783Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-10T12:56:19.783Z",
+      "expiresAt": 1796907379783,
+      "ownerId": null
     }
   }
 }
