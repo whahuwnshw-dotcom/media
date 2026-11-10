@@ -9899,6 +9899,31 @@
       "createdAt": "2026-11-10T15:09:56.808Z",
       "expiresAt": 1796915396808,
       "ownerId": "admin"
+    },
+    "smwb7oyf2w9zi": {
+      "id": "smwb7oyf2w9zi",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=w-sitting/681fc50d86b8e7cf157f533a.jpg",
+      "server": "server1",
+      "tags": [
+        "w-sitting",
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "tail"
+      ],
+      "size": "420.96 KB",
+      "artist": "たんたんめん",
+      "source": "https://www.pixiv.net/en/artworks/100076334",
+      "uploaded": "2026-11-10T21:38:14.462Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-10T21:38:14.462Z",
+      "expiresAt": 1796938694462,
+      "ownerId": null
     }
   }
 }
