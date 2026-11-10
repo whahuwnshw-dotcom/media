@@ -9415,6 +9415,31 @@
       "createdAt": "2026-11-10T12:56:19.783Z",
       "expiresAt": 1796907379783,
       "ownerId": null
+    },
+    "smwap1t3dg4j2": {
+      "id": "smwap1t3dg4j2",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=catgirl/66a7a93b75d7ba6c883e9a46.png",
+      "server": "server1",
+      "tags": [
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "cute",
+        "blonde"
+      ],
+      "size": "8.81 MB",
+      "artist": "葉桜ひなた🍡🌸🌱",
+      "source": "https://www.pixiv.net/en/artworks/117813355",
+      "uploaded": "2026-11-10T12:56:21.385Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-10T12:56:21.386Z",
+      "expiresAt": 1796907381386,
+      "ownerId": null
     }
   }
 }
