@@ -9031,6 +9031,31 @@
       "createdAt": "2026-11-10T00:26:52.372Z",
       "expiresAt": 1796862412372,
       "ownerId": null
+    },
+    "smw9yghvmgbr7": {
+      "id": "smw9yghvmgbr7",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=cat-ears-hat/6785bc53426fd3a20e420e9e.png",
+      "server": "server1",
+      "tags": [
+        "cat-ears-hat",
+        "cat-ears",
+        "animal-ears",
+        "cute",
+        "1girl"
+      ],
+      "size": "6.44 MB",
+      "artist": "ぴろ瀬",
+      "source": "https://www.pixiv.net/en/artworks/126163250",
+      "uploaded": "2026-11-10T00:31:57.058Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-10T00:31:57.058Z",
+      "expiresAt": 1796862717058,
+      "ownerId": null
     }
   }
 }
