@@ -9540,6 +9540,31 @@
       "createdAt": "2026-11-10T13:01:56.708Z",
       "expiresAt": 1796907716708,
       "ownerId": null
+    },
+    "smwapcgdyv66l": {
+      "id": "smwapcgdyv66l",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=vtuber/68386e3591a8805ce812c041.png",
+      "server": "server1",
+      "tags": [
+        "vtuber",
+        "tail-with-ribbon",
+        "catgirl",
+        "cat-ears",
+        "animal-ears"
+      ],
+      "size": "3.93 MB",
+      "artist": "Aria",
+      "source": "https://www.pixiv.net/en/artworks/123091204",
+      "uploaded": "2026-11-10T13:04:38.134Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-10T13:04:38.134Z",
+      "expiresAt": 1796907878134,
+      "ownerId": null
     }
   }
 }
