@@ -1,6 +1,16 @@
 [
   {
     "userId": "admin-master",
+    "type": "animeindo",
+    "key": "4327",
+    "title": "Gotoubun no Hanayome ∬",
+    "cover": "/api/img/aHR0cHM6Ly9hcGkuYW5pbWVpbi5uZXQvYXNzZXRzL2ltYWdlcy9tb3ZpZS9wb3N0ZXIvOGQ5NzcwNGFkYWU5YmQ3MjdjNjFhMDk4ZDY3OTNkMjMuanBn",
+    "sub": "Episode 12",
+    "href": "/anime-indo/episode/52696",
+    "updatedAt": 1794417108996
+  },
+  {
+    "userId": "admin-master",
     "type": "komik",
     "key": "nakama-wo-mamotte-shindara-20-nengo-no-onaji-sekai-ni-umarekawatta-ken-demo-ore-tensei-2-kaime-nanda-kedo",
     "title": "Nakama wo Mamotte Shindara 20-nengo no Onaji Sekai ni Umarekawatta Ken…… demo Ore, Tensei 2-kaime Nanda kedo?",
@@ -18,16 +28,6 @@
     "sub": "Episode 12",
     "href": "/anime-indo/episode/52696",
     "updatedAt": 1794416816458
-  },
-  {
-    "userId": "admin-master",
-    "type": "animeindo",
-    "key": "4327",
-    "title": "Gotoubun no Hanayome ∬",
-    "cover": "/api/img/aHR0cHM6Ly9hcGkuYW5pbWVpbi5uZXQvYXNzZXRzL2ltYWdlcy9tb3ZpZS9wb3N0ZXIvOGQ5NzcwNGFkYWU5YmQ3MjdjNjFhMDk4ZDY3OTNkMjMuanBn",
-    "sub": "Episode 12",
-    "href": "/anime-indo/episode/52696",
-    "updatedAt": 1794416521295
   },
   {
     "userId": "admin-master",
