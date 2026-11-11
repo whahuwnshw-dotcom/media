@@ -19,12 +19,5 @@
     "password": "46b0db000b9822508c7377ea46a604a8a6bf9d05fd2d56c2974aede6a56e22b7",
     "role": "user",
     "createdAt": "2026-11-11T07:55:26.456Z"
-  },
-  {
-    "id": "1794384309059",
-    "username": "Roni",
-    "password": "c8e7ac46b5ef0f8503bd87aafab9ce7ed65f8376ef5f29e00e1fd1cf7b3f3a88",
-    "role": "user",
-    "createdAt": "2026-11-11T08:05:09.060Z"
   }
 ]
