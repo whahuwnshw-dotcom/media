@@ -2,6 +2,16 @@
   {
     "userId": "admin-master",
     "type": "animeindo",
+    "key": "4327",
+    "title": "Gotoubun no Hanayome ∬",
+    "cover": "/api/img/aHR0cHM6Ly9hcGkuYW5pbWVpbi5uZXQvYXNzZXRzL2ltYWdlcy9tb3ZpZS9wb3N0ZXIvOGQ5NzcwNGFkYWU5YmQ3MjdjNjFhMDk4ZDY3OTNkMjMuanBn",
+    "sub": "Episode 12",
+    "href": "/anime-indo/episode/52696",
+    "updatedAt": 1794392686783
+  },
+  {
+    "userId": "admin-master",
+    "type": "animeindo",
     "key": "300622",
     "title": "Episode 2",
     "cover": "/assets/images/movie/episode/87df3395d88e94f3b1408cebafdb0cfa.jpg",
