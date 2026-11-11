@@ -5,5 +5,12 @@
     "password": "91cf188a21570e843ee627594988d3212bf70da5cbc5d6a79abbbc777205dc50",
     "role": "user",
     "createdAt": "2026-11-11T07:51:52.553Z"
+  },
+  {
+    "id": "1794403043808",
+    "username": "bran",
+    "password": "2555e9e4b9fc613fb215baf4adf683e11e30218599104633e78ff0cd184d68c8",
+    "role": "user",
+    "createdAt": "2026-11-11T13:17:23.808Z"
   }
 ]
