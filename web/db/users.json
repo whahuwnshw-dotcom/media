@@ -12,5 +12,13 @@
     "password": "2555e9e4b9fc613fb215baf4adf683e11e30218599104633e78ff0cd184d68c8",
     "role": "user",
     "createdAt": "2026-11-11T13:17:23.808Z"
+  },
+  {
+    "id": "1794410013092",
+    "username": "1",
+    "password": "fef4022452bc34d2bf88acd7dc37df6a62366d349641d9ea9c071baf1b30fb60",
+    "role": "user",
+    "avatar": "",
+    "createdAt": "2026-11-11T15:13:33.092Z"
   }
 ]
