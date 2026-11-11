@@ -10020,6 +10020,31 @@
       "createdAt": "2026-11-11T01:58:16.702Z",
       "expiresAt": 1796954296702,
       "ownerId": null
+    },
+    "smwbh02khn5mp": {
+      "id": "smwbh02khn5mp",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=catgirl/68649edf87ad2501db4f8fb3.jpg",
+      "server": "server1",
+      "tags": [
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "cute",
+        "nail-polish"
+      ],
+      "size": "232.76 KB",
+      "artist": "milky",
+      "source": "https://www.pixiv.net/en/artworks/92388489",
+      "uploaded": "2026-11-11T01:58:49.601Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-11T01:58:49.601Z",
+      "expiresAt": 1796954329601,
+      "ownerId": null
     }
   }
 }
