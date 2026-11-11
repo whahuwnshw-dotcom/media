@@ -12,12 +12,5 @@
     "password": "91cf188a21570e843ee627594988d3212bf70da5cbc5d6a79abbbc777205dc50",
     "role": "user",
     "createdAt": "2026-11-11T07:51:52.553Z"
-  },
-  {
-    "id": "1794383726456",
-    "username": "usertes1",
-    "password": "46b0db000b9822508c7377ea46a604a8a6bf9d05fd2d56c2974aede6a56e22b7",
-    "role": "user",
-    "createdAt": "2026-11-11T07:55:26.456Z"
   }
 ]
