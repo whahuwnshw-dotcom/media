@@ -10626,6 +10626,31 @@
       "createdAt": "2026-11-11T17:22:06.124Z",
       "expiresAt": 1797009726124,
       "ownerId": null
+    },
+    "smwce1adxh33y": {
+      "id": "smwce1adxh33y",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=catgirl/66aa370d1d65bcb5a3afe226.png",
+      "server": "server1",
+      "tags": [
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "cute",
+        "little-devil"
+      ],
+      "size": "1.15 MB",
+      "artist": "しきと✦お仕事募集中",
+      "source": "https://www.pixiv.net/en/artworks/113352070",
+      "uploaded": "2026-11-11T17:23:33.717Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-11T17:23:33.717Z",
+      "expiresAt": 1797009813717,
+      "ownerId": null
     }
   }
 }
