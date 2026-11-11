@@ -1,5 +1,15 @@
 [
   {
+    "userId": "admin-master",
+    "type": "animeindo",
+    "key": "52696",
+    "title": "Episode 12",
+    "cover": "https://img1.ak.crunchyroll.com/i/spire2-tmb/ffb66bd994d97c14984748d1678219091616700622",
+    "sub": "Episode 12",
+    "href": "/anime-indo/episode/52696",
+    "updatedAt": 1794397166749
+  },
+  {
     "userId": "1794383726456",
     "type": "animeindo",
     "key": "4327",
@@ -88,16 +98,6 @@
     "sub": "Episode 1",
     "href": "/anime-indo/episode/59799",
     "updatedAt": 1794387973925
-  },
-  {
-    "userId": "admin-master",
-    "type": "animeindo",
-    "key": "52696",
-    "title": "Episode 12",
-    "cover": "https://img1.ak.crunchyroll.com/i/spire2-tmb/ffb66bd994d97c14984748d1678219091616700622",
-    "sub": "Episode 12",
-    "href": "/anime-indo/episode/52696",
-    "updatedAt": 1794384864001
   },
   {
     "userId": "admin-master",
