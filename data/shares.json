@@ -10254,6 +10254,31 @@
       "createdAt": "2026-11-11T02:07:05.160Z",
       "expiresAt": 1796954825160,
       "ownerId": null
+    },
+    "smwbhgaemuze2": {
+      "id": "smwbhgaemuze2",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=catgirl/66a6d4df348991ba27e576e1.jpg",
+      "server": "server1",
+      "tags": [
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "cat-ears-hoodie",
+        "tail"
+      ],
+      "size": "1.15 MB",
+      "artist": "ツユハ",
+      "source": "https://www.pixiv.net/en/artworks/105789952",
+      "uploaded": "2026-11-11T02:11:26.254Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-11T02:11:26.254Z",
+      "expiresAt": 1796955086254,
+      "ownerId": null
     }
   }
 }
