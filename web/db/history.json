@@ -2,6 +2,16 @@
   {
     "userId": "admin-master",
     "type": "animeindo",
+    "key": "6490",
+    "title": "Tokyo Revengers: Santen Sensou-hen",
+    "cover": "/api/img/aHR0cHM6Ly94eXotYXBpLmFuaW1laW4ubmV0Ly9hc3NldHNfeHl6L2ltYWdlcy9tb3ZpZS9wb3N0ZXIvM2RiNDY0ZjZlYmRmMzA1N2IwYWIyZWZjYzg0NDk5OGYuanBn",
+    "sub": "Episode 6",
+    "href": "/anime-indo/episode/321805",
+    "updatedAt": 1794384728651
+  },
+  {
+    "userId": "admin-master",
+    "type": "animeindo",
     "key": "52696",
     "title": "Episode 12",
     "cover": "https://img1.ak.crunchyroll.com/i/spire2-tmb/ffb66bd994d97c14984748d1678219091616700622",
