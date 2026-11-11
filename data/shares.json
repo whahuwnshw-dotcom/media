@@ -10162,6 +10162,31 @@
       "createdAt": "2026-11-11T02:05:17.672Z",
       "expiresAt": 1796954717672,
       "ownerId": null
+    },
+    "smwbh8y3xs2yo": {
+      "id": "smwbh8y3xs2yo",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=doggirl/673fecde64a51ee030b9ba35.jpg",
+      "server": "server1",
+      "tags": [
+        "doggirl",
+        "dog-ears",
+        "animal-ears",
+        "vtuber",
+        "cute"
+      ],
+      "size": "518.83 KB",
+      "artist": "いずみななせ",
+      "source": "https://www.pixiv.net/en/artworks/124280720",
+      "uploaded": "2026-11-11T02:05:43.725Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-11T02:05:43.725Z",
+      "expiresAt": 1796954743725,
+      "ownerId": null
     }
   }
 }
