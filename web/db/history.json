@@ -1,6 +1,16 @@
 [
   {
     "userId": "admin-master",
+    "type": "anime",
+    "key": "one-piece-xamk74",
+    "title": "ONE PIECE",
+    "cover": "/api/img/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9hbmltZS9jb3Zlci9sYXJnZS9ieDIxLUVMU1l4M3lNUGNLTS5qcGc",
+    "sub": "Episode 1180",
+    "href": "/anime/one-piece-xamk74/1180",
+    "updatedAt": 1794400823649
+  },
+  {
+    "userId": "admin-master",
     "type": "animeindo",
     "key": "4327",
     "title": "Gotoubun no Hanayome ∬",
