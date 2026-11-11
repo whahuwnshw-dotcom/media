@@ -2,6 +2,16 @@
   {
     "userId": "admin-master",
     "type": "animeindo",
+    "key": "52000",
+    "title": "Episode 3",
+    "cover": "https://img1.ak.crunchyroll.com/i/spire4-tmb/66945af287c056b2a0af203e6fd54fd11611258490",
+    "sub": "Episode 3",
+    "href": "/anime-indo/episode/52000",
+    "updatedAt": 1794398173603
+  },
+  {
+    "userId": "admin-master",
+    "type": "animeindo",
     "key": "51939",
     "title": "Episode 2",
     "cover": "https://img1.ak.crunchyroll.com/i/spire1-tmb/f29218579326b4cad19d70dd4c0485981610604601",
