@@ -10329,6 +10329,31 @@
       "createdAt": "2026-11-11T02:15:01.375Z",
       "expiresAt": 1796955301375,
       "ownerId": null
+    },
+    "smwbhn77sao3u": {
+      "id": "smwbhn77sao3u",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=maid/6a2da9d8d5336f4e4446162b.jpg",
+      "server": "server1",
+      "tags": [
+        "maid",
+        "maid-uniform",
+        "wolfgirl",
+        "wolf-ears",
+        "animal-ears"
+      ],
+      "size": "597.90 KB",
+      "artist": "らで",
+      "source": "https://www.pixiv.net/en/artworks/145286223",
+      "uploaded": "2026-11-11T02:16:48.712Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-11T02:16:48.712Z",
+      "expiresAt": 1796955408712,
+      "ownerId": null
     }
   }
 }
