@@ -2,6 +2,16 @@
   {
     "userId": "1794383726456",
     "type": "animeindo",
+    "key": "4327",
+    "title": "Gotoubun no Hanayome ∬",
+    "cover": "/api/img/aHR0cHM6Ly9hcGkuYW5pbWVpbi5uZXQvYXNzZXRzL2ltYWdlcy9tb3ZpZS9wb3N0ZXIvOGQ5NzcwNGFkYWU5YmQ3MjdjNjFhMDk4ZDY3OTNkMjMuanBn",
+    "sub": "Episode 12",
+    "href": "/anime-indo/episode/52696",
+    "updatedAt": 1794395132921
+  },
+  {
+    "userId": "1794383726456",
+    "type": "animeindo",
     "key": "52594",
     "title": "Episode 10",
     "cover": "https://img1.ak.crunchyroll.com/i/spire2-tmb/cc6e9f102a437c947bf8293ea720257b1615491486",
