@@ -10726,6 +10726,31 @@
       "createdAt": "2026-11-11T17:24:04.430Z",
       "expiresAt": 1797009844430,
       "ownerId": null
+    },
+    "smwce21ggb7bq": {
+      "id": "smwce21ggb7bq",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=maid-uniform/66a7a13a73c5667aa1bfb252.png",
+      "server": "server1",
+      "tags": [
+        "maid-uniform",
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "tail"
+      ],
+      "size": "6.05 MB",
+      "artist": "さふぁいあ",
+      "source": "https://www.pixiv.net/en/artworks/116801400",
+      "uploaded": "2026-11-11T17:24:08.800Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-11T17:24:08.800Z",
+      "expiresAt": 1797009848800,
+      "ownerId": null
     }
   }
 }
