@@ -10701,6 +10701,31 @@
       "createdAt": "2026-11-11T17:24:00.460Z",
       "expiresAt": 1797009840460,
       "ownerId": null
+    },
+    "smwce1y32k6fr": {
+      "id": "smwce1y32k6fr",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=maid-uniform/66b024dd5623de414728c63e.jpg",
+      "server": "server1",
+      "tags": [
+        "maid-uniform",
+        "tail-with-ribbon",
+        "catgirl",
+        "cat-ears",
+        "animal-ears"
+      ],
+      "size": "244.38 KB",
+      "artist": "M子",
+      "source": "https://www.pixiv.net/en/artworks/108182281",
+      "uploaded": "2026-11-11T17:24:04.430Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-11T17:24:04.430Z",
+      "expiresAt": 1797009844430,
+      "ownerId": null
     }
   }
 }
