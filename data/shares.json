@@ -9970,6 +9970,31 @@
       "createdAt": "2026-11-11T01:55:35.244Z",
       "expiresAt": 1796954135244,
       "ownerId": "admin"
+    },
+    "smwbgzbk1hp4u": {
+      "id": "smwbgzbk1hp4u",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=animal-ears/66b01e8ed935b1b4185ea11d.png",
+      "server": "server1",
+      "tags": [
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "cute",
+        "1girl"
+      ],
+      "size": "8.84 MB",
+      "artist": "シロ９じら",
+      "source": "https://www.pixiv.net/en/artworks/117908360",
+      "uploaded": "2026-11-11T01:58:14.593Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-11T01:58:14.593Z",
+      "expiresAt": 1796954294593,
+      "ownerId": null
     }
   }
 }
