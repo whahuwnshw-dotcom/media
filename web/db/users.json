@@ -20,5 +20,11 @@
     "role": "admin",
     "avatar": "",
     "createdAt": "2026-11-11T15:13:33.092Z"
+  },
+  {
+    "id": "admin-master",
+    "username": "branpediaid.com",
+    "role": "owner",
+    "avatar": "/web/avatar_admin-master_1794416742321.jpeg"
   }
 ]
