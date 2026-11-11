@@ -2,6 +2,16 @@
   {
     "userId": "admin-master",
     "type": "animeindo",
+    "key": "4327",
+    "title": "Gotoubun no Hanayome ∬",
+    "cover": "/api/img/aHR0cHM6Ly9hcGkuYW5pbWVpbi5uZXQvYXNzZXRzL2ltYWdlcy9tb3ZpZS9wb3N0ZXIvOGQ5NzcwNGFkYWU5YmQ3MjdjNjFhMDk4ZDY3OTNkMjMuanBn",
+    "sub": "Episode 12",
+    "href": "/anime-indo/episode/52696",
+    "updatedAt": 1794397940613
+  },
+  {
+    "userId": "admin-master",
+    "type": "animeindo",
     "key": "52696",
     "title": "Episode 12",
     "cover": "https://img1.ak.crunchyroll.com/i/spire2-tmb/ffb66bd994d97c14984748d1678219091616700622",
@@ -28,16 +38,6 @@
     "sub": "Episode 10",
     "href": "/anime-indo/episode/52594",
     "updatedAt": 1794395125888
-  },
-  {
-    "userId": "admin-master",
-    "type": "animeindo",
-    "key": "4327",
-    "title": "Gotoubun no Hanayome ∬",
-    "cover": "/api/img/aHR0cHM6Ly9hcGkuYW5pbWVpbi5uZXQvYXNzZXRzL2ltYWdlcy9tb3ZpZS9wb3N0ZXIvOGQ5NzcwNGFkYWU5YmQ3MjdjNjFhMDk4ZDY3OTNkMjMuanBn",
-    "sub": "Episode 12",
-    "href": "/anime-indo/episode/52696",
-    "updatedAt": 1794395087211
   },
   {
     "userId": "1794383726456",
