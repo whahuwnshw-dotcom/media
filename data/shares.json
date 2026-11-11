@@ -10304,6 +10304,31 @@
       "createdAt": "2026-11-11T02:11:39.735Z",
       "expiresAt": 1796955099735,
       "ownerId": null
+    },
+    "smwbhkwe7o17p": {
+      "id": "smwbhkwe7o17p",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=cat-ears/66c2c0d0356ed9f8be41640f.png",
+      "server": "server1",
+      "tags": [
+        "cat-ears",
+        "animal-ears",
+        "cute",
+        "1girl",
+        "beach"
+      ],
+      "size": "4.89 MB",
+      "artist": "月宮サラ＠仕事募集中",
+      "source": "https://www.pixiv.net/en/artworks/92569338",
+      "uploaded": "2026-11-11T02:15:01.375Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-11T02:15:01.375Z",
+      "expiresAt": 1796955301375,
+      "ownerId": null
     }
   }
 }
