@@ -2,6 +2,16 @@
   {
     "userId": "admin-master",
     "type": "animeindo",
+    "key": "5611",
+    "title": "Gotoubun no Hanayome*",
+    "cover": "/api/img/aHR0cHM6Ly94eXotYXBpLmFuaW1laW4ubmV0Ly9hc3NldHNfeHl6L2ltYWdlcy9tb3ZpZS9wb3N0ZXIvNDc5MWNhNzllNmY0ZmM2YjU3MTBhYzJiMWJhMzE5N2UuanBn",
+    "sub": "Episode 1",
+    "href": "/anime-indo/episode/300621",
+    "updatedAt": 1794393038081
+  },
+  {
+    "userId": "admin-master",
+    "type": "animeindo",
     "key": "300622",
     "title": "Episode 2",
     "cover": "/assets/images/movie/episode/87df3395d88e94f3b1408cebafdb0cfa.jpg",
@@ -38,16 +48,6 @@
     "sub": "Episode 1",
     "href": "/anime-indo/episode/131063",
     "updatedAt": 1794388111869
-  },
-  {
-    "userId": "admin-master",
-    "type": "animeindo",
-    "key": "5611",
-    "title": "Gotoubun no Hanayome*",
-    "cover": "/api/img/aHR0cHM6Ly94eXotYXBpLmFuaW1laW4ubmV0Ly9hc3NldHNfeHl6L2ltYWdlcy9tb3ZpZS9wb3N0ZXIvNDc5MWNhNzllNmY0ZmM2YjU3MTBhYzJiMWJhMzE5N2UuanBn",
-    "sub": "Episode 1",
-    "href": "/anime-indo/episode/300621",
-    "updatedAt": 1794388098556
   },
   {
     "userId": "admin-master",
