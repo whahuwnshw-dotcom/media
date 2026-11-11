@@ -10045,6 +10045,31 @@
       "createdAt": "2026-11-11T01:58:49.601Z",
       "expiresAt": 1796954329601,
       "ownerId": null
+    },
+    "smwbh03vuc8m7": {
+      "id": "smwbh03vuc8m7",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=maid-uniform/68386dd891a8805ce812c02e.png",
+      "server": "server1",
+      "tags": [
+        "maid-uniform",
+        "vtuber",
+        "catgirl",
+        "cat-ears",
+        "animal-ears"
+      ],
+      "size": "2.95 MB",
+      "artist": "Aria",
+      "source": "https://www.pixiv.net/en/artworks/123949219",
+      "uploaded": "2026-11-11T01:58:51.306Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-11T01:58:51.306Z",
+      "expiresAt": 1796954331306,
+      "ownerId": null
     }
   }
 }
