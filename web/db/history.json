@@ -2,6 +2,16 @@
   {
     "userId": "admin-master",
     "type": "animeindo",
+    "key": "51939",
+    "title": "Episode 2",
+    "cover": "https://img1.ak.crunchyroll.com/i/spire1-tmb/f29218579326b4cad19d70dd4c0485981610604601",
+    "sub": "Episode 2",
+    "href": "/anime-indo/episode/51939",
+    "updatedAt": 1794398160652
+  },
+  {
+    "userId": "admin-master",
+    "type": "animeindo",
     "key": "4327",
     "title": "Gotoubun no Hanayome ∬",
     "cover": "/api/img/aHR0cHM6Ly9hcGkuYW5pbWVpbi5uZXQvYXNzZXRzL2ltYWdlcy9tb3ZpZS9wb3N0ZXIvOGQ5NzcwNGFkYWU5YmQ3MjdjNjFhMDk4ZDY3OTNkMjMuanBn",
