@@ -2,6 +2,16 @@
   {
     "userId": "admin-master",
     "type": "animeindo",
+    "key": "300622",
+    "title": "Episode 2",
+    "cover": "/assets/images/movie/episode/87df3395d88e94f3b1408cebafdb0cfa.jpg",
+    "sub": "Episode 2",
+    "href": "/anime-indo/episode/300622",
+    "updatedAt": 1794392645525
+  },
+  {
+    "userId": "admin-master",
+    "type": "animeindo",
     "key": "135647",
     "title": "Episode 2",
     "cover": "/assets_xyz/images/movie/episode/c4e0f228883a3c2e70bc39f03eff085b.jpg",
@@ -28,16 +38,6 @@
     "sub": "Episode 1",
     "href": "/anime-indo/episode/300621",
     "updatedAt": 1794388098556
-  },
-  {
-    "userId": "admin-master",
-    "type": "animeindo",
-    "key": "300622",
-    "title": "Episode 2",
-    "cover": "/assets/images/movie/episode/87df3395d88e94f3b1408cebafdb0cfa.jpg",
-    "sub": "Episode 2",
-    "href": "/anime-indo/episode/300622",
-    "updatedAt": 1794388079495
   },
   {
     "userId": "admin-master",
