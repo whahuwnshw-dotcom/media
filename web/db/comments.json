@@ -70,7 +70,9 @@
     "imageUrl": "/web/1794410412587.jpeg",
     "replyTo": null,
     "isPinned": false,
-    "likes": [],
+    "likes": [
+      "admin-master"
+    ],
     "dislikes": [],
     "createdAt": 1794410414141
   },
