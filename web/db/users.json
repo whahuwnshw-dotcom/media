@@ -26,5 +26,13 @@
     "username": "branpediaid.com",
     "role": "owner",
     "avatar": "/web/avatar_admin-master_1794416742321.jpeg"
+  },
+  {
+    "id": "1794468455415",
+    "username": "Syahroni",
+    "password": "f38694498a8b9fa137764223b9a61e86372a127272bd6c59f3cec74b7cc71d14",
+    "role": "user",
+    "avatar": "",
+    "createdAt": "2026-11-12T07:27:35.415Z"
   }
 ]
