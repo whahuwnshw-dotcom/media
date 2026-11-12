@@ -1,6 +1,16 @@
 [
   {
     "userId": "admin-master",
+    "type": "komik",
+    "key": "nakama-wo-mamotte-shindara-20-nengo-no-onaji-sekai-ni-umarekawatta-ken-demo-ore-tensei-2-kaime-nanda-kedo",
+    "title": "Nakama wo Mamotte Shindara 20-nengo no Onaji Sekai ni Umarekawatta Ken…… demo Ore, Tensei 2-kaime Nanda kedo?",
+    "cover": "/api/img/aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMTAvbWFzdGVyaW1hZ2Utc2VyaWVzLzQ1MDQxMy8zZmFlNzE1Mi1lYzA3LTRhMmEtOGUwMC1lODBjZWRjMTllN2Qva29taWstbmFrYW1hLXdvLW1hbW90dGUtc2hpbmRhcmEtMjAtbmVuZ28tbm8tb25hamktc2VrYWktbmktdW1hcmVrYXdhdHRhLWtlbi1kZW1vLW9yZS10ZW5zZWktMi1rYWltZS1uYW5kYS1rZWRvLTIyNHgzMTkuanBn",
+    "sub": "Komik\n              Nakama wo Mamotte Shindara 20-nengo no Onaji Sekai ni Umarekawatta Ken…… demo Ore, Tensei 2-kaime Nanda kedo? Chapter 7",
+    "href": "/chapter/nakama-wo-mamotte-shindara-20-nengo-no-onaji-sekai-ni-umarekawatta-ken-demo-ore-tensei-2-kaime-nanda-kedo-chapter-7",
+    "updatedAt": 1794448916099
+  },
+  {
+    "userId": "admin-master",
     "type": "donghua",
     "key": "/renegade-immortal-episode-166-indonesia-english-sub",
     "title": "Renegade Immortal Episode 166 Indonesia, English Sub",
@@ -28,16 +38,6 @@
     "sub": "Episode 12",
     "href": "/anime-indo/episode/52696",
     "updatedAt": 1794417305331
-  },
-  {
-    "userId": "admin-master",
-    "type": "komik",
-    "key": "nakama-wo-mamotte-shindara-20-nengo-no-onaji-sekai-ni-umarekawatta-ken-demo-ore-tensei-2-kaime-nanda-kedo",
-    "title": "Nakama wo Mamotte Shindara 20-nengo no Onaji Sekai ni Umarekawatta Ken…… demo Ore, Tensei 2-kaime Nanda kedo?",
-    "cover": "/api/img/aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMTAvbWFzdGVyaW1hZ2Utc2VyaWVzLzQ1MDQxMy8zZmFlNzE1Mi1lYzA3LTRhMmEtOGUwMC1lODBjZWRjMTllN2Qva29taWstbmFrYW1hLXdvLW1hbW90dGUtc2hpbmRhcmEtMjAtbmVuZ28tbm8tb25hamktc2VrYWktbmktdW1hcmVrYXdhdHRhLWtlbi1kZW1vLW9yZS10ZW5zZWktMi1rYWltZS1uYW5kYS1rZWRvLTIyNHgzMTkuanBn",
-    "sub": "Komik\n              Nakama wo Mamotte Shindara 20-nengo no Onaji Sekai ni Umarekawatta Ken…… demo Ore, Tensei 2-kaime Nanda kedo? Chapter 1",
-    "href": "/chapter/nakama-wo-mamotte-shindara-20-nengo-no-onaji-sekai-ni-umarekawatta-ken-demo-ore-tensei-2-kaime-nanda-kedo-chapter-1",
-    "updatedAt": 1794416987110
   },
   {
     "userId": "1794410013092",
