@@ -2,6 +2,16 @@
   {
     "userId": "admin-master",
     "type": "animeindo",
+    "key": "4524",
+    "title": "Gotoubun No Hanayome Movie",
+    "cover": "/api/img/aHR0cHM6Ly9hcGkuYW5pbWVpbi5uZXQvL2Fzc2V0cy9pbWFnZXMvbW92aWUvcG9zdGVyLzVmMWQ2ZGFiYWVhZGY0MDMxZTNkYmY4ODQ2YmFkOGE1LmpwZw",
+    "sub": "Episode 1",
+    "href": "/anime-indo/episode/59799",
+    "updatedAt": 1794548183928
+  },
+  {
+    "userId": "admin-master",
+    "type": "animeindo",
     "key": "5611",
     "title": "Gotoubun no Hanayome*",
     "cover": "/api/img/aHR0cHM6Ly94eXotYXBpLmFuaW1laW4ubmV0Ly9hc3NldHNfeHl6L2ltYWdlcy9tb3ZpZS9wb3N0ZXIvNDc5MWNhNzllNmY0ZmM2YjU3MTBhYzJiMWJhMzE5N2UuanBn",
@@ -18,16 +28,6 @@
     "sub": "Episode 2",
     "href": "/anime-indo/episode/135647",
     "updatedAt": 1794548138134
-  },
-  {
-    "userId": "admin-master",
-    "type": "animeindo",
-    "key": "4524",
-    "title": "Gotoubun No Hanayome Movie",
-    "cover": "/api/img/aHR0cHM6Ly9hcGkuYW5pbWVpbi5uZXQvL2Fzc2V0cy9pbWFnZXMvbW92aWUvcG9zdGVyLzVmMWQ2ZGFiYWVhZGY0MDMxZTNkYmY4ODQ2YmFkOGE1LmpwZw",
-    "sub": "Episode 1",
-    "href": "/anime-indo/episode/59799",
-    "updatedAt": 1794548104342
   },
   {
     "userId": "1794410013092",
