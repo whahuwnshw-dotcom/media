@@ -1,6 +1,16 @@
 [
   {
     "userId": "admin-master",
+    "type": "drama",
+    "key": "hadiah-sistem-tak-masuk-akal",
+    "title": "Hadiah Sistem Tak Masuk Akal",
+    "cover": "/api/img/aHR0cHM6Ly9ldTIuY29udGFib3N0b3JhZ2UuY29tLzRmMTE0Nzg2YjIzMTQyMDg4ZGQ3YWRjODJmNGU2ODdiOmFzaWFib3hkcmFtYS8yMTE5NDI0NDk2NjE1NDUyNjczL3Bvc3Rlci5qcGc",
+    "sub": "Episode 3",
+    "href": "/drama/watch/hadiah-sistem-tak-masuk-akal/3",
+    "updatedAt": 1794589920533
+  },
+  {
+    "userId": "admin-master",
     "type": "animeindo",
     "key": "4327",
     "title": "Gotoubun no Hanayome ∬",
@@ -18,16 +28,6 @@
     "sub": "Episode 12",
     "href": "/anime-indo/episode/52696",
     "updatedAt": 1794588916365
-  },
-  {
-    "userId": "admin-master",
-    "type": "drama",
-    "key": "hadiah-sistem-tak-masuk-akal",
-    "title": "Hadiah Sistem Tak Masuk Akal",
-    "cover": "/api/img/aHR0cHM6Ly9ldTIuY29udGFib3N0b3JhZ2UuY29tLzRmMTE0Nzg2YjIzMTQyMDg4ZGQ3YWRjODJmNGU2ODdiOmFzaWFib3hkcmFtYS8yMTE5NDI0NDk2NjE1NDUyNjczL3Bvc3Rlci5qcGc",
-    "sub": "Episode 3",
-    "href": "/drama/watch/hadiah-sistem-tak-masuk-akal/3",
-    "updatedAt": 1794588663713
   },
   {
     "userId": "admin-master",
