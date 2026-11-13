@@ -1,6 +1,16 @@
 [
   {
     "userId": "1794410013092",
+    "type": "drama",
+    "key": "legenda-tak-terkalahkan-sulih-suara",
+    "title": "Legenda Tak Terkalahkan (Sulih Suara)",
+    "cover": "/api/img/aHR0cHM6Ly9ldTIuY29udGFib3N0b3JhZ2UuY29tLzRmMTE0Nzg2YjIzMTQyMDg4ZGQ3YWRjODJmNGU2ODdiOmFzaWFib3hkcmFtYS80MTAwMDEwNzIxOS9wb3N0ZXIuanBn",
+    "sub": "Episode 1",
+    "href": "/drama/watch/legenda-tak-terkalahkan-sulih-suara/1",
+    "updatedAt": 1794579230460
+  },
+  {
+    "userId": "1794410013092",
     "type": "animeindo",
     "key": "4327",
     "title": "Gotoubun no Hanayome ∬",
