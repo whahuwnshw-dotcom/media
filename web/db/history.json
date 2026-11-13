@@ -1,5 +1,15 @@
 [
   {
+    "userId": "admin-master",
+    "type": "animeindo",
+    "key": "4327",
+    "title": "Gotoubun no Hanayome ∬",
+    "cover": "/api/img/aHR0cHM6Ly9hcGkuYW5pbWVpbi5uZXQvYXNzZXRzL2ltYWdlcy9tb3ZpZS9wb3N0ZXIvOGQ5NzcwNGFkYWU5YmQ3MjdjNjFhMDk4ZDY3OTNkMjMuanBn",
+    "sub": "Episode 12",
+    "href": "/anime-indo/episode/52696",
+    "updatedAt": 1794589395160
+  },
+  {
     "userId": "1794588884596",
     "type": "animeindo",
     "key": "4327",
@@ -18,16 +28,6 @@
     "sub": "Episode 3",
     "href": "/drama/watch/hadiah-sistem-tak-masuk-akal/3",
     "updatedAt": 1794588663713
-  },
-  {
-    "userId": "admin-master",
-    "type": "animeindo",
-    "key": "4327",
-    "title": "Gotoubun no Hanayome ∬",
-    "cover": "/api/img/aHR0cHM6Ly9hcGkuYW5pbWVpbi5uZXQvYXNzZXRzL2ltYWdlcy9tb3ZpZS9wb3N0ZXIvOGQ5NzcwNGFkYWU5YmQ3MjdjNjFhMDk4ZDY3OTNkMjMuanBn",
-    "sub": "Episode 12",
-    "href": "/anime-indo/episode/52696",
-    "updatedAt": 1794585275494
   },
   {
     "userId": "admin-master",
