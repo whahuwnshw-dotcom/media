@@ -1,6 +1,16 @@
 [
   {
     "userId": "admin-master",
+    "type": "anime",
+    "key": "loving-angel-angelique-when-hearts-awaken-cvmghe",
+    "title": "Loving Angel Angelique: When Hearts Awaken",
+    "cover": "/api/img/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9hbmltZS9jb3Zlci9sYXJnZS9ieDE1NzgtZ1Y4SUtHaEZNT2xWLnBuZw",
+    "sub": "Episode 7",
+    "href": "/anime/loving-angel-angelique-when-hearts-awaken-cvmghe/7",
+    "updatedAt": 1794637344275
+  },
+  {
+    "userId": "admin-master",
     "type": "animeindo",
     "key": "1280",
     "title": "Black Clover",
