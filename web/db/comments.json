@@ -166,20 +166,5 @@
     "likes": [],
     "dislikes": [],
     "createdAt": 1794468748193
-  },
-  {
-    "id": "1794644063307",
-    "mediaId": "animeindo-322061",
-    "userId": "admin-master",
-    "username": "branpediaid.com",
-    "userRole": "owner",
-    "userAvatar": "",
-    "text": "Tes",
-    "imageUrl": "",
-    "replyTo": null,
-    "isPinned": false,
-    "likes": [],
-    "dislikes": [],
-    "createdAt": 1794644063307
   }
 ]
