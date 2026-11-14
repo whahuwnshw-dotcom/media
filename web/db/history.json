@@ -1,6 +1,16 @@
 [
   {
     "userId": "admin-master",
+    "type": "komik",
+    "key": "manual-tes",
+    "title": "Tes",
+    "cover": "/web/uploads/manual_komik_cover_1794658250934.png",
+    "sub": "Tes - Chapter 1",
+    "href": "/chapter/manual-tes-chapter-1",
+    "updatedAt": 1794658290523
+  },
+  {
+    "userId": "admin-master",
     "type": "animeindo",
     "key": "6490",
     "title": "Tokyo Revengers: Santen Sensou-hen",
@@ -18,16 +28,6 @@
     "sub": "Solo Leveling Manual - Chapter 2",
     "href": "/chapter/manual-solo-leveling-manual-chapter-2",
     "updatedAt": 1794656501514
-  },
-  {
-    "userId": "admin-master",
-    "type": "drama",
-    "key": "manual-tes",
-    "title": "Squid Game Manual",
-    "cover": "/web/manual_drama_2222.jpg",
-    "sub": "Episode 1",
-    "href": "/drama/watch/manual-tes/1",
-    "updatedAt": 1794655793191
   },
   {
     "userId": "admin-master",
