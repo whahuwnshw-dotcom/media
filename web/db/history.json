@@ -2,22 +2,22 @@
   {
     "userId": "admin-master",
     "type": "animeindo",
+    "key": "6490",
+    "title": "Tokyo Revengers: Santen Sensou-hen",
+    "cover": "/api/img/aHR0cHM6Ly94eXotYXBpLmFuaW1laW4ubmV0Ly9hc3NldHNfeHl6L2ltYWdlcy9tb3ZpZS9wb3N0ZXIvM2RiNDY0ZjZlYmRmMzA1N2IwYWIyZWZjYzg0NDk5OGYuanBn",
+    "sub": "Episode 7",
+    "href": "/anime-indo/episode/322061",
+    "updatedAt": 1794634043961
+  },
+  {
+    "userId": "admin-master",
+    "type": "animeindo",
     "key": "6463",
     "title": "Uchi no Otouto-domo ga Sumimasen",
     "cover": "/api/img/aHR0cHM6Ly94eXotYXBpLmFuaW1laW4ubmV0Ly9hc3NldHNfeHl6L2ltYWdlcy9tb3ZpZS9wb3N0ZXIvYzQ5ZTdlZjI0M2VmZjVkNzRjYTcyM2NkZDc5YTQ2NGQuanBn",
     "sub": "Episode 1",
     "href": "/anime-indo/episode/316511",
     "updatedAt": 1794633671915
-  },
-  {
-    "userId": "admin-master",
-    "type": "animeindo",
-    "key": "6490",
-    "title": "Tokyo Revengers: Santen Sensou-hen",
-    "cover": "/api/img/aHR0cHM6Ly94eXotYXBpLmFuaW1laW4ubmV0Ly9hc3NldHNfeHl6L2ltYWdlcy9tb3ZpZS9wb3N0ZXIvM2RiNDY0ZjZlYmRmMzA1N2IwYWIyZWZjYzg0NDk5OGYuanBn",
-    "sub": "Episode 1",
-    "href": "/anime-indo/episode/321292",
-    "updatedAt": 1794625113831
   },
   {
     "userId": "admin-master",
