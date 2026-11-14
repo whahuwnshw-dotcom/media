@@ -2,6 +2,16 @@
   {
     "userId": "admin-master",
     "type": "animeindo",
+    "key": "426",
+    "title": "One Piece",
+    "cover": "/api/img/aHR0cHM6Ly94eXotYXBpLmFuaW1laW4ubmV0Ly9hc3NldHNfeHl6L2ltYWdlcy9tb3ZpZS9wb3N0ZXIvM2I1ODAzMWI1NWNlYjBhMjBiMWNiNTZjMjA5MzMxNTMuanBn",
+    "sub": "Episode 1180",
+    "href": "/anime-indo/episode/321196",
+    "updatedAt": 1794635319180
+  },
+  {
+    "userId": "admin-master",
+    "type": "animeindo",
     "key": "5565",
     "title": "Ore dake Level Up na Ken Season 2: Arise from the Shadow",
     "cover": "/api/img/aHR0cHM6Ly9hcGkuYW5pbWVpbi5uZXQvL2Fzc2V0cy9pbWFnZXMvbW92aWUvcG9zdGVyLzFiZTdjZDQ2MjYxOWM5OGQ3ZGNiNmY5MmY2OWU5MTAyLmpwZw",
