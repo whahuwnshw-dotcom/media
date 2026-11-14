@@ -1,6 +1,16 @@
 [
   {
     "userId": "admin-master",
+    "type": "komik",
+    "key": "229848-solo-leveling",
+    "title": "Solo Leveling",
+    "cover": "/api/img/aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMTAvbWFzdGVyaW1hZ2Utc2VyaWVzLzI3MzQ3Lzg4MjQ2N2Q4LWU5YjgtNGU3Ni1iZjQ0LTU5MjQ4NDg5NmMxZS9rb21pay1zb2xvLWxldmVsaW5nLTIzNngzMTkuanBn",
+    "sub": "Komik\n              Solo Leveling Chapter 1",
+    "href": "/chapter/solo-leveling-chapter-1",
+    "updatedAt": 1794643960677
+  },
+  {
+    "userId": "admin-master",
     "type": "drama",
     "key": "i-thrive-in-the-apocalypse-by-stockpiling",
     "title": "I Thrive in the Apocalypse by Stockpiling",
@@ -28,16 +38,6 @@
     "sub": "Komik\n              Martial Peak Chapter 3862",
     "href": "/chapter/martial-peak-chapter-3862",
     "updatedAt": 1794640995787
-  },
-  {
-    "userId": "admin-master",
-    "type": "komik",
-    "key": "229848-solo-leveling",
-    "title": "Solo Leveling",
-    "cover": "/api/img/aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMTAvbWFzdGVyaW1hZ2Utc2VyaWVzLzI3MzQ3Lzg4MjQ2N2Q4LWU5YjgtNGU3Ni1iZjQ0LTU5MjQ4NDg5NmMxZS9rb21pay1zb2xvLWxldmVsaW5nLTIzNngzMTkuanBn",
-    "sub": "Komik\n              Solo Leveling Chapter 179 End",
-    "href": "/chapter/solo-leveling-chapter-179-end",
-    "updatedAt": 1794640987275
   },
   {
     "userId": "admin-master",
