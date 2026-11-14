@@ -1,6 +1,16 @@
 [
   {
     "userId": "admin-master",
+    "type": "komik",
+    "key": "tokimori-san-ga-muboubi-desu",
+    "title": "Tokimori-san ga Muboubi desu!!",
+    "cover": "/api/img/aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMTAvbWFzdGVyaW1hZ2Utc2VyaWVzLzIyOTU5MS8xNjBiOGE2Ni0zMDYxLTQwMGEtYTlhNy1mMjdkYzkwMWIzZDkva29taWstdG9raW1vcmktc2FuLWdhLW11Ym91YmktZGVzdS0yMjZ4MzE5LmpwZw",
+    "sub": "Komik\n              Tokimori-san ga Muboubi desu!! Chapter 55",
+    "href": "/chapter/tokimori-san-ga-muboubi-desu-chapter-55",
+    "updatedAt": 1794644596236
+  },
+  {
+    "userId": "admin-master",
     "type": "donghua",
     "key": "//beyond-times-gaze-episode-48-indonesia-english-sub",
     "title": "Beyond Time’s Gaze Episode 48 Indonesia, English Sub",
