@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Solo Leveling Manual",
+    "slug": "manual-solo-leveling-manual",
+    "description": "Sung Jinwoo, hunter terlemah, mendapat sistem misterius...",
+    "cover": "/web/manual_komik_1794656210189.jpeg",
+    "rating": "9.5",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Adventure"
+    ],
+    "tags": [
+      "Manhwa",
+      "Level Up",
+      "Overpowered"
+    ],
+    "meta": {
+      "Author": "Chugong",
+      "Artist": "Dubu",
+      "Status": "Completed",
+      "Year": "2018"
+    },
+    "chapters": [
+      {
+        "number": 1,
+        "label": "1",
+        "date": "2018-03-04",
+        "images": [
+          "https://example.com/chapter1/page1.jpg",
+          "https://example.com/chapter1/page2.jpg",
+          "https://example.com/chapter1/page3.jpg"
+        ]
+      },
+      {
+        "number": 2,
+        "label": "2",
+        "date": "2018-03-11",
+        "images": [
+          "https://spare-olive-vq0yjrkk.edgeone.dev/",
+          "https://deaf-coffee-seziuqzc.edgeone.dev/"
+        ]
+      }
+    ],
+    "createdAt": 1794656477746,
+    "updatedAt": 1794656477746
+  }
+]
