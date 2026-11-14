@@ -1,6 +1,16 @@
 [
   {
     "userId": "admin-master",
+    "type": "drama",
+    "key": "manual-tes",
+    "title": "Squid Game Manual",
+    "cover": "/web/manual_drama_2222.jpg",
+    "sub": "Episode 1",
+    "href": "/drama/watch/manual-tes/1",
+    "updatedAt": 1794655783922
+  },
+  {
+    "userId": "admin-master",
     "type": "animeindo",
     "key": "6490",
     "title": "Tokyo Revengers: Santen Sensou-hen",
