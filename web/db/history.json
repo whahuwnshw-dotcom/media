@@ -1,6 +1,16 @@
 [
   {
     "userId": "admin-master",
+    "type": "komik",
+    "key": "846048-eleceed",
+    "title": "Eleceed",
+    "cover": "/api/img/aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMTAvbWFzdGVyaW1hZ2Utc2VyaWVzLzI2OTg1Lzc3YWNiZWJlLTBiZDQtNDNiNC04MzBlLWI3M2ZhYmQ1ZjZkMS9rb21pay1lbGVjZWVkLTIyMXgzMTkuanBn",
+    "sub": "Komik\n              Eleceed Chapter 260",
+    "href": "/chapter/eleceed-chapter-260",
+    "updatedAt": 1794640829282
+  },
+  {
+    "userId": "admin-master",
     "type": "drama",
     "key": "i-thrive-in-the-apocalypse-by-stockpiling",
     "title": "I Thrive in the Apocalypse by Stockpiling",
@@ -58,16 +68,6 @@
     "sub": "Episode 166",
     "href": "/donghua/episode//renegade-immortal-episode-166-indonesia-english-sub",
     "updatedAt": 1794639911327
-  },
-  {
-    "userId": "admin-master",
-    "type": "komik",
-    "key": "846048-eleceed",
-    "title": "Eleceed",
-    "cover": "/api/img/aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMTAvbWFzdGVyaW1hZ2Utc2VyaWVzLzI2OTg1Lzc3YWNiZWJlLTBiZDQtNDNiNC04MzBlLWI3M2ZhYmQ1ZjZkMS9rb21pay1lbGVjZWVkLTIyMXgzMTkuanBn",
-    "sub": "Komik\n              Eleceed Chapter 426",
-    "href": "/chapter/eleceed-chapter-426",
-    "updatedAt": 1794639819070
   },
   {
     "userId": "admin-master",
