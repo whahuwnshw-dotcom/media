@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "title": "Tww",
+    "slug": "manual-tww",
+    "description": "",
+    "cover": "https://raw.githubusercontent.com/whahuwnshw-dotcom/media/main/web/uploads/manual_komik_cover_1794667781313.jpg",
+    "banner": "",
+    "rating": "",
+    "type": "",
+    "genres": [],
+    "tags": [],
+    "meta": {},
+    "chapters": [
+      {
+        "number": 1,
+        "label": "1",
+        "date": "2026-11-14",
+        "images": [
+          "https://raw.githubusercontent.com/whahuwnshw-dotcom/media/main/web/uploads/manual_komik_ch1_p1_1794667815447.jpg"
+        ]
+      }
+    ],
+    "createdAt": 1794667821021,
+    "updatedAt": 1794667821021
+  }
+]
