@@ -2,6 +2,16 @@
   {
     "userId": "admin-master",
     "type": "komik",
+    "key": "manual-falling-for-it",
+    "title": "falling for it",
+    "cover": "/web/uploads/manual_komik_cover_1794669907734.webp",
+    "sub": "falling for it - Chapter 1",
+    "href": "/chapter/manual-falling-for-it-chapter-1",
+    "updatedAt": 1794670118278
+  },
+  {
+    "userId": "admin-master",
+    "type": "komik",
     "key": "manual-tww",
     "title": "Tww",
     "cover": "https://raw.githubusercontent.com/whahuwnshw-dotcom/media/main/web/uploads/manual_komik_cover_1794667781313.jpg",
