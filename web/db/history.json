@@ -2,6 +2,16 @@
   {
     "userId": "admin-master",
     "type": "komik",
+    "key": "229848-solo-leveling",
+    "title": "Solo Leveling",
+    "cover": "/api/img/aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMTAvbWFzdGVyaW1hZ2Utc2VyaWVzLzI3MzQ3Lzg4MjQ2N2Q4LWU5YjgtNGU3Ni1iZjQ0LTU5MjQ4NDg5NmMxZS9rb21pay1zb2xvLWxldmVsaW5nLTIzNngzMTkuanBn",
+    "sub": "Komik\n              Solo Leveling Chapter 179 End",
+    "href": "/chapter/solo-leveling-chapter-179-end",
+    "updatedAt": 1794640857163
+  },
+  {
+    "userId": "admin-master",
+    "type": "komik",
     "key": "846048-eleceed",
     "title": "Eleceed",
     "cover": "/api/img/aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMTAvbWFzdGVyaW1hZ2Utc2VyaWVzLzI2OTg1Lzc3YWNiZWJlLTBiZDQtNDNiNC04MzBlLWI3M2ZhYmQ1ZjZkMS9rb21pay1lbGVjZWVkLTIyMXgzMTkuanBn",
