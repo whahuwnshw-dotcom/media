@@ -1,6 +1,16 @@
 [
   {
     "userId": "admin-master",
+    "type": "komik",
+    "key": "manual-tws",
+    "title": "Tws",
+    "cover": "",
+    "sub": "Tws - Chapter 2",
+    "href": "/chapter/manual-tws-chapter-2",
+    "updatedAt": 1794666380460
+  },
+  {
+    "userId": "admin-master",
     "type": "animeindo",
     "key": "6490",
     "title": "Tokyo Revengers: Santen Sensou-hen",
