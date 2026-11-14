@@ -1,6 +1,16 @@
 [
   {
     "userId": "admin-master",
+    "type": "drama",
+    "key": "hadiah-sistem-tak-masuk-akal",
+    "title": "Hadiah Sistem Tak Masuk Akal",
+    "cover": "/api/img/aHR0cHM6Ly9ldTIuY29udGFib3N0b3JhZ2UuY29tLzRmMTE0Nzg2YjIzMTQyMDg4ZGQ3YWRjODJmNGU2ODdiOmFzaWFib3hkcmFtYS8yMTE5NDI0NDk2NjE1NDUyNjczL3Bvc3Rlci5qcGc",
+    "sub": "Episode 1",
+    "href": "/drama/watch/hadiah-sistem-tak-masuk-akal/1",
+    "updatedAt": 1794639395842
+  },
+  {
+    "userId": "admin-master",
     "type": "animeindo",
     "key": "6490",
     "title": "Tokyo Revengers: Santen Sensou-hen",
@@ -28,16 +38,6 @@
     "sub": "Episode 1",
     "href": "/drama/watch/my-exs-mom-wants-me/1",
     "updatedAt": 1794639263844
-  },
-  {
-    "userId": "admin-master",
-    "type": "drama",
-    "key": "hadiah-sistem-tak-masuk-akal",
-    "title": "Hadiah Sistem Tak Masuk Akal",
-    "cover": "/api/img/aHR0cHM6Ly9ldTIuY29udGFib3N0b3JhZ2UuY29tLzRmMTE0Nzg2YjIzMTQyMDg4ZGQ3YWRjODJmNGU2ODdiOmFzaWFib3hkcmFtYS8yMTE5NDI0NDk2NjE1NDUyNjczL3Bvc3Rlci5qcGc",
-    "sub": "Episode 2",
-    "href": "/drama/watch/hadiah-sistem-tak-masuk-akal/2",
-    "updatedAt": 1794639134174
   },
   {
     "userId": "admin-master",
