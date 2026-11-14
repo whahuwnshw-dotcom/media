@@ -1,6 +1,16 @@
 [
   {
     "userId": "admin-master",
+    "type": "komik",
+    "key": "manual-tww",
+    "title": "Tww",
+    "cover": "https://raw.githubusercontent.com/whahuwnshw-dotcom/media/main/web/uploads/manual_komik_cover_1794667781313.jpg",
+    "sub": "Tww - Chapter 1",
+    "href": "/chapter/manual-tww-chapter-1",
+    "updatedAt": 1794667833878
+  },
+  {
+    "userId": "admin-master",
     "type": "donghua",
     "key": "/beyond-times-gaze-episode-48-indonesia-english-sub",
     "title": "Beyond Time’s Gaze Episode 48 Indonesia, English Sub",
