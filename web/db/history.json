@@ -1,6 +1,16 @@
 [
   {
     "userId": "admin-master",
+    "type": "drama",
+    "key": "hadiah-sistem-tak-masuk-akal",
+    "title": "Hadiah Sistem Tak Masuk Akal",
+    "cover": "/api/img/aHR0cHM6Ly9ldTIuY29udGFib3N0b3JhZ2UuY29tLzRmMTE0Nzg2YjIzMTQyMDg4ZGQ3YWRjODJmNGU2ODdiOmFzaWFib3hkcmFtYS8yMTE5NDI0NDk2NjE1NDUyNjczL3Bvc3Rlci5qcGc",
+    "sub": "Episode 12",
+    "href": "/drama/watch/hadiah-sistem-tak-masuk-akal/12",
+    "updatedAt": 1794646478701
+  },
+  {
+    "userId": "admin-master",
     "type": "komik",
     "key": "tokimori-san-ga-muboubi-desu",
     "title": "Tokimori-san ga Muboubi desu!!",
@@ -138,16 +148,6 @@
     "sub": "Episode 166",
     "href": "/donghua/episode//renegade-immortal-episode-166-indonesia-english-sub",
     "updatedAt": 1794639911327
-  },
-  {
-    "userId": "admin-master",
-    "type": "drama",
-    "key": "hadiah-sistem-tak-masuk-akal",
-    "title": "Hadiah Sistem Tak Masuk Akal",
-    "cover": "/api/img/aHR0cHM6Ly9ldTIuY29udGFib3N0b3JhZ2UuY29tLzRmMTE0Nzg2YjIzMTQyMDg4ZGQ3YWRjODJmNGU2ODdiOmFzaWFib3hkcmFtYS8yMTE5NDI0NDk2NjE1NDUyNjczL3Bvc3Rlci5qcGc",
-    "sub": "Episode 2",
-    "href": "/drama/watch/hadiah-sistem-tak-masuk-akal/2",
-    "updatedAt": 1794639627693
   },
   {
     "userId": "admin-master",
