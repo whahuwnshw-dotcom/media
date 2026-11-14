@@ -1,12 +1,17 @@
 [
   {
+    "id": "manual-tes",
     "title": "tes",
     "slug": "manual-tes",
-    "description": "",
-    "cover": "",
+    "image": "",
+    "episodes_count": 0,
+    "views": 0,
     "genres": [],
-    "episodes": [],
+    "description": "",
+    "url": "",
+    "isManual": true,
+    "cover": "/web/manual_drama_1794655041653.jpeg",
     "createdAt": 1794654987692,
-    "updatedAt": 1794654987692
+    "updatedAt": 1794655050951
   }
 ]
