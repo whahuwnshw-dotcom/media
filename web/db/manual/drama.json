@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "title": "Tes",
+    "slug": "manual-tes",
+    "description": "",
+    "cover": "https://raw.githubusercontent.com/whahuwnshw-dotcom/media/refs/heads/main/web/uploads/manual_drama_cover_1794667051812.jpg",
+    "banner": "",
+    "genres": [],
+    "episodes": [],
+    "createdAt": 1794667909424,
+    "updatedAt": 1794667909424
+  }
+]
