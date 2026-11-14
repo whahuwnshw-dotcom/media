@@ -1,6 +1,16 @@
 [
   {
     "userId": "admin-master",
+    "type": "drama",
+    "key": "hadiah-sistem-tak-masuk-akal",
+    "title": "Hadiah Sistem Tak Masuk Akal",
+    "cover": "/api/img/aHR0cHM6Ly9ldTIuY29udGFib3N0b3JhZ2UuY29tLzRmMTE0Nzg2YjIzMTQyMDg4ZGQ3YWRjODJmNGU2ODdiOmFzaWFib3hkcmFtYS8yMTE5NDI0NDk2NjE1NDUyNjczL3Bvc3Rlci5qcGc",
+    "sub": "Episode 4",
+    "href": "/drama/watch/hadiah-sistem-tak-masuk-akal/4",
+    "updatedAt": 1794634471678
+  },
+  {
+    "userId": "admin-master",
     "type": "animeindo",
     "key": "6490",
     "title": "Tokyo Revengers: Santen Sensou-hen",
@@ -28,16 +38,6 @@
     "sub": "Episode 12",
     "href": "/donghua/episode//the-daily-life-of-the-immortal-king-season-5-episode-12-indonesia-english-sub",
     "updatedAt": 1794624303521
-  },
-  {
-    "userId": "admin-master",
-    "type": "drama",
-    "key": "hadiah-sistem-tak-masuk-akal",
-    "title": "Hadiah Sistem Tak Masuk Akal",
-    "cover": "/api/img/aHR0cHM6Ly9ldTIuY29udGFib3N0b3JhZ2UuY29tLzRmMTE0Nzg2YjIzMTQyMDg4ZGQ3YWRjODJmNGU2ODdiOmFzaWFib3hkcmFtYS8yMTE5NDI0NDk2NjE1NDUyNjczL3Bvc3Rlci5qcGc",
-    "sub": "Episode 9",
-    "href": "/drama/watch/hadiah-sistem-tak-masuk-akal/9",
-    "updatedAt": 1794623814936
   },
   {
     "userId": "admin-master",
