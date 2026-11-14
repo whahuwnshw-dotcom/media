@@ -2,6 +2,16 @@
   {
     "userId": "admin-master",
     "type": "komik",
+    "key": "martial-peak",
+    "title": "Martial Peak",
+    "cover": "/api/img/aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjAvMTIvS29taWstTWFydGlhbC1QZWFrLTIzNngzMTUuanBn",
+    "sub": "Komik\n              Martial Peak Chapter 3862",
+    "href": "/chapter/martial-peak-chapter-3862",
+    "updatedAt": 1794640995787
+  },
+  {
+    "userId": "admin-master",
+    "type": "komik",
     "key": "229848-solo-leveling",
     "title": "Solo Leveling",
     "cover": "/api/img/aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMTAvbWFzdGVyaW1hZ2Utc2VyaWVzLzI3MzQ3Lzg4MjQ2N2Q4LWU5YjgtNGU3Ni1iZjQ0LTU5MjQ4NDg5NmMxZS9rb21pay1zb2xvLWxldmVsaW5nLTIzNngzMTkuanBn",
