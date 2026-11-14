@@ -1,6 +1,16 @@
 [
   {
     "userId": "admin-master",
+    "type": "komik",
+    "key": "manual-solo-leveling-manual",
+    "title": "Solo Leveling Manual",
+    "cover": "/web/manual_komik_1794656210189.jpeg",
+    "sub": "Solo Leveling Manual - Chapter 2",
+    "href": "/chapter/manual-solo-leveling-manual-chapter-2",
+    "updatedAt": 1794656494597
+  },
+  {
+    "userId": "admin-master",
     "type": "drama",
     "key": "manual-tes",
     "title": "Squid Game Manual",
