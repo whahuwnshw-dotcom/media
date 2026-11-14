@@ -1,20 +1,32 @@
 [
   {
-    "id": "manual-tes",
     "title": "Squid Game Manual",
     "slug": "manual-tes",
-    "image": "/web/manual_drama_2222.jpg",
-    "episodes_count": 2,
-    "views": 0,
+    "description": "456 pemain berjuang untuk hadiah 45,6 miliar won...",
+    "cover": "/web/manual_drama_2222.jpg",
     "genres": [
       "Thriller",
       "Drama",
       "Survival"
     ],
-    "description": "456 pemain berjuang untuk hadiah 45,6 miliar won...",
-    "url": "",
-    "isManual": true,
+    "episodes": [
+      {
+        "number": 1,
+        "title": "Red Light, Green Light",
+        "date": "2021-09-17",
+        "video": "https://streamable.com/f1g4uh",
+        "subtitle": "https://example.com/sub/squid-ep1.vtt",
+        "image": "/web/manual_drama_2222.jpg"
+      },
+      {
+        "number": 2,
+        "title": "Hell",
+        "date": "2021-09-17",
+        "video": "https://example.com/video/squid-ep2.mp4",
+        "subtitle": ""
+      }
+    ],
     "createdAt": 1794654987692,
-    "updatedAt": 1794655677096
+    "updatedAt": 1794655774315
   }
 ]
