@@ -2,6 +2,16 @@
   {
     "userId": "admin-master",
     "type": "animeindo",
+    "key": "5565",
+    "title": "Ore dake Level Up na Ken Season 2: Arise from the Shadow",
+    "cover": "/api/img/aHR0cHM6Ly9hcGkuYW5pbWVpbi5uZXQvL2Fzc2V0cy9pbWFnZXMvbW92aWUvcG9zdGVyLzFiZTdjZDQ2MjYxOWM5OGQ3ZGNiNmY5MmY2OWU5MTAyLmpwZw",
+    "sub": "Episode 12",
+    "href": "/anime-indo/episode/304618",
+    "updatedAt": 1794771898928
+  },
+  {
+    "userId": "admin-master",
+    "type": "animeindo",
     "key": "6562",
     "title": "Seitokai ni mo Ana wa Aru!",
     "cover": "/api/img/aHR0cHM6Ly94eXotYXBpLmFuaW1laW4ubmV0Ly9hc3NldHNfeHl6L2ltYWdlcy9tb3ZpZS9wb3N0ZXIvNThlOTgwZmIxNTU4MWE0OTE1MjNlYmY1NWU3NzE0NjEuanBn",
@@ -458,16 +468,6 @@
     "sub": "Episode 2",
     "href": "/anime/loving-angel-angelique-when-hearts-awaken-cvmghe/2",
     "updatedAt": 1794637362402
-  },
-  {
-    "userId": "admin-master",
-    "type": "animeindo",
-    "key": "5565",
-    "title": "Ore dake Level Up na Ken Season 2: Arise from the Shadow",
-    "cover": "/api/img/aHR0cHM6Ly9hcGkuYW5pbWVpbi5uZXQvL2Fzc2V0cy9pbWFnZXMvbW92aWUvcG9zdGVyLzFiZTdjZDQ2MjYxOWM5OGQ3ZGNiNmY5MmY2OWU5MTAyLmpwZw",
-    "sub": "Episode 7",
-    "href": "/anime-indo/episode/302220",
-    "updatedAt": 1794635094072
   },
   {
     "userId": "admin-master",
