@@ -1,6 +1,16 @@
 [
   {
     "userId": "admin-master",
+    "type": "animeindo",
+    "key": "6562",
+    "title": "Seitokai ni mo Ana wa Aru!",
+    "cover": "/api/img/aHR0cHM6Ly94eXotYXBpLmFuaW1laW4ubmV0Ly9hc3NldHNfeHl6L2ltYWdlcy9tb3ZpZS9wb3N0ZXIvNThlOTgwZmIxNTU4MWE0OTE1MjNlYmY1NWU3NzE0NjEuanBn",
+    "sub": "Episode 7",
+    "href": "/anime-indo/episode/322075",
+    "updatedAt": 1794769024580
+  },
+  {
+    "userId": "admin-master",
     "type": "drama",
     "key": "hadiah-sistem-tak-masuk-akal",
     "title": "Hadiah Sistem Tak Masuk Akal",
