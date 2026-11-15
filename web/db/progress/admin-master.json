@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "last|animeindo:6599",
+    "scope": "last",
+    "key": "animeindo:6599",
+    "ep": "322088",
+    "chapter": "",
+    "page": 0,
+    "time": 0,
+    "duration": 0,
+    "label": "Episode 8",
+    "href": "/anime-indo/episode/322088",
+    "updatedAt": 1794783142466
+  },
+  {
+    "userId": "admin-master",
     "id": "comic|229848-solo-leveling",
     "scope": "comic",
     "key": "229848-solo-leveling",
