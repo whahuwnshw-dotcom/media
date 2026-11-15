@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "last|drama:i-thrive-in-the-apocalypse-by-stockpiling",
+    "scope": "last",
+    "key": "drama:i-thrive-in-the-apocalypse-by-stockpiling",
+    "ep": "1",
+    "chapter": "",
+    "page": 0,
+    "time": 0,
+    "duration": 0,
+    "label": "Episode 1",
+    "href": "/drama/watch/i-thrive-in-the-apocalypse-by-stockpiling/1",
+    "updatedAt": 1794746017678
+  },
+  {
+    "userId": "admin-master",
     "id": "video|drama:i-thrive-in-the-apocalypse-by-stockpiling|1",
     "scope": "video",
     "key": "drama:i-thrive-in-the-apocalypse-by-stockpiling",
