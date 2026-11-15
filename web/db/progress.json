@@ -1,16 +1,30 @@
 [
   {
     "userId": "admin-master",
+    "id": "last|animeindo:4327",
+    "scope": "last",
+    "key": "animeindo:4327",
+    "ep": "52696",
+    "chapter": "",
+    "page": 0,
+    "time": 0,
+    "duration": 0,
+    "label": "Episode 12",
+    "href": "/anime-indo/episode/52696",
+    "updatedAt": 1794776554195
+  },
+  {
+    "userId": "admin-master",
     "id": "video|animein:4327|12",
     "scope": "video",
     "key": "animein:4327",
     "ep": "12",
     "chapter": "",
     "page": 0,
-    "time": 463,
+    "time": 438,
     "duration": 1432,
     "label": "",
     "href": "",
-    "updatedAt": 1794776553728
+    "updatedAt": 1794776537023
   }
 ]
