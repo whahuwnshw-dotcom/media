@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "last|drama:hadiah-sistem-tak-masuk-akal",
+    "scope": "last",
+    "key": "drama:hadiah-sistem-tak-masuk-akal",
+    "ep": "1",
+    "chapter": "",
+    "page": 0,
+    "time": 0,
+    "duration": 0,
+    "label": "Episode 1",
+    "href": "/drama/watch/hadiah-sistem-tak-masuk-akal/1",
+    "updatedAt": 1794756603202
+  },
+  {
+    "userId": "admin-master",
     "id": "comic|aching",
     "scope": "comic",
     "key": "aching",
