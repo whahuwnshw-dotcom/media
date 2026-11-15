@@ -1,6 +1,16 @@
 [
   {
     "userId": "admin-master",
+    "type": "komik",
+    "key": "aching",
+    "title": "Aching",
+    "cover": "/api/img/aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDUvS29taWstQWNoaW5nLTIyMXgzMTkuanBn",
+    "sub": "Komik\n              Aching Chapter 3",
+    "href": "/chapter/aching-chapter-3?comic=aching",
+    "updatedAt": 1794752794687
+  },
+  {
+    "userId": "admin-master",
     "type": "animeindo",
     "key": "4327",
     "title": "Gotoubun no Hanayome ∬",
