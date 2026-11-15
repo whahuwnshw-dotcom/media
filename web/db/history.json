@@ -2,6 +2,16 @@
   {
     "userId": "admin-master",
     "type": "drama",
+    "key": "hadiah-sistem-tak-masuk-akal",
+    "title": "Hadiah Sistem Tak Masuk Akal",
+    "cover": "/api/img/aHR0cHM6Ly9ldTIuY29udGFib3N0b3JhZ2UuY29tLzRmMTE0Nzg2YjIzMTQyMDg4ZGQ3YWRjODJmNGU2ODdiOmFzaWFib3hkcmFtYS8yMTE5NDI0NDk2NjE1NDUyNjczL3Bvc3Rlci5qcGc",
+    "sub": "Episode 1",
+    "href": "/drama/watch/hadiah-sistem-tak-masuk-akal/1",
+    "updatedAt": 1794742210307
+  },
+  {
+    "userId": "admin-master",
+    "type": "drama",
     "key": "i-thrive-in-the-apocalypse-by-stockpiling",
     "title": "I Thrive in the Apocalypse by Stockpiling",
     "cover": "/api/img/aHR0cHM6Ly9ldTIuY29udGFib3N0b3JhZ2UuY29tLzRmMTE0Nzg2YjIzMTQyMDg4ZGQ3YWRjODJmNGU2ODdiOmFzaWFib3hkcmFtYS8yMTE3NTM2MzY4MzI0OTExMTA1L3Bvc3Rlci5qcGc",
@@ -228,16 +238,6 @@
     "sub": "Solo Leveling Manual - Chapter 2",
     "href": "/chapter/manual-solo-leveling-manual-chapter-2",
     "updatedAt": 1794656501514
-  },
-  {
-    "userId": "admin-master",
-    "type": "drama",
-    "key": "hadiah-sistem-tak-masuk-akal",
-    "title": "Hadiah Sistem Tak Masuk Akal",
-    "cover": "/api/img/aHR0cHM6Ly9ldTIuY29udGFib3N0b3JhZ2UuY29tLzRmMTE0Nzg2YjIzMTQyMDg4ZGQ3YWRjODJmNGU2ODdiOmFzaWFib3hkcmFtYS8yMTE5NDI0NDk2NjE1NDUyNjczL3Bvc3Rlci5qcGc",
-    "sub": "Episode 13",
-    "href": "/drama/watch/hadiah-sistem-tak-masuk-akal/13",
-    "updatedAt": 1794646615655
   },
   {
     "userId": "admin-master",
