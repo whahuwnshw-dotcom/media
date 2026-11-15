@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "userId": "admin-master",
+    "id": "last|animeindo:4327",
+    "scope": "last",
+    "key": "animeindo:4327",
+    "ep": "52696",
+    "chapter": "",
+    "page": 0,
+    "time": 0,
+    "duration": 0,
+    "label": "Episode 12",
+    "href": "/anime-indo/episode/52696",
+    "updatedAt": 1794780714650
+  }
+]
