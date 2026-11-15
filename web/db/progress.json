@@ -1,17 +1,17 @@
 [
   {
     "userId": "admin-master",
-    "id": "last|drama:manual-mohon-putri-utama-jangan-beri-aku",
-    "scope": "last",
+    "id": "video|drama:manual-mohon-putri-utama-jangan-beri-aku|1",
+    "scope": "video",
     "key": "drama:manual-mohon-putri-utama-jangan-beri-aku",
     "ep": "1",
     "chapter": "",
     "page": 0,
-    "time": 0,
-    "duration": 0,
-    "label": "Episode 1",
-    "href": "/drama/watch/manual-mohon-putri-utama-jangan-beri-aku/1",
-    "updatedAt": 1794747417728
+    "time": 9,
+    "duration": 63,
+    "label": "",
+    "href": "",
+    "updatedAt": 1794747417906
   },
   {
     "userId": "admin-master",
