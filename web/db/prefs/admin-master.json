@@ -1,4 +1,5 @@
 {
   "AUTO_ANIME": true,
-  "AUTO_DONGHUA": true
+  "AUTO_DONGHUA": true,
+  "AUTO_KOMIK": false
 }
