@@ -1,5 +1,15 @@
 [
   {
+    "userId": "admin-master",
+    "type": "komik",
+    "key": "falling-for-it",
+    "title": "Falling For It Bahasa Indonesia",
+    "cover": "https://komikstation.org/wp-content/uploads/2026/05/Falling-For-It.jpeg",
+    "sub": "Falling For It Chapter 1",
+    "href": "/chapter/falling-for-it-chapter-1?src=ks&comic=falling-for-it",
+    "updatedAt": 1794740957368
+  },
+  {
     "userId": "1794468555291",
     "type": "donghua",
     "key": "/spiritual-realm-walker-episode-6-indonesia-english-sub",
