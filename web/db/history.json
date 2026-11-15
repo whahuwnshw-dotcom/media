@@ -1,6 +1,16 @@
 [
   {
     "userId": "admin-master",
+    "type": "animeindo",
+    "key": "manual-one-piece-manual",
+    "title": "One Piece Manual",
+    "cover": "",
+    "sub": "Episode 1",
+    "href": "/anime-indo/episode/manual-one-piece-manual-1",
+    "updatedAt": 1794731999925
+  },
+  {
+    "userId": "admin-master",
     "type": "drama",
     "key": "manual-squid-game-manual",
     "title": "Squid Game Manual",
