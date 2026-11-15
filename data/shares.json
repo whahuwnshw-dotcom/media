@@ -11069,6 +11069,31 @@
       "createdAt": "2026-11-15T18:02:28.726Z",
       "expiresAt": 1797357748726,
       "ownerId": null
+    },
+    "smwi5fjimt7v0": {
+      "id": "smwi5fjimt7v0",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=vtuber/66b54545c0f45167b3de4f20.jpg",
+      "server": "server1",
+      "tags": [
+        "vtuber",
+        "young-girl",
+        "1girl",
+        "christmas",
+        "santa"
+      ],
+      "size": "815.29 KB",
+      "artist": "るみぴゃん＠お仕事募集中",
+      "source": "https://www.pixiv.net/en/artworks/114477897",
+      "uploaded": "2026-11-15T18:09:19.247Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-15T18:09:19.247Z",
+      "expiresAt": 1797358159247,
+      "ownerId": null
     }
   }
 }
