@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "userId": "admin-master",
+    "id": "comic|229848-solo-leveling",
+    "scope": "comic",
+    "key": "229848-solo-leveling",
+    "ep": "",
+    "chapter": "solo-leveling-chapter-179-end",
+    "page": 4,
+    "time": 0,
+    "duration": 0,
+    "label": "Komik\n              Solo Leveling Chapter 179 End",
+    "href": "/chapter/solo-leveling-chapter-179-end?comic=229848-solo-leveling",
+    "updatedAt": 1794782606395
+  }
+]
