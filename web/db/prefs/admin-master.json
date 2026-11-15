@@ -1,6 +1,6 @@
 {
   "AUTO_ANIME": false,
-  "AUTO_DONGHUA": true,
+  "AUTO_DONGHUA": false,
   "AUTO_KOMIK": true,
   "AUTO_DRAMA": true
 }
