@@ -1,6 +1,16 @@
 [
   {
     "userId": "admin-master",
+    "type": "drama",
+    "key": "manual-mohon-putri-utama-jangan-beri-aku",
+    "title": "mohon putri utama jangan beri aku",
+    "cover": "",
+    "sub": "Episode 1",
+    "href": "/drama/watch/manual-mohon-putri-utama-jangan-beri-aku/1",
+    "updatedAt": 1794747404375
+  },
+  {
+    "userId": "admin-master",
     "type": "animeindo",
     "key": "4327",
     "title": "Gotoubun no Hanayome ∬",
