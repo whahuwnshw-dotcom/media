@@ -1,0 +1,35 @@
+[
+  {
+    "title": "One Piece Manual",
+    "slug": "manual-one-piece-manual",
+    "description": "Petualangan Luffy mencari One Piece...",
+    "cover": "",
+    "banner": "",
+    "type": "SERIES",
+    "status": "Ongoing",
+    "year": "1999",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "episodes": [
+      {
+        "number": 1,
+        "title": "Saya Luffy!",
+        "date": "1999-10-20",
+        "image": "",
+        "servers": [
+          {
+            "name": "Server Utama",
+            "quality": "720p",
+            "type": "embed",
+            "link": ""
+          }
+        ]
+      }
+    ],
+    "createdAt": 1794731981742,
+    "updatedAt": 1794731981742
+  }
+]
