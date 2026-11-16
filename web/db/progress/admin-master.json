@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "last|animeindo:2421",
+    "scope": "last",
+    "key": "animeindo:2421",
+    "ep": "41201",
+    "chapter": "",
+    "page": 0,
+    "time": 0,
+    "duration": 0,
+    "label": "Episode 2",
+    "href": "/anime-indo/episode/41201",
+    "updatedAt": 1794817093168
+  },
+  {
+    "userId": "admin-master",
     "id": "video|animein:2421|2",
     "scope": "video",
     "key": "animein:2421",
@@ -12,20 +26,6 @@
     "label": "",
     "href": "",
     "updatedAt": 1794817072531
-  },
-  {
-    "userId": "admin-master",
-    "id": "last|animeindo:2421",
-    "scope": "last",
-    "key": "animeindo:2421",
-    "ep": "41201",
-    "chapter": "",
-    "page": 0,
-    "time": 0,
-    "duration": 0,
-    "label": "Episode 2",
-    "href": "/anime-indo/episode/41201",
-    "updatedAt": 1794816793029
   },
   {
     "userId": "admin-master",
