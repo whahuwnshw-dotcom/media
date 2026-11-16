@@ -1,6 +1,16 @@
 [
   {
     "type": "animeindo",
+    "key": "1523",
+    "sub": "Episode 24",
+    "title": "Berserk (1997) ",
+    "cover": "/api/img/aHR0cHM6Ly9hcGkuYW5pbWVpbi5uZXQvYXNzZXRzL2ltYWdlcy9tb3ZpZS9wb3N0ZXIvODhlMWZlOWRhNWI5MmZlOTI1NzVmYjZmZmEwMjFkNDguanBn",
+    "related": "",
+    "href": "/anime-indo/episode/25307",
+    "updatedAt": 1794820494389
+  },
+  {
+    "type": "animeindo",
     "key": "5350",
     "sub": "Episode 3",
     "title": "Uzumaki",
