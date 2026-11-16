@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "video|animein:2421|2",
+    "scope": "video",
+    "key": "animein:2421",
+    "ep": "2",
+    "chapter": "",
+    "page": 0,
+    "time": 332,
+    "duration": 1419,
+    "label": "",
+    "href": "",
+    "updatedAt": 1794817488243
+  },
+  {
+    "userId": "admin-master",
     "id": "last|animeindo:2421",
     "scope": "last",
     "key": "animeindo:2421",
@@ -54,20 +68,6 @@
     "label": "Episode 1",
     "href": "/drama/watch/terlahir-kembali-membangun-kekaisaran/1",
     "updatedAt": 1794817424015
-  },
-  {
-    "userId": "admin-master",
-    "id": "video|animein:2421|2",
-    "scope": "video",
-    "key": "animein:2421",
-    "ep": "2",
-    "chapter": "",
-    "page": 0,
-    "time": 317,
-    "duration": 1419,
-    "label": "",
-    "href": "",
-    "updatedAt": 1794817119469
   },
   {
     "userId": "admin-master",
