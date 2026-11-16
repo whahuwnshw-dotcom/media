@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "last|drama:memuaskan-hasrat-naga",
+    "scope": "last",
+    "key": "drama:memuaskan-hasrat-naga",
+    "ep": "1",
+    "chapter": "",
+    "page": 0,
+    "time": 0,
+    "duration": 0,
+    "label": "Episode 1",
+    "href": "/drama/watch/memuaskan-hasrat-naga/1",
+    "updatedAt": 1794835550425
+  },
+  {
+    "userId": "admin-master",
     "id": "video|drama:memuaskan-hasrat-naga|1",
     "scope": "video",
     "key": "drama:memuaskan-hasrat-naga",
