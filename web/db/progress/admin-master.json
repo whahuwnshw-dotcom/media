@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "comic|229848-solo-leveling",
+    "scope": "comic",
+    "key": "229848-solo-leveling",
+    "ep": "",
+    "chapter": "solo-leveling-chapter-1",
+    "page": 1,
+    "time": 0,
+    "duration": 0,
+    "label": "Komik\n              Solo Leveling Chapter 1",
+    "href": "/chapter/solo-leveling-chapter-1?comic=229848-solo-leveling",
+    "updatedAt": 1794835651757
+  },
+  {
+    "userId": "admin-master",
     "id": "last|drama:memuaskan-hasrat-naga",
     "scope": "last",
     "key": "drama:memuaskan-hasrat-naga",
@@ -334,19 +348,5 @@
     "label": "Episode 8",
     "href": "/anime-indo/episode/322088",
     "updatedAt": 1794783142466
-  },
-  {
-    "userId": "admin-master",
-    "id": "comic|229848-solo-leveling",
-    "scope": "comic",
-    "key": "229848-solo-leveling",
-    "ep": "",
-    "chapter": "solo-leveling-chapter-179-end",
-    "page": 4,
-    "time": 0,
-    "duration": 0,
-    "label": "Komik\n              Solo Leveling Chapter 179 End",
-    "href": "/chapter/solo-leveling-chapter-179-end?comic=229848-solo-leveling",
-    "updatedAt": 1794782606395
   }
 ]
