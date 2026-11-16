@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "last|animeindo:1523",
+    "scope": "last",
+    "key": "animeindo:1523",
+    "ep": "25307",
+    "chapter": "",
+    "page": 0,
+    "time": 0,
+    "duration": 0,
+    "label": "Episode 24",
+    "href": "/anime-indo/episode/25307",
+    "updatedAt": 1794820524151
+  },
+  {
+    "userId": "admin-master",
     "id": "video|animein:1523|24",
     "scope": "video",
     "key": "animein:1523",
