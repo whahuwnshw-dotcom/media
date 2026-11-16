@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "last|animeindo:4942",
+    "scope": "last",
+    "key": "animeindo:4942",
+    "ep": "293815",
+    "chapter": "",
+    "page": 0,
+    "time": 0,
+    "duration": 0,
+    "label": "Episode 3",
+    "href": "/anime-indo/episode/293815",
+    "updatedAt": 1794818960052
+  },
+  {
+    "userId": "admin-master",
     "id": "video|drama:hadiah-sistem-tak-masuk-akal|1",
     "scope": "video",
     "key": "drama:hadiah-sistem-tak-masuk-akal",
