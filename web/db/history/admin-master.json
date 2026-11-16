@@ -1,5 +1,15 @@
 [
   {
+    "type": "komik",
+    "key": "falling-for-it",
+    "sub": "Falling For It Chapter 6",
+    "title": "Falling For It Bahasa Indonesia",
+    "cover": "https://komikstation.org/wp-content/uploads/2026/05/Falling-For-It.jpeg",
+    "related": "",
+    "href": "/chapter/falling-for-it-chapter-6?src=ks&comic=falling-for-it",
+    "updatedAt": 1794812802657
+  },
+  {
     "type": "donghua",
     "key": "/renegade-immortal-episode-167-indonesia-english-sub",
     "sub": "Episode 167",
@@ -28,16 +38,6 @@
     "related": "",
     "href": "/donghua/episode//soul-land-2-the-peerless-tang-sect-episode-179-indonesia-english-sub",
     "updatedAt": 1794812467933
-  },
-  {
-    "type": "komik",
-    "key": "falling-for-it",
-    "sub": "Falling For It Chapter 6",
-    "title": "Falling For It Bahasa Indonesia",
-    "cover": "https://komikstation.org/wp-content/uploads/2026/05/Falling-For-It.jpeg",
-    "related": "",
-    "href": "/chapter/falling-for-it-chapter-6?src=ks&comic=falling-for-it",
-    "updatedAt": 1794811464514
   },
   {
     "type": "komik",
