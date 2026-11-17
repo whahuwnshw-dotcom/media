@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "last|anime:so-what-s-wrong-with-getting-reborn-as-a-goblin-5ykheh",
+    "scope": "last",
+    "key": "anime:so-what-s-wrong-with-getting-reborn-as-a-goblin-5ykheh",
+    "ep": "1",
+    "chapter": "",
+    "page": 0,
+    "time": 0,
+    "duration": 0,
+    "label": "Episode 1",
+    "href": "/anime/so-what-s-wrong-with-getting-reborn-as-a-goblin-5ykheh/1",
+    "updatedAt": 1794891916425
+  },
+  {
+    "userId": "admin-master",
     "id": "last|donghua:swallowed-star-season-5",
     "scope": "last",
     "key": "donghua:swallowed-star-season-5",
