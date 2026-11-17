@@ -1,5 +1,15 @@
 [
   {
+    "type": "donghua",
+    "key": "swallowed-star-season-5",
+    "sub": "Episode 42",
+    "title": "Swallowed Star Season 5 Episode 42 [250] Indonesia, English Sub",
+    "cover": "/api/img/aHR0cHM6Ly9hbmltZXhpbi5kZXYvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDIvU3dhbGxvd2VkLVN0YXItUzUtNzY4eDEwNzcuanBn",
+    "related": "",
+    "href": "/donghua/episode/swallowed-star-season-5-episode-42-250-indonesia-english-sub",
+    "updatedAt": 1794893833852
+  },
+  {
     "type": "anime",
     "key": "so-what-s-wrong-with-getting-reborn-as-a-goblin-5ykheh",
     "sub": "Episode 1",
@@ -8,16 +18,6 @@
     "related": "",
     "href": "/anime/so-what-s-wrong-with-getting-reborn-as-a-goblin-5ykheh/1",
     "updatedAt": 1794891908983
-  },
-  {
-    "type": "donghua",
-    "key": "swallowed-star-season-5",
-    "sub": "Episode 42",
-    "title": "Swallowed Star Season 5 Episode 42 [250] Indonesia, English Sub",
-    "cover": "/api/img/aHR0cHM6Ly9hbmltZXhpbi5kZXYvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDIvU3dhbGxvd2VkLVN0YXItUzUtNzY4eDEwNzcuanBn",
-    "related": "",
-    "href": "/donghua/episode/swallowed-star-season-5-episode-42-250-indonesia-english-sub",
-    "updatedAt": 1794891002134
   },
   {
     "type": "donghua",
