@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "video|drama:manual-kali-ini-giliran-aku-mencintaimu|1",
+    "scope": "video",
+    "key": "drama:manual-kali-ini-giliran-aku-mencintaimu",
+    "ep": "1",
+    "chapter": "",
+    "page": 0,
+    "time": 25,
+    "duration": 121,
+    "label": "",
+    "href": "",
+    "updatedAt": 1794900315366
+  },
+  {
+    "userId": "admin-master",
     "id": "last|drama:manual-kali-ini-giliran-aku-mencintaimu",
     "scope": "last",
     "key": "drama:manual-kali-ini-giliran-aku-mencintaimu",
@@ -12,20 +26,6 @@
     "label": "Episode 1",
     "href": "/drama/watch/manual-kali-ini-giliran-aku-mencintaimu/1",
     "updatedAt": 1794900314556
-  },
-  {
-    "userId": "admin-master",
-    "id": "video|drama:manual-kali-ini-giliran-aku-mencintaimu|1",
-    "scope": "video",
-    "key": "drama:manual-kali-ini-giliran-aku-mencintaimu",
-    "ep": "1",
-    "chapter": "",
-    "page": 0,
-    "time": 1,
-    "duration": 121,
-    "label": "",
-    "href": "",
-    "updatedAt": 1794900277798
   },
   {
     "userId": "admin-master",
