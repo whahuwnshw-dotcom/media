@@ -11094,6 +11094,31 @@
       "createdAt": "2026-11-15T18:09:19.247Z",
       "expiresAt": 1797358159247,
       "ownerId": null
+    },
+    "smwkarhebymww": {
+      "id": "smwkarhebymww",
+      "url": "https://waifu2-eta.vercel.app/api/image-proxy?filename=cat-ears/6af02e4344df7124849525f1.jpg",
+      "server": "server1",
+      "tags": [
+        "catgirl",
+        "cat-ears",
+        "animal-ears",
+        "tail",
+        "1girl"
+      ],
+      "size": "310.94 KB",
+      "artist": "はくあ🌙.*FANBOX再開",
+      "source": "https://www.pixiv.net/en/artworks/110602301",
+      "uploaded": "2026-11-17T06:14:06.803Z",
+      "isNsfw": false,
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "likedBy": [],
+      "uploadedByName": "anonymous",
+      "createdAt": "2026-11-17T06:14:06.803Z",
+      "expiresAt": 1797488046803,
+      "ownerId": null
     }
   }
 }
