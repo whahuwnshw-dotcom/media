@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "last|animeindo:341",
+    "scope": "last",
+    "key": "animeindo:341",
+    "ep": "5481",
+    "chapter": "",
+    "page": 0,
+    "time": 0,
+    "duration": 0,
+    "label": "Episode 1",
+    "href": "/anime-indo/episode/5481",
+    "updatedAt": 1795008847149
+  },
+  {
+    "userId": "admin-master",
     "id": "video|animein:341|1",
     "scope": "video",
     "key": "animein:341",
