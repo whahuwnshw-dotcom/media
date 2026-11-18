@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "video|animein:341|1",
+    "scope": "video",
+    "key": "animein:341",
+    "ep": "1",
+    "chapter": "",
+    "page": 0,
+    "time": 0,
+    "duration": 1386,
+    "label": "",
+    "href": "",
+    "updatedAt": 1795008831743
+  },
+  {
+    "userId": "admin-master",
     "id": "last|anime:the-cold-sato-san-is-only-sweet-to-me-4kb5qh",
     "scope": "last",
     "key": "anime:the-cold-sato-san-is-only-sweet-to-me-4kb5qh",
