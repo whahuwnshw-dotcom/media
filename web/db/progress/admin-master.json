@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "last|animeindo:6489",
+    "scope": "last",
+    "key": "animeindo:6489",
+    "ep": "322040",
+    "chapter": "",
+    "page": 0,
+    "time": 0,
+    "duration": 0,
+    "label": "Episode 6",
+    "href": "/anime-indo/episode/322040",
+    "updatedAt": 1794984620613
+  },
+  {
+    "userId": "admin-master",
     "id": "video|animein:6542|6",
     "scope": "video",
     "key": "animein:6542",
