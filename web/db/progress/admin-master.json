@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "last|animeindo:426",
+    "scope": "last",
+    "key": "animeindo:426",
+    "ep": "7364",
+    "chapter": "",
+    "page": 0,
+    "time": 0,
+    "duration": 0,
+    "label": "Episode 1",
+    "href": "/anime-indo/episode/7364",
+    "updatedAt": 1795004629862
+  },
+  {
+    "userId": "admin-master",
     "id": "video|animein:426|1",
     "scope": "video",
     "key": "animein:426",
@@ -26,20 +40,6 @@
     "label": "",
     "href": "",
     "updatedAt": 1795003122333
-  },
-  {
-    "userId": "admin-master",
-    "id": "last|animeindo:426",
-    "scope": "last",
-    "key": "animeindo:426",
-    "ep": "321196",
-    "chapter": "",
-    "page": 0,
-    "time": 0,
-    "duration": 0,
-    "label": "Episode 1180",
-    "href": "/anime-indo/episode/321196",
-    "updatedAt": 1795003118664
   },
   {
     "userId": "admin-master",
