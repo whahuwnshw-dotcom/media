@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "last|anime:the-cold-sato-san-is-only-sweet-to-me-4kb5qh",
+    "scope": "last",
+    "key": "anime:the-cold-sato-san-is-only-sweet-to-me-4kb5qh",
+    "ep": "7",
+    "chapter": "",
+    "page": 0,
+    "time": 0,
+    "duration": 0,
+    "label": "Episode 7",
+    "href": "/anime/the-cold-sato-san-is-only-sweet-to-me-4kb5qh/7",
+    "updatedAt": 1795008678903
+  },
+  {
+    "userId": "admin-master",
     "id": "video|animein:426|1",
     "scope": "video",
     "key": "animein:426",
