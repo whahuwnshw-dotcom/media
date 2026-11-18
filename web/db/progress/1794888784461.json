@@ -1,6 +1,20 @@
 [
   {
     "userId": "1794888784461",
+    "id": "video|animein:6542|6",
+    "scope": "video",
+    "key": "animein:6542",
+    "ep": "6",
+    "chapter": "",
+    "page": 0,
+    "time": 188,
+    "duration": 1420,
+    "label": "",
+    "href": "",
+    "updatedAt": 1794982592285
+  },
+  {
+    "userId": "1794888784461",
     "id": "comic|10-nen-buri-ni-saikai-shita-kusogaki-wa-seijun-bishoujo-jk-ni-seichou-shiteita",
     "scope": "comic",
     "key": "10-nen-buri-ni-saikai-shita-kusogaki-wa-seijun-bishoujo-jk-ni-seichou-shiteita",
