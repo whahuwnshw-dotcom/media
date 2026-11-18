@@ -1,14 +1,5 @@
 [
   {
-    "type": "komik",
-    "key": "kimi-no-kami-ga-ki-ni-narunda",
-    "title": "Kimi no Kami ga Ki ni Narunda",
-    "cover": "/api/img/aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMTAvbWFzdGVyaW1hZ2Utc2VyaWVzLzQ1MDQxNy80MGUzNDQ3OC1kYWRkLTQ3MmItOWE3Zi04MDE2ZDQzMjliNzAva29taWsta2ltaS1uby1rYW1pLWdhLWtpLW5pLW5hcnVuZGEtMjM2eDEzMi5qcGc",
-    "href": "/komik/kimi-no-kami-ga-ki-ni-narunda",
-    "sub": "",
-    "updatedAt": 1795008105245
-  },
-  {
     "type": "animeindo",
     "key": "426",
     "title": "One Piece",
