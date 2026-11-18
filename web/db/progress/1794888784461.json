@@ -1,6 +1,20 @@
 [
   {
     "userId": "1794888784461",
+    "id": "last|animeindo:6603",
+    "scope": "last",
+    "key": "animeindo:6603",
+    "ep": "322031",
+    "chapter": "",
+    "page": 0,
+    "time": 0,
+    "duration": 0,
+    "label": "Episode 6",
+    "href": "/anime-indo/episode/322031",
+    "updatedAt": 1794983208861
+  },
+  {
+    "userId": "1794888784461",
     "id": "video|animein:6603|6",
     "scope": "video",
     "key": "animein:6603",
@@ -26,20 +40,6 @@
     "label": "",
     "href": "",
     "updatedAt": 1794983175736
-  },
-  {
-    "userId": "1794888784461",
-    "id": "last|animeindo:6603",
-    "scope": "last",
-    "key": "animeindo:6603",
-    "ep": "321778",
-    "chapter": "",
-    "page": 0,
-    "time": 0,
-    "duration": 0,
-    "label": "Episode 5",
-    "href": "/anime-indo/episode/321778",
-    "updatedAt": 1794982863563
   },
   {
     "userId": "1794888784461",
