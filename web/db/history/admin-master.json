@@ -1,5 +1,15 @@
 [
   {
+    "type": "animeindo",
+    "key": "1755",
+    "sub": "Episode 1234",
+    "title": "Detective Conan",
+    "cover": "/api/img/aHR0cHM6Ly9hcGkuYW5pbWVpbi5uZXQvL2Fzc2V0cy9pbWFnZXMvbW92aWUvcG9zdGVyLzZhZmM2NjIxOThkNmM1MGFmMWY2ZTVhNjY5YjI2OGNkLmpwZw",
+    "related": "",
+    "href": "/anime-indo/episode/308558",
+    "updatedAt": 1794985401614
+  },
+  {
     "type": "drama",
     "key": "manual-kali-ini-giliran-aku-mencintaimu",
     "sub": "Episode 3",
