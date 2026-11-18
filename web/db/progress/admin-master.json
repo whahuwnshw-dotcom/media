@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "last|animeindo:2421",
+    "scope": "last",
+    "key": "animeindo:2421",
+    "ep": "41201",
+    "chapter": "",
+    "page": 0,
+    "time": 0,
+    "duration": 0,
+    "label": "Episode 2",
+    "href": "/anime-indo/episode/41201",
+    "updatedAt": 1794992379888
+  },
+  {
+    "userId": "admin-master",
     "id": "last|drama:manual-kali-ini-giliran-aku-mencintaimu",
     "scope": "last",
     "key": "drama:manual-kali-ini-giliran-aku-mencintaimu",
