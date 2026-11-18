@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "last|animeindo:1755",
+    "scope": "last",
+    "key": "animeindo:1755",
+    "ep": "308558",
+    "chapter": "",
+    "page": 0,
+    "time": 0,
+    "duration": 0,
+    "label": "Episode 1234",
+    "href": "/anime-indo/episode/308558",
+    "updatedAt": 1794985431603
+  },
+  {
+    "userId": "admin-master",
     "id": "last|drama:manual-kali-ini-giliran-aku-mencintaimu",
     "scope": "last",
     "key": "drama:manual-kali-ini-giliran-aku-mencintaimu",
