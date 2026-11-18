@@ -1,5 +1,15 @@
 [
   {
+    "type": "animeindo",
+    "key": "1280",
+    "sub": "Episode 170",
+    "title": "Black Clover",
+    "cover": "/api/img/aHR0cHM6Ly9hcGkuYW5pbWVpbi5uZXQvYXNzZXRzL2ltYWdlcy9tb3ZpZS9wb3N0ZXIvZmNhNGRkYWQyMjVjZDgyNWM2MDgyNDVjMWYzNGY1N2IuanBn",
+    "related": "",
+    "href": "/anime-indo/episode/52732",
+    "updatedAt": 1795008807193
+  },
+  {
     "type": "anime",
     "key": "the-cold-sato-san-is-only-sweet-to-me-4kb5qh",
     "sub": "Episode 7",
