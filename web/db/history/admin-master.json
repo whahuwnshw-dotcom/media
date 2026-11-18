@@ -2,6 +2,16 @@
   {
     "type": "animeindo",
     "key": "1755",
+    "sub": "Episode 1234",
+    "title": "Detective Conan",
+    "cover": "/api/img/aHR0cHM6Ly9hcGkuYW5pbWVpbi5uZXQvL2Fzc2V0cy9pbWFnZXMvbW92aWUvcG9zdGVyLzZhZmM2NjIxOThkNmM1MGFmMWY2ZTVhNjY5YjI2OGNkLmpwZw",
+    "related": "",
+    "href": "/anime-indo/episode/308558",
+    "updatedAt": 1794985644298
+  },
+  {
+    "type": "animeindo",
+    "key": "1755",
     "sub": "Episode 1213",
     "title": "Detective Conan",
     "cover": "/api/img/aHR0cHM6Ly9hcGkuYW5pbWVpbi5uZXQvL2Fzc2V0cy9pbWFnZXMvbW92aWUvcG9zdGVyLzZhZmM2NjIxOThkNmM1MGFmMWY2ZTVhNjY5YjI2OGNkLmpwZw",
@@ -18,16 +28,6 @@
     "related": "",
     "href": "/anime-indo/episode/308479",
     "updatedAt": 1794985556960
-  },
-  {
-    "type": "animeindo",
-    "key": "1755",
-    "sub": "Episode 1234",
-    "title": "Detective Conan",
-    "cover": "/api/img/aHR0cHM6Ly9hcGkuYW5pbWVpbi5uZXQvL2Fzc2V0cy9pbWFnZXMvbW92aWUvcG9zdGVyLzZhZmM2NjIxOThkNmM1MGFmMWY2ZTVhNjY5YjI2OGNkLmpwZw",
-    "related": "",
-    "href": "/anime-indo/episode/308558",
-    "updatedAt": 1794985541836
   },
   {
     "type": "drama",
