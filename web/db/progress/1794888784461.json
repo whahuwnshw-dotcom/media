@@ -1,6 +1,20 @@
 [
   {
     "userId": "1794888784461",
+    "id": "last|animeindo:6542",
+    "scope": "last",
+    "key": "animeindo:6542",
+    "ep": "322119",
+    "chapter": "",
+    "page": 0,
+    "time": 0,
+    "duration": 0,
+    "label": "Episode 6",
+    "href": "/anime-indo/episode/322119",
+    "updatedAt": 1794982612069
+  },
+  {
+    "userId": "1794888784461",
     "id": "video|animein:6542|6",
     "scope": "video",
     "key": "animein:6542",
