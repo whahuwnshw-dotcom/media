@@ -1,6 +1,20 @@
 [
   {
     "userId": "1794888784461",
+    "id": "video|animein:6603|2",
+    "scope": "video",
+    "key": "animein:6603",
+    "ep": "2",
+    "chapter": "",
+    "page": 0,
+    "time": 1160,
+    "duration": 1419,
+    "label": "",
+    "href": "",
+    "updatedAt": 1794982680045
+  },
+  {
+    "userId": "1794888784461",
     "id": "last|animeindo:6603",
     "scope": "last",
     "key": "animeindo:6603",
@@ -12,20 +26,6 @@
     "label": "Episode 2",
     "href": "/anime-indo/episode/321444",
     "updatedAt": 1794982678227
-  },
-  {
-    "userId": "1794888784461",
-    "id": "video|animein:6603|2",
-    "scope": "video",
-    "key": "animein:6603",
-    "ep": "2",
-    "chapter": "",
-    "page": 0,
-    "time": 1156,
-    "duration": 1419,
-    "label": "",
-    "href": "",
-    "updatedAt": 1794982674949
   },
   {
     "userId": "1794888784461",
