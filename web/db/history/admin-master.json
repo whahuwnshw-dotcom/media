@@ -2,6 +2,16 @@
   {
     "type": "animeindo",
     "key": "426",
+    "sub": "Episode 1",
+    "title": "One Piece",
+    "cover": "/api/img/aHR0cHM6Ly94eXotYXBpLmFuaW1laW4ubmV0Ly9hc3NldHNfeHl6L2ltYWdlcy9tb3ZpZS9wb3N0ZXIvM2I1ODAzMWI1NWNlYjBhMjBiMWNiNTZjMjA5MzMxNTMuanBn",
+    "related": "",
+    "href": "/anime-indo/episode/7364",
+    "updatedAt": 1795003065633
+  },
+  {
+    "type": "animeindo",
+    "key": "426",
     "sub": "Episode 1180",
     "title": "One Piece",
     "cover": "/api/img/aHR0cHM6Ly94eXotYXBpLmFuaW1laW4ubmV0Ly9hc3NldHNfeHl6L2ltYWdlcy9tb3ZpZS9wb3N0ZXIvM2I1ODAzMWI1NWNlYjBhMjBiMWNiNTZjMjA5MzMxNTMuanBn",
