@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "last|drama:sayang-cinta-palsu-membuatku-lebih-kuatsulih-suara",
+    "scope": "last",
+    "key": "drama:sayang-cinta-palsu-membuatku-lebih-kuatsulih-suara",
+    "ep": "1",
+    "chapter": "",
+    "page": 0,
+    "time": 0,
+    "duration": 0,
+    "label": "Episode 1",
+    "href": "/drama/watch/sayang-cinta-palsu-membuatku-lebih-kuatsulih-suara/1",
+    "updatedAt": 1795058671172
+  },
+  {
+    "userId": "admin-master",
     "id": "video|drama:sayang-cinta-palsu-membuatku-lebih-kuatsulih-suara|1",
     "scope": "video",
     "key": "drama:sayang-cinta-palsu-membuatku-lebih-kuatsulih-suara",
