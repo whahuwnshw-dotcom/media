@@ -1,5 +1,15 @@
 [
   {
+    "type": "komik",
+    "key": "love-quest",
+    "sub": "Love Quest Chapter 40",
+    "title": "Love Quest",
+    "cover": "/api/manhwadesu?op=img&u=aHR0cHM6Ly9pMC53cC5jb20vbWFuaHdhZGVzdS5yZXN0L3dwLWNvbnRlbnQvdXBsb2Fkcy9pbWFnZXMvdGh1bWJzL2xvdmUtcXVlc3QvNjlhNTBiOTBhMDM1Yi5qcGc&s=YEAjKG1ypFpWkzi1cRTnMrgfXR2tbl5Z",
+    "related": "",
+    "href": "/chapter/love-quest-chapter-40?src=md&comic=love-quest",
+    "updatedAt": 1795093314454
+  },
+  {
     "type": "animeindo",
     "key": "n2-seitokai-ni-mo-ana-wa-aru-sub-indo",
     "sub": "Episode 1",
@@ -18,16 +28,6 @@
     "related": "",
     "href": "/chapter/love-quest-chapter-39?src=md&comic=love-quest",
     "updatedAt": 1795092749797
-  },
-  {
-    "type": "komik",
-    "key": "love-quest",
-    "sub": "Love Quest Chapter 40",
-    "title": "Love Quest",
-    "cover": "/api/manhwadesu?op=img&u=aHR0cHM6Ly9pMC53cC5jb20vbWFuaHdhZGVzdS5yZXN0L3dwLWNvbnRlbnQvdXBsb2Fkcy9pbWFnZXMvdGh1bWJzL2xvdmUtcXVlc3QvNjlhNTBiOTBhMDM1Yi5qcGc&s=YEAjKG1ypFpWkzi1cRTnMrgfXR2tbl5Z",
-    "related": "",
-    "href": "/chapter/love-quest-chapter-40?src=md&comic=love-quest",
-    "updatedAt": 1795092736790
   },
   {
     "type": "animeindo",
