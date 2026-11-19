@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "video|animein:n2-seitokai-ni-mo-ana-wa-aru-sub-indo|1",
+    "scope": "video",
+    "key": "animein:n2-seitokai-ni-mo-ana-wa-aru-sub-indo",
+    "ep": "1",
+    "chapter": "",
+    "page": 0,
+    "time": 1,
+    "duration": 1420,
+    "label": "",
+    "href": "",
+    "updatedAt": 1795092879481
+  },
+  {
+    "userId": "admin-master",
     "id": "comic|love-quest",
     "scope": "comic",
     "key": "love-quest",
