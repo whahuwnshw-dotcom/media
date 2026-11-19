@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "comic|love-quest",
+    "scope": "comic",
+    "key": "love-quest",
+    "ep": "",
+    "chapter": "love-quest-chapter-39",
+    "page": 9,
+    "time": 0,
+    "duration": 0,
+    "label": "Love Quest Chapter 39",
+    "href": "/chapter/love-quest-chapter-40?src=md&comic=love-quest",
+    "updatedAt": 1795092766995
+  },
+  {
+    "userId": "admin-master",
     "id": "video|animein:n2-tantei-wa-mou-shindeiru-season-2-sub-indo|1",
     "scope": "video",
     "key": "animein:n2-tantei-wa-mou-shindeiru-season-2-sub-indo",
