@@ -1,6 +1,16 @@
 [
   {
     "type": "animeindo",
+    "key": "4818",
+    "sub": "Episode 2",
+    "title": "Kusuriya no Hitorigoto",
+    "cover": "/api/img/aHR0cHM6Ly9hcGkuYW5pbWVpbi5uZXQvL2Fzc2V0cy9pbWFnZXMvbW92aWUvcG9zdGVyL2UzMGU4YjA5MjQwNjM5ZTNhMGFkZTU2MmUzNWExZTU3LmpwZw",
+    "related": "",
+    "href": "/anime-indo/episode/166637",
+    "updatedAt": 1795081929831
+  },
+  {
+    "type": "animeindo",
     "key": "5236",
     "sub": "Episode 14",
     "title": "Aishang Ta de Liyou",
