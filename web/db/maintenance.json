@@ -1,6 +1,14 @@
 {
-  "enabled": true,
+  "enabled": false,
   "message": "Website sedang dalam tahap pemeliharaan. Silakan kembali beberapa saat lagi.",
-  "updatedAt": "2026-11-19T11:06:10.998Z",
+  "sections": {
+    "anime": false,
+    "animeindo": false,
+    "donghua": false,
+    "komik": false,
+    "komiknsfw": false,
+    "drama": false
+  },
+  "updatedAt": "2026-11-19T11:16:15.123Z",
   "updatedBy": "branpediaid.com"
 }
