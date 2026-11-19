@@ -1,6 +1,16 @@
 [
   {
     "type": "komik",
+    "key": "get-out",
+    "sub": "Get Out! Chapter 17",
+    "title": "Get Out!",
+    "cover": "/api/manhwadesu?op=img&u=aHR0cHM6Ly9pMC53cC5jb20vbWFuaHdhZGVzdS5yZXN0L3dwLWNvbnRlbnQvdXBsb2Fkcy9pbWFnZXMvdGh1bWJzL2dldC1vdXQvNmFiY2Q2ZTE5MjRjMC5qcGc&s=xKuQl1KYXxSi2mtiu_vArXFoBxWuC0tK",
+    "related": "",
+    "href": "/chapter/get-out-chapter-17?src=md&comic=get-out",
+    "updatedAt": 1795097796702
+  },
+  {
+    "type": "komik",
     "key": "im-the-only-man-on-the-military-base",
     "sub": "I’m the Only Man on the Military Base Chapter 84",
     "title": "I’m the Only Man on the Military Base",
