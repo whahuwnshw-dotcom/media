@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "last|animeindo:n2-koori-no-jouheki-season-2-sub-indo",
+    "scope": "last",
+    "key": "animeindo:n2-koori-no-jouheki-season-2-sub-indo",
+    "ep": "1",
+    "chapter": "",
+    "page": 0,
+    "time": 0,
+    "duration": 0,
+    "label": "Episode 1",
+    "href": "/anime-indo/n/koori-no-jouheki-season-2-sub-indo/1",
+    "updatedAt": 1795111319399
+  },
+  {
+    "userId": "admin-master",
     "id": "last|animeindo:n2-digimon-xros-wars-aku-no-death-general-to-nanatsu-no-oukoku-sub-indo",
     "scope": "last",
     "key": "animeindo:n2-digimon-xros-wars-aku-no-death-general-to-nanatsu-no-oukoku-sub-indo",
