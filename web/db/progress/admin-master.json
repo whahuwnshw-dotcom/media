@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "last|animeindo:n2-sono-bisque-doll-wa-koi-wo-suru-season-2-sub-indo",
+    "scope": "last",
+    "key": "animeindo:n2-sono-bisque-doll-wa-koi-wo-suru-season-2-sub-indo",
+    "ep": "1",
+    "chapter": "",
+    "page": 0,
+    "time": 0,
+    "duration": 0,
+    "label": "Episode 1",
+    "href": "/anime-indo/n/sono-bisque-doll-wa-koi-wo-suru-season-2-sub-indo/1",
+    "updatedAt": 1795099245098
+  },
+  {
+    "userId": "admin-master",
     "id": "comic|im-the-only-guy-at-the-massage-shop",
     "scope": "comic",
     "key": "im-the-only-guy-at-the-massage-shop",
