@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "last|animeindo:5236",
+    "scope": "last",
+    "key": "animeindo:5236",
+    "ep": "295209",
+    "chapter": "",
+    "page": 0,
+    "time": 0,
+    "duration": 0,
+    "label": "Episode 1",
+    "href": "/anime-indo/episode/295209",
+    "updatedAt": 1795061231228
+  },
+  {
+    "userId": "admin-master",
     "id": "video|animein:5236|1",
     "scope": "video",
     "key": "animein:5236",
