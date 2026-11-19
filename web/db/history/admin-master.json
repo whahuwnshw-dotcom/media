@@ -1,5 +1,15 @@
 [
   {
+    "type": "animeindo",
+    "key": "5269",
+    "sub": "Episode 1",
+    "title": "Aishang Ta de Liyou Dub Japan",
+    "cover": "/api/img/aHR0cHM6Ly9hcGkuYW5pbWVpbi5uZXQvL2Fzc2V0cy9pbWFnZXMvbW92aWUvcG9zdGVyLzBiMzUxZWEwNGY0ZmYwY2UzNjAwMjFjMDI2OTdjZDljLmpwZw",
+    "related": "",
+    "href": "/anime-indo/episode/295451",
+    "updatedAt": 1795059522250
+  },
+  {
     "type": "drama",
     "key": "sayang-cinta-palsu-membuatku-lebih-kuatsulih-suara",
     "sub": "Episode 2",
@@ -28,16 +38,6 @@
     "related": "",
     "href": "/donghua/episode/renegade-immortal-episode-167-indonesia-english-sub",
     "updatedAt": 1795058594673
-  },
-  {
-    "type": "animeindo",
-    "key": "5269",
-    "sub": "Episode 1",
-    "title": "Aishang Ta de Liyou Dub Japan",
-    "cover": "/api/img/aHR0cHM6Ly9hcGkuYW5pbWVpbi5uZXQvL2Fzc2V0cy9pbWFnZXMvbW92aWUvcG9zdGVyLzBiMzUxZWEwNGY0ZmYwY2UzNjAwMjFjMDI2OTdjZDljLmpwZw",
-    "related": "",
-    "href": "/anime-indo/episode/295451",
-    "updatedAt": 1795057602371
   },
   {
     "type": "animeindo",
