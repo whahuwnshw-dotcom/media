@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "comic|im-the-only-man-on-the-military-base",
+    "scope": "comic",
+    "key": "im-the-only-man-on-the-military-base",
+    "ep": "",
+    "chapter": "im-the-only-man-on-the-military-base-chapter-84",
+    "page": 3,
+    "time": 0,
+    "duration": 0,
+    "label": "I’m the Only Man on the Military Base Chapter 84",
+    "href": "/chapter/im-the-only-man-on-the-military-base-chapter-84?src=md&comic=im-the-only-man-on-the-military-base",
+    "updatedAt": 1795097761885
+  },
+  {
+    "userId": "admin-master",
     "id": "video|animein:n2-sokushi-cheat-ga-saikyou-sugite-isekai-no-yatsura-ga-marude-aite-ni-naranai-n-desu-ga-sub-indo|1",
     "scope": "video",
     "key": "animein:n2-sokushi-cheat-ga-saikyou-sugite-isekai-no-yatsura-ga-marude-aite-ni-naranai-n-desu-ga-sub-indo",
