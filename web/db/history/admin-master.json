@@ -1,5 +1,15 @@
 [
   {
+    "type": "animeindo",
+    "key": "5269",
+    "sub": "Episode 1",
+    "title": "Aishang Ta de Liyou Dub Japan",
+    "cover": "/api/img/aHR0cHM6Ly9hcGkuYW5pbWVpbi5uZXQvL2Fzc2V0cy9pbWFnZXMvbW92aWUvcG9zdGVyLzBiMzUxZWEwNGY0ZmYwY2UzNjAwMjFjMDI2OTdjZDljLmpwZw",
+    "related": "",
+    "href": "/anime-indo/episode/295451",
+    "updatedAt": 1795061175723
+  },
+  {
     "type": "drama",
     "key": "sayang-cinta-palsu-membuatku-lebih-kuatsulih-suara",
     "sub": "Episode 2",
@@ -8,16 +18,6 @@
     "related": "",
     "href": "/drama/watch/sayang-cinta-palsu-membuatku-lebih-kuatsulih-suara/2",
     "updatedAt": 1795060243613
-  },
-  {
-    "type": "animeindo",
-    "key": "5269",
-    "sub": "Episode 1",
-    "title": "Aishang Ta de Liyou Dub Japan",
-    "cover": "/api/img/aHR0cHM6Ly9hcGkuYW5pbWVpbi5uZXQvL2Fzc2V0cy9pbWFnZXMvbW92aWUvcG9zdGVyLzBiMzUxZWEwNGY0ZmYwY2UzNjAwMjFjMDI2OTdjZDljLmpwZw",
-    "related": "",
-    "href": "/anime-indo/episode/295451",
-    "updatedAt": 1795059522250
   },
   {
     "type": "drama",
