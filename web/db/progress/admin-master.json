@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "last|animeindo:n2-hibike-euphonium-season-2-specials-sub-indo",
+    "scope": "last",
+    "key": "animeindo:n2-hibike-euphonium-season-2-specials-sub-indo",
+    "ep": "1",
+    "chapter": "",
+    "page": 0,
+    "time": 0,
+    "duration": 0,
+    "label": "Episode 1",
+    "href": "/anime-indo/n/hibike-euphonium-season-2-specials-sub-indo/1",
+    "updatedAt": 1795089535082
+  },
+  {
+    "userId": "admin-master",
     "id": "video|animein:4302|1",
     "scope": "video",
     "key": "animein:4302",
