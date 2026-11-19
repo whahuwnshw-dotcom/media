@@ -1,6 +1,16 @@
 [
   {
     "type": "animeindo",
+    "key": "n2-hibike-euphonium-season-2-specials-sub-indo",
+    "sub": "Episode 1",
+    "title": "Hibike! Euphonium Season 2 Specials",
+    "cover": "/api/animeindo2?op=img&u=aHR0cHM6Ly9uaW1lZ2FtaS5pZC9hc3NldHMvYW5pbWUtZGF0YS9pbWFnZXMvYmFubmVycy82ZTE5NzU5Yjc4NDhjODI5YmQ1YjFlNTkud2VicA&s=HtoL6lFqFuV1xgR58t5iDRoNYp0RAEk0",
+    "related": "",
+    "href": "/anime-indo/n/hibike-euphonium-season-2-specials-sub-indo/1",
+    "updatedAt": 1795108841202
+  },
+  {
+    "type": "animeindo",
     "key": "n2-rokudenashi-majutsu-koushi-to-akashic-records-sub-indo",
     "sub": "Episode 2",
     "title": "Nonton Rokudenashi Majutsu Koushi to Akashic Records Episode 1-12 (End) Subtitle Indonesia",
@@ -238,16 +248,6 @@
     "related": "",
     "href": "/anime-indo/n/tantei-wa-mou-shindeiru-season-2-sub-indo/5",
     "updatedAt": 1795089706906
-  },
-  {
-    "type": "animeindo",
-    "key": "n2-hibike-euphonium-season-2-specials-sub-indo",
-    "sub": "Episode 1",
-    "title": "Hibike! Euphonium Season 2 Specials",
-    "cover": "/api/nimegami?op=img&u=aHR0cHM6Ly9uaW1lZ2FtaS5pZC9hc3NldHMvYW5pbWUtZGF0YS9pbWFnZXMvYmFubmVycy82ZTE5NzU5Yjc4NDhjODI5YmQ1YjFlNTkud2VicA&s=HtoL6lFqFuV1xgR58t5iDRoNYp0RAEk0",
-    "related": "",
-    "href": "/anime-indo/n/hibike-euphonium-season-2-specials-sub-indo/1",
-    "updatedAt": 1795089505117
   },
   {
     "type": "animeindo",
