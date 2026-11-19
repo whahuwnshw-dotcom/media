@@ -1,6 +1,16 @@
 [
   {
     "type": "animeindo",
+    "key": "n2-fx-senshi-kurumi-chan-sub-indo",
+    "sub": "Episode 1",
+    "title": "FX Senshi Kurumi-chan",
+    "cover": "/api/animeindo2?op=img&u=aHR0cHM6Ly9uaW1lZ2FtaS5pZC9hc3NldHMvYW5pbWUtZGF0YS9pbWFnZXMvYmFubmVycy9kYzE0YTBhMjdmNmViYzNiYmZkNjA0Y2Mud2VicA&s=zYsYPdWSFXYuMU8tDkwLm8oWlKS62Wix",
+    "related": "",
+    "href": "/anime-indo/n/fx-senshi-kurumi-chan-sub-indo/1",
+    "updatedAt": 1795108850014
+  },
+  {
+    "type": "animeindo",
     "key": "n2-hibike-euphonium-season-2-specials-sub-indo",
     "sub": "Episode 1",
     "title": "Hibike! Euphonium Season 2 Specials",
