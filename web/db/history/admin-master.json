@@ -1,5 +1,15 @@
 [
   {
+    "type": "donghua",
+    "key": "renegade-immortal",
+    "sub": "Episode 167",
+    "title": "Renegade Immortal Episode 167 Indonesia, English Sub",
+    "cover": "/api/img/aHR0cHM6Ly9hbmltZXhpbi5kZXYvd3AtY29udGVudC91cGxvYWRzLzIwMjMvMDkvUmVuZWdhZGUtSW1tb3J0YWwtQXNjZW5kYW50LTc2OHgxMDc3LmpwZw",
+    "related": "",
+    "href": "/donghua/episode/renegade-immortal-episode-167-indonesia-english-sub",
+    "updatedAt": 1795231372760
+  },
+  {
     "type": "animeindo",
     "key": "n2-tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-sub-indo",
     "sub": "Episode 1",
@@ -138,16 +148,6 @@
     "related": "",
     "href": "/anime-indo/n/rokudenashi-majutsu-koushi-to-akashic-records-sub-indo/3",
     "updatedAt": 1795187888771
-  },
-  {
-    "type": "donghua",
-    "key": "renegade-immortal",
-    "sub": "Episode 167",
-    "title": "Renegade Immortal Episode 167 Indonesia, English Sub",
-    "cover": "/api/img/aHR0cHM6Ly9hbmltZXhpbi5kZXYvd3AtY29udGVudC91cGxvYWRzLzIwMjMvMDkvUmVuZWdhZGUtSW1tb3J0YWwtQXNjZW5kYW50LTc2OHgxMDc3LmpwZw",
-    "related": "",
-    "href": "/donghua/episode/renegade-immortal-episode-167-indonesia-english-sub",
-    "updatedAt": 1795159315530
   },
   {
     "type": "animeindo",
