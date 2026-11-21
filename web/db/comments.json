@@ -193,7 +193,9 @@
     "imageUrl": "",
     "replyTo": null,
     "isPinned": false,
-    "likes": [],
+    "likes": [
+      "admin-master"
+    ],
     "dislikes": [],
     "createdAt": 1795159298887
   }
