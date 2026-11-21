@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "last|animeindo:n2-shinmai-ossan-boukensha-saikyou-party-ni-shinu-hodo-kitaerarete-muteki-ni-naru-sub-indo",
+    "scope": "last",
+    "key": "animeindo:n2-shinmai-ossan-boukensha-saikyou-party-ni-shinu-hodo-kitaerarete-muteki-ni-naru-sub-indo",
+    "ep": "1",
+    "chapter": "",
+    "page": 0,
+    "time": 0,
+    "duration": 0,
+    "label": "Episode 1",
+    "href": "/anime-indo/n/shinmai-ossan-boukensha-saikyou-party-ni-shinu-hodo-kitaerarete-muteki-ni-naru-sub-indo/1",
+    "updatedAt": 1795253714742
+  },
+  {
+    "userId": "admin-master",
     "id": "last|animeindo:n2-tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-sub-indo",
     "scope": "last",
     "key": "animeindo:n2-tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-sub-indo",
