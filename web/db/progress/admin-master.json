@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "last|animeindo:n2-kashita-maryoku-wa-revo-barai-de-kyousei-choushuu-sub-indo",
+    "scope": "last",
+    "key": "animeindo:n2-kashita-maryoku-wa-revo-barai-de-kyousei-choushuu-sub-indo",
+    "ep": "1",
+    "chapter": "",
+    "page": 0,
+    "time": 0,
+    "duration": 0,
+    "label": "Episode 1",
+    "href": "/anime-indo/n/kashita-maryoku-wa-revo-barai-de-kyousei-choushuu-sub-indo/1",
+    "updatedAt": 1795331119297
+  },
+  {
+    "userId": "admin-master",
     "id": "last|animeindo:n2-magicalexplorer-sub-indo",
     "scope": "last",
     "key": "animeindo:n2-magicalexplorer-sub-indo",
