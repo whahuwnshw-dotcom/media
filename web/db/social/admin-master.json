@@ -1,9 +1,9 @@
 {
   "privacy": "public",
-  "friends": [],
-  "incoming": [
+  "friends": [
     "1795309692359"
   ],
+  "incoming": [],
   "outgoing": [],
   "likedBy": [
     "1795309692359"
