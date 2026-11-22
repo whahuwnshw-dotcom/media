@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "last|animeindo:n2-magicalexplorer-sub-indo",
+    "scope": "last",
+    "key": "animeindo:n2-magicalexplorer-sub-indo",
+    "ep": "8",
+    "chapter": "",
+    "page": 0,
+    "time": 0,
+    "duration": 0,
+    "label": "Episode 8",
+    "href": "/anime-indo/n/magicalexplorer-sub-indo/8",
+    "updatedAt": 1795335027296
+  },
+  {
+    "userId": "admin-master",
     "id": "last|donghua:renegade-immortal",
     "scope": "last",
     "key": "donghua:renegade-immortal",
@@ -12,20 +26,6 @@
     "label": "Episode 167",
     "href": "/donghua/episode/renegade-immortal-episode-167-indonesia-english-sub",
     "updatedAt": 1795333628182
-  },
-  {
-    "userId": "admin-master",
-    "id": "last|animeindo:n2-magicalexplorer-sub-indo",
-    "scope": "last",
-    "key": "animeindo:n2-magicalexplorer-sub-indo",
-    "ep": "2",
-    "chapter": "",
-    "page": 0,
-    "time": 0,
-    "duration": 0,
-    "label": "Episode 2",
-    "href": "/anime-indo/n/magicalexplorer-sub-indo/2",
-    "updatedAt": 1795333614177
   },
   {
     "userId": "admin-master",
