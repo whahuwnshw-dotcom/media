@@ -1,6 +1,16 @@
 [
   {
     "type": "animeindo",
+    "key": "n2-magicalexplorer-sub-indo",
+    "sub": "Episode 8",
+    "title": "Magical★Explorer",
+    "cover": "/api/animeindo2?op=img&u=aHR0cHM6Ly9uaW1lZ2FtaS5pZC9hc3NldHMvYW5pbWUtZGF0YS9pbWFnZXMvcG9zdGVycy8yMDFhMjNhYzI2NGMwMzFlZTNiZWI1MjUuanBn&s=aH1PLVeuuWJJjCn38ME1vF-ovHASAIcI",
+    "related": "",
+    "href": "/anime-indo/n/magicalexplorer-sub-indo/8",
+    "updatedAt": 1795353464093
+  },
+  {
+    "type": "animeindo",
     "key": "n2-yozakura-san-chi-no-daisakusen-season-2-part-2-sub-indo",
     "sub": "Episode 2",
     "title": "Nonton Yozakura-san Chi no Daisakusen Season 2 Part 2 Episode 1-7 Subtitle Indonesia",
@@ -68,16 +78,6 @@
     "related": "",
     "href": "/anime-indo/n/tokyo-revengers-season-4-sub-indo/2",
     "updatedAt": 1795335269934
-  },
-  {
-    "type": "animeindo",
-    "key": "n2-magicalexplorer-sub-indo",
-    "sub": "Episode 8",
-    "title": "Magical★Explorer",
-    "cover": "/api/animeindo2?op=img&u=aHR0cHM6Ly9uaW1lZ2FtaS5pZC9hc3NldHMvYW5pbWUtZGF0YS9pbWFnZXMvcG9zdGVycy8yMDFhMjNhYzI2NGMwMzFlZTNiZWI1MjUuanBn&s=aH1PLVeuuWJJjCn38ME1vF-ovHASAIcI",
-    "related": "",
-    "href": "/anime-indo/n/magicalexplorer-sub-indo/8",
-    "updatedAt": 1795334997295
   },
   {
     "type": "animeindo",
