@@ -1,5 +1,15 @@
 [
   {
+    "type": "animeindo",
+    "key": "n2-magicalexplorer-sub-indo",
+    "sub": "Episode 1",
+    "title": "Magical★Explorer",
+    "cover": "/api/animeindo2?op=img&u=aHR0cHM6Ly9uaW1lZ2FtaS5pZC9hc3NldHMvYW5pbWUtZGF0YS9pbWFnZXMvcG9zdGVycy8yMDFhMjNhYzI2NGMwMzFlZTNiZWI1MjUuanBn&s=aH1PLVeuuWJJjCn38ME1vF-ovHASAIcI",
+    "related": "",
+    "href": "/anime-indo/n/magicalexplorer-sub-indo/1",
+    "updatedAt": 1795331370012
+  },
+  {
     "type": "donghua",
     "key": "renegade-immortal",
     "sub": "Episode 167",
@@ -28,16 +38,6 @@
     "related": "",
     "href": "/anime-indo/n/magicalexplorer-sub-indo/5",
     "updatedAt": 1795331023204
-  },
-  {
-    "type": "animeindo",
-    "key": "n2-magicalexplorer-sub-indo",
-    "sub": "Episode 1",
-    "title": "Magical★Explorer",
-    "cover": "/api/animeindo2?op=img&u=aHR0cHM6Ly9uaW1lZ2FtaS5pZC9hc3NldHMvYW5pbWUtZGF0YS9pbWFnZXMvcG9zdGVycy8yMDFhMjNhYzI2NGMwMzFlZTNiZWI1MjUuanBn&s=aH1PLVeuuWJJjCn38ME1vF-ovHASAIcI",
-    "related": "",
-    "href": "/anime-indo/n/magicalexplorer-sub-indo/1",
-    "updatedAt": 1795331011668
   },
   {
     "type": "animeindo",
