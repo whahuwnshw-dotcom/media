@@ -1,10 +1,10 @@
 {
   "privacy": "public",
-  "friends": [],
-  "incoming": [],
-  "outgoing": [
+  "friends": [
     "admin-master"
   ],
+  "incoming": [],
+  "outgoing": [],
   "likedBy": [],
   "dmRead": {}
 }
