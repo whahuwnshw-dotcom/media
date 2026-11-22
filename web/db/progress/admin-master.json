@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "last|animeindo:n2-magicalexplorer-sub-indo",
+    "scope": "last",
+    "key": "animeindo:n2-magicalexplorer-sub-indo",
+    "ep": "1",
+    "chapter": "",
+    "page": 0,
+    "time": 0,
+    "duration": 0,
+    "label": "Episode 1",
+    "href": "/anime-indo/n/magicalexplorer-sub-indo/1",
+    "updatedAt": 1795331375837
+  },
+  {
+    "userId": "admin-master",
     "id": "last|donghua:renegade-immortal",
     "scope": "last",
     "key": "donghua:renegade-immortal",
@@ -26,20 +40,6 @@
     "label": "Episode 1",
     "href": "/anime-indo/n/kashita-maryoku-wa-revo-barai-de-kyousei-choushuu-sub-indo/1",
     "updatedAt": 1795331119297
-  },
-  {
-    "userId": "admin-master",
-    "id": "last|animeindo:n2-magicalexplorer-sub-indo",
-    "scope": "last",
-    "key": "animeindo:n2-magicalexplorer-sub-indo",
-    "ep": "5",
-    "chapter": "",
-    "page": 0,
-    "time": 0,
-    "duration": 0,
-    "label": "Episode 5",
-    "href": "/anime-indo/n/magicalexplorer-sub-indo/5",
-    "updatedAt": 1795331036481
   },
   {
     "userId": "admin-master",
