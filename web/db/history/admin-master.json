@@ -1,5 +1,15 @@
 [
   {
+    "type": "animeindo",
+    "key": "605",
+    "sub": "Episode 12",
+    "title": "Rokudenashi Majutsu Koushi to Akashic Records",
+    "cover": "/api/img/aHR0cHM6Ly9hcGkuYW5pbWVpbi5uZXQvYXNzZXRzL2ltYWdlcy9tb3ZpZS9wb3N0ZXIvOGViZGM0NDAzODVhMGI2N2EzYjJkMjY2ZmIzZThjZTkuanBn",
+    "related": "",
+    "href": "/anime-indo/episode/10131",
+    "updatedAt": 1795372717962
+  },
+  {
     "type": "donghua",
     "key": "renegade-immortal",
     "sub": "Episode 167",
