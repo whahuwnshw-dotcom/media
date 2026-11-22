@@ -1,6 +1,16 @@
 [
   {
     "type": "animeindo",
+    "key": "n2-magicalexplorer-sub-indo",
+    "sub": "Episode 1",
+    "title": "Magical★Explorer",
+    "cover": "/api/animeindo2?op=img&u=aHR0cHM6Ly9uaW1lZ2FtaS5pZC9hc3NldHMvYW5pbWUtZGF0YS9pbWFnZXMvcG9zdGVycy8yMDFhMjNhYzI2NGMwMzFlZTNiZWI1MjUuanBn&s=aH1PLVeuuWJJjCn38ME1vF-ovHASAIcI",
+    "related": "",
+    "href": "/anime-indo/n/magicalexplorer-sub-indo/1",
+    "updatedAt": 1795352550412
+  },
+  {
+    "type": "animeindo",
     "key": "n2-hyouken-no-majutsushi-ga-sekai-wo-suberu-season-2-sub-indo",
     "sub": "Episode 3",
     "title": "Nonton Hyouken no Majutsushi ga Sekai wo Suberu Season 2 Episode 1-7 Subtitle Indonesia",
@@ -28,16 +38,6 @@
     "related": "",
     "href": "/anime-indo/n/kashita-maryoku-wa-revo-barai-de-kyousei-choushuu-sub-indo/2",
     "updatedAt": 1795333662323
-  },
-  {
-    "type": "animeindo",
-    "key": "n2-magicalexplorer-sub-indo",
-    "sub": "Episode 1",
-    "title": "Magical★Explorer",
-    "cover": "/api/animeindo2?op=img&u=aHR0cHM6Ly9uaW1lZ2FtaS5pZC9hc3NldHMvYW5pbWUtZGF0YS9pbWFnZXMvcG9zdGVycy8yMDFhMjNhYzI2NGMwMzFlZTNiZWI1MjUuanBn&s=aH1PLVeuuWJJjCn38ME1vF-ovHASAIcI",
-    "related": "",
-    "href": "/anime-indo/n/magicalexplorer-sub-indo/1",
-    "updatedAt": 1795332397998
   },
   {
     "type": "animeindo",
