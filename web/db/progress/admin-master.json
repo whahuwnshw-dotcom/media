@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "last|animeindo:n2-fruits-basket-2nd-season-sub-indo",
+    "scope": "last",
+    "key": "animeindo:n2-fruits-basket-2nd-season-sub-indo",
+    "ep": "2",
+    "chapter": "",
+    "page": 0,
+    "time": 0,
+    "duration": 0,
+    "label": "Episode 2",
+    "href": "/anime-indo/n/fruits-basket-2nd-season-sub-indo/2",
+    "updatedAt": 1795474026522
+  },
+  {
+    "userId": "admin-master",
     "id": "last|donghua:renegade-immortal",
     "scope": "last",
     "key": "donghua:renegade-immortal",
