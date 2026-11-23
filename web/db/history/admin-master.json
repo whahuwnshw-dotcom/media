@@ -1,5 +1,15 @@
 [
   {
+    "type": "animeindo",
+    "key": "n2-magicalexplorer-sub-indo",
+    "sub": "Episode 1",
+    "title": "Magical★Explorer",
+    "cover": "/api/animeindo2?op=img&u=aHR0cHM6Ly9uaW1lZ2FtaS5pZC9hc3NldHMvYW5pbWUtZGF0YS9pbWFnZXMvcG9zdGVycy8yMDFhMjNhYzI2NGMwMzFlZTNiZWI1MjUuanBn&s=aH1PLVeuuWJJjCn38ME1vF-ovHASAIcI",
+    "related": "",
+    "href": "/anime-indo/n/magicalexplorer-sub-indo/1",
+    "updatedAt": 1795442655868
+  },
+  {
     "type": "drama",
     "key": "manual-kali-ini-giliran-aku-mencintaimu",
     "sub": "Episode 1",
@@ -258,16 +268,6 @@
     "related": "",
     "href": "/anime-indo/n/tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-sub-indo/2",
     "updatedAt": 1795374875108
-  },
-  {
-    "type": "animeindo",
-    "key": "n2-magicalexplorer-sub-indo",
-    "sub": "Episode 1",
-    "title": "Magical★Explorer",
-    "cover": "/api/animeindo2?op=img&u=aHR0cHM6Ly9uaW1lZ2FtaS5pZC9hc3NldHMvYW5pbWUtZGF0YS9pbWFnZXMvcG9zdGVycy8yMDFhMjNhYzI2NGMwMzFlZTNiZWI1MjUuanBn&s=aH1PLVeuuWJJjCn38ME1vF-ovHASAIcI",
-    "related": "",
-    "href": "/anime-indo/n/magicalexplorer-sub-indo/1",
-    "updatedAt": 1795372886114
   },
   {
     "type": "animeindo",
