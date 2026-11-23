@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "last|drama:dubbing108-ayah-predator-jangan-sentuh-kelinci-kami",
+    "scope": "last",
+    "key": "drama:dubbing108-ayah-predator-jangan-sentuh-kelinci-kami",
+    "ep": "1",
+    "chapter": "",
+    "page": 0,
+    "time": 0,
+    "duration": 0,
+    "label": "Episode 1",
+    "href": "/drama/watch/dubbing108-ayah-predator-jangan-sentuh-kelinci-kami/1",
+    "updatedAt": 1795425662733
+  },
+  {
+    "userId": "admin-master",
     "id": "video|drama:dubbing108-ayah-predator-jangan-sentuh-kelinci-kami|1",
     "scope": "video",
     "key": "drama:dubbing108-ayah-predator-jangan-sentuh-kelinci-kami",
