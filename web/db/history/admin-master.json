@@ -1,6 +1,16 @@
 [
   {
     "type": "animeindo",
+    "key": "341",
+    "sub": "Episode 1",
+    "title": "Naruto: Shippuuden",
+    "cover": "/api/img/aHR0cHM6Ly9hcGkuYW5pbWVpbi5uZXQvYXNzZXRzL2ltYWdlcy9tb3ZpZS9wb3N0ZXIvMzJjYmNkYjFlNTI0YTFmYjUyMjczYzBjOTVjOThmZmMuanBn",
+    "related": "",
+    "href": "/anime-indo/episode/5481",
+    "updatedAt": 1795424983725
+  },
+  {
+    "type": "animeindo",
     "key": "n2-seitokai-ni-mo-ana-wa-aru-sub-indo",
     "sub": "Episode 1",
     "title": "Nonton Seitokai ni mo Ana wa Aru! Episode 1-8 Subtitle Indonesia",
@@ -1168,16 +1178,6 @@
     "related": "",
     "href": "/anime-indo/episode/51883",
     "updatedAt": 1795008881142
-  },
-  {
-    "type": "animeindo",
-    "key": "341",
-    "sub": "Episode 1",
-    "title": "Naruto: Shippuuden",
-    "cover": "/api/img/aHR0cHM6Ly9hcGkuYW5pbWVpbi5uZXQvYXNzZXRzL2ltYWdlcy9tb3ZpZS9wb3N0ZXIvMzJjYmNkYjFlNTI0YTFmYjUyMjczYzBjOTVjOThmZmMuanBn",
-    "related": "",
-    "href": "/anime-indo/episode/5481",
-    "updatedAt": 1795008849296
   },
   {
     "type": "animeindo",
