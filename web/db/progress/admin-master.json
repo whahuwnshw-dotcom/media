@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "last|animeindo:n2-kishuku-gakkou-no-juliet-sub-indo",
+    "scope": "last",
+    "key": "animeindo:n2-kishuku-gakkou-no-juliet-sub-indo",
+    "ep": "1",
+    "chapter": "",
+    "page": 0,
+    "time": 0,
+    "duration": 0,
+    "label": "Episode 1",
+    "href": "/anime-indo/n/kishuku-gakkou-no-juliet-sub-indo/1",
+    "updatedAt": 1795403899578
+  },
+  {
+    "userId": "admin-master",
     "id": "last|animeindo:n2-seitokai-ni-mo-ana-wa-aru-sub-indo",
     "scope": "last",
     "key": "animeindo:n2-seitokai-ni-mo-ana-wa-aru-sub-indo",
