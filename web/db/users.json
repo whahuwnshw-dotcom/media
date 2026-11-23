@@ -58,5 +58,13 @@
     "role": "user",
     "avatar": "",
     "createdAt": "2026-11-22T01:08:12.359Z"
+  },
+  {
+    "id": "1795474675437",
+    "username": "Akuna",
+    "password": "4014b4ab97f720ea0b9df359fd14198873ea3436e4c900a7db672bbaee50f7f0",
+    "role": "user",
+    "avatar": "",
+    "createdAt": "2026-11-23T22:57:55.437Z"
   }
 ]
