@@ -1,5 +1,15 @@
 [
   {
+    "type": "animeindo",
+    "key": "6490",
+    "sub": "Episode 7",
+    "title": "Tokyo Revengers: Santen Sensou-hen",
+    "cover": "/api/img/aHR0cHM6Ly94eXotYXBpLmFuaW1laW4ubmV0Ly9hc3NldHNfeHl6L2ltYWdlcy9tb3ZpZS9wb3N0ZXIvM2RiNDY0ZjZlYmRmMzA1N2IwYWIyZWZjYzg0NDk5OGYuanBn",
+    "related": "",
+    "href": "/anime-indo/episode/322061",
+    "updatedAt": 1795413768473
+  },
+  {
     "type": "donghua",
     "key": "renegade-immortal",
     "sub": "Episode 167",
@@ -8,16 +18,6 @@
     "related": "",
     "href": "/donghua/episode/renegade-immortal-episode-167-indonesia-english-sub",
     "updatedAt": 1795413458959
-  },
-  {
-    "type": "animeindo",
-    "key": "6490",
-    "sub": "Episode 7",
-    "title": "Tokyo Revengers: Santen Sensou-hen",
-    "cover": "/api/img/aHR0cHM6Ly94eXotYXBpLmFuaW1laW4ubmV0Ly9hc3NldHNfeHl6L2ltYWdlcy9tb3ZpZS9wb3N0ZXIvM2RiNDY0ZjZlYmRmMzA1N2IwYWIyZWZjYzg0NDk5OGYuanBn",
-    "related": "",
-    "href": "/anime-indo/episode/322061",
-    "updatedAt": 1795410228942
   },
   {
     "type": "animeindo",
