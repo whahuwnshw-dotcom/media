@@ -1,5 +1,15 @@
 [
   {
+    "type": "donghua",
+    "key": "renegade-immortal",
+    "sub": "Episode 167",
+    "title": "Renegade Immortal Episode 167 Indonesia, English Sub",
+    "cover": "/api/img/aHR0cHM6Ly9hbmltZXhpbi5kZXYvd3AtY29udGVudC91cGxvYWRzLzIwMjMvMDkvUmVuZWdhZGUtSW1tb3J0YWwtQXNjZW5kYW50LTc2OHgxMDc3LmpwZw",
+    "related": "",
+    "href": "/donghua/episode/renegade-immortal-episode-167-indonesia-english-sub",
+    "updatedAt": 1795394903860
+  },
+  {
     "type": "animeindo",
     "key": "n2-seitokai-ni-mo-ana-wa-aru-sub-indo",
     "sub": "Episode 8",
@@ -48,16 +58,6 @@
     "related": "",
     "href": "/anime-indo/episode/10131",
     "updatedAt": 1795372717962
-  },
-  {
-    "type": "donghua",
-    "key": "renegade-immortal",
-    "sub": "Episode 167",
-    "title": "Renegade Immortal Episode 167 Indonesia, English Sub",
-    "cover": "/api/img/aHR0cHM6Ly9hbmltZXhpbi5kZXYvd3AtY29udGVudC91cGxvYWRzLzIwMjMvMDkvUmVuZWdhZGUtSW1tb3J0YWwtQXNjZW5kYW50LTc2OHgxMDc3LmpwZw",
-    "related": "",
-    "href": "/donghua/episode/renegade-immortal-episode-167-indonesia-english-sub",
-    "updatedAt": 1795372635942
   },
   {
     "type": "donghua",
