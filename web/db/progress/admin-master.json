@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "last|animeindo:n2-shinja-zero-no-megami-sama-to-hajimeru-isekai-kouryaku-sub-indo",
+    "scope": "last",
+    "key": "animeindo:n2-shinja-zero-no-megami-sama-to-hajimeru-isekai-kouryaku-sub-indo",
+    "ep": "1",
+    "chapter": "",
+    "page": 0,
+    "time": 0,
+    "duration": 0,
+    "label": "Episode 1",
+    "href": "/anime-indo/n/shinja-zero-no-megami-sama-to-hajimeru-isekai-kouryaku-sub-indo/1",
+    "updatedAt": 1795397432158
+  },
+  {
+    "userId": "admin-master",
     "id": "last|animeindo:n2-tensei-kizoku-kantei-skill-de-nariagaru-season-3-sub-indo",
     "scope": "last",
     "key": "animeindo:n2-tensei-kizoku-kantei-skill-de-nariagaru-season-3-sub-indo",
