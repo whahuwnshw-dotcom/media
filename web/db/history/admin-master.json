@@ -1,6 +1,16 @@
 [
   {
     "type": "animeindo",
+    "key": "4621",
+    "sub": "Episode 6",
+    "title": "Kage no Jitsuryokusha ni Naritakute! ",
+    "cover": "/api/img/aHR0cHM6Ly9hcGkuYW5pbWVpbi5uZXQvL2Fzc2V0cy9pbWFnZXMvbW92aWUvcG9zdGVyLzQ2MzhjNjQ3OWE0ZTUxYjY3N2YyZDU4ZThmNjE4NzZlLmpwZw",
+    "related": "",
+    "href": "/anime-indo/episode/56352",
+    "updatedAt": 1795425338658
+  },
+  {
+    "type": "animeindo",
     "key": "n2-kanata-kara-sub-indo",
     "sub": "Episode 1",
     "title": "Kanata kara",
