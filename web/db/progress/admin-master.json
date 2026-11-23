@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "last|animeindo:n2-magicalexplorer-sub-indo",
+    "scope": "last",
+    "key": "animeindo:n2-magicalexplorer-sub-indo",
+    "ep": "1",
+    "chapter": "",
+    "page": 0,
+    "time": 0,
+    "duration": 0,
+    "label": "Episode 1",
+    "href": "/anime-indo/n/magicalexplorer-sub-indo/1",
+    "updatedAt": 1795442674428
+  },
+  {
+    "userId": "admin-master",
     "id": "last|drama:manual-kali-ini-giliran-aku-mencintaimu",
     "scope": "last",
     "key": "drama:manual-kali-ini-giliran-aku-mencintaimu",
@@ -264,20 +278,6 @@
     "label": "Episode 110",
     "href": "/donghua/episode/tales-of-herding-gods-episode-110-indonesia-english-sub",
     "updatedAt": 1795399230834
-  },
-  {
-    "userId": "admin-master",
-    "id": "last|animeindo:n2-magicalexplorer-sub-indo",
-    "scope": "last",
-    "key": "animeindo:n2-magicalexplorer-sub-indo",
-    "ep": "3",
-    "chapter": "",
-    "page": 0,
-    "time": 0,
-    "duration": 0,
-    "label": "Episode 3",
-    "href": "/anime-indo/n/magicalexplorer-sub-indo/3",
-    "updatedAt": 1795397447680
   },
   {
     "userId": "admin-master",
