@@ -1,6 +1,16 @@
 [
   {
     "type": "animeindo",
+    "key": "6490",
+    "sub": "Episode 7",
+    "title": "Tokyo Revengers: Santen Sensou-hen",
+    "cover": "/api/img/aHR0cHM6Ly94eXotYXBpLmFuaW1laW4ubmV0Ly9hc3NldHNfeHl6L2ltYWdlcy9tb3ZpZS9wb3N0ZXIvM2RiNDY0ZjZlYmRmMzA1N2IwYWIyZWZjYzg0NDk5OGYuanBn",
+    "related": "",
+    "href": "/anime-indo/episode/322061",
+    "updatedAt": 1795410228870
+  },
+  {
+    "type": "animeindo",
     "key": "n2-kishuku-gakkou-no-juliet-sub-indo",
     "sub": "Episode 2",
     "title": "Kishuku Gakkou no Juliet",
