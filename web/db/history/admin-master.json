@@ -1,6 +1,16 @@
 [
   {
     "type": "drama",
+    "key": "manual-kali-ini-giliran-aku-mencintaimu",
+    "sub": "Episode 1",
+    "title": "Kali ini giliran aku mencintaimu",
+    "cover": "/web/uploads/manual_drama_cover_1794900225852_09e556.webp",
+    "related": "",
+    "href": "/drama/watch/manual-kali-ini-giliran-aku-mencintaimu/1",
+    "updatedAt": 1795425655790
+  },
+  {
+    "type": "drama",
     "key": "dubbing108-ayah-predator-jangan-sentuh-kelinci-kami",
     "sub": "Episode 1",
     "title": "[Dubbing]108 Ayah Predator: Jangan Sentuh Kelinci Kami",
@@ -1448,16 +1458,6 @@
     "related": "",
     "href": "/anime-indo/episode/321357",
     "updatedAt": 1794981084347
-  },
-  {
-    "type": "drama",
-    "key": "manual-kali-ini-giliran-aku-mencintaimu",
-    "sub": "Episode 1",
-    "title": "Kali ini giliran aku mencintaimu",
-    "cover": "/web/uploads/manual_drama_cover_1794900225852_09e556.webp",
-    "related": "",
-    "href": "/drama/watch/manual-kali-ini-giliran-aku-mencintaimu/1",
-    "updatedAt": 1794900274203
   },
   {
     "type": "komik",
