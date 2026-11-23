@@ -2,6 +2,16 @@
   {
     "type": "komik",
     "key": "love-quest",
+    "sub": "Love Quest Chapter 38",
+    "title": "Love Quest",
+    "cover": "/api/manhwadesu?op=img&u=aHR0cHM6Ly9pMC53cC5jb20vbWFuaHdhZGVzdS5yZXN0L3dwLWNvbnRlbnQvdXBsb2Fkcy9pbWFnZXMvdGh1bWJzL2xvdmUtcXVlc3QvNjlhNTBiOTBhMDM1Yi5qcGc&s=YEAjKG1ypFpWkzi1cRTnMrgfXR2tbl5Z",
+    "related": "",
+    "href": "/chapter/love-quest-chapter-38?src=md&comic=love-quest",
+    "updatedAt": 1795397256481
+  },
+  {
+    "type": "komik",
+    "key": "love-quest",
     "sub": "Love Quest Chapter 39",
     "title": "Love Quest",
     "cover": "/api/manhwadesu?op=img&u=aHR0cHM6Ly9pMC53cC5jb20vbWFuaHdhZGVzdS5yZXN0L3dwLWNvbnRlbnQvdXBsb2Fkcy9pbWFnZXMvdGh1bWJzL2xvdmUtcXVlc3QvNjlhNTBiOTBhMDM1Yi5qcGc&s=YEAjKG1ypFpWkzi1cRTnMrgfXR2tbl5Z",
@@ -808,16 +818,6 @@
     "related": "",
     "href": "/anime-indo/n/sokushi-cheat-ga-saikyou-sugite-isekai-no-yatsura-ga-marude-aite-ni-naranai-n-desu-ga-sub-indo/1",
     "updatedAt": 1795093507727
-  },
-  {
-    "type": "komik",
-    "key": "love-quest",
-    "sub": "Love Quest Chapter 38",
-    "title": "Love Quest",
-    "cover": "/api/manhwadesu?op=img&u=aHR0cHM6Ly9pMC53cC5jb20vbWFuaHdhZGVzdS5yZXN0L3dwLWNvbnRlbnQvdXBsb2Fkcy9pbWFnZXMvdGh1bWJzL2xvdmUtcXVlc3QvNjlhNTBiOTBhMDM1Yi5qcGc&s=YEAjKG1ypFpWkzi1cRTnMrgfXR2tbl5Z",
-    "related": "",
-    "href": "/chapter/love-quest-chapter-38?src=md&comic=love-quest",
-    "updatedAt": 1795093428608
   },
   {
     "type": "animeindo",
