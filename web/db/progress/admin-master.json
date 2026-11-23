@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "last|animeindo:n2-kanata-kara-sub-indo",
+    "scope": "last",
+    "key": "animeindo:n2-kanata-kara-sub-indo",
+    "ep": "1",
+    "chapter": "",
+    "page": 0,
+    "time": 0,
+    "duration": 0,
+    "label": "Episode 1",
+    "href": "/anime-indo/n/kanata-kara-sub-indo/1",
+    "updatedAt": 1795397416199
+  },
+  {
+    "userId": "admin-master",
     "id": "comic|love-quest",
     "scope": "comic",
     "key": "love-quest",
