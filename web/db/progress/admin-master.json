@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "comic|love-quest",
+    "scope": "comic",
+    "key": "love-quest",
+    "ep": "",
+    "chapter": "love-quest-chapter-40",
+    "page": 10,
+    "time": 0,
+    "duration": 0,
+    "label": "Love Quest Chapter 40",
+    "href": "/chapter/love-quest-chapter-40?src=md&comic=love-quest",
+    "updatedAt": 1795397232474
+  },
+  {
+    "userId": "admin-master",
     "id": "video|drama:dari-sekarat-jadi-playboy-kaya|1",
     "scope": "video",
     "key": "drama:dari-sekarat-jadi-playboy-kaya",
@@ -698,20 +712,6 @@
     "label": "Episode 1",
     "href": "/anime-indo/n/sokushi-cheat-ga-saikyou-sugite-isekai-no-yatsura-ga-marude-aite-ni-naranai-n-desu-ga-sub-indo/1",
     "updatedAt": 1795093537733
-  },
-  {
-    "userId": "admin-master",
-    "id": "comic|love-quest",
-    "scope": "comic",
-    "key": "love-quest",
-    "ep": "",
-    "chapter": "love-quest-chapter-38",
-    "page": 9,
-    "time": 0,
-    "duration": 0,
-    "label": "Love Quest Chapter 38",
-    "href": "/chapter/love-quest-chapter-38?src=md&comic=love-quest",
-    "updatedAt": 1795093497371
   },
   {
     "userId": "admin-master",
