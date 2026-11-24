@@ -1,5 +1,15 @@
 [
   {
+    "type": "anime",
+    "key": "one-piece-xamk74",
+    "sub": "Episode 1",
+    "title": "ONE PIECE",
+    "cover": "/api/img/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9hbmltZS9jb3Zlci9sYXJnZS9ieDIxLUVMU1l4M3lNUGNLTS5qcGc",
+    "related": "",
+    "href": "/anime/one-piece-xamk74/1",
+    "updatedAt": 1795491866975
+  },
+  {
     "type": "animeindo",
     "key": "n2-magicalexplorer-sub-indo",
     "sub": "Episode 2",
