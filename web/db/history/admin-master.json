@@ -1,5 +1,15 @@
 [
   {
+    "type": "animeindo",
+    "key": "6623",
+    "sub": "Episode 8",
+    "title": "Gensou Suikoden",
+    "cover": "/api/img/aHR0cHM6Ly94eXotYXBpLmFuaW1laW4ubmV0Ly9hc3NldHNfeHl6L2ltYWdlcy9tb3ZpZS9wb3N0ZXIvNGZlZDc5MWQ2ZGFjZTEwMTZhODgzN2UxN2Y1NjkxNjQuanBn",
+    "related": "",
+    "href": "/anime-indo/episode/322392",
+    "updatedAt": 1795542150160
+  },
+  {
     "type": "anime",
     "key": "one-piece-xamk74",
     "sub": "Episode 1180",
