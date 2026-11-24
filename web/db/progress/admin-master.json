@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "comic|250907-black-killer-whale-baby",
+    "scope": "comic",
+    "key": "250907-black-killer-whale-baby",
+    "ep": "",
+    "chapter": "black-killer-whale-baby-chapter-131",
+    "page": 2,
+    "time": 0,
+    "duration": 0,
+    "label": "Komik\n              Black Killer Whale Baby Chapter 131",
+    "href": "/chapter/black-killer-whale-baby-chapter-131?comic=250907-black-killer-whale-baby",
+    "updatedAt": 1795492658618
+  },
+  {
+    "userId": "admin-master",
     "id": "last|animeindo:n2-magicalexplorer-sub-indo",
     "scope": "last",
     "key": "animeindo:n2-magicalexplorer-sub-indo",
