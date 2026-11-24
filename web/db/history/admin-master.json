@@ -1,5 +1,15 @@
 [
   {
+    "type": "animeindo",
+    "key": "n2-chii-fuyo-sub-indo",
+    "sub": "Episode 1",
+    "title": "Chii Fuyo",
+    "cover": "/api/animeindo2?op=img&u=aHR0cHM6Ly9uaW1lZ2FtaS5pZC9hc3NldHMvYW5pbWUtZGF0YS9pbWFnZXMvcG9zdGVycy8yODk5NmVjY2ZmYmE4NmVjYjdiOThkYWMuanBn&s=N8k3a5PB3NlHFoZZqubI8nhcSRBZf4LQ",
+    "related": "",
+    "href": "/anime-indo/n/chii-fuyo-sub-indo/1",
+    "updatedAt": 1795550398767
+  },
+  {
     "type": "donghua",
     "key": "hrouding-the-heavens",
     "sub": "Episode 191",
