@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "last|anime:one-piece-xamk74",
+    "scope": "last",
+    "key": "anime:one-piece-xamk74",
+    "ep": "1180",
+    "chapter": "",
+    "page": 0,
+    "time": 0,
+    "duration": 0,
+    "label": "Episode 1180",
+    "href": "/anime/one-piece-xamk74/1180",
+    "updatedAt": 1795532244255
+  },
+  {
+    "userId": "admin-master",
     "id": "video|animein:4327|12",
     "scope": "video",
     "key": "animein:4327",
