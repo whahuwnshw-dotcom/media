@@ -1,5 +1,15 @@
 [
   {
+    "type": "animeindo",
+    "key": "n2-joshikausei-sub-indo",
+    "sub": "Episode 1",
+    "title": "Joshikausei",
+    "cover": "/api/animeindo2?op=img&u=aHR0cHM6Ly9uaW1lZ2FtaS5pZC9hc3NldHMvYW5pbWUtZGF0YS9pbWFnZXMvcG9zdGVycy9jYzUwOTQyZDJlNGE5ZTE1ZTgxOGJjZGMuanBn&s=uVkwGpd3z2anvIR-olEvlI0fRTXjhc1r",
+    "related": "",
+    "href": "/anime-indo/n/joshikausei-sub-indo/1",
+    "updatedAt": 1795496890459
+  },
+  {
     "type": "komik",
     "key": "250907-black-killer-whale-baby",
     "sub": "Komik\n              Black Killer Whale Baby Chapter 131",
