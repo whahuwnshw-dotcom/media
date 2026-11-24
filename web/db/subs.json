@@ -8,6 +8,15 @@
         "admin-master"
       ],
       "last": 6
+    },
+    "animeindo:6623": {
+      "type": "animeindo",
+      "key": "6623",
+      "title": "Gensou Suikoden",
+      "users": [
+        "admin-master"
+      ],
+      "last": 7
     }
   },
   "lastRun": 1795527990013
