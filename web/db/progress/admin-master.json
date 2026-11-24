@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "comic|shut-up-evil-dragon-i-dont-want-to-raise-a-child-with-you-anymore",
+    "scope": "comic",
+    "key": "shut-up-evil-dragon-i-dont-want-to-raise-a-child-with-you-anymore",
+    "ep": "",
+    "chapter": "shut-up-evil-dragon-i-dont-want-to-raise-a-child-with-you-anymore-chapter-120-5",
+    "page": 4,
+    "time": 0,
+    "duration": 0,
+    "label": "Komik\n              Shut Up, Evil Dragon, I Don’t Want to Raise a Child With You Anymore Chapter 120.5",
+    "href": "/chapter/shut-up-evil-dragon-i-dont-want-to-raise-a-child-with-you-anymore-chapter-120-5?comic=shut-up-evil-dragon-i-dont-want-to-raise-a-child-with-you-anymore",
+    "updatedAt": 1795499426470
+  },
+  {
+    "userId": "admin-master",
     "id": "last|animeindo:n2-magicalexplorer-sub-indo",
     "scope": "last",
     "key": "animeindo:n2-magicalexplorer-sub-indo",
