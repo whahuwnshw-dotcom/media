@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "last|animeindo:n2-araiya-san-ore-to-aitsu-ga-onnayu-de-sub-indo",
+    "scope": "last",
+    "key": "animeindo:n2-araiya-san-ore-to-aitsu-ga-onnayu-de-sub-indo",
+    "ep": "1",
+    "chapter": "",
+    "page": 0,
+    "time": 0,
+    "duration": 0,
+    "label": "Episode 1",
+    "href": "/anime-indo/n/araiya-san-ore-to-aitsu-ga-onnayu-de-sub-indo/1",
+    "updatedAt": 1795528638820
+  },
+  {
+    "userId": "admin-master",
     "id": "last|drama:pasukan-prajurit-membuka-lahan",
     "scope": "last",
     "key": "drama:pasukan-prajurit-membuka-lahan",
