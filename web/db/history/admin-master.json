@@ -1,5 +1,15 @@
 [
   {
+    "type": "donghua",
+    "key": "renegade-immortal",
+    "sub": "Episode 167",
+    "title": "Renegade Immortal Episode 167 Indonesia, English Sub",
+    "cover": "/api/img/aHR0cHM6Ly9hbmltZXhpbi5kZXYvd3AtY29udGVudC91cGxvYWRzLzIwMjMvMDkvUmVuZWdhZGUtSW1tb3J0YWwtQXNjZW5kYW50LTc2OHgxMDc3LmpwZw",
+    "related": "",
+    "href": "/donghua/episode/renegade-immortal-episode-167-indonesia-english-sub",
+    "updatedAt": 1795528003635
+  },
+  {
     "type": "drama",
     "key": "pasukan-prajurit-membuka-lahan",
     "sub": "Episode 1",
@@ -168,16 +178,6 @@
     "related": "",
     "href": "/anime-indo/n/fruits-basket-2nd-season-sub-indo/1",
     "updatedAt": 1795473996510
-  },
-  {
-    "type": "donghua",
-    "key": "renegade-immortal",
-    "sub": "Episode 167",
-    "title": "Renegade Immortal Episode 167 Indonesia, English Sub",
-    "cover": "/api/img/aHR0cHM6Ly9hbmltZXhpbi5kZXYvd3AtY29udGVudC91cGxvYWRzLzIwMjMvMDkvUmVuZWdhZGUtSW1tb3J0YWwtQXNjZW5kYW50LTc2OHgxMDc3LmpwZw",
-    "related": "",
-    "href": "/donghua/episode/renegade-immortal-episode-167-indonesia-english-sub",
-    "updatedAt": 1795473772873
   },
   {
     "type": "donghua",
