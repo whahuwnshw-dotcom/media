@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "comic|924567-spy-x-family",
+    "scope": "comic",
+    "key": "924567-spy-x-family",
+    "ep": "",
+    "chapter": "spy-x-family-chapter-144",
+    "page": 2,
+    "time": 0,
+    "duration": 0,
+    "label": "Komik\n              Spy X Family Chapter 144",
+    "href": "/chapter/spy-x-family-chapter-144?comic=924567-spy-x-family",
+    "updatedAt": 1795501593862
+  },
+  {
+    "userId": "admin-master",
     "id": "comic|shut-up-evil-dragon-i-dont-want-to-raise-a-child-with-you-anymore",
     "scope": "comic",
     "key": "shut-up-evil-dragon-i-dont-want-to-raise-a-child-with-you-anymore",
