@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "comic|ore-ga-inai-to-sugu-chomeru-hakanagi-kasumi",
+    "scope": "comic",
+    "key": "ore-ga-inai-to-sugu-chomeru-hakanagi-kasumi",
+    "ep": "",
+    "chapter": "ore-ga-inai-to-sugu-chomeru-hakanagi-kasumi-chapter-30",
+    "page": 20,
+    "time": 0,
+    "duration": 0,
+    "label": "Komik\n              Ore ga Inai to Sugu Chomeru Hakanagi Kasumi Chapter 30",
+    "href": "/chapter/ore-ga-inai-to-sugu-chomeru-hakanagi-kasumi-chapter-30?comic=ore-ga-inai-to-sugu-chomeru-hakanagi-kasumi",
+    "updatedAt": 1795609168449
+  },
+  {
+    "userId": "admin-master",
     "id": "last|animeindo:n2-aishiteru-game-wo-owarasetai-sub-indo",
     "scope": "last",
     "key": "animeindo:n2-aishiteru-game-wo-owarasetai-sub-indo",
