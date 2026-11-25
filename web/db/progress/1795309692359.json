@@ -1,6 +1,20 @@
 [
   {
     "userId": "1795309692359",
+    "id": "comic|ore-ga-inai-to-sugu-chomeru-hakanagi-kasumi",
+    "scope": "comic",
+    "key": "ore-ga-inai-to-sugu-chomeru-hakanagi-kasumi",
+    "ep": "",
+    "chapter": "ore-ga-inai-to-sugu-chomeru-hakanagi-kasumi-chapter-29",
+    "page": 1,
+    "time": 0,
+    "duration": 0,
+    "label": "Komik\n              Ore ga Inai to Sugu Chomeru Hakanagi Kasumi Chapter 29",
+    "href": "/chapter/ore-ga-inai-to-sugu-chomeru-hakanagi-kasumi-chapter-29?comic=ore-ga-inai-to-sugu-chomeru-hakanagi-kasumi",
+    "updatedAt": 1795607782550
+  },
+  {
+    "userId": "1795309692359",
     "id": "last|drama:pasukan-prajurit-membuka-lahan",
     "scope": "last",
     "key": "drama:pasukan-prajurit-membuka-lahan",
