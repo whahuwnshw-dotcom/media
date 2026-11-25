@@ -7,7 +7,7 @@
       "users": [
         "admin-master"
       ],
-      "last": 6
+      "last": 7
     },
     "animeindo:6623": {
       "type": "animeindo",
@@ -19,5 +19,5 @@
       "last": 8
     }
   },
-  "lastRun": 1795550333811
+  "lastRun": 1795569652668
 }
