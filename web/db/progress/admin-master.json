@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "video|animein:6603|8",
+    "scope": "video",
+    "key": "animein:6603",
+    "ep": "8",
+    "chapter": "",
+    "page": 0,
+    "time": 24,
+    "duration": 1420,
+    "label": "",
+    "href": "",
+    "updatedAt": 1795592350231
+  },
+  {
+    "userId": "admin-master",
     "id": "video|animein:6603|7",
     "scope": "video",
     "key": "animein:6603",
@@ -26,20 +40,6 @@
     "label": "Episode 7",
     "href": "/anime-indo/episode/322118",
     "updatedAt": 1795592314803
-  },
-  {
-    "userId": "admin-master",
-    "id": "video|animein:6603|8",
-    "scope": "video",
-    "key": "animein:6603",
-    "ep": "8",
-    "chapter": "",
-    "page": 0,
-    "time": 0,
-    "duration": 1420,
-    "label": "",
-    "href": "",
-    "updatedAt": 1795592287891
   },
   {
     "userId": "admin-master",
