@@ -1,5 +1,15 @@
 [
   {
+    "type": "animeindo",
+    "key": "n2-aishiteru-game-wo-owarasetai-sub-indo",
+    "sub": "Episode 1",
+    "title": "Aishiteru Game wo Owarasetai",
+    "cover": "/api/animeindo2?op=img&u=aHR0cHM6Ly9uaW1lZ2FtaS5pZC9hc3NldHMvYW5pbWUtZGF0YS9pbWFnZXMvcG9zdGVycy9lNWVmNTg0Nzc5MWI3MTI1OTMxZmIxNTIuanBn&s=ychbfXB_yKhci-jViuuVBsZ-QXLWeZQ1",
+    "related": "",
+    "href": "/anime-indo/n/aishiteru-game-wo-owarasetai-sub-indo/1",
+    "updatedAt": 1795590377464
+  },
+  {
     "type": "donghua",
     "key": "shrouding-the-heavens",
     "sub": "Episode 10",
