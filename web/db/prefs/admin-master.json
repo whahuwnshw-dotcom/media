@@ -4,7 +4,7 @@
   "AUTO_KOMIK": true,
   "AUTO_DRAMA": true,
   "AUTO_SUB": true,
-  "NSFW": true,
+  "NSFW": false,
   "accent": "blue",
   "theme": "light"
 }
