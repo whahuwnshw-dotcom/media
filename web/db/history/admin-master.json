@@ -1,5 +1,15 @@
 [
   {
+    "type": "donghua",
+    "key": "yi-nian-yong-heng-a-will-eternal",
+    "sub": "Episode 185",
+    "title": "Yi Nian Yong Heng [A Will Eternal] Episode 185 Indonesia, English Sub",
+    "cover": "/api/img/aHR0cHM6Ly9hbmltZXhpbi5kZXYvd3AtY29udGVudC91cGxvYWRzLzIwMjEvMDIvQS1XaWxsLUV0ZXJuYWwtRmluYWwtNzY4eDEwNzcuanBn",
+    "related": "",
+    "href": "/donghua/episode/yi-nian-yong-heng-a-will-eternal-episode-185-indonesia-english-sub",
+    "updatedAt": 1795610568197
+  },
+  {
     "type": "komik",
     "key": "ore-ga-inai-to-sugu-chomeru-hakanagi-kasumi",
     "sub": "Komik\n              Ore ga Inai to Sugu Chomeru Hakanagi Kasumi Chapter 30",
@@ -198,16 +208,6 @@
     "related": "",
     "href": "/anime-indo/n/araiya-san-ore-to-aitsu-ga-onnayu-de-sub-indo/1",
     "updatedAt": 1795552412605
-  },
-  {
-    "type": "donghua",
-    "key": "yi-nian-yong-heng-a-will-eternal",
-    "sub": "Episode 185",
-    "title": "Yi Nian Yong Heng [A Will Eternal] Episode 185 Indonesia, English Sub",
-    "cover": "/api/img/aHR0cHM6Ly9hbmltZXhpbi5kZXYvd3AtY29udGVudC91cGxvYWRzLzIwMjEvMDIvQS1XaWxsLUV0ZXJuYWwtRmluYWwtNzY4eDEwNzcuanBn",
-    "related": "",
-    "href": "/donghua/episode/yi-nian-yong-heng-a-will-eternal-episode-185-indonesia-english-sub",
-    "updatedAt": 1795552073806
   },
   {
     "type": "animeindo",
