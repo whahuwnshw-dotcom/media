@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "last|anime:the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-7nmwuu",
+    "scope": "last",
+    "key": "anime:the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-7nmwuu",
+    "ep": "1",
+    "chapter": "",
+    "page": 0,
+    "time": 0,
+    "duration": 0,
+    "label": "Episode 1",
+    "href": "/anime/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-7nmwuu/1",
+    "updatedAt": 1795569689057
+  },
+  {
+    "userId": "admin-master",
     "id": "last|animeindo:n2-araiya-san-ore-to-aitsu-ga-onnayu-de-sub-indo",
     "scope": "last",
     "key": "animeindo:n2-araiya-san-ore-to-aitsu-ga-onnayu-de-sub-indo",
