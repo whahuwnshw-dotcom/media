@@ -2,22 +2,22 @@
   {
     "type": "animeindo",
     "key": "4302",
+    "sub": "Episode 15",
+    "title": "Shingeki no Kyojin: The Final",
+    "cover": "/api/img/aHR0cHM6Ly9hcGkuYW5pbWVpbi5uZXQvYXNzZXRzL2ltYWdlcy9tb3ZpZS9wb3N0ZXIvZDkzMzc3MWNkZTM0ZWY1OGE2YzAyYjE1MTUwYzVjOTcuanBn",
+    "related": "",
+    "href": "/anime-indo/episode/52663",
+    "updatedAt": 1795670609560
+  },
+  {
+    "type": "animeindo",
+    "key": "4302",
     "sub": "Episode 16",
     "title": "Shingeki no Kyojin: The Final",
     "cover": "/api/img/aHR0cHM6Ly9hcGkuYW5pbWVpbi5uZXQvYXNzZXRzL2ltYWdlcy9tb3ZpZS9wb3N0ZXIvZDkzMzc3MWNkZTM0ZWY1OGE2YzAyYjE1MTUwYzVjOTcuanBn",
     "related": "",
     "href": "/anime-indo/episode/52716",
     "updatedAt": 1795670606979
-  },
-  {
-    "type": "animeindo",
-    "key": "4302",
-    "sub": "Episode 15",
-    "title": "Shingeki no Kyojin: The Final",
-    "cover": "/api/img/aHR0cHM6Ly9hcGkuYW5pbWVpbi5uZXQvYXNzZXRzL2ltYWdlcy9tb3ZpZS9wb3N0ZXIvZDkzMzc3MWNkZTM0ZWY1OGE2YzAyYjE1MTUwYzVjOTcuanBn",
-    "related": "",
-    "href": "/anime-indo/episode/52663",
-    "updatedAt": 1795670571028
   },
   {
     "type": "donghua",
