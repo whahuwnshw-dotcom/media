@@ -1,5 +1,15 @@
 [
   {
+    "type": "donghua",
+    "key": "against-the-gods",
+    "sub": "Episode 64",
+    "title": "Against the Gods Episode 64 Indonesia, English Sub",
+    "cover": "/api/img/aHR0cHM6Ly9hbmltZXhpbi5kZXYvd3AtY29udGVudC91cGxvYWRzLzIwMjMvMDkvYWdhaW5zdC10aGUtZ29kcy1zMi03Njh4MTI0OS5qcGc",
+    "related": "",
+    "href": "/donghua/episode/against-the-gods-episode-64-indonesia-english-sub",
+    "updatedAt": 1795656615835
+  },
+  {
     "type": "animeindo",
     "key": "6341",
     "sub": "Episode 2",
@@ -1528,16 +1538,6 @@
     "related": "",
     "href": "/anime-indo/episode/51679",
     "updatedAt": 1795087165387
-  },
-  {
-    "type": "donghua",
-    "key": "against-the-gods",
-    "sub": "Episode 64",
-    "title": "Against the Gods Episode 64 Indonesia, English Sub",
-    "cover": "/api/img/aHR0cHM6Ly9hbmltZXhpbi5kZXYvd3AtY29udGVudC91cGxvYWRzLzIwMjMvMDkvYWdhaW5zdC10aGUtZ29kcy1zMi03Njh4MTI0OS5qcGc",
-    "related": "",
-    "href": "/donghua/episode/against-the-gods-episode-64-indonesia-english-sub",
-    "updatedAt": 1795086360199
   },
   {
     "type": "animeindo",
