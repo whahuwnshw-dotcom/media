@@ -2,6 +2,16 @@
   {
     "type": "animeindo",
     "key": "6341",
+    "sub": "Episode 2",
+    "title": "Koori no Jouheki",
+    "cover": "/api/img/aHR0cHM6Ly94eXotYXBpLmFuaW1laW4ubmV0Ly9hc3NldHNfeHl6L2ltYWdlcy9tb3ZpZS9wb3N0ZXIvMDljYzZmMzRiMzcxZTU4ZGU5ZjQ0MWJlNzNjMjQwMGQuanBn",
+    "related": "",
+    "href": "/anime-indo/episode/315127",
+    "updatedAt": 1795656560418
+  },
+  {
+    "type": "animeindo",
+    "key": "6341",
     "sub": "Episode 1",
     "title": "Koori no Jouheki",
     "cover": "/api/img/aHR0cHM6Ly94eXotYXBpLmFuaW1laW4ubmV0Ly9hc3NldHNfeHl6L2ltYWdlcy9tb3ZpZS9wb3N0ZXIvMDljYzZmMzRiMzcxZTU4ZGU5ZjQ0MWJlNzNjMjQwMGQuanBn",
