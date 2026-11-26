@@ -1,5 +1,15 @@
 [
   {
+    "type": "animeindo",
+    "key": "4302",
+    "sub": "Episode 16",
+    "title": "Shingeki no Kyojin: The Final",
+    "cover": "/api/img/aHR0cHM6Ly9hcGkuYW5pbWVpbi5uZXQvYXNzZXRzL2ltYWdlcy9tb3ZpZS9wb3N0ZXIvZDkzMzc3MWNkZTM0ZWY1OGE2YzAyYjE1MTUwYzVjOTcuanBn",
+    "related": "",
+    "href": "/anime-indo/episode/52716",
+    "updatedAt": 1795670568074
+  },
+  {
     "type": "donghua",
     "key": "big-brother",
     "sub": "Episode 167",
