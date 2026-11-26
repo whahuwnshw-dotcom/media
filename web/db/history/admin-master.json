@@ -1,6 +1,16 @@
 [
   {
     "type": "animeindo",
+    "key": "6341",
+    "sub": "Episode 1",
+    "title": "Koori no Jouheki",
+    "cover": "/api/img/aHR0cHM6Ly94eXotYXBpLmFuaW1laW4ubmV0Ly9hc3NldHNfeHl6L2ltYWdlcy9tb3ZpZS9wb3N0ZXIvMDljYzZmMzRiMzcxZTU4ZGU5ZjQ0MWJlNzNjMjQwMGQuanBn",
+    "related": "",
+    "href": "/anime-indo/episode/314904",
+    "updatedAt": 1795656528641
+  },
+  {
+    "type": "animeindo",
     "key": "n2-keppeki-danshi-aoyama-kun-sub-indo",
     "sub": "Episode 4",
     "title": "Keppeki Danshi! Aoyama-kun",
