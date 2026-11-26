@@ -3,6 +3,16 @@
   "devices": [],
   "log": [
     {
+      "t": 1795703256307,
+      "ip": "114.79.0.160",
+      "dev": "",
+      "site": "komik-nine.vercel.app",
+      "path": "/api/animeindo2",
+      "ua": "Mozilla/5.0 (Linux; U; Android 13; in; Infinix X6528B Build/X6528B-F069ZAaAbAcAdAeBgBhBi-T-OP-240717V479) Appl",
+      "blocked": false,
+      "why": ""
+    },
+    {
       "t": 1795703254097,
       "ip": "114.79.0.160",
       "dev": "08bc740393dc7d46323569931a53381f",
@@ -2989,16 +2999,6 @@
       "site": "komik-nine.vercel.app",
       "path": "/api/auth",
       "ua": "Mozilla/5.0 (Linux; U; Android 13; in; Infinix X6528B Build/X6528B-F069ZAaAbAcAdAeBgBhBi-T-OP-240717V479) Appl",
-      "blocked": false,
-      "why": ""
-    },
-    {
-      "t": 1795608610695,
-      "ip": "54.183.149.156",
-      "dev": "",
-      "site": "komik-drkhqfs13-users-projects-16a5f489.vercel.app",
-      "path": "/api/maintenance",
-      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.0 Safari/537.",
       "blocked": false,
       "why": ""
     }
