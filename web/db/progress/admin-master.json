@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "last|animeindo:6341",
+    "scope": "last",
+    "key": "animeindo:6341",
+    "ep": "315127",
+    "chapter": "",
+    "page": 0,
+    "time": 0,
+    "duration": 0,
+    "label": "Episode 2",
+    "href": "/anime-indo/episode/315127",
+    "updatedAt": 1795656589650
+  },
+  {
+    "userId": "admin-master",
     "id": "video|animein:6341|2",
     "scope": "video",
     "key": "animein:6341",
@@ -26,20 +40,6 @@
     "label": "",
     "href": "",
     "updatedAt": 1795656559760
-  },
-  {
-    "userId": "admin-master",
-    "id": "last|animeindo:6341",
-    "scope": "last",
-    "key": "animeindo:6341",
-    "ep": "314904",
-    "chapter": "",
-    "page": 0,
-    "time": 0,
-    "duration": 0,
-    "label": "Episode 1",
-    "href": "/anime-indo/episode/314904",
-    "updatedAt": 1795656558446
   },
   {
     "userId": "admin-master",
