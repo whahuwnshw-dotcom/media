@@ -1,6 +1,16 @@
 [
   {
     "type": "film",
+    "key": "bioskop-movie__the-wedding-2026",
+    "sub": "Film",
+    "title": "The Wedding (2026)",
+    "cover": "https://onty.website/wp-content/uploads/2026/11/aMLphoNMfSyxVftCoIpnBNAYQzL-60x90.jpg",
+    "related": "",
+    "href": "/film/watch/bioskop-movie__the-wedding-2026",
+    "updatedAt": 1795776047801
+  },
+  {
+    "type": "film",
     "key": "bioskop-movie__doraemon-movie-nobitas-secret-gadget-museum-2013",
     "sub": "Film",
     "title": "Doraemon the Movie: Nobitas Secret Gadget Museum (2013)",
