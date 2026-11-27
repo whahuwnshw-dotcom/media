@@ -1,5 +1,5 @@
 {
-  "enabled": false,
+  "enabled": true,
   "message": "Website sedang dalam tahap pemeliharaan. Silakan kembali beberapa saat lagi.",
   "sections": {
     "anime": false,
@@ -9,6 +9,6 @@
     "komiknsfw": false,
     "drama": false
   },
-  "updatedAt": "2026-11-27T05:22:12.377Z",
+  "updatedAt": "2026-11-27T10:14:23.194Z",
   "updatedBy": "branpediaid.com"
 }
