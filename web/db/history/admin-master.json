@@ -1,5 +1,15 @@
 [
   {
+    "type": "animeindo",
+    "key": "n2-kubo-san-wa-mob-wo-yurusanai-sub-indo",
+    "sub": "Episode 1",
+    "title": "Kubo-san wa Mob wo Yurusanai",
+    "cover": "/api/animeindo2?op=img&u=aHR0cHM6Ly9uaW1lZ2FtaS5pZC9hc3NldHMvYW5pbWUtZGF0YS9pbWFnZXMvcG9zdGVycy82NjkzN2QxMGQ5MWUxZmUyMmY3OTAxOWYuanBn&s=ShIgcSphzVrzo-V3LISvmfbDG2SiFycQ",
+    "related": "",
+    "href": "/anime-indo/n/kubo-san-wa-mob-wo-yurusanai-sub-indo/1",
+    "updatedAt": 1795792130099
+  },
+  {
     "type": "film",
     "key": "manual-judul-film-manual",
     "sub": "Film",
