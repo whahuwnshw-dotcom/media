@@ -3,6 +3,16 @@
   "devices": [],
   "log": [
     {
+      "t": 1795809072972,
+      "ip": "3.90.174.171",
+      "dev": "",
+      "site": "(tanpa asal)",
+      "path": "/api/animeindo/detail/6623",
+      "ua": "subs-check",
+      "blocked": true,
+      "why": "eksternal"
+    },
+    {
       "t": 1795809059718,
       "ip": "114.79.5.177",
       "dev": "c648d7e257acb6486714624a056ad1ef",
