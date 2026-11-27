@@ -242,5 +242,21 @@
     "likes": [],
     "dislikes": [],
     "createdAt": 1795531395703
+  },
+  {
+    "id": "1795757163478",
+    "mediaId": "nimegami-youjo-senki-season-2-sub-indo-1",
+    "userId": "admin-master",
+    "username": "branpediaid.com",
+    "userRole": "owner",
+    "userAvatar": "",
+    "text": "Sangat direkomendasikan",
+    "imageUrl": "",
+    "sticker": false,
+    "replyTo": null,
+    "isPinned": false,
+    "likes": [],
+    "dislikes": [],
+    "createdAt": 1795757163478
   }
 ]
