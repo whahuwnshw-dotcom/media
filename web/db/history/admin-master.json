@@ -1,5 +1,15 @@
 [
   {
+    "type": "komik",
+    "key": "aching",
+    "sub": "Komik\n              Aching Chapter 1",
+    "title": "Aching",
+    "cover": "/api/img/aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDUvS29taWstQWNoaW5nLTIyMXgzMTkuanBn",
+    "related": "",
+    "href": "/chapter/aching-chapter-1?comic=aching",
+    "updatedAt": 1795768655747
+  },
+  {
     "type": "animeindo",
     "key": "n2-shiotaiou-no-satou-san-ga-ore-ni-dake-amai-sub-indo",
     "sub": "Episode 8",
