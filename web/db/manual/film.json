@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Judul Film Manual",
+    "slug": "manual-judul-film-manual",
+    "description": "Sinopsis film...",
+    "cover": "",
+    "banner": "",
+    "year": "2025",
+    "quality": "HD",
+    "rating": "7.5",
+    "duration": "1j 45m",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "servers": [
+      {
+        "name": "Dubbindo",
+        "url": "https://www.dubbindo.site/embed/BZmSWr4bJcmVyJA?color=04abf2",
+        "direct": false
+      },
+      {
+        "name": "CDN",
+        "url": "https://cdn.zass.in/0tdRAn1c6d.mp4",
+        "direct": true
+      }
+    ],
+    "downloads": [],
+    "createdAt": 1795791962014,
+    "updatedAt": 1795791962014
+  }
+]
