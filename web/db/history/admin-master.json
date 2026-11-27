@@ -2,6 +2,16 @@
   {
     "type": "animeindo",
     "key": "5949",
+    "sub": "Episode 13",
+    "title": "Kaoru Hana wa Rin to Saku",
+    "cover": "/api/img/aHR0cHM6Ly94eXotYXBpLmFuaW1laW4ubmV0Ly9hc3NldHNfeHl6L2ltYWdlcy9tb3ZpZS9wb3N0ZXIvOWFlYmEwNGI1YWUwMWQ2MzVkMTQ3OGRiZDNhNzc3ZGIuanBn",
+    "related": "",
+    "href": "/anime-indo/episode/308855",
+    "updatedAt": 1795792797793
+  },
+  {
+    "type": "animeindo",
+    "key": "5949",
     "sub": "Episode 12",
     "title": "Kaoru Hana wa Rin to Saku",
     "cover": "/api/img/aHR0cHM6Ly94eXotYXBpLmFuaW1laW4ubmV0Ly9hc3NldHNfeHl6L2ltYWdlcy9tb3ZpZS9wb3N0ZXIvOWFlYmEwNGI1YWUwMWQ2MzVkMTQ3OGRiZDNhNzc3ZGIuanBn",
@@ -1418,16 +1428,6 @@
     "related": "",
     "href": "/anime-indo/n/tokyo-revengers-season-4-sub-indo/8",
     "updatedAt": 1795312383788
-  },
-  {
-    "type": "animeindo",
-    "key": "5949",
-    "sub": "Episode 13",
-    "title": "Kaoru Hana wa Rin to Saku",
-    "cover": "/api/img/aHR0cHM6Ly94eXotYXBpLmFuaW1laW4ubmV0Ly9hc3NldHNfeHl6L2ltYWdlcy9tb3ZpZS9wb3N0ZXIvOWFlYmEwNGI1YWUwMWQ2MzVkMTQ3OGRiZDNhNzc3ZGIuanBn",
-    "related": "",
-    "href": "/anime-indo/episode/308855",
-    "updatedAt": 1795309759524
   },
   {
     "type": "animeindo",
