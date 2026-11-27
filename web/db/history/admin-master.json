@@ -2,6 +2,16 @@
   {
     "type": "animeindo",
     "key": "n2-kubo-san-wa-mob-wo-yurusanai-sub-indo",
+    "sub": "Episode 2",
+    "title": "Kubo-san wa Mob wo Yurusanai",
+    "cover": "/api/animeindo2?op=img&u=aHR0cHM6Ly9uaW1lZ2FtaS5pZC9hc3NldHMvYW5pbWUtZGF0YS9pbWFnZXMvcG9zdGVycy82NjkzN2QxMGQ5MWUxZmUyMmY3OTAxOWYuanBn&s=ShIgcSphzVrzo-V3LISvmfbDG2SiFycQ",
+    "related": "",
+    "href": "/anime-indo/n/kubo-san-wa-mob-wo-yurusanai-sub-indo/2",
+    "updatedAt": 1795809093336
+  },
+  {
+    "type": "animeindo",
+    "key": "n2-kubo-san-wa-mob-wo-yurusanai-sub-indo",
     "sub": "Episode 1",
     "title": "Kubo-san wa Mob wo Yurusanai",
     "cover": "/api/animeindo2?op=img&u=aHR0cHM6Ly9uaW1lZ2FtaS5pZC9hc3NldHMvYW5pbWUtZGF0YS9pbWFnZXMvcG9zdGVycy82NjkzN2QxMGQ5MWUxZmUyMmY3OTAxOWYuanBn&s=ShIgcSphzVrzo-V3LISvmfbDG2SiFycQ",
@@ -58,16 +68,6 @@
     "related": "",
     "href": "/film/watch/manual-judul-film-manual",
     "updatedAt": 1795792523505
-  },
-  {
-    "type": "animeindo",
-    "key": "n2-kubo-san-wa-mob-wo-yurusanai-sub-indo",
-    "sub": "Episode 2",
-    "title": "Kubo-san wa Mob wo Yurusanai",
-    "cover": "/api/animeindo2?op=img&u=aHR0cHM6Ly9uaW1lZ2FtaS5pZC9hc3NldHMvYW5pbWUtZGF0YS9pbWFnZXMvcG9zdGVycy82NjkzN2QxMGQ5MWUxZmUyMmY3OTAxOWYuanBn&s=ShIgcSphzVrzo-V3LISvmfbDG2SiFycQ",
-    "related": "",
-    "href": "/anime-indo/n/kubo-san-wa-mob-wo-yurusanai-sub-indo/2",
-    "updatedAt": 1795792158458
   },
   {
     "type": "drama",
