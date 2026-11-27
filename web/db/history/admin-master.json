@@ -1,5 +1,15 @@
 [
   {
+    "type": "komik",
+    "key": "gokusotsu-kraken",
+    "sub": "Komik\n              Gokusotsu Kraken Chapter 51",
+    "title": "Gokusotsu Kraken",
+    "cover": "/api/img/aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMTAvbWFzdGVyaW1hZ2Utc2VyaWVzLzIwMTkzMS9kMTUzYjEzMS1kYjg0LTRlZDItOTgwYy1jMTExNDQ5MTM3MjIva29taWstZ29rdXNvdHN1LWtyYWtlbi0yMjR4MzE5LmpwZw",
+    "related": "",
+    "href": "/chapter/gokusotsu-kraken-chapter-51?comic=gokusotsu-kraken",
+    "updatedAt": 1795823307172
+  },
+  {
     "type": "film",
     "key": "jf.stand-by-me-doraemon-2-2020",
     "sub": "Film",
