@@ -1,5 +1,15 @@
 [
   {
+    "type": "drama",
+    "key": "s3.political-lupin",
+    "sub": "Episode 1",
+    "title": "Political Lupin",
+    "cover": "https://i1.wp.com/oppadrama.io/wp-content/uploads/2026/10/images.jpg",
+    "related": "",
+    "href": "/drama/watch/s3.political-lupin/1",
+    "updatedAt": 1795835437003
+  },
+  {
     "type": "film",
     "key": "jf.stand-by-me-doraemon-2-2020",
     "sub": "Film",
