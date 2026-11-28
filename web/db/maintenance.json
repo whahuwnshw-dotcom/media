@@ -4,12 +4,12 @@
   "sections": {
     "anime": false,
     "animeindo": false,
-    "donghua": false,
+    "donghua": true,
     "komik": false,
     "komiknsfw": false,
     "drama": false,
     "film": false
   },
-  "updatedAt": "2026-11-27T23:53:47.574Z",
+  "updatedAt": "2026-11-28T00:19:39.180Z",
   "updatedBy": "branpediaid.com"
 }
