@@ -3,6 +3,16 @@
   "devices": [],
   "log": [
     {
+      "t": 1795872908855,
+      "ip": "209.151.150.110",
+      "dev": "",
+      "site": "(tanpa asal)",
+      "path": "/api/user/info",
+      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+      "blocked": true,
+      "why": "eksternal"
+    },
+    {
       "t": 1795872908888,
       "ip": "209.151.150.110",
       "dev": "",
