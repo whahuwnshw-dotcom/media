@@ -3,6 +3,16 @@
   "devices": [],
   "log": [
     {
+      "t": 1795824651319,
+      "ip": "114.79.7.108",
+      "dev": "",
+      "site": "(tanpa asal)",
+      "path": "/api/drama/home",
+      "ua": "WhatsApp/2.23.20.0",
+      "blocked": true,
+      "why": "eksternal"
+    },
+    {
       "t": 1795824413289,
       "ip": "114.79.7.108",
       "dev": "08bc740393dc7d46323569931a53381f",
