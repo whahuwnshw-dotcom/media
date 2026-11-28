@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "comic|mitsuba-monogatari-noroi-no-shoujo-to-shi-no-rondo",
+    "scope": "comic",
+    "key": "mitsuba-monogatari-noroi-no-shoujo-to-shi-no-rondo",
+    "ep": "",
+    "chapter": "mitsuba-monogatari-noroi-no-shoujo-to-shi-no-rondo-chapter-10",
+    "page": 27,
+    "time": 0,
+    "duration": 0,
+    "label": "Komik\n              Mitsuba Monogatari: Noroi no Shoujo to Shi no Rondo Chapter 10",
+    "href": "/chapter/mitsuba-monogatari-noroi-no-shoujo-to-shi-no-rondo-chapter-10?comic=mitsuba-monogatari-noroi-no-shoujo-to-shi-no-rondo",
+    "updatedAt": 1795864106973
+  },
+  {
+    "userId": "admin-master",
     "id": "last|drama:s3.the-perfect-lie",
     "scope": "last",
     "key": "drama:s3.the-perfect-lie",
