@@ -3,6 +3,16 @@
   "devices": [],
   "log": [
     {
+      "t": 1795865667738,
+      "ip": "114.79.5.112",
+      "dev": "08bc740393dc7d46323569931a53381f",
+      "site": "komik-nine.vercel.app",
+      "path": "/api/preferences",
+      "ua": "Mozilla/5.0 (Linux; U; Android 13; in; Infinix X6528B Build/X6528B-F069ZAaAbAcAdAeBgBhBi-T-OP-240717V479) Appl",
+      "blocked": false,
+      "why": ""
+    },
+    {
       "t": 1795865667507,
       "ip": "114.79.5.112",
       "dev": "08bc740393dc7d46323569931a53381f",
