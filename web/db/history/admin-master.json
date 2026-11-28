@@ -1,5 +1,15 @@
 [
   {
+    "type": "film",
+    "key": "jf.stand-by-me-doraemon-2-2020",
+    "sub": "Film",
+    "title": "Stand by Me Doraemon 2 (2020)",
+    "cover": "http://165.227.239.151/wp-content/uploads/2026/10/vBv8iOFPLnXmtELUjcFc7OKHsR4-60x90.jpg",
+    "related": "",
+    "href": "/film/watch/jf.stand-by-me-doraemon-2-2020",
+    "updatedAt": 1795825752397
+  },
+  {
     "type": "animeindo",
     "key": "n2-kubo-san-wa-mob-wo-yurusanai-sub-indo",
     "sub": "Episode 2",
@@ -38,16 +48,6 @@
     "related": "",
     "href": "/chapter/gokusotsu-kraken-chapter-51?comic=gokusotsu-kraken",
     "updatedAt": 1795823307172
-  },
-  {
-    "type": "film",
-    "key": "jf.stand-by-me-doraemon-2-2020",
-    "sub": "Film",
-    "title": "Stand by Me Doraemon 2 (2020)",
-    "cover": "http://165.227.239.151/wp-content/uploads/2026/10/vBv8iOFPLnXmtELUjcFc7OKHsR4-60x90.jpg",
-    "related": "",
-    "href": "/film/watch/jf.stand-by-me-doraemon-2-2020",
-    "updatedAt": 1795823129866
   },
   {
     "type": "animeindo",
