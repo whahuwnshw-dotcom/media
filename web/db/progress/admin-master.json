@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "comic|tensei-bonjin-no-eiyuu-sakusei-kyoushitsu-mihanasareta-shoujotachi",
+    "scope": "comic",
+    "key": "tensei-bonjin-no-eiyuu-sakusei-kyoushitsu-mihanasareta-shoujotachi",
+    "ep": "",
+    "chapter": "tensei-bonjin-no-eiyuu-sakusei-kyoushitsu-mihanasareta-shoujotachi-chapter-1",
+    "page": 35,
+    "time": 0,
+    "duration": 0,
+    "label": "Komik\n              Tensei Bonjin no Eiyuu Sakusei Kyoushitsu – Mihanasareta Shoujotachi Chapter 1",
+    "href": "/chapter/tensei-bonjin-no-eiyuu-sakusei-kyoushitsu-mihanasareta-shoujotachi-chapter-1?comic=tensei-bonjin-no-eiyuu-sakusei-kyoushitsu-mihanasareta-shoujotachi",
+    "updatedAt": 1795865734761
+  },
+  {
+    "userId": "admin-master",
     "id": "last|animeindo:n2-tokyo-revengers-season-4-sub-indo",
     "scope": "last",
     "key": "animeindo:n2-tokyo-revengers-season-4-sub-indo",
