@@ -3,6 +3,16 @@
   "devices": [],
   "log": [
     {
+      "t": 1795864427360,
+      "ip": "54.183.149.156",
+      "dev": "7222131349ca9eff252edf9609fcbd30",
+      "site": "komik-2pcammc43-users-projects-16a5f489.vercel.app",
+      "path": "/api/manual",
+      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.0 Safari/537.",
+      "blocked": false,
+      "why": ""
+    },
+    {
       "t": 1795864426551,
       "ip": "54.183.149.156",
       "dev": "7222131349ca9eff252edf9609fcbd30",
