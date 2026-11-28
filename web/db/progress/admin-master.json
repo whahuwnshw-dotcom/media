@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "last|drama:s3.political-lupin",
+    "scope": "last",
+    "key": "drama:s3.political-lupin",
+    "ep": "1",
+    "chapter": "",
+    "page": 0,
+    "time": 0,
+    "duration": 0,
+    "label": "Episode 1",
+    "href": "/drama/watch/s3.political-lupin/1",
+    "updatedAt": 1795835467001
+  },
+  {
+    "userId": "admin-master",
     "id": "last|animeindo:n2-kubo-san-wa-mob-wo-yurusanai-sub-indo",
     "scope": "last",
     "key": "animeindo:n2-kubo-san-wa-mob-wo-yurusanai-sub-indo",
