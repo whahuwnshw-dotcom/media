@@ -1,6 +1,20 @@
 [
   {
     "userId": "1795309692359",
+    "id": "comic|noumin-kanren-no-skill-bakka-agetetara-naze-ka-tsuyoku-natta",
+    "scope": "comic",
+    "key": "noumin-kanren-no-skill-bakka-agetetara-naze-ka-tsuyoku-natta",
+    "ep": "",
+    "chapter": "noumin-kanren-no-skill-bakka-agetetara-naze-ka-tsuyoku-natta-chapter-48",
+    "page": 40,
+    "time": 0,
+    "duration": 0,
+    "label": "Komik\n              Noumin Kanren no Skill Bakka Agetetara Naze ka Tsuyoku Natta Chapter 48",
+    "href": "/chapter/noumin-kanren-no-skill-bakka-agetetara-naze-ka-tsuyoku-natta-chapter-48?comic=noumin-kanren-no-skill-bakka-agetetara-naze-ka-tsuyoku-natta",
+    "updatedAt": 1795849093461
+  },
+  {
+    "userId": "1795309692359",
     "id": "last|drama:s3.my-siblings-romance-season-2",
     "scope": "last",
     "key": "drama:s3.my-siblings-romance-season-2",
