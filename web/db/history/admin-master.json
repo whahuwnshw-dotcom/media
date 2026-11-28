@@ -1,5 +1,15 @@
 [
   {
+    "type": "animeindo",
+    "key": "n2-kubo-san-wa-mob-wo-yurusanai-sub-indo",
+    "sub": "Episode 2",
+    "title": "Kubo-san wa Mob wo Yurusanai",
+    "cover": "/api/animeindo2?op=img&u=aHR0cHM6Ly9uaW1lZ2FtaS5pZC9hc3NldHMvYW5pbWUtZGF0YS9pbWFnZXMvcG9zdGVycy82NjkzN2QxMGQ5MWUxZmUyMmY3OTAxOWYuanBn&s=ShIgcSphzVrzo-V3LISvmfbDG2SiFycQ",
+    "related": "",
+    "href": "/anime-indo/n/kubo-san-wa-mob-wo-yurusanai-sub-indo/2",
+    "updatedAt": 1795864814722
+  },
+  {
     "type": "komik",
     "key": "mitsuba-monogatari-noroi-no-shoujo-to-shi-no-rondo",
     "sub": "Komik\n              Mitsuba Monogatari: Noroi no Shoujo to Shi no Rondo Chapter 10",
@@ -48,16 +58,6 @@
     "related": "",
     "href": "/drama/watch/s3.political-lupin/1",
     "updatedAt": 1795835437003
-  },
-  {
-    "type": "animeindo",
-    "key": "n2-kubo-san-wa-mob-wo-yurusanai-sub-indo",
-    "sub": "Episode 2",
-    "title": "Kubo-san wa Mob wo Yurusanai",
-    "cover": "/api/animeindo2?op=img&u=aHR0cHM6Ly9uaW1lZ2FtaS5pZC9hc3NldHMvYW5pbWUtZGF0YS9pbWFnZXMvcG9zdGVycy82NjkzN2QxMGQ5MWUxZmUyMmY3OTAxOWYuanBn&s=ShIgcSphzVrzo-V3LISvmfbDG2SiFycQ",
-    "related": "",
-    "href": "/anime-indo/n/kubo-san-wa-mob-wo-yurusanai-sub-indo/2",
-    "updatedAt": 1795825339812
   },
   {
     "type": "animeindo",
