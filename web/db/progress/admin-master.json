@@ -1,6 +1,20 @@
 [
   {
     "userId": "admin-master",
+    "id": "comic|845246-shiotaiou-no-sato-san-ga-ore-ni-dake-amai",
+    "scope": "comic",
+    "key": "845246-shiotaiou-no-sato-san-ga-ore-ni-dake-amai",
+    "ep": "",
+    "chapter": "shiotaiou-no-sato-san-ga-ore-ni-dake-amai-chapter-98",
+    "page": 15,
+    "time": 0,
+    "duration": 0,
+    "label": "Komik\n              Shiotaiou no Sato-san ga Ore ni dake Amai Chapter 98",
+    "href": "/komik/845246-shiotaiou-no-sato-san-ga-ore-ni-dake-amai",
+    "updatedAt": 1795867241228
+  },
+  {
+    "userId": "admin-master",
     "id": "comic|mitsuba-monogatari-noroi-no-shoujo-to-shi-no-rondo",
     "scope": "comic",
     "key": "mitsuba-monogatari-noroi-no-shoujo-to-shi-no-rondo",
